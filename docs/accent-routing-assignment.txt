@@ -1,0 +1,65 @@
+
+#Speech Problem Framing Exercise: Accent Routing
+
+In this exercise, we want to understand how you approach a realistic speech problem where the main difficulty is not just model training, but defining the problem well, choosing sensible evaluation criteria, and making practical decisions under ambiguity.
+
+The problem statement:
+
+* Detect whether a speaker belongs to a target accent category, and define a practical way to use that signal in a speech product.
+
+You may use any tools, libraries, pretrained models, and AI assistants you like.
+
+### What to do
+
+Please spend about 4 to 5 hours (tops) on the exercise and prepare the following:
+
+* A short written problem definition:
+  * What exactly are you predicting?
+  * What counts as success or failure?
+  * What assumptions are you making?
+* A baseline approach, using any pretrained model, heuristic, or open-source component you think is reasonable.
+* One meaningful improvement over that baseline. This could come from better task definition, better slicing, better thresholding, better data selection, or a better modeling choice.
+* A small prototype, notebook, or script that demonstrates both the baseline and the improved approach.
+* A short evaluation plan and results summary:
+  * What data would you use?
+  * What metrics would you report?
+  * What edge cases matter most?
+  * What did you learn from the comparison?
+* A brief discussion of failure modes, open questions, and what you would do next with another week.
+* A short note on how you used AI tools:
+  * What you delegated
+  * What you accepted
+  * What you corrected or rejected
+  * How you validated the output
+
+### Constraints
+
+* Do not spend time training a large model from scratch unless you believe it is necessary.
+* It is completely acceptable to use pretrained or open-source models.
+* We care more about your judgment than about building the biggest system.
+* If the problem is ambiguous, make reasonable assumptions and state them clearly.
+
+### Deliverables
+
+Please submit:
+
+* A short write-up, around 2 to 3 pages or equivalent
+* A notebook, repo, or script
+* A short results summary, which can be included in the write-up
+* Any instructions needed for us to run the work
+* A brief summary of how you used AI tools
+
+### What we will look for
+
+We will look for:
+
+* How well you define the task
+* Whether your evaluation setup matches the actual problem
+* Whether you identify important failure cases
+* Whether your implementation choices are pragmatic
+* Whether you use AI tools thoughtfully rather than passively
+
+### Interview format
+~ 75 minutes 
+First 30 minutes: questions about what I have done
+Remainder (except introductions): talk through scenarios and collaboratively develop creative solutions

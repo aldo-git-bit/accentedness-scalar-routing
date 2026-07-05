@@ -1,0 +1,50 @@
+seed: 42
+
+data:
+  dataset: "edinburgh-dawg/edacc"
+  accents:
+    - american
+    - southern_english
+    - irish
+    - scottish
+    - indian
+    - nigerian
+  utterances_per_accent: 150
+  split_ratios:
+    train: 0.6
+    val: 0.2
+    test: 0.2
+  sample_rate: 16000
+
+asr:
+  default_model: "mlx-community/whisper-small-mlx"
+  careful_model: "mlx-community/whisper-large-v3-mlx"
+  language: "en"
+  cache_dir: "data/asr_cache"
+
+features:
+  model: "microsoft/wavlm-large"
+  device: "cpu"
+  num_layers: 25
+  hidden_dim: 1024
+  cache_dir: "data/features_cache"
+
+probe:
+  hidden_dim: 256
+  dropout: 0.1
+  loss: "huber"
+  huber_delta: 0.1
+  lr: 1.0e-3
+  weight_decay: 1.0e-4
+  max_epochs: 50
+  patience: 10
+  batch_size: 32
+  model_path: "models/probe.pt"
+
+routing:
+  num_thresholds: 101
+  budget_points: [0.1, 0.2, 0.3, 0.5]
+
+output:
+  experiments_dir: "experiments"
+  figures_dir: "figures"
