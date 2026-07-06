@@ -81,20 +81,24 @@ The flywheel analysis identified extreme misrouting-cost utterances where Whispe
 
 ## Failure Modes & Limitations
 
-1. **Small speaker count**: EdAcc has only 4-17 speakers per accent. Speaker-disjoint splits leave very few speakers in val/test (9 each), limiting statistical power and making results sensitive to which speakers end up in which fold.
+1. **Training data size**: With only 544 training utterances (~90 per accent, ~17 per speaker), the probe has limited capacity to learn fine-grained difficulty patterns. The near-uniform layer weights and weak Pearson r (~0.21) are likely symptoms of data scarcity rather than fundamental limits of the approach. The probe appears to be primarily learning accent-level difficulty (which argmax accent does for free) rather than the within-accent, per-utterance variation that would differentiate it. With 5,000-50,000 utterances (typical for probe-style tasks on pretrained speech models), we would expect layer weights to specialize, Pearson r to increase substantially, and the probe to more convincingly dominate the argmax baseline. Adding Common Voice data (deferred as a stretch goal) would be the most direct way to test this.
 
-2. **Weak learned signal**: Val Pearson r of ~0.21 is below the 0.3 target. The probe has limited predictive power for per-utterance WER, though this is still sufficient to improve routing decisions at practical escalation budgets.
+2. **Time pooling**: WavLM produces a vector every 20ms — roughly 150 time steps for a 3-second utterance. We mean-pool these into a single vector per layer, discarding all temporal structure. This preserves properties that are roughly constant across the utterance (accent, speaker, recording quality) but loses local events that may drive ASR errors: mid-utterance disfluencies, brief code-switching, a single mumbled word, or a pause that triggers Whisper hallucination. The catastrophic WER cases in our data (WER > 50) are likely caused by momentary triggers that mean pooling dilutes across the full utterance. Alternatives that preserve temporal information — statistics pooling (concatenating mean and standard deviation per layer, capturing whether difficulty is uniform or concentrated), attention pooling over time steps, or feeding the full sequence into a temporal model — could improve detection of these local failure modes. Statistics pooling would be the cheapest experiment: it doubles the feature dimension with no additional extraction cost and would distinguish an utterance with uniformly moderate difficulty from one with 2.5 seconds of clear speech followed by 0.5 seconds of mumbling.
 
-3. **Scalar target choice**: We regress default-model WER, not escalation gain (which would require careful-model transcripts during training). This works when WER correlates with gain, but utterances where both models fail equally receive high scores without routing benefit.
+3. **Weak learned signal**: Val Pearson r of ~0.21 is below the 0.3 target. The probe has limited predictive power for per-utterance WER, though this is still sufficient to improve routing decisions at practical escalation budgets. This is likely a compound effect of limited training data (point 1) and temporal information loss (point 2).
 
-4. **Concentrated routing benefit**: Escalation gain is dominated by 2-3 accents. The scalar probe's advantage over argmax is marginal because group-level routing already captures most of the value.
+4. **Scalar target choice**: We regress default-model WER, not escalation gain (which would require careful-model transcripts during training). This works when WER correlates with gain, but utterances where both models fail equally receive high scores without routing benefit.
 
-5. **Feature extraction cost**: WavLM-large inference is itself computationally expensive. In production, a lighter feature extractor or distilled model would be needed to make routing cost-effective.
+5. **Concentrated routing benefit**: Escalation gain is dominated by 2-3 accents. The scalar probe's advantage over argmax is marginal because group-level routing already captures most of the value.
 
-6. **Confidence baseline failure**: Whisper's avg_logprob is worse than random for routing — the model's internal confidence does not reflect difficulty on accented speech. This is a notable negative finding.
+6. **Feature extraction cost**: WavLM-large inference is itself computationally expensive. In production, a lighter feature extractor or distilled model would be needed to make routing cost-effective.
+
+7. **Confidence baseline failure**: Whisper's avg_logprob is worse than random for routing — the model's internal confidence does not reflect difficulty on accented speech. This is a notable negative finding.
 
 ## Open Questions
 
+- Would more training data (e.g., Common Voice, 5,000+ utterances) allow the probe to learn within-accent difficulty discrimination and layer specialization?
+- Would statistics pooling (mean + std over time) or attention pooling improve detection of local difficulty events like disfluencies and hallucination triggers?
 - Would multi-task training (WER regression + accent classification) improve the scalar's discriminative power?
 - Can the probe generalize to accents not seen during training?
 - What is the break-even point where feature extraction cost exceeds ASR cost savings?
