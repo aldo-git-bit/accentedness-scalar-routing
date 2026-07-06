@@ -40,16 +40,28 @@ def create_speaker_disjoint_splits(
         rng.shuffle(speaker_list)
 
         n = len(speaker_list)
-        n_train = max(1, int(n * train_ratio))
-        n_val = max(1, int(n * val_ratio))
+        if n < 3:
+            raise ValueError(
+                f"Accent '{accent}' has only {n} speaker(s); need at least 3 "
+                f"for speaker-disjoint train/val/test splits."
+            )
+
+        # Guarantee at least 1 speaker per fold, then distribute remainder
+        # by ratio. Reserve 1 each for val and test first, rest to train.
+        n_test = max(1, round(n * (1 - train_ratio - val_ratio)))
+        n_val = max(1, round(n * val_ratio))
+        n_train = n - n_val - n_test
+        # Safety: if rounding left train with 0, take from the largest group
+        if n_train < 1:
+            n_train = 1
+            if n_val > n_test and n_val > 1:
+                n_val -= 1
+            elif n_test > 1:
+                n_test -= 1
 
         train_spk = speaker_list[:n_train]
         val_spk = speaker_list[n_train : n_train + n_val]
         test_spk = speaker_list[n_train + n_val :]
-
-        # If test is empty, take from train
-        if not test_spk and len(train_spk) > 1:
-            test_spk = [train_spk.pop()]
 
         for spk in train_spk:
             splits["train"].extend(speaker_utts[spk])

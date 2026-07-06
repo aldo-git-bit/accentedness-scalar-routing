@@ -8,6 +8,8 @@ import pickle
 from collections import defaultdict
 from pathlib import Path
 
+import numpy as np
+
 import torch
 import yaml
 
@@ -110,12 +112,22 @@ def main():
               f"default_wer={case['default_wer']:.3f} careful_wer={case['careful_wer']:.3f}")
 
     # Save results
+    class NumpyEncoder(json.JSONEncoder):
+        def default(self, obj):
+            if isinstance(obj, (np.bool_, np.integer)):
+                return obj.item()
+            if isinstance(obj, np.floating):
+                return float(obj)
+            if isinstance(obj, np.ndarray):
+                return obj.tolist()
+            return super().default(obj)
+
     results = {
         "drift": drift_result,
         "hard_cases": hard_cases,
     }
     with open(exp_dir / "flywheel_results.json", "w") as f:
-        json.dump(results, f, indent=2)
+        json.dump(results, f, indent=2, cls=NumpyEncoder)
 
     print(f"\nSaved to {exp_dir}")
 

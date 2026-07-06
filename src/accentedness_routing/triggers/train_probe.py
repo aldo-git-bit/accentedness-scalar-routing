@@ -80,9 +80,9 @@ def train_probe(
             else:
                 r = 0.0
 
-        history["train_loss"].append(avg_train_loss)
-        history["val_loss"].append(val_loss)
-        history["val_pearson_r"].append(r)
+        history["train_loss"].append(float(avg_train_loss))
+        history["val_loss"].append(float(val_loss))
+        history["val_pearson_r"].append(float(r))
 
         print(
             f"  Epoch {epoch+1:3d}: train_loss={avg_train_loss:.4f}  "
@@ -104,7 +104,7 @@ def train_probe(
     if best_state is not None:
         model.load_state_dict(best_state)
 
-    history["best_val_loss"] = best_val_loss
+    history["best_val_loss"] = float(best_val_loss)
     history["best_epoch"] = len(history["val_loss"]) - epochs_without_improvement
 
     return model, history

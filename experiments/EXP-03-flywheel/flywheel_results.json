@@ -1,0 +1,157 @@
+{
+  "drift": {
+    "ks_statistic": 0.053961652333286425,
+    "p_value": 0.9508576558382082,
+    "detected": false,
+    "n_original": 173,
+    "n_shifted": 164,
+    "original_mean": 0.27861861874193117,
+    "shifted_mean": 0.28726232679483427
+  },
+  "hard_cases": {
+    "highest_score": [
+      {
+        "utterance_id": "d1b104b26e70",
+        "score": 1.0,
+        "default_wer": 1.0,
+        "careful_wer": 1.0,
+        "cost": 0.0
+      },
+      {
+        "utterance_id": "0a19cae5affd",
+        "score": 1.0,
+        "default_wer": 223.0,
+        "careful_wer": 2.0,
+        "cost": 221.0
+      },
+      {
+        "utterance_id": "f60433887d9f",
+        "score": 1.0,
+        "default_wer": 1.0,
+        "careful_wer": 1.0,
+        "cost": 0.0
+      },
+      {
+        "utterance_id": "af38c388cb36",
+        "score": 0.9593512770149975,
+        "default_wer": 1.0,
+        "careful_wer": 1.0,
+        "cost": 0.0
+      },
+      {
+        "utterance_id": "5e35e33382d0",
+        "score": 0.9576999637515545,
+        "default_wer": 1.0,
+        "careful_wer": 2.0,
+        "cost": -1.0
+      },
+      {
+        "utterance_id": "bbb356efc86c",
+        "score": 0.9442812164717325,
+        "default_wer": 1.0,
+        "careful_wer": 1.0,
+        "cost": 0.0
+      },
+      {
+        "utterance_id": "20470decbe15",
+        "score": 0.9372637889809197,
+        "default_wer": 1.0,
+        "careful_wer": 1.0,
+        "cost": 0.0
+      },
+      {
+        "utterance_id": "c605a4e3c131",
+        "score": 0.8743476458960986,
+        "default_wer": 0.0,
+        "careful_wer": 0.0,
+        "cost": 0.0
+      },
+      {
+        "utterance_id": "6f0c85ba66cb",
+        "score": 0.8112205691968006,
+        "default_wer": 1.0,
+        "careful_wer": 1.0,
+        "cost": 0.0
+      },
+      {
+        "utterance_id": "eff8a6729c2a",
+        "score": 0.8032597868867574,
+        "default_wer": 1.0,
+        "careful_wer": 1.0,
+        "cost": 0.0
+      }
+    ],
+    "highest_misrouting_cost": [
+      {
+        "utterance_id": "0a19cae5affd",
+        "score": 1.0,
+        "default_wer": 223.0,
+        "careful_wer": 2.0,
+        "cost": 221.0
+      },
+      {
+        "utterance_id": "2df3731f138f",
+        "score": 0.6344018512963309,
+        "default_wer": 74.33333333333333,
+        "careful_wer": 1.0,
+        "cost": 73.33333333333333
+      },
+      {
+        "utterance_id": "41f1838b6a87",
+        "score": 0.49391729468562057,
+        "default_wer": 55.75,
+        "careful_wer": 1.0,
+        "cost": 54.75
+      },
+      {
+        "utterance_id": "259426338460",
+        "score": 0.3752236728326173,
+        "default_wer": 37.166666666666664,
+        "careful_wer": 1.0,
+        "cost": 36.166666666666664
+      },
+      {
+        "utterance_id": "4167fc6d9266",
+        "score": 0.525138931339594,
+        "default_wer": 2.0,
+        "careful_wer": 0.0,
+        "cost": 2.0
+      },
+      {
+        "utterance_id": "202a59e2b0f8",
+        "score": 0.5090705901562611,
+        "default_wer": 1.0,
+        "careful_wer": 0.0,
+        "cost": 1.0
+      },
+      {
+        "utterance_id": "e24de7b48940",
+        "score": 0.697211950622014,
+        "default_wer": 2.0,
+        "careful_wer": 1.0,
+        "cost": 1.0
+      },
+      {
+        "utterance_id": "a43d0ec0f96e",
+        "score": 0.7414193898503844,
+        "default_wer": 2.0,
+        "careful_wer": 1.0,
+        "cost": 1.0
+      },
+      {
+        "utterance_id": "4aac9ea5bc4e",
+        "score": 0.5193705662478552,
+        "default_wer": 0.75,
+        "careful_wer": 0.0,
+        "cost": 0.75
+      },
+      {
+        "utterance_id": "738ad28fc11a",
+        "score": 0.13011562034332205,
+        "default_wer": 0.5714285714285714,
+        "careful_wer": 0.0,
+        "cost": 0.5714285714285714
+      }
+    ]
+  }
+}

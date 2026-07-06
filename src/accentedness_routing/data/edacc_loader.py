@@ -52,13 +52,18 @@ def _decode_audio(audio_obj) -> tuple[np.ndarray, int]:
 
 
 def load_edacc(config_path: str) -> list[Utterance]:
-    """Load EdAcc, filter to target accents, resample to 16 kHz, cap per accent."""
+    """Load EdAcc, filter to target accents, resample to 16 kHz.
+
+    Samples utterances evenly across speakers within each accent to ensure
+    all speakers are represented (critical for speaker-disjoint splits).
+    """
     with open(config_path) as f:
         cfg = yaml.safe_load(f)
 
     target_accents = cfg["data"]["accents"]
     max_per_accent = cfg["data"]["utterances_per_accent"]
     target_sr = cfg["data"]["sample_rate"]
+    seed = cfg.get("seed", 42)
 
     # Map config names to dataset values
     accent_values = {ACCENT_MAP[a] for a in target_accents}
@@ -74,21 +79,56 @@ def load_edacc(config_path: str) -> list[Utterance]:
     # Filter to target accents
     full_ds = full_ds.filter(lambda x: x["accent"] in accent_values)
 
-    # Group by accent and cap
-    accent_counts: dict[str, int] = {}
+    # First pass: collect indices grouped by (accent, speaker)
+    from collections import defaultdict
+    accent_speaker_indices: dict[str, dict[str, list[int]]] = defaultdict(lambda: defaultdict(list))
+    for idx in range(len(full_ds)):
+        sample = full_ds[idx]
+        accent_speaker_indices[sample["accent"]][sample["speaker"]].append(idx)
+
+    # Second pass: sample evenly across speakers within each accent
+    import random
+    rng = random.Random(seed)
+    selected_indices: list[int] = []
+
+    for accent_val in sorted(accent_speaker_indices):
+        speakers = accent_speaker_indices[accent_val]
+        speaker_list = sorted(speakers.keys())
+        n_speakers = len(speaker_list)
+
+        # Shuffle each speaker's utterances, then round-robin sample
+        per_speaker_indices = {}
+        for spk in speaker_list:
+            idxs = list(speakers[spk])
+            rng.shuffle(idxs)
+            per_speaker_indices[spk] = idxs
+
+        # Round-robin across speakers until we hit the cap
+        accent_selected = []
+        pointer = {spk: 0 for spk in speaker_list}
+        while len(accent_selected) < max_per_accent:
+            added_this_round = False
+            for spk in speaker_list:
+                if pointer[spk] < len(per_speaker_indices[spk]):
+                    accent_selected.append(per_speaker_indices[spk][pointer[spk]])
+                    pointer[spk] += 1
+                    added_this_round = True
+                    if len(accent_selected) >= max_per_accent:
+                        break
+            if not added_this_round:
+                break  # All speakers exhausted
+
+        selected_indices.extend(accent_selected)
+
+    # Load audio for selected indices
     utterances: list[Utterance] = []
-
-    for idx, sample in enumerate(full_ds):
-        accent = sample["accent"]
-        if accent_counts.get(accent, 0) >= max_per_accent:
-            continue
-        accent_counts[accent] = accent_counts.get(accent, 0) + 1
-
+    for idx in selected_indices:
+        sample = full_ds[idx]
         audio_array, sr = _decode_audio(sample["audio"])
         utt = Utterance(
             utterance_id=_utterance_id(sample["speaker"], sample["text"], idx),
             speaker=sample["speaker"],
-            accent=accent,
+            accent=sample["accent"],
             text=sample["text"],
             audio=audio_array,
             sample_rate=sr,

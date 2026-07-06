@@ -124,7 +124,10 @@ def main():
     with open(exp_dir / "training_history.json", "w") as f:
         json.dump(history, f, indent=2)
     with open(exp_dir / "layer_weights.json", "w") as f:
-        json.dump({"weights": layer_weights, "ranked": ranked[:10]}, f, indent=2)
+        json.dump({
+            "weights": [float(w) for w in layer_weights],
+            "ranked": [[idx, float(w)] for idx, w in ranked[:10]],
+        }, f, indent=2)
 
 
 if __name__ == "__main__":
