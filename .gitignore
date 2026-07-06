@@ -18,7 +18,7 @@ models/*.pt
 models/*.bin
 
 # Experiment outputs (keep INDEX.md)
-experiments/*/figures/
+# experiments/*/figures/  # tracked — these are key results
 experiments/*/metrics.json
 
 # IDE
