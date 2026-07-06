@@ -1,4 +1,4 @@
-.PHONY: setup smoke data features baselines probe eval report reproduce test clean
+.PHONY: setup smoke data features baselines probe eval report flywheel reproduce test clean
 
 CONFIG ?= configs/default.yaml
 
@@ -29,8 +29,11 @@ eval:
 report:
 	uv run python scripts/make_report.py --config $(CONFIG)
 
+flywheel:
+	uv run python scripts/run_flywheel.py --config $(CONFIG)
+
 test:
-	uv run pytest tests/ -v
+	uv run python -m pytest tests/ -v
 
 reproduce: data asr features baselines probe eval report
 	@echo "Full pipeline complete. Check experiments/ for results."

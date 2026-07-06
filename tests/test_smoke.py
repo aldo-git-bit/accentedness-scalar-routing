@@ -34,14 +34,9 @@ def test_mlx_whisper_transcribes():
 
 def test_jiwer_wer():
     """jiwer computes WER correctly."""
-    import jiwer
+    from accentedness_routing.asr.wer import compute_wer
 
-    transforms = jiwer.Compose(
-        [jiwer.ToLowerCase(), jiwer.RemovePunctuation(), jiwer.Strip(), jiwer.RemoveMultipleSpaces()]
-    )
-    ref = "the cat sat on the mat"
-    hyp = "the cat on the mat"
-    wer = jiwer.wer(ref, hyp, truth_transform=transforms, hypothesis_transform=transforms)
+    wer = compute_wer("the cat sat on the mat", "the cat on the mat")
     assert 0 < wer < 1
     print(f"jiwer OK: WER={wer:.3f}")
 

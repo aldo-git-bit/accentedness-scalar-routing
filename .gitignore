@@ -12,8 +12,8 @@ build/
 venv/
 env/
 
-# Data & model artifacts
-data/
+# Data & model artifacts (top-level only)
+/data/
 models/*.pt
 models/*.bin
 
