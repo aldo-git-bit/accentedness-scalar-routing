@@ -202,6 +202,16 @@ The binding constraint is **signal sparsity in the target**, not data volume or 
 
 5. **Consider utterance-level features beyond WavLM.** Duration, silence ratio, speaking rate, and spectral properties could complement the representation — these are cheap to extract and might correlate with difficulty.
 
+## Discussion: The Binding Constraint Is Headroom, Not the Trigger
+
+The oracle area-vs-random is 0.031. Confidence already captures 0.0147 — 47% of the entire oracle headroom, for free, with no training. The multitask λ=0.1 probe gets 0.0108 (35%). The remaining room any better trigger could compete for is 0.031 − 0.0147 ≈ 0.016, and the paired-bootstrap CIs are roughly ±0.012 wide on 179 utterances. Even a hypothetically excellent scalar has almost no room to demonstrate significance over confidence, and the setup lacks the statistical power to detect it if it did.
+
+This is corroborated by the sparsity numbers: median capped gain = 0 for every accent, only 47/179 utterances have gain > 0.05, and on most utterances the small and large models produce similar capped WER — either both are fine, or both are similarly bad on hard accented speech. Whisper-large-v3 doesn't fully rescue conversational Indian or Nigerian English, so the difference stays small even where both models are weak.
+
+The consequence is uncomfortable but clarifying: you cannot tell a good scalar from a bad one in this experimental setup, because there is barely any routing value to capture and not enough test power to resolve it. Chasing temporal features or fancier pooling to win the remaining 0.016 is very likely to keep producing the null results already observed. Stats pooling on a target that is zero for most utterances is better features for a signal that mostly isn't there.
+
+The path forward is not a better trigger — it is a setup with more headroom: a wider model gap (e.g., tiny → large), a larger and more diverse dataset, or a domain where the cost of escalation is high enough that even small routing gains are economically meaningful.
+
 ## Reproduction
 
 ```bash
