@@ -41,9 +41,39 @@ probe:
   batch_size: 32
   model_path: "models/probe.pt"
 
+probe_gain:
+  hidden_dim: 256
+  dropout: 0.1
+  loss: "huber"
+  huber_delta: 0.1
+  lr: 1.0e-3
+  weight_decay: 1.0e-4
+  max_epochs: 50
+  patience: 10
+  batch_size: 32
+  model_path: "models/probe_gain.pt"
+
+probe_capped_wer:
+  hidden_dim: 256
+  dropout: 0.1
+  loss: "huber"
+  huber_delta: 0.1
+  lr: 1.0e-3
+  weight_decay: 1.0e-4
+  max_epochs: 50
+  patience: 10
+  batch_size: 32
+  model_path: "models/probe_capped_wer.pt"
+
+features_stats:
+  cache_dir: "data/features_cache_stats"
+
 routing:
   num_thresholds: 101
   budget_points: [0.1, 0.2, 0.3, 0.5]
+
+bootstrap:
+  n_resamples: 1000
 
 output:
   experiments_dir: "experiments"

@@ -1,0 +1,22 @@
+{
+  "learning_curve": {
+    "final_auc": 0.5255116150442478,
+    "final_pearson_r": 0.02299813657660181,
+    "auc_slope_75_100": -0.02578816371681414,
+    "still_climbing": false
+  },
+  "layer_weight_correlation": {
+    "pearson_r": 0.5603956711360657,
+    "p_value": 0.003572683575084441,
+    "gain_top3_layers": [
+      0,
+      24,
+      2
+    ],
+    "accent_top3_layers": [
+      12,
+      11,
+      13
+    ]
+  }
+}

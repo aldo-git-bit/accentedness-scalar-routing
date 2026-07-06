@@ -1,0 +1,65 @@
+{
+  "n_test_utterances": 179,
+  "per_accent": {
+    "Indian English": {
+      "n_utterances": 35,
+      "n_hallucinated": 3,
+      "mean_default_wer_uncapped": 8.964345591628874,
+      "mean_default_wer_capped": 0.4976789249622066,
+      "mean_careful_wer": 0.4030224221615199,
+      "mean_escalation_gain": 0.12322793137211535,
+      "median_escalation_gain": 0.0,
+      "mean_avg_logprob": -0.5437982580214419
+    },
+    "Irish English": {
+      "n_utterances": 22,
+      "n_hallucinated": 0,
+      "mean_default_wer_uncapped": 0.3054070497343226,
+      "mean_default_wer_capped": 0.3054070497343226,
+      "mean_careful_wer": 0.28998182075345547,
+      "mean_escalation_gain": 0.015425228980867116,
+      "median_escalation_gain": 0.0,
+      "mean_avg_logprob": -0.36957525857621454
+    },
+    "Mainstream US English": {
+      "n_utterances": 27,
+      "n_hallucinated": 3,
+      "mean_default_wer_uncapped": 5.139787106996955,
+      "mean_default_wer_capped": 0.44534266255251126,
+      "mean_careful_wer": 3.129123845100916,
+      "mean_escalation_gain": -0.017114515881737208,
+      "median_escalation_gain": 0.0,
+      "mean_avg_logprob": -0.3637747347829889
+    },
+    "Nigerian English": {
+      "n_utterances": 30,
+      "n_hallucinated": 1,
+      "mean_default_wer_uncapped": 0.3969567538381898,
+      "mean_default_wer_capped": 0.36362342050485646,
+      "mean_careful_wer": 0.3918027914967273,
+      "mean_escalation_gain": 0.005153962341462341,
+      "median_escalation_gain": 0.0,
+      "mean_avg_logprob": -0.5666349462277185
+    },
+    "Scottish English": {
+      "n_utterances": 37,
+      "n_hallucinated": 1,
+      "mean_default_wer_uncapped": 0.33196525416589723,
+      "mean_default_wer_capped": 0.3049382271388702,
+      "mean_careful_wer": 0.25970297485724464,
+      "mean_escalation_gain": 0.04523525228162554,
+      "median_escalation_gain": 0.0,
+      "mean_avg_logprob": -0.43575456392169915
+    },
+    "Southern British English": {
+      "n_utterances": 28,
+      "n_hallucinated": 1,
+      "mean_default_wer_uncapped": 1.670885962545325,
+      "mean_default_wer_capped": 0.3792192958786579,
+      "mean_careful_wer": 0.3548834790845156,
+      "mean_escalation_gain": 0.060050102508427974,
+      "median_escalation_gain": 0.0,
+      "mean_avg_logprob": -0.3826715252829184
+    }
+  }
+}

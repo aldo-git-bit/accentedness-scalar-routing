@@ -1,4 +1,5 @@
-.PHONY: setup smoke data features baselines probe eval report flywheel reproduce test clean
+.PHONY: setup smoke data features baselines probe eval report flywheel reproduce test clean \
+       rescore diagnose compare ext1 ext2 ext3 ext4 ext5 features-stats reproduce-v2
 
 CONFIG ?= configs/default.yaml
 
@@ -41,3 +42,40 @@ reproduce: data asr features baselines probe eval report
 clean:
 	rm -rf data/asr_cache data/features_cache models/*.pt
 	@echo "Caches and model artifacts cleaned."
+
+# --- Round 2 targets ---
+
+rescore:
+	uv run python scripts/rescore_pilot.py --config $(CONFIG)
+
+diagnose:
+	uv run python scripts/diagnose.py --config $(CONFIG)
+
+compare:
+	uv run python scripts/compare.py --config $(CONFIG)
+
+ext1:
+	uv run python scripts/train_probe_ext1.py --config $(CONFIG)
+	uv run python scripts/eval_ext1.py --config $(CONFIG)
+
+ext2:
+	uv run python scripts/train_learning_curve.py --config $(CONFIG)
+	uv run python scripts/train_accent_classifier.py --config $(CONFIG)
+	uv run python scripts/eval_ext2.py --config $(CONFIG)
+
+ext3:
+	uv run python scripts/eval_ext3.py --config $(CONFIG)
+
+features-stats:
+	uv run python scripts/extract_features_stats.py --config $(CONFIG)
+
+ext4:
+	uv run python scripts/train_probe_stats.py --config $(CONFIG)
+	uv run python scripts/eval_ext4.py --config $(CONFIG)
+
+ext5:
+	uv run python scripts/train_multitask.py --config $(CONFIG)
+	uv run python scripts/eval_ext5.py --config $(CONFIG)
+
+reproduce-v2: rescore ext1 ext2 ext3 ext4 ext5 compare
+	@echo "Full Round 2 pipeline complete. Check experiments/ for results."

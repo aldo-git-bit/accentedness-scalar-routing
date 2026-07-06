@@ -49,6 +49,44 @@ class WavLMExtractor:
         assert torch.isfinite(pooled).all(), "NaN in pooled features"
         return pooled
 
+    def extract_stats(self, audio: np.ndarray, sample_rate: int = 16000) -> torch.Tensor:
+        """Extract mean+std concatenated features from a single utterance.
+
+        Args:
+            audio: float32 waveform
+            sample_rate: sample rate (must be 16000)
+
+        Returns:
+            Tensor of shape (num_layers, 2*hidden_dim) — [mean; std] per layer.
+            For WavLM-large: (25, 2048).
+        """
+        inputs = self.processor(
+            audio, sampling_rate=sample_rate, return_tensors="pt"
+        )
+        input_values = inputs.input_values.to(self.device)
+
+        with torch.no_grad():
+            outputs = self.model(input_values, output_hidden_states=True)
+
+        hidden_states = outputs.hidden_states  # tuple of (1, T, D)
+
+        # NaN guard
+        for i, hs in enumerate(hidden_states):
+            if not torch.isfinite(hs).all():
+                raise ValueError(f"NaN/Inf detected in WavLM layer {i}")
+
+        # Mean and std pool over time dimension for each layer
+        means = torch.stack([hs.squeeze(0).mean(dim=0) for hs in hidden_states])
+        stds = torch.stack([hs.squeeze(0).std(dim=0) for hs in hidden_states])
+
+        # Replace any NaN stds (from single-frame utterances) with 0
+        stds = torch.nan_to_num(stds, nan=0.0)
+
+        pooled = torch.cat([means, stds], dim=1)  # (num_layers, 2*hidden_dim)
+
+        assert torch.isfinite(pooled).all(), "NaN in stats-pooled features"
+        return pooled
+
     def cleanup(self):
         """Free model memory."""
         del self.model
