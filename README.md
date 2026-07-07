@@ -45,7 +45,9 @@ Across three rounds and twelve experiments, the central finding is that the **bi
 | tiny -> large-v3 | 0.161 | 0.058 | 0.009 | **0.014** | 98 |
 | tiny -> turbo | 0.165 | 0.061 | 0.005 | -0.001 | 94 |
 
-### Round 2 leaderboard (small -> large-v3, capped WER)
+### Narrow gap leaderboard (small -> large-v3, WER gap 0.043)
+
+At the narrow gap, **confidence dominates** — it captures 47% of the oracle prize with no training, and no learned trigger significantly beats it.
 
 | Rank | Trigger | Area vs Random | Significant? | Source |
 |------|---------|----------------|--------------|--------|
@@ -60,6 +62,23 @@ Across three rounds and twelve experiments, the central finding is that the **bi
 | 9 | Multitask (lambda=0.0) | 0.0047 | No | Learned |
 | 10 | Scalar probe (pilot) | 0.0035 | No | Learned |
 | -- | Random | 0.0000 | -- | Baseline |
+
+### Wide gap leaderboard (tiny -> large-v3, WER gap 0.161)
+
+At the wide gap, the ranking inverts. **Confidence drops from rank 2 to rank 6** (its CI now includes zero), while the **composite combiner** — which blends confidence with the learned probe score, acoustic features, and temporal variability via logistic regression — captures **42% of oracle headroom** vs confidence's 16%. The learned champion probe alone also crosses confidence for the first time.
+
+| Rank | Trigger | Area vs Random | 95% CI | Significant? | Source |
+|------|---------|----------------|--------|--------------|--------|
+| 1 | Oracle | 0.0580 | [0.042, 0.075] | Yes | Upper bound |
+| 2 | **Combiner + temporal** | **0.0244** | **[0.009, 0.040]** | **Yes** | Composite (all signals) |
+| 3 | Combiner (no temporal) | 0.0213 | [0.006, 0.037] | Yes | Composite (w/o WavLM std) |
+| 4 | Argmax accent | 0.0142 | [0.001, 0.027] | Yes | Discrete taxonomy |
+| 5 | Champion retrained | 0.0139 | [-0.002, 0.029] | No | Learned (multitask) |
+| 6 | Confidence | 0.0094 | [-0.008, 0.027] | No | Whisper avg_logprob |
+| -- | Random | 0.0000 | | -- | Baseline |
+| -- | No-speech prob | -0.0088 | [-0.025, 0.008] | No | Whisper metadata |
+
+The combiner's feature vector is [confidence, no_speech_prob, champion_score, duration, silence_ratio, speaking_rate, temporal_std] — the mixed signal outperforms any individual component.
 
 ### The three-round arc
 
