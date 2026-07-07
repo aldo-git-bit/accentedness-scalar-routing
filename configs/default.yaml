@@ -75,6 +75,22 @@ routing:
 bootstrap:
   n_resamples: 1000
 
+asr_grid:
+  default_models:
+    - "mlx-community/whisper-tiny-mlx"
+    - "mlx-community/whisper-base-mlx"
+    - "mlx-community/whisper-small-mlx"
+  careful_models:
+    - "mlx-community/whisper-large-v3-turbo"
+    - "mlx-community/whisper-large-v3-mlx"
+
+combiner:
+  tau: 0.05
+  family: "logistic"  # or "gbm"
+
+acoustic_features:
+  cache_dir: "data/acoustic_features_cache"
+
 output:
   experiments_dir: "experiments"
   figures_dir: "figures"

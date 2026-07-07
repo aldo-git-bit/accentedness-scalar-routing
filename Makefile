@@ -1,5 +1,6 @@
 .PHONY: setup smoke data features baselines probe eval report flywheel reproduce test clean \
-       rescore diagnose compare ext1 ext2 ext3 ext4 ext5 features-stats reproduce-v2
+       rescore diagnose compare ext1 ext2 ext3 ext4 ext5 features-stats reproduce-v2 \
+       asr-ladder acoustic-features ext-headroom ext-composite ext-temporal ext-adapted reproduce-v3
 
 CONFIG ?= configs/default.yaml
 
@@ -79,3 +80,28 @@ ext5:
 
 reproduce-v2: rescore ext1 ext2 ext3 ext4 ext5 compare
 	@echo "Full Round 2 pipeline complete. Check experiments/ for results."
+
+# --- Round 3 targets ---
+
+asr-ladder:
+	uv run python scripts/run_asr_grid.py --config $(CONFIG)
+
+acoustic-features:
+	uv run python scripts/extract_acoustic_features.py --config $(CONFIG)
+
+ext-headroom: asr-ladder
+	uv run python scripts/eval_headroom_grid.py --config $(CONFIG)
+	uv run python scripts/plot_headroom_sweep.py --config $(CONFIG)
+
+ext-composite: acoustic-features
+	uv run python scripts/eval_composite.py --config $(CONFIG)
+
+ext-temporal:
+	uv run python scripts/eval_temporal.py --config $(CONFIG)
+
+ext-adapted:
+	uv run python scripts/run_asr_adapted.py --config $(CONFIG)
+	uv run python scripts/eval_accent_adapted.py --config $(CONFIG)
+
+reproduce-v3: ext-headroom ext-composite ext-temporal compare
+	@echo "Round 3 pipeline complete (excluding gated ext-adapted)."
