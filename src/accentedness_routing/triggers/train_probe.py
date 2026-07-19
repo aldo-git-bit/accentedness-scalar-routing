@@ -26,6 +26,7 @@ def train_probe(
     patience: int = 10,
     batch_size: int = 32,
     huber_delta: float = 0.1,
+    seed: int = 42,
 ) -> tuple[AccentednessProbe, dict]:
     """Train the probe with early stopping.
 
@@ -34,10 +35,19 @@ def train_probe(
         train_targets: (N_train,) — per-utterance WER from default model
         val_features: (N_val, num_layers, hidden_dim)
         val_targets: (N_val,)
+        seed: seed for weight init, dropout, and batch shuffling. Also pins
+            cuDNN to deterministic algorithms so GPU runs match CPU-seeded
+            behavior (deterministic, at a small throughput cost).
 
     Returns:
         (trained model, training history dict)
     """
+    torch.manual_seed(seed)
+    if torch.cuda.is_available():
+        torch.cuda.manual_seed_all(seed)
+    torch.backends.cudnn.deterministic = True
+    torch.backends.cudnn.benchmark = False
+
     model = AccentednessProbe(num_layers, hidden_dim, probe_dim, dropout)
     optimizer = torch.optim.AdamW(model.parameters(), lr=lr, weight_decay=weight_decay)
     criterion = nn.HuberLoss(delta=huber_delta)
