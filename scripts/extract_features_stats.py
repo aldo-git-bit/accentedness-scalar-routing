@@ -20,7 +20,22 @@ def main():
     parser = argparse.ArgumentParser(
         description="Extract mean+std WavLM features for stats pooling")
     parser.add_argument("--config", default="configs/default.yaml")
+    parser.add_argument(
+        "--device", default=None,
+        help="Override features.device from config (e.g. cuda:0, cuda:1, mps, cpu)",
+    )
+    parser.add_argument(
+        "--shard-index", type=int, default=0,
+        help="This process's shard index (0-based), for data-parallel extraction across devices",
+    )
+    parser.add_argument(
+        "--num-shards", type=int, default=1,
+        help="Total number of shards; utterances are assigned by index % num_shards",
+    )
     args = parser.parse_args()
+
+    if not (0 <= args.shard_index < args.num_shards):
+        raise ValueError(f"shard-index {args.shard_index} must be in [0, {args.num_shards})")
 
     with open(args.config) as f:
         cfg = yaml.safe_load(f)
@@ -29,9 +44,10 @@ def main():
     cache_dir.mkdir(parents=True, exist_ok=True)
 
     model_name = cfg["features"]["model"]
-    device = cfg["features"]["device"]
+    device = args.device if args.device is not None else cfg["features"]["device"]
 
-    # Load all utterances
+    # Load all utterances (stable order: train, then val, then test, as
+    # pickled) so that sharding by index is identical across processes.
     data_dir = Path("data")
     all_utterances = []
     for split_name in ["train", "val", "test"]:
@@ -45,6 +61,16 @@ def main():
         print(f"Loaded {len(utts)} utterances from {split_name}")
 
     print(f"\nTotal: {len(all_utterances)} utterances")
+
+    if args.num_shards > 1:
+        all_utterances = [
+            u for i, u in enumerate(all_utterances) if i % args.num_shards == args.shard_index
+        ]
+        print(
+            f"Shard {args.shard_index}/{args.num_shards}: "
+            f"{len(all_utterances)} utterances assigned to this process"
+        )
+
     print(f"Loading {model_name} on {device}...")
     extractor = WavLMExtractor(model_name, device)
 
