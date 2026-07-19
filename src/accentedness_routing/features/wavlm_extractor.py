@@ -46,6 +46,10 @@ class WavLMExtractor:
         pooled = torch.stack([hs.squeeze(0).mean(dim=0) for hs in hidden_states])
         # pooled shape: (num_layers, hidden_dim)
 
+        # Always return on CPU regardless of extraction device, so cached
+        # tensors load on any machine without an explicit map_location.
+        pooled = pooled.detach().cpu()
+
         assert torch.isfinite(pooled).all(), "NaN in pooled features"
         return pooled
 
@@ -83,6 +87,10 @@ class WavLMExtractor:
         stds = torch.nan_to_num(stds, nan=0.0)
 
         pooled = torch.cat([means, stds], dim=1)  # (num_layers, 2*hidden_dim)
+
+        # Always return on CPU regardless of extraction device, so cached
+        # tensors load on any machine without an explicit map_location.
+        pooled = pooled.detach().cpu()
 
         assert torch.isfinite(pooled).all(), "NaN in stats-pooled features"
         return pooled
