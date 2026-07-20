@@ -27,7 +27,7 @@ def main():
     )
     parser.add_argument(
         "--num-shards", type=int, default=1,
-        help="Total number of shards; utterances are assigned by index % num_shards",
+        help="Total number of shards; utterances are assigned by index %% num_shards",
     )
     args = parser.parse_args()
 
