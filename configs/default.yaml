@@ -73,6 +73,44 @@ probe_capped_wer:
   batch_size: 32
   model_path: "models/probe_capped_wer.pt"
 
+# EXP-13: DDP fine-tuning of WavLM-large (unfrozen transformer) + probe head,
+# target = escalation_gain (same as probe_gain.pt, the ground truth the
+# frozen-encoder control must reproduce at world_size=1).
+exp13:
+  model: "microsoft/wavlm-large"
+  num_layers: 25
+  hidden_dim: 1024
+  probe_hidden_dim: 256
+  dropout: 0.1
+  huber_delta: 0.1
+  lr: 1.0e-5              # fine-tuning LR, deliberately much lower than the
+                           # frozen-probe's 1e-3 — this updates a pretrained
+                           # 300M-param encoder, not a head trained from scratch
+  weight_decay: 1.0e-4
+  max_epochs: 20
+  patience: 5
+  batch_size: 4            # per-rank; A40 memory behavior unknown until run there
+  max_batch_duration: 15.0 # carried from Stage 2's MPS calibration as a safe
+                           # starting point; recalibrate once real A40 memory
+                           # behavior is observed (training needs more headroom
+                           # than inference-only extraction — see docs/DIAGNOSIS-stage2-to-stage3.md)
+  freeze_feature_extractor: true  # standard WavLM/wav2vec2 fine-tuning practice
+  freeze_encoder: false            # true = frozen-encoder control; must match probe_gain.pt
+  gradient_checkpointing: false    # ready-to-flip if memory-bound on the A40
+  # Comparison-cleanliness choice, not just a crash-avoidance fix: disables
+  # WavLM's own train-mode-only SpecAugment (also fixes a real crash — its
+  # mask_time_length=10 exceeds the shortest utterances' post-downsampling
+  # sequence length) and LayerDrop, so the unfrozen run's WavLM forward pass
+  # matches the frozen-encoder control's (which never runs WavLM in train()
+  # mode at all) with no unaudited confound. Re-enable only as a deliberate
+  # follow-up variant if the A40 run's train/val gap shows overfitting.
+  disable_train_augmentation: true
+  precision: "bf16"                # "bf16" or "fp32"; auto-disabled on CPU
+  checkpoint_interval_steps: 50
+  num_workers: 0
+  model_path: "models/probe_wavlm_unfrozen.pt"
+  backend: "nccl"                  # auto-falls back to gloo when no CUDA
+
 features_stats:
   cache_dir: "data/features_cache_stats"
 
