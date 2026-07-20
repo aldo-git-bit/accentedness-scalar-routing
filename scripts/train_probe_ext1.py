@@ -88,6 +88,7 @@ def train_and_save(
         patience=probe_cfg["patience"],
         batch_size=probe_cfg["batch_size"],
         huber_delta=probe_cfg["huber_delta"],
+        seed=cfg.get("seed", 42),
     )
 
     # Calibration
