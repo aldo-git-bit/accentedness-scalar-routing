@@ -7,12 +7,21 @@ effect on the trained probe's routing scores. No pass/fail threshold is
 hardcoded: this is meant to be read by a human before any newly-extracted
 device's cache is trusted.
 
-Only exercises the unbatched (batch size 1) extraction path — batching
-introduces padding/masking and is verified separately once implemented.
+Supports --batch-size for batched extraction (length-bucketed via
+accentedness_routing.features.batching.bucket_by_duration, same
+construction extract_features.py uses in production). Batching's own
+masking correctness is verified separately, same-device, in
+verify_batching_parity.py — this script's job is device parity, not
+batching correctness, so keep batch_size fixed between two runs being
+compared rather than changing both variables at once.
 
 Usage:
     uv run python scripts/verify_features_device_parity.py \\
         --device-a cpu --device-b mps --num-samples 100
+
+    # Batched:
+    uv run python scripts/verify_features_device_parity.py \\
+        --device-a cpu --device-b mps --batch-size 16
 
     # On a CUDA box, the same script, unchanged:
     uv run python scripts/verify_features_device_parity.py \\
@@ -32,6 +41,7 @@ import numpy as np
 import torch
 import yaml
 
+from accentedness_routing.features.batching import bucket_by_duration
 from accentedness_routing.features.wavlm_extractor import WavLMExtractor
 from accentedness_routing.triggers.scalar_probe import AccentednessProbe
 
@@ -52,14 +62,20 @@ def load_utterances(num_samples: int | None) -> list:
 
 
 def extract_all(
-    extractor: WavLMExtractor, utterances: list, label: str
+    extractor: WavLMExtractor,
+    utterances: list,
+    label: str,
+    batch_size: int = 1,
+    max_batch_duration: float | None = None,
 ) -> tuple[dict[str, torch.Tensor], list[tuple[str, float, str]]]:
-    """Extract features for all utterances, tolerating per-utterance failures.
+    """Extract features for all utterances, tolerating per-utterance/batch failures.
 
     A single pathological utterance (e.g. one long enough to blow up a
     device's O(T^2) attention-bias buffer) must not discard progress on
-    the other N-1 utterances or abort a run that may have taken tens of
-    minutes to reach that point.
+    the rest or abort a run that may have taken tens of minutes to reach
+    that point. At batch_size>1, a failure takes down its whole batch
+    (padding cost is shared across the batch), so every utterance in
+    that batch is logged as failed, not just the culprit.
 
     Returns (features, failures) where failures is a list of
     (utterance_id, duration_seconds, error_message).
@@ -67,15 +83,34 @@ def extract_all(
     feats = {}
     failures: list[tuple[str, float, str]] = []
     t0 = time.time()
-    for i, utt in enumerate(utterances):
-        dur = len(utt.audio) / utt.sample_rate
-        try:
-            feats[utt.utterance_id] = extractor.extract(utt.audio, utt.sample_rate)
-        except RuntimeError as e:
-            print(f"  [{label}] FAILED {utt.utterance_id} (duration {dur:.1f}s): {e}")
-            failures.append((utt.utterance_id, dur, str(e)))
-        if (i + 1) % 200 == 0:
-            print(f"  [{label}] {i+1}/{len(utterances)} ({time.time()-t0:.1f}s)")
+
+    if batch_size == 1:
+        for i, utt in enumerate(utterances):
+            dur = len(utt.audio) / utt.sample_rate
+            try:
+                feats[utt.utterance_id] = extractor.extract(utt.audio, utt.sample_rate)
+            except RuntimeError as e:
+                print(f"  [{label}] FAILED {utt.utterance_id} (duration {dur:.1f}s): {e}")
+                failures.append((utt.utterance_id, dur, str(e)))
+            if (i + 1) % 200 == 0:
+                print(f"  [{label}] {i+1}/{len(utterances)} ({time.time()-t0:.1f}s)")
+    else:
+        batches = bucket_by_duration(utterances, batch_size, max_batch_duration)
+        n_done = 0
+        for batch in batches:
+            try:
+                results = extractor.extract_batch([u.audio for u in batch], batch[0].sample_rate)
+                for utt, feat in zip(batch, results):
+                    feats[utt.utterance_id] = feat
+            except RuntimeError as e:
+                durs = [len(u.audio) / u.sample_rate for u in batch]
+                print(f"  [{label}] FAILED batch of {len(batch)} "
+                      f"(durations {min(durs):.1f}-{max(durs):.1f}s): {e}")
+                for utt, dur in zip(batch, durs):
+                    failures.append((utt.utterance_id, dur, str(e)))
+            n_done += len(batch)
+            print(f"  [{label}] {n_done}/{len(utterances)} ({time.time()-t0:.1f}s)")
+
     print(
         f"  [{label}] done: {len(feats)}/{len(utterances)} succeeded, "
         f"{len(failures)} failed, in {time.time()-t0:.1f}s"
@@ -96,6 +131,23 @@ def main():
         "--probe-path", default="models/probe.pt",
         help="Trained probe checkpoint to check downstream score parity (skip if absent)",
     )
+    parser.add_argument(
+        "--batch-size", type=int, default=1,
+        help="Batch size for extraction on both devices (length-bucketed if >1)",
+    )
+    parser.add_argument(
+        "--max-batch-duration", type=float, default=None,
+        help="Shrink batch size for utterances longer than this (seconds) to avoid "
+             "the O(T^2) attention-bias OOM cliff. Device/memory-specific; default "
+             "None means fixed batch_size regardless of duration.",
+    )
+    parser.add_argument(
+        "--exclude-ids", default="",
+        help="Comma-separated utterance IDs to exclude before running (e.g. known "
+             "extreme-duration outliers that risk an uncatchable OOM when batched "
+             "with other long utterances, rather than a catchable RuntimeError). "
+             "Empty by default — a no-op unless explicitly passed.",
+    )
     args = parser.parse_args()
 
     with open(args.config) as f:
@@ -105,18 +157,36 @@ def main():
     hidden_dim = cfg["features"]["hidden_dim"]
 
     utterances = load_utterances(args.num_samples)
+
+    exclude_ids = {x for x in args.exclude_ids.split(",") if x}
+    if exclude_ids:
+        n_before = len(utterances)
+        utterances = [u for u in utterances if u.utterance_id not in exclude_ids]
+        print(f"Excluded {n_before - len(utterances)} utterances via --exclude-ids: {exclude_ids}")
+
     n_total = len(utterances)
-    print(f"Comparing {n_total} utterances: device A={args.device_a!r} vs device B={args.device_b!r}\n")
+    print(f"Comparing {n_total} utterances: device A={args.device_a!r} vs device B={args.device_b!r}, "
+          f"batch_size={args.batch_size}, max_batch_duration={args.max_batch_duration}\n")
 
     print(f"Loading extractor on {args.device_a}...")
     extractor_a = WavLMExtractor(model_name, args.device_a)
-    feats_a, failures_a = extract_all(extractor_a, utterances, args.device_a)
+    t0 = time.time()
+    feats_a, failures_a = extract_all(
+        extractor_a, utterances, args.device_a, args.batch_size, args.max_batch_duration
+    )
+    time_a = time.time() - t0
     extractor_a.cleanup()
 
     print(f"\nLoading extractor on {args.device_b}...")
     extractor_b = WavLMExtractor(model_name, args.device_b)
-    feats_b, failures_b = extract_all(extractor_b, utterances, args.device_b)
+    t0 = time.time()
+    feats_b, failures_b = extract_all(
+        extractor_b, utterances, args.device_b, args.batch_size, args.max_batch_duration
+    )
+    time_b = time.time() - t0
     extractor_b.cleanup()
+
+    print(f"\n=== Timing ===\n  {args.device_a}: {time_a:.1f}s\n  {args.device_b}: {time_b:.1f}s")
 
     if failures_a or failures_b:
         print(f"\n=== Extraction failures ({len(failures_a)} on {args.device_a}, "

@@ -25,6 +25,14 @@ asr:
 features:
   model: "microsoft/wavlm-large"
   device: "cpu"
+  batch_size: 1
+  # Utterances longer than this get a proportionally smaller batch size
+  # (see accentedness_routing.features.batching.bucket_by_duration) to
+  # avoid the O(T^2) attention-bias OOM cliff on the duration tail.
+  # Calibrated from this machine's MPS ~27GB pool (last-known-good
+  # boundary observed at batch_size=16); recalibrate for different
+  # hardware/memory rather than trusting this value elsewhere.
+  max_batch_duration: 15.0
   num_layers: 25
   hidden_dim: 1024
   cache_dir: "data/features_cache"

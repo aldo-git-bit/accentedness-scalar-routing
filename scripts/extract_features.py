@@ -10,6 +10,7 @@ import torch
 import yaml
 from tqdm import tqdm
 
+from accentedness_routing.features.batching import bucket_by_duration
 from accentedness_routing.features.wavlm_extractor import WavLMExtractor
 
 
@@ -70,23 +71,53 @@ def main():
     print(f"Loading {model_name} on {device}...")
     extractor = WavLMExtractor(model_name, device)
 
-    n_cached = 0
-    n_extracted = 0
-    n_failed = 0
+    batch_size = cfg["features"].get("batch_size", 1)
+    max_batch_duration = cfg["features"].get("max_batch_duration")
 
-    for utt in tqdm(all_utterances, desc="Extracting features"):
+    n_cached = 0
+    to_process = []
+    for utt in all_utterances:
         out_path = cache_dir / f"{utt.utterance_id}.pt"
         if out_path.exists():
             n_cached += 1
-            continue
+        else:
+            to_process.append(utt)
 
+    print(f"{len(to_process)} utterances to extract, {n_cached} already cached "
+          f"(batch_size={batch_size}, max_batch_duration={max_batch_duration})")
+
+    # Bucketing happens on to_process, which is already restricted to this
+    # shard's slice (sharding above) and to not-yet-cached utterances (just
+    # above) — so it composes with sharding rather than crossing shard
+    # boundaries, and never changes which cache file an utterance lands in
+    # (still keyed by utterance_id below, regardless of processing order).
+    batches = bucket_by_duration(to_process, batch_size, max_batch_duration) if batch_size > 1 else [
+        [u] for u in to_process
+    ]
+
+    n_extracted = 0
+    n_failed = 0
+    pbar = tqdm(total=len(to_process), desc="Extracting features")
+    for batch in batches:
         try:
-            features = extractor.extract(utt.audio, utt.sample_rate)
-            torch.save(features, out_path)
-            n_extracted += 1
-        except ValueError as e:
-            print(f"\n  SKIP {utt.utterance_id}: {e}")
-            n_failed += 1
+            if batch_size == 1:
+                results = [extractor.extract(batch[0].audio, batch[0].sample_rate)]
+            else:
+                results = extractor.extract_batch(
+                    [u.audio for u in batch], batch[0].sample_rate
+                )
+            for utt, features in zip(batch, results):
+                torch.save(features, cache_dir / f"{utt.utterance_id}.pt")
+                n_extracted += 1
+        except (ValueError, RuntimeError) as e:
+            # A batch failure (e.g. one pathological long utterance OOMing
+            # the padded forward pass) skips every utterance in that batch,
+            # not just the culprit — logged so it's diagnosable which ones.
+            ids = [u.utterance_id for u in batch]
+            print(f"\n  SKIP batch {ids}: {e}")
+            n_failed += len(batch)
+        pbar.update(len(batch))
+    pbar.close()
 
     print(f"\nDone: {n_extracted} extracted, {n_cached} cached, {n_failed} failed")
 
