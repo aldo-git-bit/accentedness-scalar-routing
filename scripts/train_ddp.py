@@ -196,7 +196,9 @@ def load_checkpoint(path: Path, model: nn.Module, optimizer: torch.optim.Optimiz
     optimizer.load_state_dict(ckpt["optimizer_state_dict"])
     torch.set_rng_state(ckpt["rng_state"].cpu())
     if ckpt["cuda_rng_state"] is not None and torch.cuda.is_available():
-        torch.cuda.set_rng_state_all(ckpt["cuda_rng_state"])
+        torch.cuda.set_rng_state_all(
+            [s.cpu().to(torch.uint8) for s in ckpt["cuda_rng_state"]]
+        )
     return ckpt["epoch"], ckpt["step_in_epoch"]
 
 
