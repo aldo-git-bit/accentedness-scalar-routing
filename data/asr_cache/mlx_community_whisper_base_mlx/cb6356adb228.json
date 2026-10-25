@@ -1,0 +1,12 @@
+{
+  "text": "I agree. I agree.",
+  "avg_logprob": -0.5741765764024522,
+  "no_speech_prob": 0.2733733057975769,
+  "wall_clock_seconds": 0.037097375010489486,
+  "n_segments": 1,
+  "wer": 0.0,
+  "reference": "I AGREE I AGREE",
+  "utterance_id": "cb6356adb228",
+  "accent": "Indian English",
+  "speaker": "EDACC-C36-A"
+}

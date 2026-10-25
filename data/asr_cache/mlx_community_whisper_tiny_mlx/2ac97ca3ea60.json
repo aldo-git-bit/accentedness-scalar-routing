@@ -1,0 +1,12 @@
+{
+  "text": "Oh, really?",
+  "avg_logprob": -0.9561524391174316,
+  "no_speech_prob": 0.19912508130073547,
+  "wall_clock_seconds": 0.01963941600115504,
+  "n_segments": 1,
+  "wer": 0.3333333333333333,
+  "reference": "OH REALLY UM",
+  "utterance_id": "2ac97ca3ea60",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C03-B"
+}

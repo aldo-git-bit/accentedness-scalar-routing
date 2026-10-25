@@ -1,0 +1,12 @@
+{
+  "text": "15 minutes. 15 minutes. No.",
+  "avg_logprob": -0.537222417195638,
+  "no_speech_prob": 0.16657312214374542,
+  "wall_clock_seconds": 0.6121142919982958,
+  "n_segments": 3,
+  "wer": 0.8571428571428571,
+  "reference": "MM HMM FIFTEEN MINUTES IT'S FIFTEEN MINUTES",
+  "utterance_id": "0a345f17ad6b",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C04-B"
+}

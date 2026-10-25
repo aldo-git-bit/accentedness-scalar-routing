@@ -1,0 +1,12 @@
+{
+  "text": "with the bogs or what was the it was brilliant i used to watch that as well",
+  "avg_logprob": -0.35302436919439406,
+  "no_speech_prob": 1.1114321268879124e-12,
+  "wall_clock_seconds": 0.42321895800705533,
+  "n_segments": 1,
+  "wer": 0.2631578947368421,
+  "reference": "WITH THE BUGS OH WHAT WAS IT IT IT WAS BRILLIANT I USED TO WATCH THAT AS WELL UH",
+  "utterance_id": "b504bd01c6fa",
+  "accent": "Irish English",
+  "speaker": "EDACC-C47-B"
+}

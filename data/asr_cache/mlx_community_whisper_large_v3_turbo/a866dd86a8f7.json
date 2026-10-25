@@ -1,0 +1,12 @@
+{
+  "text": "Well, one you know I am waiting for is a sequel to Isomnium Files.",
+  "avg_logprob": -0.4337024688720703,
+  "no_speech_prob": 2.803731422376665e-12,
+  "wall_clock_seconds": 0.43068208399927244,
+  "n_segments": 1,
+  "wer": 0.3888888888888889,
+  "reference": "UM WELL I WANT YOU TO KNOW I AM WAITING FOR IS UH THE SEQUEL TO SOMNIUM FILES",
+  "utterance_id": "a866dd86a8f7",
+  "accent": "Irish English",
+  "speaker": "EDACC-C63-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "I was happy or no matter what frame of mind I was in, I'd always like to have sweet corn chicken soup.",
+  "avg_logprob": -0.14511744181315103,
+  "no_speech_prob": 6.935084884834852e-12,
+  "wall_clock_seconds": 0.4461349170014728,
+  "n_segments": 2,
+  "wer": 0.045454545454545456,
+  "reference": "I WAS HAPPY OR NO MATTER WHAT FRAME OF MIND I WAS IN I'D ALWAYS LIKED TO HAVE SWEET CORN CHICKEN SOUP",
+  "utterance_id": "b5e2e1c77c2f",
+  "accent": "Indian English",
+  "speaker": "EDACC-C36-A"
+}

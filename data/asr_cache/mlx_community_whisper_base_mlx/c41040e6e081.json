@@ -1,0 +1,12 @@
+{
+  "text": "the bed.",
+  "avg_logprob": -0.1950689019097223,
+  "no_speech_prob": 0.3770442306995392,
+  "wall_clock_seconds": 1.3360793749889126,
+  "n_segments": 44,
+  "wer": 1.0,
+  "reference": "LIKE KNOWING THAT THERE ARE OTHER",
+  "utterance_id": "c41040e6e081",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-A"
+}

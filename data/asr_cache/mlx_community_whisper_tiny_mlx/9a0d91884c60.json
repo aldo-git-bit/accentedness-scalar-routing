@@ -1,0 +1,12 @@
+{
+  "text": "The my favorite part of Hunger Games was like a catnice. The dresses that she wore.",
+  "avg_logprob": -0.7179634094238281,
+  "no_speech_prob": 0.023510975763201714,
+  "wall_clock_seconds": 0.04300245799822733,
+  "n_segments": 2,
+  "wer": 0.125,
+  "reference": "THE MY FAVORITE PART OF HUNGER GAMES WAS LIKE UH KATNISS THE DRESSES THAT SHE WORE",
+  "utterance_id": "9a0d91884c60",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-A"
+}

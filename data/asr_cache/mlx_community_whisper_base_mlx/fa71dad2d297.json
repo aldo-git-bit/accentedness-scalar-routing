@@ -1,0 +1,12 @@
+{
+  "text": "Wow, that's old. My cat that I had just sadly recently had to be put down and she loved to 14. So to think that she was a whole eight years older than her is crazy because Sydney was really old. She showed her age quite quickly. You know, after a while she was, you could tell that she was old. She just wasn't as sprightly as she used to be. So to think Sassy was a whole eight years older than that is. She was always a little spooked.",
+  "avg_logprob": -0.31555842060745853,
+  "no_speech_prob": 0.03633172959089279,
+  "wall_clock_seconds": 0.26707291600177996,
+  "n_segments": 5,
+  "wer": 0.09090909090909091,
+  "reference": "WOW THAT'S OLD MY CAT THAT I HAD JUST SADLY RECENTLY HAD TO BE PUT DOWN AND SHE LIVED TO FOURTEEN SO TO THINK THAT SHE WAS A WHOLE EIGHT YEARS OLDER THAN HER IS CRAZY BECAUSE SYDNEY WAS REALLY OLD SHE SHOWED HER AGE QUITE QUICKLY YOU KNOW AFTER A WHILE SHE WAS YOU COULD TELL THAT SHE WAS OLD SHE JUST WASN'T AS SPRITELY AS SHE USED TO BE SO TO THINK SASSY WAS A WHOLE EIGHT YEARS OLDER THAN THAT AS IT WAS ALWAYS <OVERLAP>",
+  "utterance_id": "fa71dad2d297",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-A"
+}

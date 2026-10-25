@@ -1,0 +1,12 @@
+{
+  "text": "I've got massive amounts of skin cancer from the mercury and the paints, because the lighting was so poor.",
+  "avg_logprob": -0.41811067086678966,
+  "no_speech_prob": 0.0046756998635828495,
+  "wall_clock_seconds": 0.15791791700030444,
+  "n_segments": 2,
+  "wer": 0.15,
+  "reference": "THE CHARACTERS GOT MASSIVE AMOUNTS OF SKIN CANCER FROM THE MERCURY IN THE PAINTS BECAUSE THE LIGHTING WAS SO POOR",
+  "utterance_id": "e954a9598660",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C06-B"
+}

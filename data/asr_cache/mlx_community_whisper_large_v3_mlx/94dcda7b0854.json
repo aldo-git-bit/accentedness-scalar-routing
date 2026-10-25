@@ -1,0 +1,12 @@
+{
+  "text": "I was a kid, okay? I was a dip standard when I read.",
+  "avg_logprob": -0.3312896092732747,
+  "no_speech_prob": 0.10744817554950714,
+  "wall_clock_seconds": 0.6978597500019532,
+  "n_segments": 2,
+  "wer": 0.21428571428571427,
+  "reference": "I WAS A KID OKAY I WAS IN FIFTH STANDARD WHEN I READ IT",
+  "utterance_id": "94dcda7b0854",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-A"
+}

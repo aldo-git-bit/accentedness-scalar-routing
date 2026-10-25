@@ -1,0 +1,12 @@
+{
+  "text": "Rock a lunch.",
+  "avg_logprob": -0.7297960690089634,
+  "no_speech_prob": 0.07332275807857513,
+  "wall_clock_seconds": 0.0192877499939641,
+  "n_segments": 1,
+  "wer": 1.5,
+  "reference": "ROCKET LAUNCH",
+  "utterance_id": "d9d30abbff99",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C04-B"
+}

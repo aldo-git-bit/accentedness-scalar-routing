@@ -1,0 +1,12 @@
+{
+  "text": "Well, I had meat and salad and some homemade cherries from my cherry tree in the yard. Tastes excellent.",
+  "avg_logprob": -0.22590252448772563,
+  "no_speech_prob": 5.476086164385441e-12,
+  "wall_clock_seconds": 0.4491594580031233,
+  "n_segments": 2,
+  "wer": 0.13636363636363635,
+  "reference": "WELL I HAD MEAT AND SALAD AND UH SOME HOME UH HOMEMADE CHERRIES FROM MY CHERRY TREE IN THE YARD TASTES EXCELLENT",
+  "utterance_id": "4ad0a5fbe489",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C44-A"
+}

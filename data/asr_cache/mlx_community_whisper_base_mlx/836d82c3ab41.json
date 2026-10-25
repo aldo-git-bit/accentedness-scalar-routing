@@ -1,0 +1,12 @@
+{
+  "text": "Thank you.",
+  "avg_logprob": -0.7171171506245931,
+  "no_speech_prob": 0.5224393010139465,
+  "wall_clock_seconds": 0.03287795800133608,
+  "n_segments": 1,
+  "wer": 2.0,
+  "reference": "YEAH",
+  "utterance_id": "836d82c3ab41",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C20-B"
+}

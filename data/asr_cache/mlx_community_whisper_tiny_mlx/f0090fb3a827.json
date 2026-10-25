@@ -1,0 +1,12 @@
+{
+  "text": "That was a treat. Maybe it didn't. I think it was a treat.",
+  "avg_logprob": -0.6045862978154962,
+  "no_speech_prob": 0.21889248490333557,
+  "wall_clock_seconds": 0.03722512499371078,
+  "n_segments": 2,
+  "wer": 0.6363636363636364,
+  "reference": "THAT WAS A TREAT MAYBE MAYBE I DIDN'T GO AS OFTEN",
+  "utterance_id": "f0090fb3a827",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C22-A"
+}

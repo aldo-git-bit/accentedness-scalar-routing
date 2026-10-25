@@ -1,0 +1,12 @@
+{
+  "text": "I don't give a little bit of it. We should know. I forget. This is a nonsense poem.",
+  "avg_logprob": -0.6668418645858765,
+  "no_speech_prob": 9.498598435575545e-11,
+  "wall_clock_seconds": 0.4520837500022026,
+  "n_segments": 4,
+  "wer": 1.0769230769230769,
+  "reference": "AND THEN GIMBLE IN THE WABE <DTMF> I FORGOT IT'S A NONSENSE POEM",
+  "utterance_id": "d8945d8dd78e",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "So it's quite nice and I was there for about three weeks. Again, we have friends there, we did visit.",
+  "avg_logprob": -0.25504948298136393,
+  "no_speech_prob": 0.04452158883213997,
+  "wall_clock_seconds": 0.07612183300079778,
+  "n_segments": 2,
+  "wer": 0.2,
+  "reference": "SO IT'S IT'S QUITE NICE AND UM I WAS THERE FOR ABOUT THREE WEEKS AGAIN WE HAVE UM WE HAVE FRIENDS THERE WE DID VISIT",
+  "utterance_id": "708aefe2932b",
+  "accent": "Indian English",
+  "speaker": "EDACC-C36-A"
+}

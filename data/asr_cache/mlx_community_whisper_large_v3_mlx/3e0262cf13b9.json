@@ -1,0 +1,12 @@
+{
+  "text": "Everybody in Ireland would have killed to have had the General Lee, but it was never, you'd never see an American car like that in Ireland. It was a Ford Fiesta or nothing.",
+  "avg_logprob": -0.13884320042350076,
+  "no_speech_prob": 0.020664501935243607,
+  "wall_clock_seconds": 0.9700608750026731,
+  "n_segments": 2,
+  "wer": 0.125,
+  "reference": "EVERYBODY IN IRELAND WOULD'VE KILLED TO HAVE HAD THE GENERAL LEE BUT IT WAS NEVER YOU'D NEVER SEE AN AMERICAN CAR LIKE THAT IN IRELAND IT WAS FORD FIESTA OR NOTHING <LAUGH>",
+  "utterance_id": "3e0262cf13b9",
+  "accent": "Irish English",
+  "speaker": "EDACC-C61-A"
+}

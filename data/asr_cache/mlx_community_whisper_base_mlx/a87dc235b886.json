@@ -1,0 +1,12 @@
+{
+  "text": "and just spend all time with the family so we can enjoy the summer.",
+  "avg_logprob": -0.5502016809251573,
+  "no_speech_prob": 0.040203314274549484,
+  "wall_clock_seconds": 0.055888500006403774,
+  "n_segments": 1,
+  "wer": 0.3,
+  "reference": "AND UH JUST SPEND UP ALL SPEND THE WHOLE TIME WITH THE FAMILY SO WE CAN ENJOY THE THIS SUMMER",
+  "utterance_id": "a87dc235b886",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C31-B"
+}

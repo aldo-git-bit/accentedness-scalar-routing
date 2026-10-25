@@ -1,0 +1,12 @@
+{
+  "text": "how to turn on the computer no",
+  "avg_logprob": -0.34365228811899823,
+  "no_speech_prob": 4.46396808406746e-11,
+  "wall_clock_seconds": 0.40134754199243616,
+  "n_segments": 2,
+  "wer": 0.5,
+  "reference": "YEAH HOW TO TURN ON THE COMPUTER AND WHICH MAKE YOU PREPARED",
+  "utterance_id": "74a503d390ff",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C04-B"
+}

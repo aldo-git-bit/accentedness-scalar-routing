@@ -1,0 +1,12 @@
+{
+  "text": "hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang",
+  "avg_logprob": -0.12130076090494792,
+  "no_speech_prob": 3.26091237345949e-11,
+  "wall_clock_seconds": 3.460492833008175,
+  "n_segments": 1,
+  "wer": 223.0,
+  "reference": "MM",
+  "utterance_id": "c7178230104f",
+  "accent": "Irish English",
+  "speaker": "EDACC-C50-B"
+}

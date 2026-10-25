@@ -1,0 +1,12 @@
+{
+  "text": "U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U",
+  "avg_logprob": -0.15145028008355035,
+  "no_speech_prob": 0.39938297867774963,
+  "wall_clock_seconds": 1.723752334000892,
+  "n_segments": 1,
+  "wer": 223.0,
+  "reference": "<NO-SPEECH>",
+  "utterance_id": "cc33550c19f0",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C03-B"
+}

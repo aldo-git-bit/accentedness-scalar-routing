@@ -1,0 +1,12 @@
+{
+  "text": "Yes.",
+  "avg_logprob": -0.6721897125244141,
+  "no_speech_prob": 0.20078960061073303,
+  "wall_clock_seconds": 0.01703937500133179,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "THAT'S RIGHT",
+  "utterance_id": "41426363d27e",
+  "accent": "Indian English",
+  "speaker": "EDACC-C36-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "They don't want the Esto.",
+  "avg_logprob": -3.7003426985307173,
+  "no_speech_prob": 0.060653019696474075,
+  "wall_clock_seconds": 0.9835823749890551,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "YOU'RE NOT AS TALL AS THOSE FOOTBALLERS I USED TO ADMIRE SORRY THOSE BASKETBALLERS I USED TO ADMIRE",
+  "utterance_id": "d7a01b899a42",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-A"
+}

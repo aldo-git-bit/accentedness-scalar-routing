@@ -1,0 +1,12 @@
+{
+  "text": "10.07",
+  "avg_logprob": -3.2983420689900718,
+  "no_speech_prob": 0.1153377890586853,
+  "wall_clock_seconds": 0.23518441700434778,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "KINDA LIKE FILING YOUR TEETH",
+  "utterance_id": "d978507fc304",
+  "accent": "Irish English",
+  "speaker": "EDACC-C50-B"
+}

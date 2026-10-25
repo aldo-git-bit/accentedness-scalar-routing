@@ -1,0 +1,12 @@
+{
+  "text": "The meaning of things, so it's it's quite a fright when you rewatch those cartoons, actually, which is quite funny.",
+  "avg_logprob": -0.2623699347178141,
+  "no_speech_prob": 0.06413109600543976,
+  "wall_clock_seconds": 0.7935415419997298,
+  "n_segments": 1,
+  "wer": 0.13043478260869565,
+  "reference": "THE MEANING OF SOME THINGS SO IT'S IT'S QUITE A FRIGHT WHEN YOU REWATCH THOSE CARTOONS ACTUALLY WHICH IS QUITE QUITE FUNNY UM",
+  "utterance_id": "1c16f024bc75",
+  "accent": "Irish English",
+  "speaker": "EDACC-C47-A"
+}

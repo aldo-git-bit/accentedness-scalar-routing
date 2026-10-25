@@ -1,0 +1,12 @@
+{
+  "text": "I agree because I really like the look of these new electric cars. It's amazing how silent they are.",
+  "avg_logprob": -0.23538335164388022,
+  "no_speech_prob": 0.0002483802963979542,
+  "wall_clock_seconds": 0.15988383299918496,
+  "n_segments": 2,
+  "wer": 0.0,
+  "reference": "I AGREE BECAUSE I REALLY LIKE THE LOOK OF THESE NEW ELECTRIC CARS IT'S AMAZING HOW SILENT THEY ARE",
+  "utterance_id": "4f76d3d2f8b4",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-A"
+}

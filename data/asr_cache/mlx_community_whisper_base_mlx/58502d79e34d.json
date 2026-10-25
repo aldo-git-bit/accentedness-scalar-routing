@@ -1,0 +1,12 @@
+{
+  "text": "",
+  "avg_logprob": 0.0,
+  "no_speech_prob": 0.0,
+  "wall_clock_seconds": 0.035042625007918105,
+  "n_segments": 0,
+  "wer": 1.0,
+  "reference": "OKAY",
+  "utterance_id": "58502d79e34d",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C31-B"
+}

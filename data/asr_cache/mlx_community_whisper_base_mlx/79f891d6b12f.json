@@ -1,0 +1,12 @@
+{
+  "text": "I don't know if the Lord of the Rings, they talk different. Maybe they do, I don't know. But it was, I noticed it, at least when I read it, when I was 15 or something like this, it was quite challenging, it was different. I don't know why we were talking about this.",
+  "avg_logprob": -0.26714522750289355,
+  "no_speech_prob": 0.17027735710144043,
+  "wall_clock_seconds": 0.16696095900260843,
+  "n_segments": 6,
+  "wer": 0.14516129032258066,
+  "reference": "UH AND I DON'T KNOW IF THE LORD OF THE RINGS THAT THEY THEY TALK DIFFERENT MAYBE THEY DO I DON'T KNOW BUT IT WAS IT WAS I I NOTICED IT AT LEAST WHEN I READ IT WHEN I WAS FIFTEEN OR SOMETHING LIKE THIS IT WAS QUITE CHALLENGING IT WAS DIFFERENT I DON'T KNOW WHY WE WERE TALKING ABOUT THIS BUT",
+  "utterance_id": "79f891d6b12f",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C20-B"
+}

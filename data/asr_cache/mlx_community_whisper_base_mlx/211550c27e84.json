@@ -1,0 +1,12 @@
+{
+  "text": "So my idea is FC422-P2.",
+  "avg_logprob": -0.8072471618652344,
+  "no_speech_prob": 0.04735752195119858,
+  "wall_clock_seconds": 0.050257708004210144,
+  "n_segments": 1,
+  "wer": 0.7272727272727273,
+  "reference": "SO MY ID IS F C FOUR TWO DASH P TWO",
+  "utterance_id": "211550c27e84",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-B"
+}

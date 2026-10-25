@@ -1,0 +1,12 @@
+{
+  "text": "I love to buy like, I want to tell you to be to buy, I want to be to be seated and buy, but I don't have to do a percentage. I just love to buy.",
+  "avg_logprob": -0.6943586699816645,
+  "no_speech_prob": 0.0586649626493454,
+  "wall_clock_seconds": 0.06733400000666734,
+  "n_segments": 3,
+  "wer": 0.9629629629629629,
+  "reference": "I LOVE DUBAI LIKE I'VE ALWAYS WANTED TO BE DUBAI I'VE I'VE ALWAYS WANTED TO VISIT DUBAI BUT I'VE NOT HAD THE OPPORTUNITY I JUST LOVE DUBAI",
+  "utterance_id": "6f2d56dad193",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C41-A"
+}

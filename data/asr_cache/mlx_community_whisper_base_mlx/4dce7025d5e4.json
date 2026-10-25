@@ -1,0 +1,12 @@
+{
+  "text": "with reading and",
+  "avg_logprob": -0.7075702349344889,
+  "no_speech_prob": 0.09048020839691162,
+  "wall_clock_seconds": 0.03371345900814049,
+  "n_segments": 1,
+  "wer": 0.3333333333333333,
+  "reference": "REA READING AND",
+  "utterance_id": "4dce7025d5e4",
+  "accent": "Indian English",
+  "speaker": "EDACC-C34-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Do you have any specific questions? Do you have any specific questions for children?",
+  "avg_logprob": -0.8143315088181269,
+  "no_speech_prob": 0.2874351441860199,
+  "wall_clock_seconds": 0.686402375002217,
+  "n_segments": 2,
+  "wer": 0.8666666666666667,
+  "reference": "SO LIKE THERE IN PERS PERSON <OVERLAP> GIVE ME A SPECIFIC REASON FOR CHOOSING LONDON",
+  "utterance_id": "4bdeee26c047",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-B"
+}

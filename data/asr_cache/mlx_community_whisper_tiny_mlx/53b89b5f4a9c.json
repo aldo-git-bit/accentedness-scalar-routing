@@ -1,0 +1,12 @@
+{
+  "text": "That's a little in this.",
+  "avg_logprob": -0.7387541770935059,
+  "no_speech_prob": 0.07242227345705032,
+  "wall_clock_seconds": 0.022897499991813675,
+  "n_segments": 1,
+  "wer": 0.8333333333333334,
+  "reference": "THAT'S AN ITALIAN DISH SO UM",
+  "utterance_id": "53b89b5f4a9c",
+  "accent": "Indian English",
+  "speaker": "EDACC-C36-A"
+}

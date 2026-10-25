@@ -1,0 +1,12 @@
+{
+  "text": "Got it",
+  "avg_logprob": -1.8899347305297851,
+  "no_speech_prob": 0.2800733149051666,
+  "wall_clock_seconds": 2.950136957999348,
+  "n_segments": 1,
+  "wer": 0.5,
+  "reference": "THOUGHT IT",
+  "utterance_id": "4dde594b0cb1",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C42-B"
+}

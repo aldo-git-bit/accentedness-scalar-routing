@@ -1,0 +1,12 @@
+{
+  "text": "Oh my god, greets are amazing. My long pants are always by an extra pack because I just want to let it like in the shop and so or in the shop.",
+  "avg_logprob": -0.5988043043348524,
+  "no_speech_prob": 0.049137506633996964,
+  "wall_clock_seconds": 0.09828833398933057,
+  "n_segments": 4,
+  "wer": 0.45161290322580644,
+  "reference": "OH MY GOD GRAPES ARE AMAZING MY MOM HAD TO ALWAYS BUY AN EXTRA PACK 'CAUSE I JUST MUNCH IT LIKE IN THE SHOPPING CENTER OR IN THE IN THE SHOP",
+  "utterance_id": "5c2a1446157e",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-B"
+}

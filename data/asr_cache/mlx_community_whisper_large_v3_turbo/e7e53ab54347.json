@@ -1,0 +1,12 @@
+{
+  "text": "Absolutely none of them. No.",
+  "avg_logprob": -0.44735435644785565,
+  "no_speech_prob": 1.1251407791568191e-11,
+  "wall_clock_seconds": 0.4006951250048587,
+  "n_segments": 2,
+  "wer": 0.0,
+  "reference": "ABSOLUTELY NONE OF THEM NO",
+  "utterance_id": "e7e53ab54347",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "You told me you there.",
+  "avg_logprob": -0.7737545437282987,
+  "no_speech_prob": 0.14882352948188782,
+  "wall_clock_seconds": 0.5390598329977365,
+  "n_segments": 1,
+  "wer": 0.7777777777777778,
+  "reference": "HOW OLD WERE YOU HOW OLD WERE YOU THEN",
+  "utterance_id": "dd77e214e9ee",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-A"
+}

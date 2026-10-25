@@ -1,0 +1,12 @@
+{
+  "text": "Humans swim, human beings swim. So you must not be a fish before you swim.",
+  "avg_logprob": -0.343763600225034,
+  "no_speech_prob": 2.532559752188579e-11,
+  "wall_clock_seconds": 0.4284846660011681,
+  "n_segments": 2,
+  "wer": 0.0625,
+  "reference": "<LAUGH> HUMANS SWIM HUMAN BEINGS SWIM SO YOU MUST NOT BE A FISH BEFORE YOU SWIM",
+  "utterance_id": "b80244bc5ea9",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C41-A"
+}

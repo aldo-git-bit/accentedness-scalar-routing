@@ -1,0 +1,12 @@
+{
+  "text": "so weird",
+  "avg_logprob": -0.44940719604492185,
+  "no_speech_prob": 1.3483269405492604e-12,
+  "wall_clock_seconds": 0.38436433298920747,
+  "n_segments": 1,
+  "wer": 0.5,
+  "reference": "YES SO WEIRD <LAUGH>",
+  "utterance_id": "d03ecbabd1ae",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C63-B"
+}

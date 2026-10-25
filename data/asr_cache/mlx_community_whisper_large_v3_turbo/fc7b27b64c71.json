@@ -1,0 +1,12 @@
+{
+  "text": "It really doesn't have a taste, like a very strong taste, but it's really meaty.",
+  "avg_logprob": -0.16951024532318115,
+  "no_speech_prob": 1.2790612319291128e-11,
+  "wall_clock_seconds": 0.4302731250063516,
+  "n_segments": 1,
+  "wer": 0.16666666666666666,
+  "reference": "UH IT REALLY DOESN'T HAVE A TASTE LIKE A VERY STRONG TASTE BUT IT'S UM IT'S REALLY MEATY",
+  "utterance_id": "fc7b27b64c71",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C42-B"
+}

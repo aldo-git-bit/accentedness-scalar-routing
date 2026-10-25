@@ -1,0 +1,12 @@
+{
+  "text": "I remember that cartoon, I've seen it.",
+  "avg_logprob": -0.26576964671795184,
+  "no_speech_prob": 0.06978792697191238,
+  "wall_clock_seconds": 0.5903877919990919,
+  "n_segments": 1,
+  "wer": 0.14285714285714285,
+  "reference": "I REMEMBERED THAT CARTOON I'VE SEEN IT",
+  "utterance_id": "5d140805d5af",
+  "accent": "Irish English",
+  "speaker": "EDACC-C47-B"
+}

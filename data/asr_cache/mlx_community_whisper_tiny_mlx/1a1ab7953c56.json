@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, just a wee bit too far away. So please I've never been. Loved in skull in my whole life, I've never been to John on Grotes. Some of that I think would be quite interesting to see. You'd be no.",
+  "avg_logprob": -0.511195674087062,
+  "no_speech_prob": 0.010809223167598248,
+  "wall_clock_seconds": 0.08720525000535417,
+  "n_segments": 6,
+  "wer": 0.35,
+  "reference": "YEAH JUST A WEE BIT TOO FAR AWAY IT'S A PLACE I'VE NEVER BEEN LIVED IN SCOTLAND MY WHOLE LIFE I'VE NEVER BEEN TO JOHN O' GROATS SOMEWHERE THAT I THINK IT'D BE QUITE INTERESTING TO SEE YOU'VE BEEN <DTMF>",
+  "utterance_id": "1a1ab7953c56",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

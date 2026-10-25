@@ -1,0 +1,12 @@
+{
+  "text": "the best.",
+  "avg_logprob": -0.7260832383897571,
+  "no_speech_prob": 0.21845164895057678,
+  "wall_clock_seconds": 0.9628879579977365,
+  "n_segments": 44,
+  "wer": 1.0,
+  "reference": "LIKE KNOWING THAT THERE ARE OTHER",
+  "utterance_id": "c41040e6e081",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-A"
+}

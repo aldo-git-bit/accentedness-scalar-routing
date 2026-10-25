@@ -1,0 +1,12 @@
+{
+  "text": "hang on.",
+  "avg_logprob": -0.8805189344618054,
+  "no_speech_prob": 4.7886659915175045e-11,
+  "wall_clock_seconds": 3.432793208005023,
+  "n_segments": 44,
+  "wer": 2.0,
+  "reference": "WHY",
+  "utterance_id": "20f1cc746a07",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C22-A"
+}

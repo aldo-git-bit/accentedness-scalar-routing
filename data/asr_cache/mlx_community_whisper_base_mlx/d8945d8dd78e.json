@@ -1,0 +1,12 @@
+{
+  "text": "and give them the wave. We should know. I feel like this is nonsense for you.",
+  "avg_logprob": -0.7848856999323918,
+  "no_speech_prob": 0.0829705074429512,
+  "wall_clock_seconds": 0.06901387499237899,
+  "n_segments": 3,
+  "wer": 1.0,
+  "reference": "AND THEN GIMBLE IN THE WABE <DTMF> I FORGOT IT'S A NONSENSE POEM",
+  "utterance_id": "d8945d8dd78e",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-B"
+}

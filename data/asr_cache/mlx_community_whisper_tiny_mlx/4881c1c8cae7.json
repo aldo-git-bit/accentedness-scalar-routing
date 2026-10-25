@@ -1,0 +1,12 @@
+{
+  "text": "Please call Stella, ask her to bring these things with her from the store. Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snuck for her brother Bob. We also need a small plastic snake and a big toy frog for the kids. She can scoop these things into three red bags and we will go meet her Wednesday at the train station. So I think we were, had decided to talk about some television memories from when we were kids. And what it was like kind of growing up in Ireland and the late 70s and 80s.",
+  "avg_logprob": -0.24738059166247753,
+  "no_speech_prob": 0.01890248494843642,
+  "wall_clock_seconds": 0.17344516699085943,
+  "n_segments": 6,
+  "wer": 104.0,
+  "reference": "IGNORE_TIME_SEGMENT_IN_SCORING",
+  "utterance_id": "4881c1c8cae7",
+  "accent": "Irish English",
+  "speaker": "EDACC-C61-B"
+}

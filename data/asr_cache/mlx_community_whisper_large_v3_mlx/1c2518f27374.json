@@ -1,0 +1,12 @@
+{
+  "text": "But no, I was a very strange kid. I don't know.",
+  "avg_logprob": -0.4063605308532715,
+  "no_speech_prob": 0.02042834274470806,
+  "wall_clock_seconds": 0.6728479589983181,
+  "n_segments": 2,
+  "wer": 0.15384615384615385,
+  "reference": "BUT NO I WAS A VERY STRANGE KID I DON'T I DON'T KNOW",
+  "utterance_id": "1c2518f27374",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C04-B"
+}

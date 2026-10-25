@@ -1,0 +1,12 @@
+{
+  "text": "No, no, I definitely love it. It's a great city. I can see myself living there forever. Or at least living there for a really long time. My husband, Manjsta and I, I don't think I can live here.",
+  "avg_logprob": -0.5518644947116658,
+  "no_speech_prob": 0.022171776741743088,
+  "wall_clock_seconds": 0.13383633400371764,
+  "n_segments": 3,
+  "wer": 0.3333333333333333,
+  "reference": "NO NO I DEFINITELY LOVE IT LIKE IT IT'S A GREAT CITY I I CAN SEE MYSELF LIVING THERE FOREVER YOU KNOW OR AT LEAST LIVING THERE FOR A REALLY LONG TIME LIKE HOW LIKE LIKE IN LIKE WHEN I WENT TO MANCHESTER AND I IT'S LIKE I DON'T THINK I CAN LIVE HERE",
+  "utterance_id": "0014fac04b52",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "something I'd be there to go and see. Oh, book. Yeah. Did you.",
+  "avg_logprob": -0.40696498325892855,
+  "no_speech_prob": 7.488206560900268e-13,
+  "wall_clock_seconds": 0.44555275001039263,
+  "n_segments": 4,
+  "wer": 0.2777777777777778,
+  "reference": "SOMETHING I'D BE THERE TO GO AND SEE UM OH BOOK YEAH DID YOU READ THE HARRY POTTERS",
+  "utterance_id": "59fba5f24184",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Absolutely, I've heard great things about it. I've heard our ragu is very good as well, actually.",
+  "avg_logprob": -0.2414134617509513,
+  "no_speech_prob": 0.00442784046754241,
+  "wall_clock_seconds": 0.7858557500003371,
+  "n_segments": 2,
+  "wer": 0.29411764705882354,
+  "reference": "OH ABSOLUTELY I'VE HEARD GREAT THINGS OF IT HEARD THEIR RAG\u00f9 IS VERY GOOD AS WELL ACTUALLY",
+  "utterance_id": "17e401a91c04",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Thank you.",
+  "avg_logprob": -0.8178974787394205,
+  "no_speech_prob": 0.3033970892429352,
+  "wall_clock_seconds": 0.018890459003159776,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "I'VE HEARD GREAT THINGS ABOUT IT",
+  "utterance_id": "175ffd026e6d",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

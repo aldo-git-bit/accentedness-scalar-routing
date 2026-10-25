@@ -1,0 +1,12 @@
+{
+  "text": "I pull out my gun and like where is it? Anything.",
+  "avg_logprob": -0.5755036671956381,
+  "no_speech_prob": 0.14837656915187836,
+  "wall_clock_seconds": 0.05587316700257361,
+  "n_segments": 2,
+  "wer": 0.2857142857142857,
+  "reference": "LIKE I PULL OUT MY GUN AND LIKE WHERE IS IT AND IT <LAUGH>",
+  "utterance_id": "002b8637c609",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C28-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, absolutely. I think it's a... I do generally think that it's a great idea having an electric car. There's a lot to put against it. And as you said earlier on, sorry, the noise and how quiet it is, et cetera. A lot of companies try to develop specific noises so that people can hear them coming, et cetera.",
+  "avg_logprob": -0.22672600798554474,
+  "no_speech_prob": 0.008223037235438824,
+  "wall_clock_seconds": 1.5211733340001956,
+  "n_segments": 8,
+  "wer": 0.208955223880597,
+  "reference": "YEP YEP OH ABSOLUTELY I THINK IT'S UH UM I I DO GENERALLY THINK THAT IT'S A GREAT IDEA HAVING ELECTRIC CAR A LOT TO <DTMF> AGAINST IT AND AND AS YOU SAID EARLIER ON SORRY THE UH THE THE NOISE AND HOW QUIET IT IS ET CETERA A LOT OF COMPANIES TRY TO DEVELOP SPECIFIC NOISES UH SO THAT PEOPLE CAN HEAR THEM COMING ET CETERA",
+  "utterance_id": "409507d3dafd",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

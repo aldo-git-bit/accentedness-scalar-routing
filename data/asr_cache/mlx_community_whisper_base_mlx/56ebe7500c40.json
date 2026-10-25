@@ -1,0 +1,12 @@
+{
+  "text": "I don't have any like least-terridden about it except the fact that they have like a very ridiculous price for their houses, especially like all these various more studio apartments. It is like it grows like a very huge amount. I mean, we don't have to like leave somewhere.",
+  "avg_logprob": -0.5819341546013241,
+  "no_speech_prob": 0.3246787413954735,
+  "wall_clock_seconds": 0.1774199579958804,
+  "n_segments": 4,
+  "wer": 0.328125,
+  "reference": "YEAH I WOULDN'T SAY I HAVE ANY LIKE UM I DON'T HAVE I DON'T HAVE ANY LIKE LIST EVERYTHING ABOUT IT EXCEPT THE FACT THAT THEY HAVE LIKE A VERY RIDICULOUS PRICES FOR THEIR HOUSES ESPECIALLY LIKE ALL THESE VARIOUS SMALL STUDIO APARTMENTS IT IS LIKE IT GOES LIKE A VERY HUGE AMOUNT WELL I MEAN BECAUSE WE ALL HAVE TO LIKE LIVE SOMEWHERE",
+  "utterance_id": "56ebe7500c40",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-B"
+}

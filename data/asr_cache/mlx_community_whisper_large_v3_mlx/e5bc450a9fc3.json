@@ -1,0 +1,12 @@
+{
+  "text": "Maybe.",
+  "avg_logprob": -0.6576943397521973,
+  "no_speech_prob": 0.04379357025027275,
+  "wall_clock_seconds": 0.48816837499907706,
+  "n_segments": 1,
+  "wer": 0.5,
+  "reference": "<DTMF> MAYBE",
+  "utterance_id": "e5bc450a9fc3",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C14-A"
+}

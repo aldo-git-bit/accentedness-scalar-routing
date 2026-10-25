@@ -1,0 +1,12 @@
+{
+  "text": "He's nice, nice, nice, nice, nice. Bye, bye.",
+  "avg_logprob": -0.7313643410092309,
+  "no_speech_prob": 0.1128879189491272,
+  "wall_clock_seconds": 0.061251208011526614,
+  "n_segments": 2,
+  "wer": 1.1428571428571428,
+  "reference": "YOU KNOW IT'S NOT EASY AS <DTMF>",
+  "utterance_id": "fee28f379471",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-A"
+}

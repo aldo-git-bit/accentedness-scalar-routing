@@ -1,0 +1,12 @@
+{
+  "text": "No, no. If there was anything like recycling when we were younger, it was on a very small level.",
+  "avg_logprob": -0.1524481589977558,
+  "no_speech_prob": 6.5672979207564985e-12,
+  "wall_clock_seconds": 0.43663320800988004,
+  "n_segments": 1,
+  "wer": 0.14285714285714285,
+  "reference": "NO NO I IF IF THERE WAS ANYTHING LIKE RECYCLING WHEN WE WERE YOUNGER IT WAS IN A VERY SMALL LEVEL",
+  "utterance_id": "ef63ee5b5321",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

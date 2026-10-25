@@ -1,0 +1,12 @@
+{
+  "text": "I don't know anything about it. It's so hard to keep a track of it sometimes. I don't doubt though that if it was to affect me I would find out and do the right thing.",
+  "avg_logprob": -0.28847797880781456,
+  "no_speech_prob": 0.017724180594086647,
+  "wall_clock_seconds": 0.22138129199811374,
+  "n_segments": 2,
+  "wer": 0.1,
+  "reference": "NO I DON'T KNOW ANYTHING ABOUT IT IT'S SO HARD TO KEEP A TRACK OF IT SOMETIMES THOUGH UM I DON'T DOUBT THOUGH THAT IF IT WAS TO AFFECT ME I WOULD FIND OUT AND AND DO THE RIGHT THING",
+  "utterance_id": "31fb94952b5f",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

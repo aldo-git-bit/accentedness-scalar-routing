@@ -1,0 +1,12 @@
+{
+  "text": "Yeah.",
+  "avg_logprob": -0.673856544494629,
+  "no_speech_prob": 2.163915747976919e-11,
+  "wall_clock_seconds": 0.3848008750064764,
+  "n_segments": 1,
+  "wer": 0.0,
+  "reference": "YEAH",
+  "utterance_id": "22e3d5886383",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C63-B"
+}

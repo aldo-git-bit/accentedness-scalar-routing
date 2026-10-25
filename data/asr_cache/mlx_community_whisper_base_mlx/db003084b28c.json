@@ -1,0 +1,12 @@
+{
+  "text": "Imam",
+  "avg_logprob": -4.323223114013672,
+  "no_speech_prob": 0.2675248682498932,
+  "wall_clock_seconds": 0.2090925420052372,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "YEAH YEAH",
+  "utterance_id": "db003084b28c",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C33-A"
+}

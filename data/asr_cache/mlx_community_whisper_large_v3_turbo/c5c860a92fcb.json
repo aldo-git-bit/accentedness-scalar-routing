@@ -1,0 +1,12 @@
+{
+  "text": "You know, road rash is worse. Like, I would rather break something than get, you know, road rash.",
+  "avg_logprob": -0.17318334250614562,
+  "no_speech_prob": 3.2275909375711898e-12,
+  "wall_clock_seconds": 0.44317625000257976,
+  "n_segments": 2,
+  "wer": 0.4375,
+  "reference": "AND ALL ROAD RASHES WAS LIKE I'D RATHER BREAK SOMETHING THAN GET YOU KNOW ROAD RASH",
+  "utterance_id": "c5c860a92fcb",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B"
+}

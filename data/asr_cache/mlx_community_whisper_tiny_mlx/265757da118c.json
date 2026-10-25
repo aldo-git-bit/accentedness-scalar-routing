@@ -1,0 +1,12 @@
+{
+  "text": "It looks 147 because this one's a had to buy because the library did the husband.",
+  "avg_logprob": -0.6933788819746538,
+  "no_speech_prob": 0.01629839837551117,
+  "wall_clock_seconds": 0.0365660840034252,
+  "n_segments": 1,
+  "wer": 0.6190476190476191,
+  "reference": "BOOKS ONE FOUR AND SEVEN BECAUSE BECAUSE THOSE ARE THE ONES I HAD TO BUY BECAUSE THE LIBRARY DIDN'T HAVE THEM",
+  "utterance_id": "265757da118c",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C03-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang",
+  "avg_logprob": -0.26313861423068574,
+  "no_speech_prob": 1.0519060622549148e-10,
+  "wall_clock_seconds": 3.4327824170031818,
+  "n_segments": 4,
+  "wer": 23.333333333333332,
+  "reference": "LIKE ALSO <DTMF>",
+  "utterance_id": "2c77cb70731d",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C32-A"
+}

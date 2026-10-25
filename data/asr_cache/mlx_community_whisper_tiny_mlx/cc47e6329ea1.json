@@ -1,0 +1,12 @@
+{
+  "text": "but don't say that. Thank you.",
+  "avg_logprob": -0.9355509440104167,
+  "no_speech_prob": 0.044641073793172836,
+  "wall_clock_seconds": 0.5827766250004061,
+  "n_segments": 44,
+  "wer": 1.5,
+  "reference": "IT'S A LOT SAFER",
+  "utterance_id": "cc47e6329ea1",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-B"
+}

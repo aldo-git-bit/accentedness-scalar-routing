@@ -1,0 +1,12 @@
+{
+  "text": "cafeteria food which is I ate a lot of ham sandwiches for three days.",
+  "avg_logprob": -0.39093766212463377,
+  "no_speech_prob": 3.922895428637441e-12,
+  "wall_clock_seconds": 0.42015804100083187,
+  "n_segments": 2,
+  "wer": 0.07142857142857142,
+  "reference": "CAFETERIA FOOD WHICH WAS I ATE A LOT OF HAM SANDWICHES FOR THREE DAYS",
+  "utterance_id": "5a12a0be8b07",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B"
+}

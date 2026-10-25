@@ -1,0 +1,12 @@
+{
+  "text": "Fifth.",
+  "avg_logprob": -3.6884989057268416,
+  "no_speech_prob": 0.29093778133392334,
+  "wall_clock_seconds": 0.12365733399929013,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "<LAUGH>",
+  "utterance_id": "9eb6ced8c674",
+  "accent": "Irish English",
+  "speaker": "EDACC-C47-A"
+}

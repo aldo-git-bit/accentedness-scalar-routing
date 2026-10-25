@@ -1,0 +1,12 @@
+{
+  "text": "I think British accent school, I don't see it. It's cool, I like it. It's good, I guess. Just what I like, you kind of distinct you from others. You know, it was, it was, it was, if you see a British person, my not one's best name, just make a sentence. You didn't let me tell you the best name from.",
+  "avg_logprob": -0.6877633666992188,
+  "no_speech_prob": 0.053306035697460175,
+  "wall_clock_seconds": 0.12465354200685397,
+  "n_segments": 8,
+  "wer": 0.5063291139240507,
+  "reference": "I THINK UH I BRITISH ACCENT IS COOL I I I DON'T HATE IT IT'S COOL I LIKE I LIKE IT UH IT'S 'CAUSE I GUESS JUST JUST WHY I LIKE IT BUT IT KIND OF THIS UH DISTANCE YOU FROM OTHERS MAYBE UH ONCE IF IF BECAUSE IF YOU IF YOU SEE A BRITISH PERSON MIGHT NOT KNOW ONCE A PERSON JUST MM UM MAKE A SENTENCE YOU YOU WOULD DEFINITELY TELL YOU WHERE THE PERSON IS FROM",
+  "utterance_id": "4e94afa72bad",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-A"
+}

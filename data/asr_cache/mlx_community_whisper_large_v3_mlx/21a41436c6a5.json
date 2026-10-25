@@ -1,0 +1,12 @@
+{
+  "text": "Oh yeah, do not remember his name.",
+  "avg_logprob": -0.3764634927113851,
+  "no_speech_prob": 0.08522529900074005,
+  "wall_clock_seconds": 0.5765262499990058,
+  "n_segments": 1,
+  "wer": 0.5,
+  "reference": "OH YEAH I CANNOT REMEMBER HIS NAME <DTMF> HER NAME",
+  "utterance_id": "21a41436c6a5",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-A"
+}

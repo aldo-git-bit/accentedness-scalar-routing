@@ -1,0 +1,12 @@
+{
+  "text": "Yeah. So we'll discuss that one of these days, you know, we'll discuss this. Thank you so much for your time. I really appreciate it. I can't thank you. And I'll thank you very much.",
+  "avg_logprob": -0.3623922489307545,
+  "no_speech_prob": 0.011901925317943096,
+  "wall_clock_seconds": 0.07976904200040735,
+  "n_segments": 3,
+  "wer": 0.17142857142857143,
+  "reference": "YEAH SO WE'LL DISCUSS THAT ONE OF THESE DAYS YOU KNOW ONE OF THESE DAYS THANK YOU SO MUCH FOR YOUR TIME I REALLY APPRECIATE IT I CAN'T THANK YOU ENOUGH THANK YOU VERY MUCH",
+  "utterance_id": "809e65ad48f9",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-A"
+}

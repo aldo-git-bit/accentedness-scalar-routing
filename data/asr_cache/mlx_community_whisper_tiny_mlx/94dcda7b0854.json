@@ -1,0 +1,12 @@
+{
+  "text": "I was a kid. I was a kid. I was a kid. I was a kid. I was a kid. I was a kid. I was a kid.",
+  "avg_logprob": -0.45367465549045133,
+  "no_speech_prob": 0.0188125092536211,
+  "wall_clock_seconds": 1.643824874990969,
+  "n_segments": 27,
+  "wer": 1.5,
+  "reference": "I WAS A KID OKAY I WAS IN FIFTH STANDARD WHEN I READ IT",
+  "utterance_id": "94dcda7b0854",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-A"
+}

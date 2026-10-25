@@ -1,0 +1,12 @@
+{
+  "text": "Got them.",
+  "avg_logprob": -1.8937513033548992,
+  "no_speech_prob": 0.336843341588974,
+  "wall_clock_seconds": 0.6337076249983511,
+  "n_segments": 1,
+  "wer": 2.0,
+  "reference": "DAMN",
+  "utterance_id": "85f6faacdbc6",
+  "accent": "Irish English",
+  "speaker": "EDACC-C50-B"
+}

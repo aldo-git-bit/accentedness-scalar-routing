@@ -1,0 +1,12 @@
+{
+  "text": "It tastes really, really good. And normally when I tell people that, they say it's disgusting, but I love it as a kid.",
+  "avg_logprob": -0.24449049101935494,
+  "no_speech_prob": 0.0008141699363477528,
+  "wall_clock_seconds": 0.18661950000023353,
+  "n_segments": 3,
+  "wer": 0.043478260869565216,
+  "reference": "IT TASTES REALLY REALLY GOOD AND NORMALLY WHEN I TELL PEOPLE THAT THEY SAY IT'S DISGUSTING BUT I LOVED IT AS A KID",
+  "utterance_id": "4ab2f0ee6c90",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C11-B"
+}

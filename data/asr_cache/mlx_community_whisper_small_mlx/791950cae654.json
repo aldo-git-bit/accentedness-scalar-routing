@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, yeah, that's some good aspects. Yeah. So I'm not, I'm against the idea of somebody going there in two weeks or three weeks and claims that we have the accent of corona.",
+  "avg_logprob": -0.6389494122199293,
+  "no_speech_prob": 0.03223828971385956,
+  "wall_clock_seconds": 0.23944204200233798,
+  "n_segments": 5,
+  "wer": 0.3333333333333333,
+  "reference": "MM YEAH YEAH THAT'S THAT'S SOMETHING THAT'S <DTMF> YEAH SO UH WELL I'M NOT I'M I'M AGAINST THE IDEA OF SOMEBODY GOING THERE IN TWO WEEKS OR THREE WEEKS TIME AND CLAIMS THAT HE HAS THE ACCENT <DTMF> <LAUGH>",
+  "utterance_id": "791950cae654",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-A"
+}

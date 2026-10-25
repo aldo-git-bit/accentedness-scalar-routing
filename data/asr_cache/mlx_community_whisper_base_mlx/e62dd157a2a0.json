@@ -1,0 +1,12 @@
+{
+  "text": "that the",
+  "avg_logprob": -2.9001541137695312,
+  "no_speech_prob": 0.24618564546108246,
+  "wall_clock_seconds": 1.2942560000083176,
+  "n_segments": 1,
+  "wer": 0.875,
+  "reference": "LIKE YOU KNOW THIS IS THE MESSAGE <OVERLAP>",
+  "utterance_id": "e62dd157a2a0",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-A"
+}

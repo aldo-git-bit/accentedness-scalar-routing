@@ -1,0 +1,12 @@
+{
+  "text": "someone who can dance.",
+  "avg_logprob": -0.9108045101165771,
+  "no_speech_prob": 0.4966413378715515,
+  "wall_clock_seconds": 0.03709637500287499,
+  "n_segments": 1,
+  "wer": 0.5,
+  "reference": "SOMEONE WHO CAN CALM YOU DOWN",
+  "utterance_id": "1d88651ba08e",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-A"
+}

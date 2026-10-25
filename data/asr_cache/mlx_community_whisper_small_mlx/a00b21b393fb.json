@@ -1,0 +1,12 @@
+{
+  "text": "and every drink its character to be honest.",
+  "avg_logprob": -0.6604702870051066,
+  "no_speech_prob": 0.1729414463043213,
+  "wall_clock_seconds": 0.11130599999887636,
+  "n_segments": 1,
+  "wer": 0.5555555555555556,
+  "reference": "I LIKE THE EFFIE TRINKET'S CHARACTER TO BE HONEST",
+  "utterance_id": "a00b21b393fb",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-B"
+}

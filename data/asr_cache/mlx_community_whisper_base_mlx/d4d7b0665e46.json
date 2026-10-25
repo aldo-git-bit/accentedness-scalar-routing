@@ -1,0 +1,12 @@
+{
+  "text": "Let's go for it.",
+  "avg_logprob": -0.9275612301296658,
+  "no_speech_prob": 0.4266423285007477,
+  "wall_clock_seconds": 0.03921037499094382,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "A LAD'S GOT A WATCH",
+  "utterance_id": "d4d7b0665e46",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-B"
+}

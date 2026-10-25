@@ -1,0 +1,12 @@
+{
+  "text": "Thank you.",
+  "avg_logprob": -0.7553780873616537,
+  "no_speech_prob": 0.8776078820228577,
+  "wall_clock_seconds": 0.4987760840012925,
+  "n_segments": 1,
+  "wer": 2.0,
+  "reference": "OKAY",
+  "utterance_id": "eeb00b214156",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-B"
+}

@@ -1,0 +1,11 @@
+{
+  "text": "It's better to go over than under, I guess, right?",
+  "wer": 0.2857142857142857,
+  "reference": "IN CASE SO THAT IT'S BETTER TO GO OVER THAN UNDER I GUESS RIGHT",
+  "utterance_id": "932cb6177e24",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B",
+  "wall_clock_seconds": 0.8473771669960115,
+  "avg_logprob": null,
+  "no_speech_prob": null
+}

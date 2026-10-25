@@ -1,0 +1,12 @@
+{
+  "text": "Now experience, experience is our bliss and our guests.",
+  "avg_logprob": -0.9964273997715541,
+  "no_speech_prob": 0.016499493271112442,
+  "wall_clock_seconds": 0.10513412499858532,
+  "n_segments": 1,
+  "wer": 0.75,
+  "reference": "UH EXPERIENCE EXPERIENCE IS EVERYTHING I GUESS IT'S",
+  "utterance_id": "0479249c426a",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

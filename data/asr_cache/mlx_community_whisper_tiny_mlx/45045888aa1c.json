@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, they're friendly, I was just like awkward because I was just like, no, I'm not really like a real person who works with this company. I'm just like, born, wanted a free-tisha.",
+  "avg_logprob": -0.436159610748291,
+  "no_speech_prob": 0.019752752035856247,
+  "wall_clock_seconds": 0.07446562500263099,
+  "n_segments": 2,
+  "wer": 0.325,
+  "reference": "YEAH THEY WERE VERY FRIENDLY IT WAS JUST LIKE AWKWARD 'CAUSE I WAS JUST LIKE NO I'M NOT I'M NOT REALLY LIKE A REAL PERSON WHO WORKS FOR THIS COMPANY I'M JUST LIKE POOR AND WANTED A FREE T SHIRT",
+  "utterance_id": "45045888aa1c",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C17-B"
+}

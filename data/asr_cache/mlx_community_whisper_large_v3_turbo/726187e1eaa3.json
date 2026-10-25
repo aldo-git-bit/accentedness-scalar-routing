@@ -1,0 +1,12 @@
+{
+  "text": "Any animated ones as a child? Ben 10s?",
+  "avg_logprob": -0.42538896203041077,
+  "no_speech_prob": 2.5116098437139023e-12,
+  "wall_clock_seconds": 0.4167613750032615,
+  "n_segments": 2,
+  "wer": 0.2222222222222222,
+  "reference": "ANY ANIMATED ONES AS A CHILD LIKE BEN TENS",
+  "utterance_id": "726187e1eaa3",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-A"
+}

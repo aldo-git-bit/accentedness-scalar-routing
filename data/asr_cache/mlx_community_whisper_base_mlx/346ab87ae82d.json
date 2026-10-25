@@ -1,0 +1,12 @@
+{
+  "text": "So that's one of the reasons why I like the asset. Yeah. Well, I also like how the sites define that I, I like to go to the South America. I also like the UK or the, I'm sorry, you keep us off from the Premier League. The ball is stubbornness. It's one spot that's I love a lot. So I support us now. So the, no, the UK, the football is premium. I don't know, this soccer. No, no, no, no, no, no, no, no, no. It's a special calling. It's friends call it soccer. I would very call it football.",
+  "avg_logprob": -0.5576352639837321,
+  "no_speech_prob": 0.07311849221587181,
+  "wall_clock_seconds": 0.34344625000085216,
+  "n_segments": 15,
+  "wer": 0.4878048780487805,
+  "reference": "SO THAT'S ONE OF THE REASONS WHY I LIKE UH YEAH THE ACCENT YEAH SO I ALSO LIKE HOW LIKE BESIDES THE FACT THAT I BESIDE THE FACT THAT I UM LIKE TO UM GO TO UM THE TO AMERICA UM I ALSO LIKE THE UK OR THE OR UM I ALSO LIKE UK BECAUSE OF UM THEIR UM PREMIER LEAGUE UH FOOTBALL IS UH IS SO NICE ONE SPORTS THAT'S I LOVE A LOT SO UM I I SUPPORT US NOW SO UM THE NO YEAH THE UK YEAH UM FOOTBALL IS PREMIUM I DON'T KNOW IF IT IS SOCCER I DON'T KNOW IT'S NOT <DTMF> MOST WILL PREFER CALLING IT FRENCH CALL IT SOCCER I PREFER TO CALL IT UH FOOTBALL",
+  "utterance_id": "346ab87ae82d",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-A"
+}

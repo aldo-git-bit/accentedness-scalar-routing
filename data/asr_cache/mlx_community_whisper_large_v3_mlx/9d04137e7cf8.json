@@ -1,0 +1,12 @@
+{
+  "text": "way to wrap",
+  "avg_logprob": -0.7886931101481119,
+  "no_speech_prob": 0.2516462504863739,
+  "wall_clock_seconds": 0.5034141249998356,
+  "n_segments": 1,
+  "wer": 0.75,
+  "reference": "THE WAY THEY RAP",
+  "utterance_id": "9d04137e7cf8",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-B"
+}

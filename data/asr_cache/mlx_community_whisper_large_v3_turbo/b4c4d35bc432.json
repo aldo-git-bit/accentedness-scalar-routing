@@ -1,0 +1,12 @@
+{
+  "text": "So, you know, when we went there, I had to pay a lot of attention to him because he was quite normally there.",
+  "avg_logprob": -0.18763569196065266,
+  "no_speech_prob": 2.0355184551790195e-12,
+  "wall_clock_seconds": 0.4472376250050729,
+  "n_segments": 1,
+  "wer": 0.27586206896551724,
+  "reference": "SO UM YOU KNOW WHEN WE WENT THERE I UM I WAS UM I HAD TO PAY A LOT OF ATTENTION TO HIM BECAUSE HE WAS QUITE LONELY THEN",
+  "utterance_id": "b4c4d35bc432",
+  "accent": "Indian English",
+  "speaker": "EDACC-C36-A"
+}

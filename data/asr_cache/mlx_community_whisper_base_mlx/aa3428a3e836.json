@@ -1,0 +1,12 @@
+{
+  "text": "The wall is like globally known. Okay, hello.",
+  "avg_logprob": -0.8774281740188599,
+  "no_speech_prob": 0.0716063380241394,
+  "wall_clock_seconds": 0.0516682919987943,
+  "n_segments": 2,
+  "wer": 0.5714285714285714,
+  "reference": "DIWALI IS LIKE GLOBALLY KNOWN YOU KNOW",
+  "utterance_id": "aa3428a3e836",
+  "accent": "Indian English",
+  "speaker": "EDACC-C36-A"
+}

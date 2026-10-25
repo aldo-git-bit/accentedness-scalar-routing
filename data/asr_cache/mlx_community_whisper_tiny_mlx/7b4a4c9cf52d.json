@@ -1,0 +1,12 @@
+{
+  "text": "Oh, all right.",
+  "avg_logprob": -0.9428635835647583,
+  "no_speech_prob": 0.304328590631485,
+  "wall_clock_seconds": 0.11002225000993349,
+  "n_segments": 1,
+  "wer": 1.5,
+  "reference": "O ONLINE",
+  "utterance_id": "7b4a4c9cf52d",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Like, you really... What?",
+  "avg_logprob": -0.40390344460805255,
+  "no_speech_prob": 6.293052016992373e-12,
+  "wall_clock_seconds": 0.4014502500067465,
+  "n_segments": 2,
+  "wer": 0.3333333333333333,
+  "reference": "LIKE YOU REALLY",
+  "utterance_id": "9ce77cc9773a",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-B"
+}

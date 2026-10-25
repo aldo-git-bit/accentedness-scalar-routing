@@ -1,0 +1,12 @@
+{
+  "text": "Well, I think you are the best lady in my sacred house. I have talked about loving to read such books.",
+  "avg_logprob": -0.8193000924998316,
+  "no_speech_prob": 0.003359986236318946,
+  "wall_clock_seconds": 0.04986749999807216,
+  "n_segments": 2,
+  "wer": 0.4,
+  "reference": "WELL I THINK I THINK YOU ARE YOU ARE THE FIRST LADY IN MY CIRCLE THAT I'VE HEARD TALK ABOUT LOVING TO READ SUCH BOOKS",
+  "utterance_id": "ba971ebde3b0",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C41-B"
+}

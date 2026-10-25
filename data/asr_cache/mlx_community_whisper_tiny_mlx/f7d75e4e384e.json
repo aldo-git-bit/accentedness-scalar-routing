@@ -1,0 +1,12 @@
+{
+  "text": "Oh yeah.",
+  "avg_logprob": -0.8367193539937338,
+  "no_speech_prob": 0.19307641685009003,
+  "wall_clock_seconds": 0.06809524999698624,
+  "n_segments": 1,
+  "wer": 0.5,
+  "reference": "OH YES",
+  "utterance_id": "f7d75e4e384e",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-A"
+}

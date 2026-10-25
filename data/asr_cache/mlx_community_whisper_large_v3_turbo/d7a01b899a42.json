@@ -1,0 +1,12 @@
+{
+  "text": "You know, I saw those footballers I used to admire. Sorry, those basketballers I used to admire.",
+  "avg_logprob": -0.4027085304260254,
+  "no_speech_prob": 2.057090608964529e-11,
+  "wall_clock_seconds": 0.44025058300758246,
+  "n_segments": 2,
+  "wer": 0.2777777777777778,
+  "reference": "YOU'RE NOT AS TALL AS THOSE FOOTBALLERS I USED TO ADMIRE SORRY THOSE BASKETBALLERS I USED TO ADMIRE",
+  "utterance_id": "d7a01b899a42",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-A"
+}

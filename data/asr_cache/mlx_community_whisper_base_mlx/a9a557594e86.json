@@ -1,0 +1,12 @@
+{
+  "text": "No you need today.",
+  "avg_logprob": -0.6934630870819092,
+  "no_speech_prob": 0.04246840626001358,
+  "wall_clock_seconds": 0.03694720800558571,
+  "n_segments": 1,
+  "wer": 0.6666666666666666,
+  "reference": "NO UNI TODAY",
+  "utterance_id": "a9a557594e86",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C32-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "now we shall back.",
+  "avg_logprob": -0.731662392616272,
+  "no_speech_prob": 0.20700912177562714,
+  "wall_clock_seconds": 0.02127391699468717,
+  "n_segments": 1,
+  "wer": 0.6666666666666666,
+  "reference": "NO WE THROW THEM BACK UM",
+  "utterance_id": "87724e55177c",
+  "accent": "Irish English",
+  "speaker": "EDACC-C50-A"
+}

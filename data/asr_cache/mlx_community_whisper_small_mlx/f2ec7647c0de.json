@@ -1,0 +1,12 @@
+{
+  "text": "and then that idea is to talk.",
+  "avg_logprob": -0.43448439511385833,
+  "no_speech_prob": 0.025378450751304626,
+  "wall_clock_seconds": 0.11244079199968837,
+  "n_segments": 1,
+  "wer": 0.42857142857142855,
+  "reference": "THE THE THEIR IDEA IS TO TALK",
+  "utterance_id": "f2ec7647c0de",
+  "accent": "Indian English",
+  "speaker": "EDACC-C36-A"
+}

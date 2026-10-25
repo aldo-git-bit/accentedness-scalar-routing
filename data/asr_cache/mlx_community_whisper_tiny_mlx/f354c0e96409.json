@@ -1,0 +1,12 @@
+{
+  "text": "I just need a little bit of time. If I just want to try it, I just want to try it. I just want to see. That's why it didn't bother spending my money on it.",
+  "avg_logprob": -0.5929776338430551,
+  "no_speech_prob": 0.013229984790086746,
+  "wall_clock_seconds": 0.07688454200979322,
+  "n_segments": 4,
+  "wer": 0.325,
+  "reference": "I JUST I JUST NEED A LITTLE BIT OF TIME UH IF IF I JUST WANT TO TRY IT I'LL JUST GO AND TRY IT BUT I DON'T FANCY IT THAT'S WHY I DIDN'T BOTHER SPENDING MY MONEY ON IT",
+  "utterance_id": "f354c0e96409",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C41-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Okay, that's fine. How about changing? Can you fight changing? Okay, the pressure change.",
+  "avg_logprob": -0.7912893931070963,
+  "no_speech_prob": 0.06657503545284271,
+  "wall_clock_seconds": 0.04559712500486057,
+  "n_segments": 4,
+  "wer": 0.5882352941176471,
+  "reference": "OKAY THAT'S FINE HOW ABOUT CHIN CHIN CAN YOU FRY CHIN CHIN CAN YOU PREPARE CHIN CHIN",
+  "utterance_id": "c89857cacf79",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C41-A"
+}

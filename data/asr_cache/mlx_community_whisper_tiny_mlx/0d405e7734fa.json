@@ -1,0 +1,12 @@
+{
+  "text": "You sell this when you...",
+  "avg_logprob": -0.6159049140082465,
+  "no_speech_prob": 0.024675313383340836,
+  "wall_clock_seconds": 0.021696292009437457,
+  "n_segments": 1,
+  "wer": 0.5,
+  "reference": "YOU YOU SAW THIS WHEN YOU WERE A",
+  "utterance_id": "0d405e7734fa",
+  "accent": "Irish English",
+  "speaker": "EDACC-C61-A"
+}

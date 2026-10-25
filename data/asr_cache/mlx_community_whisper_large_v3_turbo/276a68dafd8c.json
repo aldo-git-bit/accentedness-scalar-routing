@@ -1,0 +1,12 @@
+{
+  "text": "one",
+  "avg_logprob": -0.7137609720230103,
+  "no_speech_prob": 6.394743068405262e-11,
+  "wall_clock_seconds": 0.3823923750023823,
+  "n_segments": 1,
+  "wer": 0.0,
+  "reference": "ONE",
+  "utterance_id": "276a68dafd8c",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-A"
+}

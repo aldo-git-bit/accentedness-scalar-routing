@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, it doesn't need a good, and I have any different direction, I think. So, it can move away from the animated side of things, not certainly being absolutely animated. They've started to move away and diversify the reforms that we've been doing.",
+  "avg_logprob": -0.6355738486013105,
+  "no_speech_prob": 0.059174854308366776,
+  "wall_clock_seconds": 0.08690920899971388,
+  "n_segments": 3,
+  "wer": 0.6,
+  "reference": "AH YEAH DISNEY ARE GOING IN A A VERY DIFFERENT DIRECTION I THINK UM SO T TO KINDA MOVING AWAY FROM THE ANIMATED SIDE OF THINGS UH NOT CERTAINLY BEING ABSOLUTELY ANIMATED THAT THEY'RE STARTING TO MOVE AWAY AND YOU KNOW DIVERSIFY THEIR THEIR FILMS <DTMF> BUT THAT'S BEEN THE LAST SORT OF DECADE OR SO THEY'VE BEEN DOING THAT",
+  "utterance_id": "92d74ca25407",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

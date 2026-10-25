@@ -1,0 +1,12 @@
+{
+  "text": "It was very, very rare that there was a woman on TV that had that kind of status and made that kind of impression on kids.",
+  "avg_logprob": -0.22764377593994137,
+  "no_speech_prob": 0.0016546334372833371,
+  "wall_clock_seconds": 0.05160299999988638,
+  "n_segments": 3,
+  "wer": 0.0,
+  "reference": "IT WAS VERY VERY RARE THAT THERE WAS A WOMAN ON TV THAT HAD THAT KIND OF STATUS AND MADE THAT KIND OF IMPRESSION ON KIDS",
+  "utterance_id": "a3f519f41e44",
+  "accent": "Irish English",
+  "speaker": "EDACC-C61-A"
+}

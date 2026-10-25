@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, my participant number is FC19P2.",
+  "avg_logprob": -0.18980201653071813,
+  "no_speech_prob": 0.01893090456724167,
+  "wall_clock_seconds": 0.5946817920012109,
+  "n_segments": 1,
+  "wer": 0.6153846153846154,
+  "reference": "YEAH MY PART MY PARTICIPANT NUMBER IS UM F C NINETEEN P TWO",
+  "utterance_id": "32b47cf25a5b",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-B"
+}

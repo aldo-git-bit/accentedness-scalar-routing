@@ -1,0 +1,12 @@
+{
+  "text": "Yep. But there's this famous region in China where they do a lot of salami as well.",
+  "avg_logprob": -0.4994475841522217,
+  "no_speech_prob": 0.0953657403588295,
+  "wall_clock_seconds": 0.06685066698992159,
+  "n_segments": 1,
+  "wer": 0.2777777777777778,
+  "reference": "YEP BUT THERE THERE'S THIS FAMOUS UH REGION IN CHINA WHERE THEY DO A LOT OF CERAMICS RIGHT",
+  "utterance_id": "1f3e88836ec0",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C42-B"
+}

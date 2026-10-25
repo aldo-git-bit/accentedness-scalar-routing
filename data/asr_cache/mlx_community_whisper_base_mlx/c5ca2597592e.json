@@ -1,0 +1,12 @@
+{
+  "text": "Since they're getting a goal for believe that's that's potentially where goal started and a lot of people's eyes",
+  "avg_logprob": -0.5272679328918457,
+  "no_speech_prob": 0.030625637620687485,
+  "wall_clock_seconds": 0.07390220800880343,
+  "n_segments": 2,
+  "wer": 0.4,
+  "reference": "YEAH SINCE THE BEGINNING OF GOLF I BELIEVE THAT'S THAT'S POTENTIALLY WHERE GOLF STARTED IN A LOT OF PEOPLE'S EYES",
+  "utterance_id": "c5ca2597592e",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

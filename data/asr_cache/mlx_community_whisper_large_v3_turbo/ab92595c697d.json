@@ -1,0 +1,12 @@
+{
+  "text": "Oh.",
+  "avg_logprob": -0.9431014060974121,
+  "no_speech_prob": 1.120639622764763e-10,
+  "wall_clock_seconds": 0.3842522079939954,
+  "n_segments": 1,
+  "wer": 0.0,
+  "reference": "OH",
+  "utterance_id": "ab92595c697d",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "That sounds like a village fair, like the village show, or like the county show that would happen like once a year and they'd be like you know, down animal stuff.",
+  "avg_logprob": -0.4476543054348085,
+  "no_speech_prob": 0.13840819895267487,
+  "wall_clock_seconds": 0.09961187500448432,
+  "n_segments": 2,
+  "wer": 0.21052631578947367,
+  "reference": "<LAUGH> THAT SOUNDS LIKE A VILLAGE FAIR LIKE THERE'S LIKE A LIKE THE VILLAGE SHOW OR LIKE THE THE COUNTY SHOW THAT WOULD HAPPEN LIKE ONCE A YEAR AND THEY'D BE LIKE YOU KNOW LITTLE AN ANIMAL STUFF",
+  "utterance_id": "7a82311ed9b5",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C17-B"
+}

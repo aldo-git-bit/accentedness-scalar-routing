@@ -1,0 +1,12 @@
+{
+  "text": "and that it doesn't create our perceived. And so.",
+  "avg_logprob": -0.9039093466366038,
+  "no_speech_prob": 0.058521728962659836,
+  "wall_clock_seconds": 0.03208154099411331,
+  "n_segments": 2,
+  "wer": 0.625,
+  "reference": "AND IT DOES INCLUDE ARTHUR'S SEAT AND SO",
+  "utterance_id": "e28c0331e7f1",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-B"
+}

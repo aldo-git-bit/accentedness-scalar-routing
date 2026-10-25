@@ -1,0 +1,12 @@
+{
+  "text": "the Harry bars. No, really? Yeah, I have not. I tried to, and I got bored.",
+  "avg_logprob": -0.61965411901474,
+  "no_speech_prob": 0.062119148671627045,
+  "wall_clock_seconds": 0.07703866700467188,
+  "n_segments": 4,
+  "wer": 0.45454545454545453,
+  "reference": "YEAH I HAVE NOT I TRIED TO AND I GOT BORED",
+  "utterance_id": "1aee622d7502",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-B"
+}

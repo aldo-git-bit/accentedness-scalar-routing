@@ -1,0 +1,12 @@
+{
+  "text": "I haven't seen a lot of the new redness names.",
+  "avg_logprob": -0.4261311888694763,
+  "no_speech_prob": 0.0284368097782135,
+  "wall_clock_seconds": 0.032326083004591055,
+  "n_segments": 1,
+  "wer": 0.45454545454545453,
+  "reference": "I HAVE I HAVEN'T SEEN A LOT OF THE NEWER DISNEYS",
+  "utterance_id": "a86ccdedb9cb",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C17-B"
+}

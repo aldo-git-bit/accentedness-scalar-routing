@@ -1,0 +1,12 @@
+{
+  "text": "My personal number is FC 19, P2.",
+  "avg_logprob": -0.7296129373403696,
+  "no_speech_prob": 0.09486538171768188,
+  "wall_clock_seconds": 0.02697875000012573,
+  "n_segments": 1,
+  "wer": 0.7692307692307693,
+  "reference": "YEAH MY PART MY PARTICIPANT NUMBER IS UM F C NINETEEN P TWO",
+  "utterance_id": "32b47cf25a5b",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-B"
+}

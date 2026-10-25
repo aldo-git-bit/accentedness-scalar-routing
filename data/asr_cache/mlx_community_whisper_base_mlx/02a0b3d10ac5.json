@@ -1,0 +1,12 @@
+{
+  "text": "Okay, yeah, you know, we don't really have the opportunity to see these wide animals. So the only way to see these animals is just to just have to visit these zoos, not to see these animals and relax your mind. And I think that's fresh air from three, those three flakled in these zoos.",
+  "avg_logprob": -0.5279412880921975,
+  "no_speech_prob": 0.15907147526741028,
+  "wall_clock_seconds": 0.1706307919957908,
+  "n_segments": 4,
+  "wer": 0.3548387096774194,
+  "reference": "A ZOO OKAY YEAH YOU KNOW WE DON'T REALLY HAVE THE OPPORTUNITY TO SEE THESE WILD ANIMALS SO THE ONLY WAY THE EASIEST WAY TO SEE THESE ANIMALS IS JUST IN THE ZOO YOU JUST HAVE TO VISIT THE ZOO IN ORDER TO SEE THESE ANIMALS AND RELAX YOUR MIND EXPERIENCING THAT FRESH AIR FROM TREES THOSE TREES PLANTED IN THE ZOOS",
+  "utterance_id": "02a0b3d10ac5",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C41-A"
+}

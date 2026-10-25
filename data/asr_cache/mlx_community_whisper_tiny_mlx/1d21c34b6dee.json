@@ -1,0 +1,12 @@
+{
+  "text": "Oh, they're lovely. Yeah, I love them. Garlic.",
+  "avg_logprob": -0.6941763727288497,
+  "no_speech_prob": 0.03809332475066185,
+  "wall_clock_seconds": 0.0339290000119945,
+  "n_segments": 2,
+  "wer": 0.125,
+  "reference": "OH THEY'RE LOVELY YEAH I LOVE THEM GARFIELD",
+  "utterance_id": "1d21c34b6dee",
+  "accent": "Irish English",
+  "speaker": "EDACC-C47-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Yes, it'll be really nice to get over there and see them. Who is it that's going away with you? Is it just you and Moira?",
+  "avg_logprob": -0.13538239002227784,
+  "no_speech_prob": 1.1422738839875213e-12,
+  "wall_clock_seconds": 0.476652750003268,
+  "n_segments": 3,
+  "wer": 0.25925925925925924,
+  "reference": "YE YEAH SO IT'LL BE REALLY NICE TO GET OVER THERE AND SEE THEM WHO ELSE IS GOING AWAY WITH YOU IS IT JUST YOU AND LOIDA",
+  "utterance_id": "5188b9c81734",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-A"
+}

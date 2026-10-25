@@ -1,0 +1,12 @@
+{
+  "text": "Imagine you went to her house and she's just stripping your stuff and like, broken bits of glass with her.",
+  "avg_logprob": -0.6246356964111328,
+  "no_speech_prob": 0.009801601991057396,
+  "wall_clock_seconds": 0.16451470900210552,
+  "n_segments": 2,
+  "wer": 0.30434782608695654,
+  "reference": "IMAGINE YOU WENT TO HER HOUSE AND SHE'S JUST SERVING YOU STUFF IN LIKE BROKEN BITS OF GLASS WITH DIRT ON IT <LAUGH>",
+  "utterance_id": "5fc9f3b862c0",
+  "accent": "Irish English",
+  "speaker": "EDACC-C50-B"
+}

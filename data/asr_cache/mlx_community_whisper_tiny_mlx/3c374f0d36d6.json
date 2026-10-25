@@ -1,0 +1,12 @@
+{
+  "text": "Jumpers. Yeah.",
+  "avg_logprob": -0.8956107139587403,
+  "no_speech_prob": 0.2048051655292511,
+  "wall_clock_seconds": 0.023265750001883134,
+  "n_segments": 2,
+  "wer": 1.0,
+  "reference": "PATTERNS THAT ARE MESHED INTO IRISH JUMPERS",
+  "utterance_id": "3c374f0d36d6",
+  "accent": "Irish English",
+  "speaker": "EDACC-C47-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Yeah.",
+  "avg_logprob": -0.3297701835632324,
+  "no_speech_prob": 2.1896841978508164e-11,
+  "wall_clock_seconds": 0.3887703340005828,
+  "n_segments": 1,
+  "wer": 0.0,
+  "reference": "YEAH",
+  "utterance_id": "78ef9f7aa130",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-A"
+}

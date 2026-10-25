@@ -1,0 +1,12 @@
+{
+  "text": "I'm going to go. My first child exam. I've not been easy to my last sentence. The last sentence that I had, it was being I had been my last sentence. I'm a lot of science.",
+  "avg_logprob": -0.6278285322518186,
+  "no_speech_prob": 0.08507706224918365,
+  "wall_clock_seconds": 0.08040629200695548,
+  "n_segments": 6,
+  "wer": 0.6111111111111112,
+  "reference": "<NO-SPEECH> IN MY FIRST SCIENCE EXAM AND I'VE BEEN HAVING AS TILL MY LAST SCIENCE EXAM THE LAST SCIENCE EXAM I HAD IT WAS B I HAD B IN MY LAST SCIENCE EXAM I LOVE SCIENCE",
+  "utterance_id": "535ea494622e",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C41-A"
+}

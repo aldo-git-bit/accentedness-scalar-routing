@@ -1,0 +1,12 @@
+{
+  "text": "We're trying to complete the polka-de-dex, but it was like a 700-polka-de.",
+  "avg_logprob": -0.6648152033487956,
+  "no_speech_prob": 0.006911284755915403,
+  "wall_clock_seconds": 0.04667141698882915,
+  "n_segments": 1,
+  "wer": 0.6,
+  "reference": "WE WERE TRYING TO COMPLETE POKE THE DECKS BUT THERE'S LIKE OVER SEVEN HUNDRED POKEMON",
+  "utterance_id": "273b911ff9c3",
+  "accent": "Irish English",
+  "speaker": "EDACC-C63-A"
+}

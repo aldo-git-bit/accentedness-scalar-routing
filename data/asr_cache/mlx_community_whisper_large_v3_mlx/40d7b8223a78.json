@@ -1,0 +1,12 @@
+{
+  "text": "",
+  "avg_logprob": 0.0,
+  "no_speech_prob": 0.0,
+  "wall_clock_seconds": 0.5168629170002532,
+  "n_segments": 0,
+  "wer": 1.0,
+  "reference": "I WAS <OVERLAP>",
+  "utterance_id": "40d7b8223a78",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C04-B"
+}

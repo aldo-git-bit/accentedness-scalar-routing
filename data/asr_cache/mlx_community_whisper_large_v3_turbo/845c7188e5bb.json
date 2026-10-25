@@ -1,0 +1,12 @@
+{
+  "text": "In twenties time, I shall be as old as her. How old are we now?",
+  "avg_logprob": -0.28245289429374365,
+  "no_speech_prob": 6.637144826793229e-12,
+  "wall_clock_seconds": 0.43308908298786264,
+  "n_segments": 2,
+  "wer": 0.125,
+  "reference": "IN TWENTY YEARS' TIME I SHALL BE AS OLD AS HER HOW OLD ARE WE NOW",
+  "utterance_id": "845c7188e5bb",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C32-B"
+}

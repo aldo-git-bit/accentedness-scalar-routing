@@ -1,0 +1,12 @@
+{
+  "text": "I can make these by making a change in and it can make me not so my next target is Shawama I'll make Shawama soon so I'm just getting it in so ready for it.",
+  "avg_logprob": -0.7037496363863032,
+  "no_speech_prob": 0.025539955124258995,
+  "wall_clock_seconds": 0.07401658300659619,
+  "n_segments": 2,
+  "wer": 0.5526315789473685,
+  "reference": "I THINK I CAN MAKE MEAT PIE I CAN MAKE CHIN CHIN AND I CAN MAKE PEANUTS SO MY NEXT UM TARGET IS SHAWARMA I WILL BE MAKING SHAWARMA SOON SO I'M JUST GETTING SO READY FOR IT",
+  "utterance_id": "82a0f7ee169a",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C41-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Well, definitely something I'll try then. You try the pasta one, I'll try the pizza one.",
+  "avg_logprob": -0.24823104010687935,
+  "no_speech_prob": 0.0019206362776458263,
+  "wall_clock_seconds": 0.1610453339999367,
+  "n_segments": 2,
+  "wer": 0.0625,
+  "reference": "WOW DEFINITELY SOMETHING I'LL TRY THEN YOU TRY THE PASTA ONE I'LL TRY THE PIZZA ONE",
+  "utterance_id": "2c0c24fa4265",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "the",
+  "avg_logprob": -2.5970441818237306,
+  "no_speech_prob": 0.02776923216879368,
+  "wall_clock_seconds": 1.8525190410000505,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "BUT ALSO HARRY POTTER WHICH IS WHY I WAS A HARDCORE POTTERHEAD BECAUSE",
+  "utterance_id": "8c565bd2c911",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-A"
+}

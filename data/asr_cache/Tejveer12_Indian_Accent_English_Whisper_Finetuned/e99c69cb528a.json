@@ -1,0 +1,11 @@
+{
+  "text": "And we ended up getting dinner at eleven-thirty.",
+  "wer": 0.2222222222222222,
+  "reference": "AND WE ENDED UP GETTING DINNER AT ELEVEN THIRTY",
+  "utterance_id": "e99c69cb528a",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B",
+  "wall_clock_seconds": 0.8105638330016518,
+  "avg_logprob": null,
+  "no_speech_prob": null
+}

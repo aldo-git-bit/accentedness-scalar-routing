@@ -1,0 +1,12 @@
+{
+  "text": "",
+  "avg_logprob": 0.0,
+  "no_speech_prob": 0.0,
+  "wall_clock_seconds": 0.03331283300940413,
+  "n_segments": 0,
+  "wer": 1.0,
+  "reference": "ALL RIGHT",
+  "utterance_id": "04b97c95d532",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-B"
+}

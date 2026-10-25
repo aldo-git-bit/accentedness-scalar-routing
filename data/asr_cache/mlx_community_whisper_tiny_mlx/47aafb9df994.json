@@ -1,0 +1,12 @@
+{
+  "text": "Um, obviously not as like themed or like pristine, prestigious as, as Disneyland, but like, you know, something close enough to, and to travel to, although I have to say, like I've looked at traveling to that like, like, often powers is like in the middle of nowhere. And it's,",
+  "avg_logprob": -0.5427793884277343,
+  "no_speech_prob": 0.010992009192705154,
+  "wall_clock_seconds": 0.09707054200407583,
+  "n_segments": 4,
+  "wer": 0.12244897959183673,
+  "reference": "UM OBVIOUSLY NOT AS LIKE THEMED OR LIKE PRISTINE PRESTIGIOUS AS AS DISNEYLAND BUT LIKE YOU KNOW SOMETHING CLOSE ENOUGH TO EDINBURGH TO TRAVEL TO ALTHOUGH I HAVE TO SAY LIKE I'VE LOOKED AT TRAVELLING TO THAT LIKE ALTON TOWERS IS LIKE IN THE MIDDLE OF NOWHERE AND IT",
+  "utterance_id": "47aafb9df994",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C17-A"
+}

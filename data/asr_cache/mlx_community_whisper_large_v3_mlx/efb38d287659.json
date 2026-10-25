@@ -1,0 +1,12 @@
+{
+  "text": "Hi, how are you doing?",
+  "avg_logprob": -0.2648322582244873,
+  "no_speech_prob": 0.03866184502840042,
+  "wall_clock_seconds": 0.5536654579991591,
+  "n_segments": 1,
+  "wer": 0.0,
+  "reference": "HI HOW ARE YOU DOING",
+  "utterance_id": "efb38d287659",
+  "accent": "Indian English",
+  "speaker": "EDACC-C36-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Um, that socks is okay. Okay, what do you do on a cold night?",
+  "avg_logprob": -0.5633544507233993,
+  "no_speech_prob": 0.019928917288780212,
+  "wall_clock_seconds": 0.1460621660007746,
+  "n_segments": 2,
+  "wer": 0.13333333333333333,
+  "reference": "UM NOT SOCKS IS OKAY OKAY WHAT DO YOU DO ON A COLD NIGHT HM",
+  "utterance_id": "ef7e2c3af7a1",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C32-A"
+}

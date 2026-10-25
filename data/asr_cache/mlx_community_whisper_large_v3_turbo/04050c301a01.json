@@ -1,0 +1,12 @@
+{
+  "text": "that would sort of...",
+  "avg_logprob": -0.954887866973877,
+  "no_speech_prob": 6.123350524550597e-13,
+  "wall_clock_seconds": 0.3966932499897666,
+  "n_segments": 1,
+  "wer": 0.5,
+  "reference": "THAT WOULD <OVERLAP> HURT",
+  "utterance_id": "04050c301a01",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-A"
+}

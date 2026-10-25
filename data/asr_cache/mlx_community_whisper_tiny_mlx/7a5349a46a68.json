@@ -1,0 +1,12 @@
+{
+  "text": "So where is you going? The world if you can go anywhere in the world.",
+  "avg_logprob": -0.578883864662864,
+  "no_speech_prob": 0.006510194391012192,
+  "wall_clock_seconds": 0.0381001249916153,
+  "n_segments": 2,
+  "wer": 0.29411764705882354,
+  "reference": "SO WHERE WHERE WOULD YOU GO IN THE WORLD IF YOU COULD GO ANYWHERE IN THE WORLD",
+  "utterance_id": "7a5349a46a68",
+  "accent": "Irish English",
+  "speaker": "EDACC-C50-B"
+}

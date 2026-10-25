@@ -1,0 +1,12 @@
+{
+  "text": "That is something I've never really tried. And I've tried jello. And jello is something I really like eating with salad and chicken.",
+  "avg_logprob": -0.24369641896840688,
+  "no_speech_prob": 0.02906292863190174,
+  "wall_clock_seconds": 0.8771606669979519,
+  "n_segments": 3,
+  "wer": 0.2857142857142857,
+  "reference": "THAT IS SOMETHING I'VE NEVER REALLY TRIED <OVERLAP> AND I I HAVE TRIED JOLLOF AND JOLLOF IS SOMETHING I REALLY LIKE EATING WITH SALAD AND UH CHICKEN GRILL",
+  "utterance_id": "a56edf39940e",
+  "accent": "Indian English",
+  "speaker": "EDACC-C36-A"
+}

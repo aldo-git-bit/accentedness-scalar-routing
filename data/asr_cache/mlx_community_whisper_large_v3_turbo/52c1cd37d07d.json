@@ -1,0 +1,12 @@
+{
+  "text": "hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang",
+  "avg_logprob": -0.12891966925726997,
+  "no_speech_prob": 1.124637119542804e-10,
+  "wall_clock_seconds": 3.428621083003236,
+  "n_segments": 1,
+  "wer": 111.5,
+  "reference": "OF COURSE",
+  "utterance_id": "52c1cd37d07d",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-A"
+}

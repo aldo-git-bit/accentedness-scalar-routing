@@ -1,0 +1,12 @@
+{
+  "text": "like to go to the bike. So",
+  "avg_logprob": -0.8871749787764113,
+  "no_speech_prob": 5.2208964929079114e-11,
+  "wall_clock_seconds": 3.938537042005919,
+  "n_segments": 55,
+  "wer": 0.7,
+  "reference": "NUMBER ONE I WOULD LIKE TO GO TO DUBAI TOO",
+  "utterance_id": "7f1d69245f1f",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-B"
+}

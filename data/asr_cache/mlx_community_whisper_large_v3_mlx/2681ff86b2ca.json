@@ -1,0 +1,12 @@
+{
+  "text": "Bye-bye. Bye-bye. Bye-bye. Bye-bye.",
+  "avg_logprob": -0.6464569091796875,
+  "no_speech_prob": 0.905615508556366,
+  "wall_clock_seconds": 0.7303457089983567,
+  "n_segments": 4,
+  "wer": 2.0,
+  "reference": "MM HMM",
+  "utterance_id": "2681ff86b2ca",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C07-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Uh, love the pepper pig.",
+  "avg_logprob": -0.8500072479248046,
+  "no_speech_prob": 0.11803029477596283,
+  "wall_clock_seconds": 0.11265279199869838,
+  "n_segments": 1,
+  "wer": 0.75,
+  "reference": "OH LOVE A BIT OF PEPPA PIG RIGHT",
+  "utterance_id": "edeafad36c2c",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, I'm not still this wrong, I'm actually on the inside, I'm actually on the morning making sight too.",
+  "avg_logprob": -0.763716297764932,
+  "no_speech_prob": 0.039497241377830505,
+  "wall_clock_seconds": 0.08015116601018235,
+  "n_segments": 2,
+  "wer": 0.5,
+  "reference": "YEAH NO I'M NOT I'M NOT SAYING IT'S WRONG I'M I'M I'M I'M ACTUALLY ON THE GOOD SIDE I'M ACTUALLY ON THE MONEY MAKING SIDE SO",
+  "utterance_id": "9ebef67b4c75",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-A"
+}

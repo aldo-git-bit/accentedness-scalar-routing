@@ -1,0 +1,12 @@
+{
+  "text": "And he's always like, oh, you can't find them authentically made here. So he doesn't bother. But she likes the way she does them. So he'll just eat like loads of those at Christmas. We haven't done a Christmas turkey for like 10 years. It's always just a bunch of Romanian food for some reason.",
+  "avg_logprob": -0.1436488599662321,
+  "no_speech_prob": 0.038184184581041336,
+  "wall_clock_seconds": 1.4260612500002026,
+  "n_segments": 6,
+  "wer": 0.10344827586206896,
+  "reference": "AND HE'S ALWAYS LIKE OH YOU CAN'T FIND THEM AUTHENTICALLY MADE HERE SO IT DOESN'T BOTHER ME SHE LIKES THE WAY SHE DOES THEM SO HE'LL JUST EAT LIKE LOADS OF THOSE AT CHRISTMAS LIKE I'VE NEVER WE HAVEN'T DONE A CHRISTMAS TURKEY FOR LIKE TEN YEARS IT'S ALWAYS JUST A BUNCH OF ROMANIAN FOOD FOR SOME REASON",
+  "utterance_id": "773c0b073730",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C06-A"
+}

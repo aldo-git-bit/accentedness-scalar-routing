@@ -1,0 +1,12 @@
+{
+  "text": "the cap is right. Yeah.",
+  "avg_logprob": -0.8980999787648519,
+  "no_speech_prob": 0.22942590713500977,
+  "wall_clock_seconds": 0.04509662500640843,
+  "n_segments": 2,
+  "wer": 0.8,
+  "reference": "THE CABBAGE RIGHT SORT OF",
+  "utterance_id": "85b4db5c3b6f",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C06-B"
+}

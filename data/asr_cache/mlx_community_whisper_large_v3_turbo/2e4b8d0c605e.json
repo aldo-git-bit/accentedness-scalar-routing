@@ -1,0 +1,12 @@
+{
+  "text": "I still play football to you today. I'm even one of the strikers of my local area, where we host matches and have fun.",
+  "avg_logprob": -0.3469498422410753,
+  "no_speech_prob": 3.163293585406457e-11,
+  "wall_clock_seconds": 0.4659924589941511,
+  "n_segments": 3,
+  "wer": 0.125,
+  "reference": "I STILL PLAY FOOTBALL TILL TODAY I'M EVEN ONE OF UM THE STRIKERS OF MY LOCAL AREA WHERE WE HOST MATCHES AND HAVE FUN",
+  "utterance_id": "2e4b8d0c605e",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C41-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "I actually enjoyed when we used to play hide and seek up there as a moors. There was a lot of space to run about. There was a lot of hiding places and we obviously knew the area. Do you remember when mum used to take us up there and let us run about mad?",
+  "avg_logprob": -0.2512424855992414,
+  "no_speech_prob": 0.0023370254784822464,
+  "wall_clock_seconds": 0.2896547089985688,
+  "n_segments": 4,
+  "wer": 0.16071428571428573,
+  "reference": "I ACTUALLY ENJOYED WHEN WE USED TO PLAY HIDE AND SEEK UP NEAR THE MOUNTAINS UH THERE WAS A LOT OF SPACE TO ROW THE BOAT THERE WAS A LOT OF HIDING PLACES AND WE OBVIOUSLY KNEW THE AREA DO YOU REMEMBER WHEN MOM USED TO TAKE US UP THERE AND LET US RUN ABOUT MUD",
+  "utterance_id": "a26a96b2eeef",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "She said it's the 18th century. So it's not that old, I guess. But...",
+  "avg_logprob": -0.5886915751865932,
+  "no_speech_prob": 0.06292787194252014,
+  "wall_clock_seconds": 0.06858812499558553,
+  "n_segments": 3,
+  "wer": 0.07142857142857142,
+  "reference": "SHE SAID IT'S THE EIGHTEENTH CENTURY SO IT'S NOT THAT OLD I GUESS BUT",
+  "utterance_id": "2af602ea2882",
+  "accent": "Irish English",
+  "speaker": "EDACC-C50-A"
+}

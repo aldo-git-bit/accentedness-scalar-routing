@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, that's been my experience as well. Because sometimes I just find it hard to read an e-book. Like you said.",
+  "avg_logprob": -0.22111563001360213,
+  "no_speech_prob": 0.010708717629313469,
+  "wall_clock_seconds": 0.8486209160000726,
+  "n_segments": 3,
+  "wer": 0.17391304347826086,
+  "reference": "YEAH THAT'S BEEN MY EXPERIENCE AS WELL CUZ SOMETIMES I JUST FIND IT HARD TO READ AN E BOOK UM LIKE YOU SAID",
+  "utterance_id": "3c5aabdaeeb3",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C03-B"
+}

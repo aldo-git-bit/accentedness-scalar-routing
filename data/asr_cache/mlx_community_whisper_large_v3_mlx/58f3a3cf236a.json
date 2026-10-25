@@ -1,0 +1,12 @@
+{
+  "text": "Yes, why didn't you share it with someone?",
+  "avg_logprob": -0.7063631330217633,
+  "no_speech_prob": 0.22180983424186707,
+  "wall_clock_seconds": 0.5972013749997132,
+  "n_segments": 1,
+  "wer": 1.1428571428571428,
+  "reference": "YEAH HAWAII IS IN ASIA AND LIKE",
+  "utterance_id": "58f3a3cf236a",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Be generous.",
+  "avg_logprob": -2.0276304880777993,
+  "no_speech_prob": 0.1334129124879837,
+  "wall_clock_seconds": 0.22088083399285097,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "BRITISH RAP",
+  "utterance_id": "7449b9ccee18",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "U?",
+  "avg_logprob": -2.74847469329834,
+  "no_speech_prob": 0.20717230439186096,
+  "wall_clock_seconds": 1.9801306250010384,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "OH UM WHAT ADS ANNOY YOU THE MOST",
+  "utterance_id": "247e1c85352b",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C32-B"
+}

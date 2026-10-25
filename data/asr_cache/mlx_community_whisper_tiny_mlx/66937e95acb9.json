@@ -1,0 +1,12 @@
+{
+  "text": "Everyone was saying to me, you could ask your visions on because it starts off kind of a pops on him to go into this deep metal section then back and forth time for the rest of",
+  "avg_logprob": -0.6676214351210483,
+  "no_speech_prob": 0.02398308739066124,
+  "wall_clock_seconds": 0.06649720799759962,
+  "n_segments": 2,
+  "wer": 0.5714285714285714,
+  "reference": "AND UH EVERYONE WAS SAYING IT WOULD BE LIKE A GASS EUROVISION SONG 'CAUSE LIKE IT STARTS OFF KINDA LIKE A POP SONG AND IT GOES THIS DEEP METAL SECTION THEN THEN BACK AND FORTH THEN FOR THE REST OF THE SONG",
+  "utterance_id": "66937e95acb9",
+  "accent": "Irish English",
+  "speaker": "EDACC-C50-B"
+}

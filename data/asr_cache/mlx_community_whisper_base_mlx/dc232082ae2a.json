@@ -1,0 +1,12 @@
+{
+  "text": "The idea was to be more and more obstacles, it's more more difficult.",
+  "avg_logprob": -0.5058917999267578,
+  "no_speech_prob": 0.054725028574466705,
+  "wall_clock_seconds": 0.05806608400598634,
+  "n_segments": 1,
+  "wer": 0.4444444444444444,
+  "reference": "AND THE IDEA WAS THERE WOULD BE MORE AND MORE OBSTACLES AS MORE AND MORE PEOPLE WERE CAUGHT",
+  "utterance_id": "dc232082ae2a",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-A"
+}

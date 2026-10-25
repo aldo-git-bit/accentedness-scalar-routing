@@ -1,0 +1,12 @@
+{
+  "text": "All right. All right. Please call Stella, ask her to bring these things with her from the score. Six spoons of fresh no fees, five, six labs of blue cheese and maybe it's not for her, but I've all. We also need a small plastic neck and a big toy for all for the kids. She can school these things in a period packed and will go meet her Wednesday at the stage at the train station.",
+  "avg_logprob": -0.48963454791477745,
+  "no_speech_prob": 0.023058312013745308,
+  "wall_clock_seconds": 0.14142504200572148,
+  "n_segments": 11,
+  "wer": 77.0,
+  "reference": "IGNORE_TIME_SEGMENT_IN_SCORING",
+  "utterance_id": "6d1867e5637c",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C34-B"
+}

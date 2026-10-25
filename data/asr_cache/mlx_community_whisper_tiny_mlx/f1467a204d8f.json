@@ -1,0 +1,12 @@
+{
+  "text": "Um, no, I haven't. I have usually a bite from my kids, from the supermarket. So most of the time, I just go for the ready prepared one. I just get it. You know, I think it has to go through a lot of process when you're doing that. Um, farmers are the one that I wanted to lead you all that's all that.",
+  "avg_logprob": -0.5423899094263712,
+  "no_speech_prob": 0.03764992207288742,
+  "wall_clock_seconds": 0.12915079099184368,
+  "n_segments": 8,
+  "wer": 0.2537313432835821,
+  "reference": "UM NO I HAVEN'T I HAVEN'T USUALLY I BUY IT FROM THE MARKET OR FROM THE SUPERMARKET SO MOST OF THE TIME I JUST GO FOR THE ALREADY PREPARED ONE JUST GET IT YOU KNOW I THINK IT HAS TO GO THROUGH A LOT OF PROCESS WHEN YOU'RE DOING THAT UM FARMERS ARE THE ONE THAT ARE THE ONES THAT ACTUALLY DO ALL THAT ALL THAT WORK",
+  "utterance_id": "f1467a204d8f",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-A"
+}

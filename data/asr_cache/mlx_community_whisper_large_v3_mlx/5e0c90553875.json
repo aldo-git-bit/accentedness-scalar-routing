@@ -1,0 +1,12 @@
+{
+  "text": "That's beautiful. That's beautiful.",
+  "avg_logprob": -0.5591100546029898,
+  "no_speech_prob": 0.02365811914205551,
+  "wall_clock_seconds": 0.5874545839978964,
+  "n_segments": 2,
+  "wer": 0.6923076923076923,
+  "reference": "THAT'S BEAUTIFUL THAT'S BEAUTIFUL I'VE NOT HAD THE OPPORTUNITY TO VISIT A ZOO",
+  "utterance_id": "5e0c90553875",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C41-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Hmm.",
+  "avg_logprob": -0.8763701438903808,
+  "no_speech_prob": 0.8923145532608032,
+  "wall_clock_seconds": 0.4911875420002616,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "<NO-SPEECH>",
+  "utterance_id": "cc33550c19f0",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C03-B"
+}

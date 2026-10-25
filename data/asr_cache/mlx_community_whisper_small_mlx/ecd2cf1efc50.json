@@ -1,0 +1,12 @@
+{
+  "text": "with one isn't lying very expensive.",
+  "avg_logprob": -0.7437631433660333,
+  "no_speech_prob": 0.02972436137497425,
+  "wall_clock_seconds": 0.10955924999871058,
+  "n_segments": 1,
+  "wer": 0.3333333333333333,
+  "reference": "WITH LAMB ISN'T LAMB VERY EXPENSIVE",
+  "utterance_id": "ecd2cf1efc50",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-B"
+}

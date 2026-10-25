@@ -1,0 +1,12 @@
+{
+  "text": "That's beautiful. That's beautiful. Now let's go back to the situation.",
+  "avg_logprob": -0.9394871393839518,
+  "no_speech_prob": 0.07405717670917511,
+  "wall_clock_seconds": 0.09666175000893418,
+  "n_segments": 3,
+  "wer": 0.6153846153846154,
+  "reference": "THAT'S BEAUTIFUL THAT'S BEAUTIFUL I'VE NOT HAD THE OPPORTUNITY TO VISIT A ZOO",
+  "utterance_id": "5e0c90553875",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C41-B"
+}

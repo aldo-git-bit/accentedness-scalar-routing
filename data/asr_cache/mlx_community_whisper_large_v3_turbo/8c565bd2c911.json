@@ -1,0 +1,12 @@
+{
+  "text": "But yeah, so Harry Potter, which is why I was a hardcore Potterhead because",
+  "avg_logprob": -0.14957382678985595,
+  "no_speech_prob": 1.687412189144144e-11,
+  "wall_clock_seconds": 0.42012125000474043,
+  "n_segments": 1,
+  "wer": 0.15384615384615385,
+  "reference": "BUT ALSO HARRY POTTER WHICH IS WHY I WAS A HARDCORE POTTERHEAD BECAUSE",
+  "utterance_id": "8c565bd2c911",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-A"
+}

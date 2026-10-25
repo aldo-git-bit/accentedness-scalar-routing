@@ -1,0 +1,12 @@
+{
+  "text": "Oh, hey, come on. I told you I liked these eyes.",
+  "avg_logprob": -0.7965520752800835,
+  "no_speech_prob": 0.18179643154144287,
+  "wall_clock_seconds": 0.03399987501325086,
+  "n_segments": 1,
+  "wer": 0.4444444444444444,
+  "reference": "<DTMF> COME ON I TOLD YOU I LIKED PIZZA",
+  "utterance_id": "f5bf43ec41e3",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-B"
+}

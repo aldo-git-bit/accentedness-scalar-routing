@@ -1,0 +1,12 @@
+{
+  "text": "It is kind of miserable going, but that yes, it's all in the service of higher values.",
+  "avg_logprob": -0.3931671778361003,
+  "no_speech_prob": 0.04257865995168686,
+  "wall_clock_seconds": 0.06525533300009556,
+  "n_segments": 1,
+  "wer": 0.16666666666666666,
+  "reference": "IT IS KIND OF MISERABLE GOING BUT UH I GUESS IT'S ALL IN THE SERVICE OF HIGHER VALUES",
+  "utterance_id": "8af04b9072d4",
+  "accent": "Irish English",
+  "speaker": "EDACC-C50-B"
+}

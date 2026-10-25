@@ -1,0 +1,12 @@
+{
+  "text": "Well that's really nice. What do you put other than the main ingredients?",
+  "avg_logprob": -0.7013722469932154,
+  "no_speech_prob": 0.007709291763603687,
+  "wall_clock_seconds": 0.0345654580014525,
+  "n_segments": 1,
+  "wer": 0.3333333333333333,
+  "reference": "WELL THAT SOUNDS REALLY NICE WHAT WHAT DO YOU PUT IN IT OTHER THAN THE THE MAIN INGREDIENTS",
+  "utterance_id": "6f9ccba24f07",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

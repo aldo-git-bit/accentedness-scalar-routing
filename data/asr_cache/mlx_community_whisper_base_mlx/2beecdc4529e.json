@@ -1,0 +1,12 @@
+{
+  "text": "When you have a time to let me know, I will catch you.",
+  "avg_logprob": -0.45565928353203666,
+  "no_speech_prob": 0.18625801801681519,
+  "wall_clock_seconds": 0.055375000010826625,
+  "n_segments": 1,
+  "wer": 0.42105263157894735,
+  "reference": "OH WHEN YOU WHEN YOU HAVE A WHEN YOU HAVE TIME DO LET ME KNOW I WILL TEACH YOU",
+  "utterance_id": "2beecdc4529e",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C31-A"
+}

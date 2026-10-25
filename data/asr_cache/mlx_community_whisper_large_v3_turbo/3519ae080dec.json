@@ -1,0 +1,12 @@
+{
+  "text": "hang on.",
+  "avg_logprob": -0.2883953857421875,
+  "no_speech_prob": 6.788927059409033e-11,
+  "wall_clock_seconds": 3.4788337079953635,
+  "n_segments": 5,
+  "wer": 1.0,
+  "reference": "MM HMM",
+  "utterance_id": "3519ae080dec",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C63-B"
+}

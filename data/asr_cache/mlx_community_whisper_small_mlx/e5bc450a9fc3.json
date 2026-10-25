@@ -1,0 +1,12 @@
+{
+  "text": "U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U",
+  "avg_logprob": -0.1322092013888889,
+  "no_speech_prob": 0.14997369050979614,
+  "wall_clock_seconds": 3.6927356659980433,
+  "n_segments": 1,
+  "wer": 111.5,
+  "reference": "<DTMF> MAYBE",
+  "utterance_id": "e5bc450a9fc3",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C14-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "I'm doing aeronautical engineering. I'm graduating this coming year, like in June, like next month. So yeah, I'm almost done with my studies and I'm just preparing to pursue a master's degree in material science and engineering.",
+  "avg_logprob": -0.17917629650660924,
+  "no_speech_prob": 0.02079019509255886,
+  "wall_clock_seconds": 1.0909743749980407,
+  "n_segments": 2,
+  "wer": 0.19047619047619047,
+  "reference": "OKAY UM I'M IN AERONAUT I'M DOING AERONAUTICAL ENGINEERING I'M GRADUATING THIS COMING YEAR LIKE IN JUNE LIKE NEXT MONTH SO YEAH I'M ALMOST DONE WITH MY STUDIES AND I'M JUST PREPARING TO PURSUE MASTER'S DEGREE IN MATERIALS SCIENCE AND ENGINEERING SO",
+  "utterance_id": "66a116aa6f95",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C19-B"
+}

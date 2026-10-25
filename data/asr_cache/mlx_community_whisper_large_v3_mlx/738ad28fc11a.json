@@ -1,0 +1,12 @@
+{
+  "text": "That's right. Were they not baby tadpoles?",
+  "avg_logprob": -0.29732289033777576,
+  "no_speech_prob": 0.006625225767493248,
+  "wall_clock_seconds": 0.6383963749976829,
+  "n_segments": 2,
+  "wer": 0.0,
+  "reference": "THAT'S RIGHT WERE THEY NOT BABY TADPOLES",
+  "utterance_id": "738ad28fc11a",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "the day the day the",
+  "avg_logprob": -0.7334526909722222,
+  "no_speech_prob": 0.1447993367910385,
+  "wall_clock_seconds": 0.5657325409993064,
+  "n_segments": 73,
+  "wer": 0.75,
+  "reference": "THE CAR ON THE GATE SO THAT WE",
+  "utterance_id": "21b85a0dfeae",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-A"
+}

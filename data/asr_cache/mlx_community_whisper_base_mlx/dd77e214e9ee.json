@@ -1,0 +1,12 @@
+{
+  "text": "Oh, do I hear you there?",
+  "avg_logprob": -0.7866259488192472,
+  "no_speech_prob": 0.3259899318218231,
+  "wall_clock_seconds": 0.041878415999235585,
+  "n_segments": 1,
+  "wer": 0.8888888888888888,
+  "reference": "HOW OLD WERE YOU HOW OLD WERE YOU THEN",
+  "utterance_id": "dd77e214e9ee",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-A"
+}

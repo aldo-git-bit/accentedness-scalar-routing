@@ -1,0 +1,12 @@
+{
+  "text": "No uni today.",
+  "avg_logprob": -0.6380134310041156,
+  "no_speech_prob": 0.009808085858821869,
+  "wall_clock_seconds": 0.09619854100310476,
+  "n_segments": 1,
+  "wer": 0.0,
+  "reference": "NO UNI TODAY",
+  "utterance_id": "a9a557594e86",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C32-A"
+}

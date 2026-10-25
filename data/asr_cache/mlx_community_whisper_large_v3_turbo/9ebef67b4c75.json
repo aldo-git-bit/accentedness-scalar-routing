@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, I'm not saying it's wrong. I'm actually on the good side. I'm actually on the money-making side.",
+  "avg_logprob": -0.2986436026436942,
+  "no_speech_prob": 5.6109652514513275e-12,
+  "wall_clock_seconds": 0.45970108300389256,
+  "n_segments": 3,
+  "wer": 0.34615384615384615,
+  "reference": "YEAH NO I'M NOT I'M NOT SAYING IT'S WRONG I'M I'M I'M I'M ACTUALLY ON THE GOOD SIDE I'M ACTUALLY ON THE MONEY MAKING SIDE SO",
+  "utterance_id": "9ebef67b4c75",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-A"
+}

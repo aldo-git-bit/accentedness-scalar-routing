@@ -1,0 +1,12 @@
+{
+  "text": "the other one. So the supermarket is right next to my place but I'm very lazy.",
+  "avg_logprob": -0.774537722269694,
+  "no_speech_prob": 0.3291932940483093,
+  "wall_clock_seconds": 0.06651741699897684,
+  "n_segments": 2,
+  "wer": 0.35294117647058826,
+  "reference": "YEAH THAT'S TRUE AND ALSO THE SUPERMARKET IS RIGHT NEXT TO MY PLACE BUT I'M JUST LAZY",
+  "utterance_id": "86a801af7f3d",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B"
+}

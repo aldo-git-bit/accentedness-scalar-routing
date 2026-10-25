@@ -1,0 +1,12 @@
+{
+  "text": "I think there's something so medieval about going and cooking a pheasant.",
+  "avg_logprob": -0.08473526804070723,
+  "no_speech_prob": 6.766134419237957e-13,
+  "wall_clock_seconds": 0.42161054200551007,
+  "n_segments": 1,
+  "wer": 0.08333333333333333,
+  "reference": "I FEEL THERE'S SOMETHING SO MEDIEVAL ABOUT GOING AND COOKING A PHEASANT",
+  "utterance_id": "5e733d7e909a",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C11-B"
+}

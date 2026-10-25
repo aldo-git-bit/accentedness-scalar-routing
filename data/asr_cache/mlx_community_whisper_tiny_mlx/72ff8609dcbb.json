@@ -1,0 +1,12 @@
+{
+  "text": "Oh yes, oh yes.",
+  "avg_logprob": -0.6888135274251302,
+  "no_speech_prob": 0.08534881472587585,
+  "wall_clock_seconds": 0.022141875000670552,
+  "n_segments": 1,
+  "wer": 0.0,
+  "reference": "OH YES OH YES",
+  "utterance_id": "72ff8609dcbb",
+  "accent": "Indian English",
+  "speaker": "EDACC-C36-A"
+}

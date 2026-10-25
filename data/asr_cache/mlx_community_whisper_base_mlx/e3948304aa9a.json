@@ -1,0 +1,12 @@
+{
+  "text": "too much. I mean, I really got used to working from home and I mean it kind of gave me especially like all those three lenses.",
+  "avg_logprob": -0.7717719358556411,
+  "no_speech_prob": 0.2808021903038025,
+  "wall_clock_seconds": 0.08601945800182875,
+  "n_segments": 2,
+  "wer": 0.5909090909090909,
+  "reference": "WAS TOO MUCH I MEAN PEOPLE HAVE REALLY GOTTEN LIKE USED TO WORKING FROM HOME AND I MEAN IT KIND OF <OVERLAP>",
+  "utterance_id": "e3948304aa9a",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-B"
+}

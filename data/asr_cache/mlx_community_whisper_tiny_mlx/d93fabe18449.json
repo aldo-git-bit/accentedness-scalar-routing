@@ -1,0 +1,12 @@
+{
+  "text": "Okay, I'm gonna go ahead and with the passage.",
+  "avg_logprob": -0.5112676620483398,
+  "no_speech_prob": 0.010781785473227501,
+  "wall_clock_seconds": 0.02956579100282397,
+  "n_segments": 1,
+  "wer": 0.1111111111111111,
+  "reference": "OKAY I'M GONNA GO AHEAD AND READ THE PASSAGE",
+  "utterance_id": "d93fabe18449",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "I don't know if there was anything like recycling when we were young, it was in a very small way.",
+  "avg_logprob": -0.6019208247844989,
+  "no_speech_prob": 0.039390020072460175,
+  "wall_clock_seconds": 0.04177729100047145,
+  "n_segments": 1,
+  "wer": 0.2857142857142857,
+  "reference": "NO NO I IF IF THERE WAS ANYTHING LIKE RECYCLING WHEN WE WERE YOUNGER IT WAS IN A VERY SMALL LEVEL",
+  "utterance_id": "ef63ee5b5321",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

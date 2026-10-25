@@ -1,0 +1,12 @@
+{
+  "text": "As a child, I loved potatoes, I loved turnips and vegetables, and I loved porridge.",
+  "avg_logprob": -0.2856436190397843,
+  "no_speech_prob": 0.0036655052099376917,
+  "wall_clock_seconds": 0.14737850000165054,
+  "n_segments": 1,
+  "wer": 0.0,
+  "reference": "AS A CHILD I LOVED POTATOES I LOVED TURNIPS AND VEGETABLES AND I LOVED PORRIDGE",
+  "utterance_id": "e575ca117460",
+  "accent": "Irish English",
+  "speaker": "EDACC-C47-B"
+}

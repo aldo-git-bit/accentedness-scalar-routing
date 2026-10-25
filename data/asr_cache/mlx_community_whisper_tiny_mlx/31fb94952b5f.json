@@ -1,0 +1,12 @@
+{
+  "text": "No, I don't know, it's not about that. It's so hard to keep a track off, it's sometimes. I don't know if it was to have made me am it for you now and do the right thing.",
+  "avg_logprob": -0.4839090771145291,
+  "no_speech_prob": 0.007648597937077284,
+  "wall_clock_seconds": 0.07329929199477192,
+  "n_segments": 2,
+  "wer": 0.425,
+  "reference": "NO I DON'T KNOW ANYTHING ABOUT IT IT'S SO HARD TO KEEP A TRACK OF IT SOMETIMES THOUGH UM I DON'T DOUBT THOUGH THAT IF IT WAS TO AFFECT ME I WOULD FIND OUT AND AND DO THE RIGHT THING",
+  "utterance_id": "31fb94952b5f",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

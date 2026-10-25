@@ -1,0 +1,12 @@
+{
+  "text": "Okay.",
+  "avg_logprob": -0.6458128929138184,
+  "no_speech_prob": 4.090312463733703e-11,
+  "wall_clock_seconds": 0.38449620800383855,
+  "n_segments": 1,
+  "wer": 0.0,
+  "reference": "OKAY",
+  "utterance_id": "c605a4e3c131",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-B"
+}

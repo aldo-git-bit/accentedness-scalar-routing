@@ -1,0 +1,12 @@
+{
+  "text": "just because you spend all of your effort win surfing.",
+  "avg_logprob": -0.5327018669673375,
+  "no_speech_prob": 0.025751369073987007,
+  "wall_clock_seconds": 0.12216974999682861,
+  "n_segments": 1,
+  "wer": 0.625,
+  "reference": "JUST 'CAUSE YOU SPENT ALL YOUR EFFORT WINDSURFING",
+  "utterance_id": "e8c58b455a56",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C14-A"
+}

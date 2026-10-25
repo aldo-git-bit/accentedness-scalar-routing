@@ -1,0 +1,12 @@
+{
+  "text": "I hate making food for the food that it takes forever. I just, I have it in the fridge because like, I'm dead paranoid about stuff going off, but I figured that if it's so new vegetables, it can be in the fridge for three or maybe like three and a half, four days and it'll be okay. Like it is vegetable soup.",
+  "avg_logprob": -0.2784746009183217,
+  "no_speech_prob": 0.04174596071243286,
+  "wall_clock_seconds": 0.1734183749940712,
+  "n_segments": 4,
+  "wer": 0.18461538461538463,
+  "reference": "I I HATE REHEATING FOOD FROM THE FREEZER THOUGH IT TAKES FOREVER I JUST I HAVE IT IN THE FRIDGE BECAUSE LIKE I'M DEAD PARANOID ABOUT STUFF GOING OFF BUT I FIGURED THAT IF IT'S ONLY VEGETABLES IT CAN BE IN THE FRIDGE FOR THREE OR OR MAYBE LIKE THREE AND A HALF FOUR DAYS AND IT WILL BE OKAY LIKE IF IT'S VEGETABLE SOUP",
+  "utterance_id": "d1f9e4c449b4",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C11-B"
+}

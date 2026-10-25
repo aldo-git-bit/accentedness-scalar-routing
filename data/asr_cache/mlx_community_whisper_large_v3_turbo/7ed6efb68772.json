@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, I remember like we also would have that antenna on top of the house and you'd get like a few channels and you could just set perhaps like eight different frequencies on the TV set. And if you wanted to go to a different channel, you had to tune it like a radio.",
+  "avg_logprob": -0.2070566713809967,
+  "no_speech_prob": 2.6973219664772063e-12,
+  "wall_clock_seconds": 0.5295305000036024,
+  "n_segments": 2,
+  "wer": 0.14035087719298245,
+  "reference": "YEAH I REMEMBER LIKE WE WE ALSO WOULD HAVE THAT ANTENNA ON TOP OF THE HOUSE AND YOU'D GET LIKE A FEW CHANNELS THEN YOU PICK YOU SET PER PERHAPS LIKE EIGHT DIFFERENT FREQUENCIES IN THE TV SET AND IF YOU WANTED IT TO GO TO A DIFFERENT CHANNEL YOU HAD TO TUNE IT LIKE THE RADIO",
+  "utterance_id": "7ed6efb68772",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C42-B"
+}

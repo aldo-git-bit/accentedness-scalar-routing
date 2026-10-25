@@ -1,0 +1,12 @@
+{
+  "text": "it was late at night and she she's a press pastry chef i was sure oh i don't know she's still living in Edinburgh but she was a pastry chef and so afterwards",
+  "avg_logprob": -0.3125789223647699,
+  "no_speech_prob": 1.5293545943539932e-11,
+  "wall_clock_seconds": 0.47712604199477937,
+  "n_segments": 2,
+  "wer": 0.18181818181818182,
+  "reference": "AND IT WAS LATE AT NIGHT AND SHE SHE'S A BEST PASTRY CHEF OH SHE OH I DON'T KNOW SHE'S STILL LIVING IN EDINBURGH BUT SHE WAS A PASTRY CHEF AND SO AFTER",
+  "utterance_id": "251826302d7d",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C54-B"
+}

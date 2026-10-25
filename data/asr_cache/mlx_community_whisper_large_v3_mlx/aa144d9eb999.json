@@ -1,0 +1,12 @@
+{
+  "text": "Yes, I'd really like that.",
+  "avg_logprob": -0.16481154615228827,
+  "no_speech_prob": 0.005837129894644022,
+  "wall_clock_seconds": 0.5666080830014835,
+  "n_segments": 1,
+  "wer": 0.0,
+  "reference": "YES I'D REALLY LIKE THAT",
+  "utterance_id": "aa144d9eb999",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C42-B"
+}

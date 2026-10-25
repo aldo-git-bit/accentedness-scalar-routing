@@ -1,0 +1,12 @@
+{
+  "text": "The yeast smells nice, it's just the alleyways that smell a bit like...",
+  "avg_logprob": -0.4448897361755371,
+  "no_speech_prob": 0.0162165779620409,
+  "wall_clock_seconds": 0.13833312499991735,
+  "n_segments": 1,
+  "wer": 0.25,
+  "reference": "THE YEAST SMELL IS NICE IT'S JUST THE THE ALLEYWAYS THAT SMELL A BIT LIKE URINE",
+  "utterance_id": "a267a4ccbe0b",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-A"
+}

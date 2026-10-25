@@ -1,0 +1,12 @@
+{
+  "text": "You don't draw my BTS.",
+  "avg_logprob": -0.8735630989074707,
+  "no_speech_prob": 0.16436909139156342,
+  "wall_clock_seconds": 0.040859541986719705,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "YOU KNOW TRAUMA PTSD",
+  "utterance_id": "098e407994a0",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-A"
+}

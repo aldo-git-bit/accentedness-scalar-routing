@@ -1,0 +1,12 @@
+{
+  "text": "No, no, no, no. Everyone has an opinion on it though. I personally don't think that there's anything such as like what, like reincarnation or heaven or hell, like all those things are such like, uh, such material concepts that we're just like, uh, that's what we can think of with our limited human capacity to think. I think whatever comes after you die with your consciousness is something that the human brain cannot comprehend. And therefore,",
+  "avg_logprob": -0.10059897321335813,
+  "no_speech_prob": 1.2487523385132371e-12,
+  "wall_clock_seconds": 1.015755917003844,
+  "n_segments": 5,
+  "wer": 0.07692307692307693,
+  "reference": "NO NO NO EVERYONE HAS AN OPINION ON ON IT I PERSONALLY DON'T THINK THAT THERE'S ANYTHING SUCH AS LIKE WHA LIKE REINCARNATION OR HEAVEN OR HELL LIKE ALL THOSE THINGS ARE SUCH C CO LIKE UH SUCH MATERIAL CONCEPTS THAT WERE JUST LIKE UH THAT'S WHAT WE CAN THINK OF WITH OUR LIMITED HUMAN CAPACITY TO THINK I THINK WHATEVER COMES AFTER YOU DIE WITH YOUR CONSCIOUSNESS IS SOMETHING THAT THE HUMAN BRAIN CANNOT COMPREHEND AND THEREFORE",
+  "utterance_id": "0f7a9af2f59f",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C33-B"
+}

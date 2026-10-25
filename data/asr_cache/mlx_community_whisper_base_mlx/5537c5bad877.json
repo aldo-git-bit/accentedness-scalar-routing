@@ -1,0 +1,12 @@
+{
+  "text": "and the use to put those on for kids. And the contrast when you saw some of the stuff that was coming in from America as well through the English channels that was just such an eye opener. It was huge in the mid 80s.",
+  "avg_logprob": -0.266419195359753,
+  "no_speech_prob": 0.040173303335905075,
+  "wall_clock_seconds": 0.13860008300980553,
+  "n_segments": 6,
+  "wer": 0.08695652173913043,
+  "reference": "AND THEY USED TO PUT THOSE ON FOR KIDS UM AND THE CONTRAST WHEN YOU SAW SOME OF THE STUFF THAT WAS COMING IN FROM AMERICA AS WELL THROUGH THE ENGLISH CHANNELS THAT WAS JUST SUCH AN EYE OPENER IT WAS HUGE IN THE MID 'EIGHTIES",
+  "utterance_id": "5537c5bad877",
+  "accent": "Irish English",
+  "speaker": "EDACC-C61-B"
+}

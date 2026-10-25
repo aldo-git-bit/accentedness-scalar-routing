@@ -1,0 +1,12 @@
+{
+  "text": "it on the TV.",
+  "avg_logprob": -0.6435909867286682,
+  "no_speech_prob": 0.7163549661636353,
+  "wall_clock_seconds": 0.5400674580014311,
+  "n_segments": 1,
+  "wer": 0.2,
+  "reference": "SAW IT ON THE TV",
+  "utterance_id": "49c4f7fd3722",
+  "accent": "Irish English",
+  "speaker": "EDACC-C61-A"
+}

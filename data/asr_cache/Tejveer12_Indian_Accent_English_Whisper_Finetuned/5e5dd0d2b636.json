@@ -1,0 +1,11 @@
+{
+  "text": "It is not.",
+  "wer": 1.5,
+  "reference": "MM HMM",
+  "utterance_id": "5e5dd0d2b636",
+  "accent": "Irish English",
+  "speaker": "EDACC-C47-B",
+  "wall_clock_seconds": 0.7586579999915557,
+  "avg_logprob": null,
+  "no_speech_prob": null
+}

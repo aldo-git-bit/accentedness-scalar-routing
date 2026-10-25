@@ -1,0 +1,12 @@
+{
+  "text": "It was fun.",
+  "avg_logprob": -0.6670467512948173,
+  "no_speech_prob": 2.1046168280358657e-11,
+  "wall_clock_seconds": 0.3893633330008015,
+  "n_segments": 1,
+  "wer": 3.0,
+  "reference": "SPONGEBOB",
+  "utterance_id": "dd7a132fa29c",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C04-B"
+}

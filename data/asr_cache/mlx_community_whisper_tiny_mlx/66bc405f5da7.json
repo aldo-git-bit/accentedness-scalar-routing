@@ -1,0 +1,12 @@
+{
+  "text": "the",
+  "avg_logprob": -2.569062423706055,
+  "no_speech_prob": 0.2537910044193268,
+  "wall_clock_seconds": 0.5391922919952776,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "MOVIES ARE FOR BIG SCREEN",
+  "utterance_id": "66bc405f5da7",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C33-A"
+}

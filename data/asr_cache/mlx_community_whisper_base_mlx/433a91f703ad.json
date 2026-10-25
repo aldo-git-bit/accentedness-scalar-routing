@@ -1,0 +1,12 @@
+{
+  "text": "",
+  "avg_logprob": 0.0,
+  "no_speech_prob": 0.0,
+  "wall_clock_seconds": 0.029380625011981465,
+  "n_segments": 0,
+  "wer": 1.0,
+  "reference": "YEAH",
+  "utterance_id": "433a91f703ad",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C42-B"
+}

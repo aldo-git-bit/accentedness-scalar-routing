@@ -1,0 +1,12 @@
+{
+  "text": "and she solved problems and she spun around and turned into Wonder Woman and she had a bike and an invisible plane. That was just amazing.",
+  "avg_logprob": -0.24286940603545218,
+  "no_speech_prob": 1.4215569910450143e-12,
+  "wall_clock_seconds": 0.45150500000454485,
+  "n_segments": 2,
+  "wer": 0.037037037037037035,
+  "reference": "AND SHE SOLVED PROBLEMS AND SHE SPUN AROUND AND TURNED INTO WONDER WOMAN AND SHE HAD A BIKE AND AN INVISIBLE PLANE THAT THAT WAS JUST AMAZING",
+  "utterance_id": "0d5b27c67c10",
+  "accent": "Irish English",
+  "speaker": "EDACC-C61-A"
+}

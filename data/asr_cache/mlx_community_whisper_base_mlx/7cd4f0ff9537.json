@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, yeah, that's definitely true. Yeah, I mean, just the experience is not the same.",
+  "avg_logprob": -0.39871876328079786,
+  "no_speech_prob": 0.024481909349560738,
+  "wall_clock_seconds": 0.07220195898844395,
+  "n_segments": 2,
+  "wer": 0.25,
+  "reference": "YEAH YEAH THAT'S I MEAN THAT'S DEFINITELY TRUE LIKE YEAH I MEAN JUST THE EXPERIENCE IS NOT THE SAME <LAUGH>",
+  "utterance_id": "7cd4f0ff9537",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C03-A"
+}

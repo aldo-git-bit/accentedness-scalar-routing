@@ -1,0 +1,12 @@
+{
+  "text": "Thank you so much, Ashabita, on thanking you. Thank you for your time. I know you've actually had a best schedule.",
+  "avg_logprob": -0.5011960665384928,
+  "no_speech_prob": 0.07631542533636093,
+  "wall_clock_seconds": 0.09008779100258835,
+  "n_segments": 3,
+  "wer": 0.28,
+  "reference": "THANK YOU SO MUCH I SHOULD BE THE ONE THANKING YOU THANK YOU FOR YOUR TIME I KNOW YOU YOU'VE ACTUALLY HAD A BUSY SCHEDULE",
+  "utterance_id": "4752bbfef4ab",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-A"
+}

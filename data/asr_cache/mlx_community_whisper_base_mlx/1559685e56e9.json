@@ -1,0 +1,12 @@
+{
+  "text": "",
+  "avg_logprob": 0.0,
+  "no_speech_prob": 0.0,
+  "wall_clock_seconds": 0.029087666000123136,
+  "n_segments": 0,
+  "wer": 1.0,
+  "reference": "MM HMM",
+  "utterance_id": "1559685e56e9",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-B"
+}

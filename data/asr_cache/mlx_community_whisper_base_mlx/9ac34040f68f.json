@@ -1,0 +1,12 @@
+{
+  "text": "Hold this thing the kind of.",
+  "avg_logprob": -0.8554281234741211,
+  "no_speech_prob": 0.08644172549247742,
+  "wall_clock_seconds": 0.037711041994043626,
+  "n_segments": 1,
+  "wer": 0.7777777777777778,
+  "reference": "OH WHAT WAS THE NAME OF THE CAT AGAIN",
+  "utterance_id": "9ac34040f68f",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

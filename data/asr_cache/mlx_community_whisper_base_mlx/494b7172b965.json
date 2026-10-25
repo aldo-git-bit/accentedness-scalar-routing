@@ -1,0 +1,12 @@
+{
+  "text": "I don't know what you mean. To be honest, I haven't really explored the library all that much. Like it was only the other day that I decided to start having a look because I figured as much as we do probably mostly have academic-y type stuff, I was thinking that I'll have some more like leisurely-reducing type things that make-",
+  "avg_logprob": -0.4222524755141314,
+  "no_speech_prob": 0.03669397532939911,
+  "wall_clock_seconds": 0.1787050410057418,
+  "n_segments": 4,
+  "wer": 0.20588235294117646,
+  "reference": "OH I GET WHAT YOU MEAN TO BE HONEST I HAVEN'T REALLY EXPLORED THE LIBRARY ALL THAT MUCH UM LIKE IT WAS ONLY THE OTHER DAY THAT I DECIDED TO START HAVING A LOOK CUZ I FIGURED AS MUCH AS WE WE DO PROBABLY MOSTLY HAVE ACADEMICY TYPE STUFF UM I WAS THINKING THAT I JUST WANNA HAVE SOME MORE LIKE LEISURELY READING TYPE TYPE THINGS THAT THEY",
+  "utterance_id": "494b7172b965",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C03-B"
+}

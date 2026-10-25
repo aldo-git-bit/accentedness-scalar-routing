@@ -1,0 +1,12 @@
+{
+  "text": "I think I've seen a bit of that. I think that was more of my sister's thing.",
+  "avg_logprob": -0.18406158227186936,
+  "no_speech_prob": 3.876819438392021e-12,
+  "wall_clock_seconds": 0.4349447919958038,
+  "n_segments": 2,
+  "wer": 0.25,
+  "reference": "PEPPA PIG UH I THINK I'VE SEEN A BIT OF THAT UH I THINK THAT WAS MORE MY SISTER'S THING",
+  "utterance_id": "77261a44399f",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-B"
+}

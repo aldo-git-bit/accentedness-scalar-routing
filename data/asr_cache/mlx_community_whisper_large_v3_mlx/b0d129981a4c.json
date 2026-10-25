@@ -1,0 +1,12 @@
+{
+  "text": "when",
+  "avg_logprob": -0.8918473720550537,
+  "no_speech_prob": 0.8065621852874756,
+  "wall_clock_seconds": 0.4932277919979242,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "OF AZKABAN",
+  "utterance_id": "b0d129981a4c",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-A"
+}

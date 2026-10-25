@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, I guess so. I like to do it.",
+  "avg_logprob": -0.917331246768727,
+  "no_speech_prob": 0.06841064989566803,
+  "wall_clock_seconds": 0.0317605409945827,
+  "n_segments": 2,
+  "wer": 0.5714285714285714,
+  "reference": "YEAH I GUESS SO THEY'RE LIKE <OVERLAP>",
+  "utterance_id": "ba34d712b098",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C06-A"
+}

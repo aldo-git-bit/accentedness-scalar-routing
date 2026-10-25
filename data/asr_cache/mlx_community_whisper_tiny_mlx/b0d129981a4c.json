@@ -1,0 +1,12 @@
+{
+  "text": "Women.",
+  "avg_logprob": -2.9110116958618164,
+  "no_speech_prob": 0.4198133945465088,
+  "wall_clock_seconds": 0.13263775000814348,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "OF AZKABAN",
+  "utterance_id": "b0d129981a4c",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-A"
+}

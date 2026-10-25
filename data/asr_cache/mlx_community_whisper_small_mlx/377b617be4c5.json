@@ -1,0 +1,12 @@
+{
+  "text": "Bye.",
+  "avg_logprob": -0.8210707664489746,
+  "no_speech_prob": 0.295199990272522,
+  "wall_clock_seconds": 0.0913555000006454,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "NICE",
+  "utterance_id": "377b617be4c5",
+  "accent": "Irish English",
+  "speaker": "EDACC-C47-A"
+}

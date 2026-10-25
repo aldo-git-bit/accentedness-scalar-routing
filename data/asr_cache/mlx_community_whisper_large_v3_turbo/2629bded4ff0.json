@@ -1,0 +1,12 @@
+{
+  "text": "Alright, thank you so much for your time.",
+  "avg_logprob": -0.2930622834425706,
+  "no_speech_prob": 1.7374773494949203e-11,
+  "wall_clock_seconds": 0.40407691699510906,
+  "n_segments": 1,
+  "wer": 0.2222222222222222,
+  "reference": "ALL RIGHT THANK YOU SO MUCH FOR YOUR TIME",
+  "utterance_id": "2629bded4ff0",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-B"
+}

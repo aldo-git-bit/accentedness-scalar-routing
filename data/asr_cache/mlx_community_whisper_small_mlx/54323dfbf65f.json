@@ -1,0 +1,12 @@
+{
+  "text": "Moomoo Uy Uy U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U",
+  "avg_logprob": -0.22511586507161457,
+  "no_speech_prob": 0.39693495631217957,
+  "wall_clock_seconds": 4.154433540999889,
+  "n_segments": 1,
+  "wer": 21.9,
+  "reference": "MM VERY VERY INTERESTING I LOVE IT SO MUCH <OVERLAP>",
+  "utterance_id": "54323dfbf65f",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, absolutely. I think it's, I do dreamly think that there's a good idea how to make a kind of a lot of product against them. And as you said earlier on, sort of the noise and how it's clear is the extent to a lot of companies trying to develop specific noises so that people can hear them come and accent.",
+  "avg_logprob": -0.7081401495285976,
+  "no_speech_prob": 0.02694587968289852,
+  "wall_clock_seconds": 0.10546050000994,
+  "n_segments": 4,
+  "wer": 0.4925373134328358,
+  "reference": "YEP YEP OH ABSOLUTELY I THINK IT'S UH UM I I DO GENERALLY THINK THAT IT'S A GREAT IDEA HAVING ELECTRIC CAR A LOT TO <DTMF> AGAINST IT AND AND AS YOU SAID EARLIER ON SORRY THE UH THE THE NOISE AND HOW QUIET IT IS ET CETERA A LOT OF COMPANIES TRY TO DEVELOP SPECIFIC NOISES UH SO THAT PEOPLE CAN HEAR THEM COMING ET CETERA",
+  "utterance_id": "409507d3dafd",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

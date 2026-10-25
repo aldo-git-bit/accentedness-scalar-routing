@@ -1,0 +1,12 @@
+{
+  "text": "So we both read on manga. So aside from books like manga, I was trying to...",
+  "avg_logprob": -0.7066080570220947,
+  "no_speech_prob": 0.2018134742975235,
+  "wall_clock_seconds": 0.06460574999800883,
+  "n_segments": 2,
+  "wer": 0.55,
+  "reference": "UM SO IT WAS LIKE I WE BOTH READ ON LONGER SO ASIDE FROM BOOKS LIKE MONGO THEY ARE CHALLENGING",
+  "utterance_id": "6cd5d1dd1b69",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C63-B"
+}

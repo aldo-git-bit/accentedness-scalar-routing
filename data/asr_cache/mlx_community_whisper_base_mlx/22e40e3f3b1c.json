@@ -1,0 +1,12 @@
+{
+  "text": "SIGO and the TONE.",
+  "avg_logprob": -0.9930538697676226,
+  "no_speech_prob": 0.021004285663366318,
+  "wall_clock_seconds": 0.04204262500570621,
+  "n_segments": 1,
+  "wer": 0.75,
+  "reference": "SUGO IN THE TOWN",
+  "utterance_id": "22e40e3f3b1c",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

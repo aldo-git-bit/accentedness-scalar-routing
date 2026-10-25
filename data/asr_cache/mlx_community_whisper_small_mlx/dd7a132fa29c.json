@@ -1,0 +1,12 @@
+{
+  "text": "Thank you so much.",
+  "avg_logprob": -0.8951019048690796,
+  "no_speech_prob": 0.43174800276756287,
+  "wall_clock_seconds": 0.10054091699930723,
+  "n_segments": 1,
+  "wer": 4.0,
+  "reference": "SPONGEBOB",
+  "utterance_id": "dd7a132fa29c",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C04-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, no problems. And good talk.",
+  "avg_logprob": -0.6209976332528251,
+  "no_speech_prob": 0.009190861135721207,
+  "wall_clock_seconds": 0.12165483300123014,
+  "n_segments": 2,
+  "wer": 0.3333333333333333,
+  "reference": "YEAH NO PROBLEM YEAH GOOD TALK",
+  "utterance_id": "32e30ec28de4",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-A"
+}

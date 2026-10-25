@@ -1,0 +1,12 @@
+{
+  "text": "And then the major discovery of UK and American television, when we were both about 10 years of age. So I was just remarking kind of how bleak it was back in, say, the late 70s and early 80s for kids and children's programming, even educational stuff. There wasn't much other on Irish television, do you think?",
+  "avg_logprob": -0.22807968230474565,
+  "no_speech_prob": 0.039685897529125214,
+  "wall_clock_seconds": 0.1764836660004221,
+  "n_segments": 6,
+  "wer": 0.1016949152542373,
+  "reference": "AND THEN THE MAJOR DISCOVERY OF UK AND AMERICAN TELEVISION WHEN WE WERE BOTH ABOUT TEN YEARS OF AGE SO UM I WAS JUST REMARKING KIND OF HOW BLEAK IT WAS BACK IN SAY THE LATE SEVENTIES AND EARLY EIGHTIES FOR KIDS AND CHILDREN'S PROGRAMMING EVEN EDUCATIONAL STUFF THERE WASN'T MUCH OF IT ON IRISH TELEVISION DO YOU THINK",
+  "utterance_id": "905df1ec443c",
+  "accent": "Irish English",
+  "speaker": "EDACC-C61-B"
+}

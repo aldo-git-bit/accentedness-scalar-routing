@@ -1,0 +1,12 @@
+{
+  "text": "Oh, yeah. Yeah.",
+  "avg_logprob": -0.5663989673961293,
+  "no_speech_prob": 1.6463859789372925e-11,
+  "wall_clock_seconds": 0.3993161669932306,
+  "n_segments": 2,
+  "wer": 0.3333333333333333,
+  "reference": "SO YEAH YEAH",
+  "utterance_id": "214590755f5c",
+  "accent": "Irish English",
+  "speaker": "EDACC-C47-B"
+}

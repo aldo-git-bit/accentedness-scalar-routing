@@ -1,0 +1,12 @@
+{
+  "text": "I think I still love the things. So my several items, Game of Thrones. I love Game of Thrones.",
+  "avg_logprob": -0.8942687988281252,
+  "no_speech_prob": 0.09985702484846115,
+  "wall_clock_seconds": 0.07768400000350084,
+  "n_segments": 3,
+  "wer": 0.5,
+  "reference": "I THINK I <NO-SPEECH> MY FAVORITE IS UM GAME OF THRONES I LOVE GAME OF THRONES",
+  "utterance_id": "3f84dca51d56",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C41-A"
+}

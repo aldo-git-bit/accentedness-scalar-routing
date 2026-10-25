@@ -1,0 +1,12 @@
+{
+  "text": "And it was very similar to Lord. I mean, Pauline, Christopher Pauline himself said that.",
+  "avg_logprob": -0.72503662109375,
+  "no_speech_prob": 0.034390006214380264,
+  "wall_clock_seconds": 0.04092208300426137,
+  "n_segments": 2,
+  "wer": 0.3333333333333333,
+  "reference": "ERAGON SPECIFICALLY BECAUSE IT WAS VERY SIMILAR TO LORD I MEAN PAOLINI CHRISTOPHER PAOLINI HIMSELF SAID THAT HE",
+  "utterance_id": "6297050d3408",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-B"
+}

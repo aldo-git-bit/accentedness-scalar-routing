@@ -1,0 +1,12 @@
+{
+  "text": "I'm also, I was told by some of my friends.",
+  "avg_logprob": -0.8409130573272705,
+  "no_speech_prob": 0.05362791195511818,
+  "wall_clock_seconds": 0.02988920800271444,
+  "n_segments": 1,
+  "wer": 0.4375,
+  "reference": "AND I'D PICK KENYA BECAUSE I ALSO UM I WAS TOLD BY SOME OF MY FRIENDS",
+  "utterance_id": "a04dd9472dd5",
+  "accent": "Indian English",
+  "speaker": "EDACC-C36-A"
+}

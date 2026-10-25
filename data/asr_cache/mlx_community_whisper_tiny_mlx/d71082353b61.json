@@ -1,0 +1,12 @@
+{
+  "text": "that's the",
+  "avg_logprob": -2.358492987496512,
+  "no_speech_prob": 0.3193313777446747,
+  "wall_clock_seconds": 0.5788652499904856,
+  "n_segments": 1,
+  "wer": 0.75,
+  "reference": "WOW THAT'S THAT'S GOOD",
+  "utterance_id": "d71082353b61",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C41-B"
+}

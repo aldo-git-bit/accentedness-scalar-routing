@@ -1,0 +1,12 @@
+{
+  "text": "Absolutely, it seems a lot for the Dumuera as well.",
+  "avg_logprob": -0.6109874949735754,
+  "no_speech_prob": 0.12069974094629288,
+  "wall_clock_seconds": 0.05241841699171346,
+  "n_segments": 1,
+  "wer": 0.5833333333333334,
+  "reference": "ABSOLUTELY IT'S IT SEEMS A LOT FURTHER THAN WHERE IT IS THOUGH",
+  "utterance_id": "9c0e9cc374a7",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Did you get good deals?",
+  "avg_logprob": -0.446952395968967,
+  "no_speech_prob": 0.05738355591893196,
+  "wall_clock_seconds": 0.02284683300240431,
+  "n_segments": 1,
+  "wer": 0.42857142857142855,
+  "reference": "MM DID YOU GET A GOOD DEAL",
+  "utterance_id": "7abd5309a894",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-A"
+}

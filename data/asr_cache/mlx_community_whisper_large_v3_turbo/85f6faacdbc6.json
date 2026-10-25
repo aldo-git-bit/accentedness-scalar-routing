@@ -1,0 +1,12 @@
+{
+  "text": "down.",
+  "avg_logprob": -0.9670206069946289,
+  "no_speech_prob": 1.1102954666775133e-10,
+  "wall_clock_seconds": 0.3870460830075899,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "DAMN",
+  "utterance_id": "85f6faacdbc6",
+  "accent": "Irish English",
+  "speaker": "EDACC-C50-B"
+}

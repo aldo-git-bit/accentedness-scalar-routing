@@ -1,0 +1,12 @@
+{
+  "text": "somewhere hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang",
+  "avg_logprob": -0.28608712090386285,
+  "no_speech_prob": 7.085460375973879e-11,
+  "wall_clock_seconds": 6.8866261249931995,
+  "n_segments": 5,
+  "wer": 12.0,
+  "reference": "SHIFT SOMEWHERE <LAUGH>",
+  "utterance_id": "c335149047f8",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C28-B"
+}

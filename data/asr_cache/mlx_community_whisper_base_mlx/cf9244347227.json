@@ -1,0 +1,12 @@
+{
+  "text": "Thank you.",
+  "avg_logprob": -0.893741766611735,
+  "no_speech_prob": 0.5429480671882629,
+  "wall_clock_seconds": 0.03362362500047311,
+  "n_segments": 1,
+  "wer": 2.0,
+  "reference": "YEAH",
+  "utterance_id": "cf9244347227",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-B"
+}

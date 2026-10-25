@@ -1,0 +1,12 @@
+{
+  "text": "Well, yes, I went away last year. We did the North Coast 500. So we visited lots of different places there, not as many as the last time when we did it, though. We didn't feel the need to visit other places again, although beautiful, but with a wee one, probably a bit too remote for what we need. But absolutely beautiful.",
+  "avg_logprob": -0.21858397397128018,
+  "no_speech_prob": 0.0027978934813290834,
+  "wall_clock_seconds": 0.3496337920005317,
+  "n_segments": 6,
+  "wer": 0.06349206349206349,
+  "reference": "WELL YES I WENT AWAY LAST YEAR WE DID THE NORTH COAST FIVE HUNDRED SO WE VISITED LOTS OF DIFFERENT PLACES THERE NOT AS MANY AS THE LAST TIME WHEN WE DID IT THOUGH UH WE DIDN'T FEEL THE NEED TO VISIT OTHER PLACES AGAIN ALTHOUGH BEAUTIFUL BUT WITH WEE ONE PROBABLY A BIT TOO REMOTE FOR WHAT WE NEED BUT ABSOLUTELY BEAUTIFUL",
+  "utterance_id": "f00fbe3b7c9e",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-A"
+}

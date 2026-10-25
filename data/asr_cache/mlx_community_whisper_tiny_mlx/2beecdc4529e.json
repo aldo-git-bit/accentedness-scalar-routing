@@ -1,0 +1,12 @@
+{
+  "text": "Whether you have a money, have a time to let me know. I'll get you.",
+  "avg_logprob": -0.9235266049702963,
+  "no_speech_prob": 0.24829721450805664,
+  "wall_clock_seconds": 0.03919533400039654,
+  "n_segments": 2,
+  "wer": 0.5789473684210527,
+  "reference": "OH WHEN YOU WHEN YOU HAVE A WHEN YOU HAVE TIME DO LET ME KNOW I WILL TEACH YOU",
+  "utterance_id": "2beecdc4529e",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C31-A"
+}

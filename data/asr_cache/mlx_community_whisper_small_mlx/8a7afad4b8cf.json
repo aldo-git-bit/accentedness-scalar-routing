@@ -1,0 +1,12 @@
+{
+  "text": "You're",
+  "avg_logprob": -0.7748848915100097,
+  "no_speech_prob": 0.5440588593482971,
+  "wall_clock_seconds": 0.0898458749979909,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "YEAH YEAH",
+  "utterance_id": "8a7afad4b8cf",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C14-A"
+}

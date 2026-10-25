@@ -1,0 +1,12 @@
+{
+  "text": "yeah did you know did you watch lazy time",
+  "avg_logprob": -0.31772685050964355,
+  "no_speech_prob": 2.063989604228489e-12,
+  "wall_clock_seconds": 0.4019837920059217,
+  "n_segments": 1,
+  "wer": 0.2222222222222222,
+  "reference": "YEAH DID YOU NOT DID YOU WATCH LAZY TOWN",
+  "utterance_id": "f24b45543859",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-A"
+}

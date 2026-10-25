@@ -1,0 +1,12 @@
+{
+  "text": "you can make the other stuff as well as take time.",
+  "avg_logprob": -0.5025637944539388,
+  "no_speech_prob": 0.022261058911681175,
+  "wall_clock_seconds": 0.02925912500359118,
+  "n_segments": 1,
+  "wer": 0.5882352941176471,
+  "reference": "YEAH BUT YOU'RE GOING TO BE MAKING THE OTHER STUFF AS WELL SO IT WILL TAKE TIME",
+  "utterance_id": "5744f2d6fa48",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C07-A"
+}

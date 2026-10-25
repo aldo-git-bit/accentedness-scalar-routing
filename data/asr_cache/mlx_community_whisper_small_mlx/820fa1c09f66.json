@@ -1,0 +1,12 @@
+{
+  "text": "I would thank my school for doing the job that they did.",
+  "avg_logprob": -0.35226303339004517,
+  "no_speech_prob": 0.032675210386514664,
+  "wall_clock_seconds": 0.12470512500294717,
+  "n_segments": 1,
+  "wer": 0.35714285714285715,
+  "reference": "AND THANK UM YOU KNOW MY SCHOOL FOR DOING THE JOB THAT THEY DID",
+  "utterance_id": "820fa1c09f66",
+  "accent": "Indian English",
+  "speaker": "EDACC-C36-A"
+}

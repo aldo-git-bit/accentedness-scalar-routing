@@ -1,0 +1,12 @@
+{
+  "text": "experimenting every single day you know um you can't go out and eat every day of course because it's it's not practical",
+  "avg_logprob": -0.1292675495147705,
+  "no_speech_prob": 6.123177052202999e-12,
+  "wall_clock_seconds": 0.4460255000012694,
+  "n_segments": 2,
+  "wer": 0.043478260869565216,
+  "reference": "SO EXPERIMENTING EVERY SINGLE DAY YOU KNOW UM YOU CAN'T GO OUT AND EAT EVERY DAY OF COURSE BECAUSE IT'S IT'S NOT PRACTICAL",
+  "utterance_id": "30f3531132b1",
+  "accent": "Indian English",
+  "speaker": "EDACC-C36-A"
+}

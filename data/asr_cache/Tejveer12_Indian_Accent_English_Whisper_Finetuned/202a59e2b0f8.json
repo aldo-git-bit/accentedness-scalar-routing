@@ -1,0 +1,11 @@
+{
+  "text": "In this situation.",
+  "wer": 3.0,
+  "reference": "DISSERTATION",
+  "utterance_id": "202a59e2b0f8",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B",
+  "wall_clock_seconds": 0.726663458000985,
+  "avg_logprob": null,
+  "no_speech_prob": null
+}

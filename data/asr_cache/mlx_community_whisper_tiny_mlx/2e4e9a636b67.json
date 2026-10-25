@@ -1,0 +1,12 @@
+{
+  "text": "So we're trying to see now what's the thing that's very meaningful.",
+  "avg_logprob": -0.9777419441624692,
+  "no_speech_prob": 0.024826977401971817,
+  "wall_clock_seconds": 0.03636420800467022,
+  "n_segments": 1,
+  "wer": 0.7142857142857143,
+  "reference": "SO WHAT YOU'RE TRYING TO SAY NOW IS COOKING IS ONLY MEANT FOR LADIES",
+  "utterance_id": "2e4e9a636b67",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C41-B"
+}

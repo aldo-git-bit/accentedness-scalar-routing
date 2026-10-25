@@ -1,0 +1,12 @@
+{
+  "text": "It's nice, nice, yeah. It's nice, yeah. Bye-bye.",
+  "avg_logprob": -0.5706097412109375,
+  "no_speech_prob": 1.5933886154950727e-10,
+  "wall_clock_seconds": 0.4325309169944376,
+  "n_segments": 3,
+  "wer": 1.1428571428571428,
+  "reference": "YOU KNOW IT'S NOT EASY AS <DTMF>",
+  "utterance_id": "fee28f379471",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "That's a fair point actually, I'm going to go out to. I'd have noticed that they're remaking the movie of the little Mayor made. Did you see that?",
+  "avg_logprob": -0.7034988403320312,
+  "no_speech_prob": 0.011253200471401215,
+  "wall_clock_seconds": 0.06916716699197423,
+  "n_segments": 3,
+  "wer": 0.46153846153846156,
+  "reference": "AND THAT'S A FAIR POINT ACTUALLY THINKING ABOUT IT MM I DID NOTICE THAT THEY'RE REMAKING THE MOVIE OF THE LITTLE MERMAID DID YOU SEE THAT",
+  "utterance_id": "f359f2db159d",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, a bit of comedy, a little action.",
+  "avg_logprob": -0.5650622163500104,
+  "no_speech_prob": 0.313666433095932,
+  "wall_clock_seconds": 0.6022496670011606,
+  "n_segments": 1,
+  "wer": 0.0,
+  "reference": "YEAH A BIT OF COMEDY A LITTLE ACTION",
+  "utterance_id": "0aee2b2868b5",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C07-A"
+}

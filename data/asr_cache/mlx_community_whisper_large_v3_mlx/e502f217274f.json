@@ -1,0 +1,12 @@
+{
+  "text": "Honestly- Oh my god- It's just- It's just- It's just- It's just- It's just- It's just- It's just- It's just- It's just- It's just- It's just- It's just- It's just- It's just- It's just- It's just- It's just- It's just- It's just- It's just- It's just-",
+  "avg_logprob": -0.7284657796223959,
+  "no_speech_prob": 0.3074387013912201,
+  "wall_clock_seconds": 7.223191832999873,
+  "n_segments": 37,
+  "wer": 11.5,
+  "reference": "BUT HONESTLY I THINK",
+  "utterance_id": "e502f217274f",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-B"
+}

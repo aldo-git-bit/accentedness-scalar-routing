@@ -1,0 +1,12 @@
+{
+  "text": "But I also first thought I was going to leave so join in one of my own groups and then I decided to stay But then I don't be eaten like food for so long, you know, pros and food for like two weeks Well, and then I was in Manchester and I was eating like Cameteria food like university",
+  "avg_logprob": -0.5926880900065105,
+  "no_speech_prob": 0.26115673780441284,
+  "wall_clock_seconds": 0.1010418330115499,
+  "n_segments": 4,
+  "wer": 0.6666666666666666,
+  "reference": "AND THEN I DECIDED TO STAY BUT THEN I'D ALREADY EATEN LIKE FOOD FOR SO LONG YOU KNOW FROZEN FOOD FOR LIKE TWO WEEKS BEFORE THAT AND BEFORE THAT I WAS IN MANCHESTER AND I WAS EATING LIKE CAFETERIA FOOD LIKE UNIVERSITY",
+  "utterance_id": "94ea0274f847",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B"
+}

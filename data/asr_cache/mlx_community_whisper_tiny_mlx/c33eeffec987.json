@@ -1,0 +1,12 @@
+{
+  "text": "Well, I was in Venice, like I think five or six years ago, yes, I really liked the place, but I think for now it won't be one of my favorite holidays because I didn't have much time to walk through the city we were only for a day. But I can say maybe my last holiday was in Spain. I really had a great time. There are many museums and cats and girls that you can see there. And I would love to go again to see the parts that I already missed. And I really love going shopping in Germany for example. I really like following me fashion buying nice clothes and what about you, which country you prefer and what kind of style do you prefer? Do you like everyday fashion and how young people dress nowadays or what is your opinion about that?",
+  "avg_logprob": -0.22877923012453516,
+  "no_speech_prob": 0.141016130335629,
+  "wall_clock_seconds": 0.25495487501029857,
+  "n_segments": 4,
+  "wer": 0.20903954802259886,
+  "reference": "WELL I WAS IN VENICE LIKE I THINK UH FIVE OR SIX YEARS AGO YES I REALLY LIKED THE PLACE BUT UM I THINK FOR NOW IT WON'T BE ONE OF MY FAVORITE HOLIDAYS UM BECAUSE I DIDN'T UM HAVE MUCH TIME UH TO UM WALK THROUGH THE CITY WE WERE ONLY FOR A DAY UH BUT I CAN SAY MAYBE UH MY LAST UH HOLIDAY WAS IN SPAIN I REALLY HAD A GOOD GREAT TIME THERE ARE MANY UH UH MUSEUMS AND CATHEDRALS UH THAT YOU CAN UH SEE THERE AND I WOULD UH REALLY LOVE UH TO GO AGAIN UH TO SEE UH THE PARTS THAT I ALREADY MISS AND I REALLY UM LOVE UM GOING UH SHOPPING IN UH GERMANY FOR EXAMPLE UH I REALLY LIKE UH FOLLOWING FASHION UH BUYING NICE CLOTHES AND UH WHAT ABOUT YOU WHICH COUNTRY YOU PREFER AND WHAT KIND OF STYLE DO YOU PREFER UH DO YOU LIKE UM EVERYDAY FASHION AND UM HOW YOUNG PEOPLE DRESS UH NOWADAYS OR UH WHA WHAT IS YOUR OPINION ABOUT THAT",
+  "utterance_id": "c33eeffec987",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C44-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Hi, I'm Princess Brent, C33B-P2.",
+  "avg_logprob": -0.761425635393928,
+  "no_speech_prob": 0.20498113334178925,
+  "wall_clock_seconds": 0.05378541701065842,
+  "n_segments": 1,
+  "wer": 0.8,
+  "reference": "HI I'M PARTICIPANT C THIRTY THREE B DASH P TWO",
+  "utterance_id": "12918e1e95c3",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C17-B"
+}

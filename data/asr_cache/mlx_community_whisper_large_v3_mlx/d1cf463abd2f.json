@@ -1,0 +1,12 @@
+{
+  "text": "No.",
+  "avg_logprob": -0.8664596557617188,
+  "no_speech_prob": 0.08799871802330017,
+  "wall_clock_seconds": 0.4951059159975557,
+  "n_segments": 1,
+  "wer": 0.0,
+  "reference": "NO",
+  "utterance_id": "d1cf463abd2f",
+  "accent": "Irish English",
+  "speaker": "EDACC-C50-A"
+}

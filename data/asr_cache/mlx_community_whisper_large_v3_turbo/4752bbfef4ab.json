@@ -1,0 +1,12 @@
+{
+  "text": "Thank you so much. I should be the one thanking you. Thank you for your time. I know you've actually had a business schedule.",
+  "avg_logprob": -0.2226400375366211,
+  "no_speech_prob": 6.3173281709960616e-12,
+  "wall_clock_seconds": 0.46451070900366176,
+  "n_segments": 4,
+  "wer": 0.08,
+  "reference": "THANK YOU SO MUCH I SHOULD BE THE ONE THANKING YOU THANK YOU FOR YOUR TIME I KNOW YOU YOU'VE ACTUALLY HAD A BUSY SCHEDULE",
+  "utterance_id": "4752bbfef4ab",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-A"
+}

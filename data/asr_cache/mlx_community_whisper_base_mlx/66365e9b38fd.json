@@ -1,0 +1,12 @@
+{
+  "text": "the group that finally.",
+  "avg_logprob": -3.1373587714301214,
+  "no_speech_prob": 0.1267394870519638,
+  "wall_clock_seconds": 0.25903395800560247,
+  "n_segments": 1,
+  "wer": 0.8,
+  "reference": "THE WHO THE SONG <DTMF>",
+  "utterance_id": "66365e9b38fd",
+  "accent": "Irish English",
+  "speaker": "EDACC-C63-A"
+}

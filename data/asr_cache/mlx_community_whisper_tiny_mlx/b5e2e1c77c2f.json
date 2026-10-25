@@ -1,0 +1,12 @@
+{
+  "text": "I was happy or no matter what frame of mind I was in, I'd always like to have sleep gone in soon.",
+  "avg_logprob": -0.4423358917236328,
+  "no_speech_prob": 0.006126096937805414,
+  "wall_clock_seconds": 0.04759429099794943,
+  "n_segments": 2,
+  "wer": 0.22727272727272727,
+  "reference": "I WAS HAPPY OR NO MATTER WHAT FRAME OF MIND I WAS IN I'D ALWAYS LIKED TO HAVE SWEET CORN CHICKEN SOUP",
+  "utterance_id": "b5e2e1c77c2f",
+  "accent": "Indian English",
+  "speaker": "EDACC-C36-A"
+}

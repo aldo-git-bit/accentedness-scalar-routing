@@ -1,0 +1,12 @@
+{
+  "text": "or the wild torn breeze.",
+  "avg_logprob": -0.9108364317152235,
+  "no_speech_prob": 0.03088119812309742,
+  "wall_clock_seconds": 0.021829834004165605,
+  "n_segments": 1,
+  "wer": 0.8333333333333334,
+  "reference": "OH THE WI THE WILD THORNBERRYS",
+  "utterance_id": "a437cfcfac58",
+  "accent": "Irish English",
+  "speaker": "EDACC-C47-A"
+}

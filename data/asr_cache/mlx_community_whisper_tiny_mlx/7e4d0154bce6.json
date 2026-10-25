@@ -1,0 +1,12 @@
+{
+  "text": "That will. Are you an unfiction person or a fictional person?",
+  "avg_logprob": -0.9000197962710732,
+  "no_speech_prob": 0.021006112918257713,
+  "wall_clock_seconds": 0.035011041996767744,
+  "n_segments": 2,
+  "wer": 0.3333333333333333,
+  "reference": "WELL I WILL ARE YOU A NONFICTIONAL PERSON OR A FICTIONAL PERSON",
+  "utterance_id": "7e4d0154bce6",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C32-B"
+}

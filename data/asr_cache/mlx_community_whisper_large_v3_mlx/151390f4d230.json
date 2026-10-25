@@ -1,0 +1,12 @@
+{
+  "text": "yeah they have well the closest thing we have is something called um sarmadas but it's not like a dumpling it's like wrapped in those like banana leaves you know",
+  "avg_logprob": -0.23929515251746544,
+  "no_speech_prob": 0.01925855316221714,
+  "wall_clock_seconds": 0.8985592079989146,
+  "n_segments": 2,
+  "wer": 0.03333333333333333,
+  "reference": "YEAH THEY HAVE WELL THE CLOSEST THING WE HAVE IS SOMETHING CALLED UM <FOREIGN> BUT IT'S NOT LIKE A DUMPLING IT'S LIKE WRAPPED IN THOSE LIKE BANANA LEAVES YOU KNOW",
+  "utterance_id": "151390f4d230",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C06-A"
+}

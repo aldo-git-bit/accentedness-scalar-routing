@@ -1,0 +1,12 @@
+{
+  "text": "in case so that it's better to go over than under i guess right",
+  "avg_logprob": -0.15567429860432944,
+  "no_speech_prob": 9.780928671154765e-12,
+  "wall_clock_seconds": 0.4157470419886522,
+  "n_segments": 1,
+  "wer": 0.0,
+  "reference": "IN CASE SO THAT IT'S BETTER TO GO OVER THAN UNDER I GUESS RIGHT",
+  "utterance_id": "932cb6177e24",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B"
+}

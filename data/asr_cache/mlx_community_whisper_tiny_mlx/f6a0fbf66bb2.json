@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, there was so many, what they call, like they invented not the things and they lots of cool discovery and training.",
+  "avg_logprob": -0.8294132601830267,
+  "no_speech_prob": 0.04094357416033745,
+  "wall_clock_seconds": 0.04760274999716785,
+  "n_segments": 2,
+  "wer": 0.5172413793103449,
+  "reference": "MM HMM <LAUGH> YEAH THERE WERE SO MANY UH WHAT WHAT DO THEY CALL IT UM LIKE THEY INVENTED LOTS OF THINGS AND MADE LOTS OF COOL DISCOVERIES DURING",
+  "utterance_id": "f6a0fbf66bb2",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C03-B"
+}

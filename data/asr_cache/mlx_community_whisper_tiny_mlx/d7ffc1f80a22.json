@@ -1,0 +1,12 @@
+{
+  "text": "I kind of recording this. My participant number is Fc55-P2.",
+  "avg_logprob": -0.7053598057140004,
+  "no_speech_prob": 0.04547770693898201,
+  "wall_clock_seconds": 0.03725420800037682,
+  "n_segments": 2,
+  "wer": 0.8125,
+  "reference": "<DTMF> RECORDING NOW SO MY UH PARTICIPANT NUMBER IS F C FIVE FIVE DASH P TWO",
+  "utterance_id": "d7ffc1f80a22",
+  "accent": "Irish English",
+  "speaker": "EDACC-C50-B"
+}

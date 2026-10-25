@@ -1,0 +1,12 @@
+{
+  "text": "princess it's it's amazing how we both have um it's our fathers who actually told us to play prince of persia it was also my dad it was his game and then i just like oh well okay if you want but i actually want to ask you um it's it's a common thing that you said you don't like fps games",
+  "avg_logprob": -0.07805588370875309,
+  "no_speech_prob": 2.939634429974247e-12,
+  "wall_clock_seconds": 0.5583458750043064,
+  "n_segments": 3,
+  "wer": 0.12857142857142856,
+  "reference": "PRINCE JAFAR WHO KIDNAPPED THE PRINCESS IT'S IT'S AMAZING HOW WE BOTH HAVE UM OUR IT'S OUR FATHER'S WHO ACTUALLY TOLD US TO PLAY PRINCE OF PERSIA IT WAS ALSO MY DAD IT IT IT WAS HIS GAME AND THEN I JUST LIKE OK WELL OKAY IF YOU WANT BUT I ACTUALLY WANT TO ASK YOU UM IT'S IT'S A COMMON THING THAT YOU SAID YOU DON'T LIKE FPS GAMES",
+  "utterance_id": "b2a1dd31c275",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C28-B"
+}

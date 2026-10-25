@@ -1,0 +1,12 @@
+{
+  "text": "So I was eating so many duck. I was like, God.",
+  "avg_logprob": -0.21550810964483963,
+  "no_speech_prob": 1.0649825639419408e-11,
+  "wall_clock_seconds": 0.4182214159955038,
+  "n_segments": 2,
+  "wer": 0.08333333333333333,
+  "reference": "UH SO I WAS EATING SO MANY DUCK I WAS LIKE GOD",
+  "utterance_id": "c8fc8fd375fd",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-B"
+}

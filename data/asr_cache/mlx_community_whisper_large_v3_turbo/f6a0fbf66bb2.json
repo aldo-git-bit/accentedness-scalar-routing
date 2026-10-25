@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, there were so many, what do they call it, like they invented lots of things and made lots of cool discoveries, dreams.",
+  "avg_logprob": -0.36426457491787995,
+  "no_speech_prob": 2.27073806806366e-12,
+  "wall_clock_seconds": 0.45300858400878496,
+  "n_segments": 2,
+  "wer": 0.2413793103448276,
+  "reference": "MM HMM <LAUGH> YEAH THERE WERE SO MANY UH WHAT WHAT DO THEY CALL IT UM LIKE THEY INVENTED LOTS OF THINGS AND MADE LOTS OF COOL DISCOVERIES DURING",
+  "utterance_id": "f6a0fbf66bb2",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C03-B"
+}

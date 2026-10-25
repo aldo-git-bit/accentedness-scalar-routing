@@ -1,0 +1,12 @@
+{
+  "text": "",
+  "avg_logprob": 0.0,
+  "no_speech_prob": 0.0,
+  "wall_clock_seconds": 0.04219120899506379,
+  "n_segments": 0,
+  "wer": 1.0,
+  "reference": "<OVERLAP>",
+  "utterance_id": "d1fd08fb0563",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-B"
+}

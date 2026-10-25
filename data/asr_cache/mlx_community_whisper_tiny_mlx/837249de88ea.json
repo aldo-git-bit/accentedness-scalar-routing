@@ -1,0 +1,12 @@
+{
+  "text": "I know. Um, what are we going to say? So do you want to ask a question now?",
+  "avg_logprob": -0.5432617582123855,
+  "no_speech_prob": 0.0438249297440052,
+  "wall_clock_seconds": 0.046071250006207265,
+  "n_segments": 3,
+  "wer": 0.5263157894736842,
+  "reference": "YEAH I KNOW UM WAIT WHAT WAS I GONNA SAY UM SO DO YOU WANNA ASK THE QUESTION NOW",
+  "utterance_id": "837249de88ea",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C03-A"
+}

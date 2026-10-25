@@ -1,0 +1,12 @@
+{
+  "text": "U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U",
+  "avg_logprob": -0.1463292439778646,
+  "no_speech_prob": 0.48907649517059326,
+  "wall_clock_seconds": 3.3336064590002934,
+  "n_segments": 1,
+  "wer": 223.0,
+  "reference": "YEAH",
+  "utterance_id": "a95ff1a77dd1",
+  "accent": "Irish English",
+  "speaker": "EDACC-C61-B"
+}

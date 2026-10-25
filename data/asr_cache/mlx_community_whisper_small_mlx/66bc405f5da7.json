@@ -1,0 +1,12 @@
+{
+  "text": "Good big screen.",
+  "avg_logprob": -0.8157435825892857,
+  "no_speech_prob": 0.1337771862745285,
+  "wall_clock_seconds": 0.098031000001356,
+  "n_segments": 1,
+  "wer": 0.6,
+  "reference": "MOVIES ARE FOR BIG SCREEN",
+  "utterance_id": "66bc405f5da7",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C33-A"
+}

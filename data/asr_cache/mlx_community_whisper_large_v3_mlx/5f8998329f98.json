@@ -1,0 +1,12 @@
+{
+  "text": "You know, across the globe.",
+  "avg_logprob": -0.42362213134765625,
+  "no_speech_prob": 0.423393189907074,
+  "wall_clock_seconds": 0.555086583000957,
+  "n_segments": 1,
+  "wer": 0.4444444444444444,
+  "reference": "UH YOU KNOW ACROSS THE GLOBE FOR FOR MOST",
+  "utterance_id": "5f8998329f98",
+  "accent": "Indian English",
+  "speaker": "EDACC-C36-A"
+}

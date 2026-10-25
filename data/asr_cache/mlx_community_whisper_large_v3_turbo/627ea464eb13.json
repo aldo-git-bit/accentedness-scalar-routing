@@ -1,0 +1,12 @@
+{
+  "text": "That's right. Do you think you would get another pet?",
+  "avg_logprob": -0.32192839516533744,
+  "no_speech_prob": 9.618737013480927e-13,
+  "wall_clock_seconds": 0.4246991249965504,
+  "n_segments": 2,
+  "wer": 0.3,
+  "reference": "THAT'S RIGHT DO YOU THINK YOU'LL GET ANOTHER PET THEN",
+  "utterance_id": "627ea464eb13",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "I need to write last year. So I think the movie was what's the hype? Like, they were just hypeing the movie and when I started new house like, wow, this movie really was what's the hype. I loved the movie, how the lead character played her role. So I felt the, I just loved the movie and how we were kept in suspense. We did new the next tape, do we're going to take the movie was just smart, the movie was cool.",
+  "avg_logprob": -0.5480849642998616,
+  "no_speech_prob": 0.09227335117757321,
+  "wall_clock_seconds": 0.15839024999877438,
+  "n_segments": 5,
+  "wer": 0.29411764705882354,
+  "reference": "YEAH ME TOO I SAW IT LAST YEAR SO I THINK THE MOVIE WAS WORTH THE HYPE LIKE THEY ARE JUST HYPING THE MOVIE AND WHEN I SAW THE MOVIE I WAS LIKE WOW THIS MOVIE IS REALLY WORTH THE HYPE I LOVED THE MOVIE HOW THE LEAD CHARACTER PLAYED HER ROLE PERFECTLY I JUST LOVED THE MOVIE AND HOW WE WERE KEPT IN SUSPENSE WE DIDN'T KNOW THE NEXT STEP THEY WERE GOING TO TAKE THE MOVIE WAS JUST SMART THE MOVIE WAS COOL",
+  "utterance_id": "7b30f8b132cf",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C41-A"
+}

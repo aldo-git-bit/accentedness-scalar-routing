@@ -1,0 +1,12 @@
+{
+  "text": "yeah yeah yeah sort of like a scout handbook i guess but like further weird thing i like the most culty thing i've ever seen is when i went to the initiation while in portugal",
+  "avg_logprob": -0.08940417658198964,
+  "no_speech_prob": 0.012791184708476067,
+  "wall_clock_seconds": 0.9669461670018791,
+  "n_segments": 2,
+  "wer": 0.2,
+  "reference": "YEAH YEAH YEAH SORT LIKE A SCOUT HANDBOOK I GUESS BUT LIKE FOR THEIR WEIRD THING I LIKE UH THE MOST CULTY THING I'VE EVER SEEN IS WHEN I WENT TO THE INITIATION WHILE IN PORTUGAL I THINK THAT WAS",
+  "utterance_id": "739f53646ba8",
+  "accent": "Irish English",
+  "speaker": "EDACC-C50-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "I think what happens with the body is clear, but what.",
+  "avg_logprob": -0.24451634287834167,
+  "no_speech_prob": 4.996484996577788e-12,
+  "wall_clock_seconds": 0.413978540993412,
+  "n_segments": 1,
+  "wer": 0.1,
+  "reference": "I THINK WHAT HAPPENS WITH THE BODY IS CLEAR BUT",
+  "utterance_id": "6937ad0b091f",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C33-B"
+}

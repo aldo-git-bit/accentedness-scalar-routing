@@ -1,0 +1,12 @@
+{
+  "text": "That's right, it's what old babies, isn't it? What's the name of it again?",
+  "avg_logprob": -0.47587211043746386,
+  "no_speech_prob": 0.0024270727299153805,
+  "wall_clock_seconds": 0.15923595799904433,
+  "n_segments": 2,
+  "wer": 0.23076923076923078,
+  "reference": "THAT'S RIGHT IT'S WORLD FAMOUS ISN'T IT WHAT'S THE NAME OF IT AGAIN",
+  "utterance_id": "914a3b9bddd9",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-A"
+}

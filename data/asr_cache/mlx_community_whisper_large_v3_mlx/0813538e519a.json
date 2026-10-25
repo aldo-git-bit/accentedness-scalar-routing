@@ -1,0 +1,12 @@
+{
+  "text": "them.",
+  "avg_logprob": -0.8377843856811523,
+  "no_speech_prob": 0.957254946231842,
+  "wall_clock_seconds": 0.5052262919998611,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "UH HUH",
+  "utterance_id": "0813538e519a",
+  "accent": "Irish English",
+  "speaker": "EDACC-C50-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "If I know what I know now, I don't think I would have said economics because when I was living in secondary school and we are all filling out what the courses we are going to study at the university, applying to universities, filling out application forms for the courses we wanted to study, just anybody that studies at secondary school.",
+  "avg_logprob": -0.40620251432541876,
+  "no_speech_prob": 0.2520734816789627,
+  "wall_clock_seconds": 0.39238837499942747,
+  "n_segments": 4,
+  "wer": 0.25,
+  "reference": "IF I KNOW WHAT I KNOW NOW I DON'T THINK I WOULD'VE THE ECONOMICS BECAUSE WHEN I WAS LIVING SECONDARY SCHOOL AND WE ARE ALL FAILING OUT UM UM WHAT THE COURSES WE ARE GOING TO STUDY AT THE UNIVERSITY UM APPLYING TO UNIVERSITIES FILLING OUT UM UM APPLICATION FORMS FOR THE COURSES WE WANTED TO STUDY JUST NO ANYBODY THAT ANYBODY THAT STUDIES AT IN THE IN SECONDARY IN SECONDARY SCHOOL",
+  "utterance_id": "cd84b4b57a17",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-A"
+}

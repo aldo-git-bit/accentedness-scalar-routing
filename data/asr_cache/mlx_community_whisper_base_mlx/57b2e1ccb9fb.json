@@ -1,0 +1,12 @@
+{
+  "text": "Okay, you guys saw you?",
+  "avg_logprob": -0.7080061435699463,
+  "no_speech_prob": 0.07008060067892075,
+  "wall_clock_seconds": 0.0411519580084132,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "OKAY WERE YOU",
+  "utterance_id": "57b2e1ccb9fb",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-A"
+}

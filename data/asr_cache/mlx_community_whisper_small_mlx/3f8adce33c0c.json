@@ -1,0 +1,12 @@
+{
+  "text": "Very, very, very, Barthas, but okay.",
+  "avg_logprob": -0.9763038158416748,
+  "no_speech_prob": 0.42592960596084595,
+  "wall_clock_seconds": 0.12582658300016192,
+  "n_segments": 1,
+  "wer": 0.6,
+  "reference": "<LAUGH> YOU ARE A VERY VERY BAD PERSON BUT OKAY",
+  "utterance_id": "3f8adce33c0c",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-B"
+}

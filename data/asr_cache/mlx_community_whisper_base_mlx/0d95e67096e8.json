@@ -1,0 +1,12 @@
+{
+  "text": "Dumbass I love the place, I love the part of the world. I love the east coast, Berek, etc. Berek upon tweet, North Berek, all these places are lovely.",
+  "avg_logprob": -0.5038588909392662,
+  "no_speech_prob": 0.04596211388707161,
+  "wall_clock_seconds": 0.10789283299527597,
+  "n_segments": 2,
+  "wer": 0.4642857142857143,
+  "reference": "DUNBAR'S A LOVELY PLACE A LOVELY PART OF THE WORLD I LOVE THE EAST COAST BERWICK ET CETERA BERWICK UPON TWEED NORTH BERWICK ALL THESE PLACES ARE LOVELY",
+  "utterance_id": "0d95e67096e8",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

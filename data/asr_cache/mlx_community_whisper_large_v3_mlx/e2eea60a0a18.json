@@ -1,0 +1,12 @@
+{
+  "text": "I'm excited.",
+  "avg_logprob": -0.8011204855782645,
+  "no_speech_prob": 0.8538963198661804,
+  "wall_clock_seconds": 0.5260168330023589,
+  "n_segments": 1,
+  "wer": 2.0,
+  "reference": "ERAGON",
+  "utterance_id": "e2eea60a0a18",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-A"
+}

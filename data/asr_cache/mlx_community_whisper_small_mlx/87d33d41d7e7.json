@@ -1,0 +1,12 @@
+{
+  "text": "I was in primary school then, yeah. I was in my primary school. I think I was about, I say eight years old, yes. So I came up with Flava Gaston. I saw the meaning, means to be in shock, something like that. So I saw it and then, okay, this word seems so flirty and it seems heavy. So I'm sure most of the people around me don't actually know the meaning. I can actually throw it at them as an insulting word. So don't start crying. Or maybe, you know, my friend, my friend's kid, don't start crying.",
+  "avg_logprob": -0.309423708489963,
+  "no_speech_prob": 0.2673458233475685,
+  "wall_clock_seconds": 0.6569865419987764,
+  "n_segments": 14,
+  "wer": 0.21495327102803738,
+  "reference": "PRIMARY SCHOOL THEN YEAH I WAS IN MY PRIMARY SCHOOL I THINK I WAS ABOUT UM LET'S SAY EIGHT YEARS OLD YES SO I CAME ACROSS THE WORD FLABBERGASTED I SAW THE MEANING YOU KNOW MEANS TO BE TO BE IN SHOCK SOMETHING LIKE THAT YOU KNOW SO LIKE SO I SAW IT AND THEN OKAY THIS WORD IT SEEMS SO LENGTHY AND IT SEEMS HEAVY SO I'M SURE MOST OF THE PEOPLE AROUND ME DON'T ACTUALLY KNOW THE MEANING I CAN ACTUALLY THROW IT AT THEM AS AN INSULTING WORD SO THEY'LL START CRYING OR MAYBE YOU KNOW MY FRIENDS MY FRIENDS KIDS THEY'LL START CRYING",
+  "utterance_id": "87d33d41d7e7",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-A"
+}

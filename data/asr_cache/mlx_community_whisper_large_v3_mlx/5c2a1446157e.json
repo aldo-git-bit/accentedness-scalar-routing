@@ -1,0 +1,12 @@
+{
+  "text": "Oh my god, grapes are amazing. My little parents always buy an extra pack because I just munch on it in the shop.",
+  "avg_logprob": -0.2869688482845531,
+  "no_speech_prob": 0.08611961454153061,
+  "wall_clock_seconds": 0.8406390840027598,
+  "n_segments": 3,
+  "wer": 0.41935483870967744,
+  "reference": "OH MY GOD GRAPES ARE AMAZING MY MOM HAD TO ALWAYS BUY AN EXTRA PACK 'CAUSE I JUST MUNCH IT LIKE IN THE SHOPPING CENTER OR IN THE IN THE SHOP",
+  "utterance_id": "5c2a1446157e",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-B"
+}

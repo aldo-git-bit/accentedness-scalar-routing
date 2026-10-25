@@ -1,0 +1,12 @@
+{
+  "text": "Oh",
+  "avg_logprob": -0.8634454011917114,
+  "no_speech_prob": 0.35322850942611694,
+  "wall_clock_seconds": 0.08831595899755484,
+  "n_segments": 1,
+  "wer": 0.0,
+  "reference": "OH",
+  "utterance_id": "7aa47424d437",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C04-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "I'll be able to find it.",
+  "avg_logprob": -0.33595041795210406,
+  "no_speech_prob": 0.3933214247226715,
+  "wall_clock_seconds": 0.564486458999454,
+  "n_segments": 1,
+  "wer": 0.3333333333333333,
+  "reference": "I'LL BE ABLE TO PASS ON",
+  "utterance_id": "e1e62b3d479d",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-A"
+}

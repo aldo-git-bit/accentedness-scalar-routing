@@ -1,0 +1,12 @@
+{
+  "text": "Let's try. We can, their health can rapidly decline sadly, and it's a shame. Do you have any pain?",
+  "avg_logprob": -0.5352438724402225,
+  "no_speech_prob": 0.02766581065952778,
+  "wall_clock_seconds": 0.05145220800477546,
+  "n_segments": 3,
+  "wer": 0.2857142857142857,
+  "reference": "THAT'S RIGHT THEY CAN THEY THEY THEIR HEALTH CAN RAPIDLY DECLINE SADLY AND IT'S A SHAME DO YOU HAVE ANY PETS",
+  "utterance_id": "014fb845aca4",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-A"
+}

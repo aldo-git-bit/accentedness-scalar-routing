@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, I guess so. I like to hear.",
+  "avg_logprob": -0.8422841429710388,
+  "no_speech_prob": 0.1278151422739029,
+  "wall_clock_seconds": 0.05150545900687575,
+  "n_segments": 2,
+  "wer": 0.42857142857142855,
+  "reference": "YEAH I GUESS SO THEY'RE LIKE <OVERLAP>",
+  "utterance_id": "ba34d712b098",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C06-A"
+}

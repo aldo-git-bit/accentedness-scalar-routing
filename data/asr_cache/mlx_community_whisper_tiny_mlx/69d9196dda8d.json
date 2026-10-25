@@ -1,0 +1,12 @@
+{
+  "text": "for school, do you feel more good? Right away.",
+  "avg_logprob": -0.6956184611600988,
+  "no_speech_prob": 0.08496984094381332,
+  "wall_clock_seconds": 0.03098929200496059,
+  "n_segments": 2,
+  "wer": 0.3333333333333333,
+  "reference": "LIKE FOR SCHOOL DO YOU FEEL MOTIVATED RIGHT AWAY",
+  "utterance_id": "69d9196dda8d",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C33-B"
+}

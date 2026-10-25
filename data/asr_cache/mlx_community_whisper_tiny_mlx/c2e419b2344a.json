@@ -1,0 +1,12 @@
+{
+  "text": "But for the people in power like President Snow and all these people",
+  "avg_logprob": -0.5753169059753418,
+  "no_speech_prob": 0.01540390681475401,
+  "wall_clock_seconds": 0.03236895799636841,
+  "n_segments": 2,
+  "wer": 0.0,
+  "reference": "BUT FOR THE PEOPLE IN POWER LIKE PRESIDENT SNOW AND ALL THESE PEOPLE",
+  "utterance_id": "c2e419b2344a",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-B"
+}

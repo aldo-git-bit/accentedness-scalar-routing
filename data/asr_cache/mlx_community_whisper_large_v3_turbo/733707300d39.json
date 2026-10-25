@@ -1,0 +1,12 @@
+{
+  "text": "I don't know. It's 1.08. We started at like 12.55 or something like that.",
+  "avg_logprob": -0.25097325642903645,
+  "no_speech_prob": 2.0519124593887383e-12,
+  "wall_clock_seconds": 0.44523529200523626,
+  "n_segments": 3,
+  "wer": 0.3684210526315789,
+  "reference": "I DON'T KNOW IT'S ONE O EIGHT UM WE STARTED AT LIKE TWELVE FIFTY FIVE OR SOMETHING LIKE THAT",
+  "utterance_id": "733707300d39",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B"
+}

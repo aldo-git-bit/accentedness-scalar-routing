@@ -1,0 +1,12 @@
+{
+  "text": "the surfman. the",
+  "avg_logprob": -3.1838160428133877,
+  "no_speech_prob": 0.22217315435409546,
+  "wall_clock_seconds": 0.162153874989599,
+  "n_segments": 2,
+  "wer": 1.0,
+  "reference": "IT IS PRETTY GREAT",
+  "utterance_id": "4aac9ea5bc4e",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C06-A"
+}

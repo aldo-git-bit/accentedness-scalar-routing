@@ -1,0 +1,12 @@
+{
+  "text": "Okay, who are you?",
+  "avg_logprob": -0.4311147795783149,
+  "no_speech_prob": 0.238555446267128,
+  "wall_clock_seconds": 0.5534511670011852,
+  "n_segments": 1,
+  "wer": 0.6666666666666666,
+  "reference": "OKAY WERE YOU",
+  "utterance_id": "57b2e1ccb9fb",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-A"
+}

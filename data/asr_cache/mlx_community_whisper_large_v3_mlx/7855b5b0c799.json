@@ -1,0 +1,12 @@
+{
+  "text": "It's like a very...",
+  "avg_logprob": -0.48324097527398,
+  "no_speech_prob": 0.030297383666038513,
+  "wall_clock_seconds": 0.5400977919998695,
+  "n_segments": 1,
+  "wer": 0.0,
+  "reference": "IT'S LIKE A VERY",
+  "utterance_id": "7855b5b0c799",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C06-A"
+}

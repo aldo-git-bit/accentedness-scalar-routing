@@ -1,0 +1,12 @@
+{
+  "text": "I'd ask what that's about, but I think it's pretty intuitive.",
+  "avg_logprob": -0.08239304391961348,
+  "no_speech_prob": 2.3976753742160906e-12,
+  "wall_clock_seconds": 0.42829083299147896,
+  "n_segments": 1,
+  "wer": 0.0,
+  "reference": "I'D ASK WHAT THAT'S ABOUT BUT I THINK IT'S PRETTY INTUITIVE",
+  "utterance_id": "64325d20d63b",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-A"
+}

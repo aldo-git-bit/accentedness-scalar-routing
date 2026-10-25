@@ -1,0 +1,12 @@
+{
+  "text": "You don't have to ask those two balls to admire. Sorry, those two balls to admire.",
+  "avg_logprob": -0.814332504272461,
+  "no_speech_prob": 0.1358485221862793,
+  "wall_clock_seconds": 0.16354970800239244,
+  "n_segments": 2,
+  "wer": 0.6111111111111112,
+  "reference": "YOU'RE NOT AS TALL AS THOSE FOOTBALLERS I USED TO ADMIRE SORRY THOSE BASKETBALLERS I USED TO ADMIRE",
+  "utterance_id": "d7a01b899a42",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-A"
+}

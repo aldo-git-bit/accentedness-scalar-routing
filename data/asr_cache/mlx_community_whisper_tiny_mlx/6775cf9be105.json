@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, actually. I think it was winter vacation 2020",
+  "avg_logprob": -0.47622803279331755,
+  "no_speech_prob": 0.02684047445654869,
+  "wall_clock_seconds": 0.027303542010486126,
+  "n_segments": 1,
+  "wer": 0.38461538461538464,
+  "reference": "YEAH ACTUALLY I THINK IT WAS WINTER VACATION TWENTY TWENTY YEAH TWENTY TWENTY",
+  "utterance_id": "6775cf9be105",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C19-B"
+}

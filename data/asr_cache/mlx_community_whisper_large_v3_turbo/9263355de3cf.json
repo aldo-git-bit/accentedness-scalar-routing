@@ -1,0 +1,12 @@
+{
+  "text": "And like, I guess we just drove. I wasn't the one driving, so I was probably like asleep for half of it.",
+  "avg_logprob": -0.24650385975837708,
+  "no_speech_prob": 1.0080577865501095e-12,
+  "wall_clock_seconds": 0.45586195900978055,
+  "n_segments": 2,
+  "wer": 0.0,
+  "reference": "AND LIKE I GUESS WE JUST DROVE I WASN'T THE ONE DRIVING SO I WAS PROBABLY LIKE ASLEEP FOR HALF OF IT",
+  "utterance_id": "9263355de3cf",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C17-B"
+}

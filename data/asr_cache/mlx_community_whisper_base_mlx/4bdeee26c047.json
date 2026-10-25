@@ -1,0 +1,12 @@
+{
+  "text": "the other.",
+  "avg_logprob": -1.0122901746961808,
+  "no_speech_prob": 0.22024035453796387,
+  "wall_clock_seconds": 1.3982410409953445,
+  "n_segments": 44,
+  "wer": 1.0,
+  "reference": "SO LIKE THERE IN PERS PERSON <OVERLAP> GIVE ME A SPECIFIC REASON FOR CHOOSING LONDON",
+  "utterance_id": "4bdeee26c047",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-B"
+}

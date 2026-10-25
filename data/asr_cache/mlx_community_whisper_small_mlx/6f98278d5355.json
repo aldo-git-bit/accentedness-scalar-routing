@@ -1,0 +1,12 @@
+{
+  "text": "It was in a slot. Great.",
+  "avg_logprob": -0.9569091063279372,
+  "no_speech_prob": 0.03556245192885399,
+  "wall_clock_seconds": 0.11825487499663723,
+  "n_segments": 2,
+  "wer": 1.0,
+  "reference": "OR GRAPES YEAH ROAST DINNERS BUT WITH GRAPES",
+  "utterance_id": "6f98278d5355",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-B"
+}

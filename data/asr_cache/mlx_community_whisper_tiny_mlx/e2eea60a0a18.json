@@ -1,0 +1,12 @@
+{
+  "text": "the climate.",
+  "avg_logprob": -3.3786708286830356,
+  "no_speech_prob": 0.3506016433238983,
+  "wall_clock_seconds": 0.1343780000024708,
+  "n_segments": 1,
+  "wer": 2.0,
+  "reference": "ERAGON",
+  "utterance_id": "e2eea60a0a18",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-A"
+}

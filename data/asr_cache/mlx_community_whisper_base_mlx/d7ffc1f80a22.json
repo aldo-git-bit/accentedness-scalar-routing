@@ -1,0 +1,12 @@
+{
+  "text": "I'm kind of recording this. My at a dissonant number is Fc55-P2.",
+  "avg_logprob": -0.763930497346101,
+  "no_speech_prob": 0.15745115280151367,
+  "wall_clock_seconds": 0.07095275000028778,
+  "n_segments": 2,
+  "wer": 0.9375,
+  "reference": "<DTMF> RECORDING NOW SO MY UH PARTICIPANT NUMBER IS F C FIVE FIVE DASH P TWO",
+  "utterance_id": "d7ffc1f80a22",
+  "accent": "Irish English",
+  "speaker": "EDACC-C50-B"
+}

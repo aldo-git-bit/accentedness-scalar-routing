@@ -1,0 +1,12 @@
+{
+  "text": "You can't.",
+  "avg_logprob": -0.9268086173317649,
+  "no_speech_prob": 0.318594753742218,
+  "wall_clock_seconds": 0.1720241670118412,
+  "n_segments": 2,
+  "wer": 1.0,
+  "reference": "YEAH I KNOW",
+  "utterance_id": "f4b8ad996695",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-B"
+}

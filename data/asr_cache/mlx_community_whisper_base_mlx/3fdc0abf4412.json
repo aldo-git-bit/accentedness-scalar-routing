@@ -1,0 +1,12 @@
+{
+  "text": "That's pretty wild. I don't know. Maybe we should start doing that.",
+  "avg_logprob": -0.35892423716458405,
+  "no_speech_prob": 0.03956400603055954,
+  "wall_clock_seconds": 0.06361625000135973,
+  "n_segments": 2,
+  "wer": 0.0,
+  "reference": "THAT'S PRETTY WILD I DON'T KNOW MAYBE WE SHOULD START DOING THAT",
+  "utterance_id": "3fdc0abf4412",
+  "accent": "Irish English",
+  "speaker": "EDACC-C50-A"
+}

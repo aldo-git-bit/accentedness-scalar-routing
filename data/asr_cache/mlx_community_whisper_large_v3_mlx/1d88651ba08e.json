@@ -1,0 +1,12 @@
+{
+  "text": "someone who can talk to.",
+  "avg_logprob": -0.6308049288662997,
+  "no_speech_prob": 0.09648050367832184,
+  "wall_clock_seconds": 0.5745151249975606,
+  "n_segments": 2,
+  "wer": 0.5,
+  "reference": "SOMEONE WHO CAN CALM YOU DOWN",
+  "utterance_id": "1d88651ba08e",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-A"
+}

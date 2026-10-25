@@ -1,0 +1,12 @@
+{
+  "text": "Oh, dissertation problems. I know that's how I felt last year. Like now I'm finding mistakes in my previous like models that I had run because of everything they're doing in MSMR. And I'm going back and thinking like, oh, maybe I should have included this as a covariate or whatever.",
+  "avg_logprob": -0.18321483166186844,
+  "no_speech_prob": 4.0333114452451024e-12,
+  "wall_clock_seconds": 0.5613179170031799,
+  "n_segments": 6,
+  "wer": 0.17543859649122806,
+  "reference": "<LAUGH> UH YES DISSERTATION PROBLEMS I KNOW THAT'S HOW I FELT LAST YEAR LIKE NOW I'M FINDING MISTAKES IN MY PREVIOUS LIKE MODELS THAT I HAD RUN BECAUSE OF EVERYTHING THEY'RE DOING IN MSMR AND I'M I'M GOING BACK AND THINKING LIKE <BREATH> OH MAYBE I SHOULD'VE INVA IN UM INCLUDED THIS AS A COVARIANT OR WHATEVER",
+  "utterance_id": "90e5036a4bb2",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "I'm just saying, in public, we suck. We deserve to have our brains snatched.",
+  "avg_logprob": -0.29132722854614257,
+  "no_speech_prob": 1.477939190301647e-12,
+  "wall_clock_seconds": 0.4379317080019973,
+  "n_segments": 2,
+  "wer": 0.375,
+  "reference": "I JUST FEEL LIKE THE PUBLIC WE SUCK LIKE WE DESERVE TO HAVE OUR RING SNATCHED",
+  "utterance_id": "702107b0340e",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C17-B"
+}

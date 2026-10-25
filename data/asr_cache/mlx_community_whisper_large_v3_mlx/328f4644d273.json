@@ -1,0 +1,12 @@
+{
+  "text": "Because of the country and how beautiful the country is, the environment. My friend once visited Dubai. She didn't want to come back. She really loved the environment. Even before she visited Dubai, I've always wanted to go to Dubai. Then she gave me that hype. She really hyped Dubai. Dubai is cool. Dubai is this. Dubai is that. And that really made my deal to increase. I'm still working towards that. I'm still working towards visiting Dubai.",
+  "avg_logprob": -0.20990941743024916,
+  "no_speech_prob": 0.0049215212612497535,
+  "wall_clock_seconds": 2.380720208002458,
+  "n_segments": 11,
+  "wer": 0.12941176470588237,
+  "reference": "NO BECAUSE OF THE COUNTRY AND HOW BEAUTIFUL THE COUNTRY IS THE ENVIRONMENT LIKE MY FRIEND ONCE VISITED DUBAI YOU KNOW SH SHE DIDN'T WANT TO COME BACK LIKE SHE REALLY LOVED THE ENVIRONMENT EVEN BEFORE SHE VISITED DUBAI I'VE ALWAYS WANTED TO GO TO DUBAI THEN SHE SHE SHE GAVE ME THAT HYPE SHE REALLY HYPED DUBAI DUBAI IS COOL DUBAI IS THIS DUBAI IS THAT AND THAT REALLY MADE MY IDEAL <DTMF> I'M STILL WORKING TOWARDS THAT I'M STILL WORKING TOWARDS VISITING DUBAI",
+  "utterance_id": "328f4644d273",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C41-A"
+}

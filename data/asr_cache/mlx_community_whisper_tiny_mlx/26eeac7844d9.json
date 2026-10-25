@@ -1,0 +1,12 @@
+{
+  "text": "Well that's exactly. Don't have your things and be tried any new recipes please.",
+  "avg_logprob": -0.7975261522376019,
+  "no_speech_prob": 0.013140718452632427,
+  "wall_clock_seconds": 0.03760095800680574,
+  "n_segments": 2,
+  "wer": 0.47058823529411764,
+  "reference": "WELL THAT'S SAD EXACTLY ON TO HAPPIER THINGS AND HAVE YOU TRIED ANY NEW RECIPES RECENTLY NOW",
+  "utterance_id": "26eeac7844d9",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

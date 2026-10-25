@@ -1,0 +1,12 @@
+{
+  "text": "in the eyes and he just ran for cover you know um so yeah that was a big show",
+  "avg_logprob": -0.15731165625832297,
+  "no_speech_prob": 1.0440832226565888e-12,
+  "wall_clock_seconds": 0.4265983750083251,
+  "n_segments": 1,
+  "wer": 0.05263157894736842,
+  "reference": "IN THE EYES AND YOU JUST RAN FOR COVER YOU KNOW UM SO YEAH THAT WAS A BIG SHOW",
+  "utterance_id": "65a0a7477935",
+  "accent": "Irish English",
+  "speaker": "EDACC-C61-B"
+}

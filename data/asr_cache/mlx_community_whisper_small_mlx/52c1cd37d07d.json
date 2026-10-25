@@ -1,0 +1,12 @@
+{
+  "text": "U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U",
+  "avg_logprob": -0.1622092013888889,
+  "no_speech_prob": 0.5722869634628296,
+  "wall_clock_seconds": 2.9629010829994513,
+  "n_segments": 1,
+  "wer": 111.5,
+  "reference": "OF COURSE",
+  "utterance_id": "52c1cd37d07d",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-A"
+}

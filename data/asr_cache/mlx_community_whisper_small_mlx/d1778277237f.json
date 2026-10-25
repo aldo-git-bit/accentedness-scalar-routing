@@ -1,0 +1,12 @@
+{
+  "text": "which is a pounded, yeah man, melon soup. I know you like that.",
+  "avg_logprob": -0.6938626662544582,
+  "no_speech_prob": 0.25860434770584106,
+  "wall_clock_seconds": 0.14714604100299766,
+  "n_segments": 2,
+  "wer": 0.23076923076923078,
+  "reference": "WHICH IS UH POUNDED YAM AND MELON SOUP I KNOW YOU LIKE THAT",
+  "utterance_id": "d1778277237f",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-B"
+}

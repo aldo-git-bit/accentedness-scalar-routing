@@ -1,0 +1,12 @@
+{
+  "text": "Sofia.",
+  "avg_logprob": -3.287225087483724,
+  "no_speech_prob": 0.35107821226119995,
+  "wall_clock_seconds": 0.5755136249936186,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "UH EFFIE EFFIE TRINKET",
+  "utterance_id": "193e58a19101",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-B"
+}

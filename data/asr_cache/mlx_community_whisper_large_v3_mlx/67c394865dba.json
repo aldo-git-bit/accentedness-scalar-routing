@@ -1,0 +1,12 @@
+{
+  "text": "There's a lot wrong with it actually, because the milk is meant to just, you know, shower the cereal first so it's nice and moist. But no, it just doesn't make sense to me. Any other controversial opinions from you?",
+  "avg_logprob": -0.2344944100630911,
+  "no_speech_prob": 0.004389361012727022,
+  "wall_clock_seconds": 1.1174689159997797,
+  "n_segments": 3,
+  "wer": 0.11627906976744186,
+  "reference": "THERE'S A LOT THERE'S A LOT WRONG WITH IT ACTUALLY BECAUSE MILK IS MEANT TO JUST YOU KNOW SHOWER THE THE CEREAL FIRST SO IT'S NICE AND MOIST BUT NO IT JUST DOESN'T MAKE SENSE TO ME ANY OTHER CONTROVERSIAL OPINIONS FROM YOU",
+  "utterance_id": "67c394865dba",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C32-A"
+}

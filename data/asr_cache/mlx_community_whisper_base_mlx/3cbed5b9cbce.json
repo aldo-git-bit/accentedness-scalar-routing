@@ -1,0 +1,12 @@
+{
+  "text": "And apart from that, you know, I think they have a lot of lovely souvenirs you can bring back his gifts for your",
+  "avg_logprob": -0.249644476791908,
+  "no_speech_prob": 0.05580722168087959,
+  "wall_clock_seconds": 0.07261062499310356,
+  "n_segments": 1,
+  "wer": 0.18518518518518517,
+  "reference": "AND UM UM APART FROM THAT YOU KNOW UM I THINK THEY HAVE A LOT OF LOVELY SOUVENIRS YOU CAN BRING BACK AS GIFTS FOR YOUR UH",
+  "utterance_id": "3cbed5b9cbce",
+  "accent": "Indian English",
+  "speaker": "EDACC-C36-A"
+}

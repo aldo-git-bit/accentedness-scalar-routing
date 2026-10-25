@@ -1,0 +1,12 @@
+{
+  "text": "Yes, I will go a little bit later outside too. Okay, so thank you and goodbye.",
+  "avg_logprob": -0.3555403137207031,
+  "no_speech_prob": 0.019435079768300056,
+  "wall_clock_seconds": 0.040185667006880976,
+  "n_segments": 2,
+  "wer": 0.2,
+  "reference": "YES I I WILL GO UM A LITTLE BIT UH LATER OUTSIDE TOO OKAY SO UH THANK YOU AND GOODBYE",
+  "utterance_id": "6b58cae39742",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C44-A"
+}

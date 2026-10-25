@@ -1,0 +1,12 @@
+{
+  "text": "and keep pulling the wave. We should know, I've only this nonsense for you.",
+  "avg_logprob": -0.7181414728579314,
+  "no_speech_prob": 0.013153745792806149,
+  "wall_clock_seconds": 0.03829337499337271,
+  "n_segments": 2,
+  "wer": 0.9230769230769231,
+  "reference": "AND THEN GIMBLE IN THE WABE <DTMF> I FORGOT IT'S A NONSENSE POEM",
+  "utterance_id": "d8945d8dd78e",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-B"
+}

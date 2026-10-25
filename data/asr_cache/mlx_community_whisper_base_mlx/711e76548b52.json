@@ -1,0 +1,12 @@
+{
+  "text": "I'm climbing and out through the window and there was no way I was, if you open the door for me now, you had to close the door, roll down the roll down the window. There was no electric window.",
+  "avg_logprob": -0.39696824316884954,
+  "no_speech_prob": 0.34158530831336975,
+  "wall_clock_seconds": 0.1166697910084622,
+  "n_segments": 2,
+  "wer": 0.1,
+  "reference": "CLIMB IN AND OUT THROUGH THE WINDOW AND THERE WAS NO WAY I WAS IF YOU OPENED THE DOOR FOR ME NO YOU HAD TO CLOSE THE DOOR ROLL DOWN THE ROLL DOWN THE WINDOW THERE WAS NO ELECTRIC WINDOW",
+  "utterance_id": "711e76548b52",
+  "accent": "Irish English",
+  "speaker": "EDACC-C61-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang",
+  "avg_logprob": -0.27097149319118924,
+  "no_speech_prob": 5.7532985320296604e-11,
+  "wall_clock_seconds": 3.5120307500037597,
+  "n_segments": 4,
+  "wer": 36.0,
+  "reference": "YES",
+  "utterance_id": "0233efba69ec",
+  "accent": "Irish English",
+  "speaker": "EDACC-C47-A"
+}

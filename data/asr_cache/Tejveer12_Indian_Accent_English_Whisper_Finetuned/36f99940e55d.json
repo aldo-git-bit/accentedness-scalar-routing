@@ -1,0 +1,11 @@
+{
+  "text": "And then I loved then, that they were called, you know, sort of, the Travelling Wheelbrays.",
+  "wer": 0.29411764705882354,
+  "reference": "AND THEN I LOVED THEN THEY WERE CALLED YOU KNOW SORT OF UM THE TRAVELING WILBURYS AND",
+  "utterance_id": "36f99940e55d",
+  "accent": "Irish English",
+  "speaker": "EDACC-C47-B",
+  "wall_clock_seconds": 1.014184290994308,
+  "avg_logprob": null,
+  "no_speech_prob": null
+}

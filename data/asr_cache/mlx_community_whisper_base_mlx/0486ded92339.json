@@ -1,0 +1,12 @@
+{
+  "text": "Thank you. Thank you.",
+  "avg_logprob": -0.8542796915227716,
+  "no_speech_prob": 0.27359387278556824,
+  "wall_clock_seconds": 0.23714970800210722,
+  "n_segments": 2,
+  "wer": 1.0,
+  "reference": "YEAH I DON'T THINK LAMB IS A <DTMF>",
+  "utterance_id": "0486ded92339",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-B"
+}

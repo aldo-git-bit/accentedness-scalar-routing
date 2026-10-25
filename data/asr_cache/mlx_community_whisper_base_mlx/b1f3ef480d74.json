@@ -1,0 +1,12 @@
+{
+  "text": "I feel like as students go, we're both better cooked for a lot of students, particularly like when we end the first second third years. I think when you get into the later years of a degree, people generally have learned how to cook well then.",
+  "avg_logprob": -0.367414765438791,
+  "no_speech_prob": 0.006376800127327442,
+  "wall_clock_seconds": 0.12852691700391006,
+  "n_segments": 3,
+  "wer": 0.2982456140350877,
+  "reference": "I FEEL LIKE YOU YOU KNOW I I FEEL LIKE AS STUDENTS GO WE BOTH BETTER COOK FOR A LOT OF STUDENTS PARTICULARLY UH LIKE WHEN WE'RE IN THE FIRST THE LIKE FIRST SECOND THIRD YEARS I THINK WHEN YOU GET INTO THE LATER YEARS OF THE DEGREE PEOPLE GENERALLY HAVE LEARNED HOW TO COOK BY THEN",
+  "utterance_id": "b1f3ef480d74",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C11-B"
+}

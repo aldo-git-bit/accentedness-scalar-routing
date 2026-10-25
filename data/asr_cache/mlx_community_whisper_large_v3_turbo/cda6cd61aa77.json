@@ -1,0 +1,12 @@
+{
+  "text": "If you have known what you know right now, in the past six years, would you still have studied what we studied economics or would you have done for a different dimension?",
+  "avg_logprob": -0.37757513523101804,
+  "no_speech_prob": 2.1879800055080167e-11,
+  "wall_clock_seconds": 0.47270937499706633,
+  "n_segments": 2,
+  "wer": 0.1891891891891892,
+  "reference": "SO LIKE IF YOU HAVE KNOW WHAT YOU KNOW LIKE RIGHT NOW LIKE IN THE PAST SIX YEARS WOULD YOU STILL HAVE STUDIED WHAT WE STUDIED ECONOMICS OR WOULD YOU HAVE LIKE GONE FOR A DIFFERENT DIMENSION",
+  "utterance_id": "cda6cd61aa77",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-B"
+}

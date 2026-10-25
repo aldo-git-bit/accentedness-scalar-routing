@@ -1,0 +1,12 @@
+{
+  "text": "Probably wouldn't need that now. I hope I liked you thinly spread. It wasn't to unhealthy, but I wouldn't I think I'd give that one a pass. But apart from that, I don't think I've really changed. I eat well vegetables now. That's only thing. My parents' blessing that they were very good cooks in many ways, but they were not could they're just preparing plain restaurants.",
+  "avg_logprob": -0.39583675986842104,
+  "no_speech_prob": 0.03423307090997696,
+  "wall_clock_seconds": 0.12307858400163241,
+  "n_segments": 4,
+  "wer": 0.3246753246753247,
+  "reference": "AND I PROBABLY WOULDN'T EAT THAT NOW I'M NOT GONNA LIE TO YOU THINLY SPREAD SO IT WASN'T TOO UNHEALTHY BUT I I WOULDN'T I THINK I THINK I'D GIVE THAT ONE PASS BUT APART FROM THAT I DON'T THINK I'VE REALLY CHANGED I EAT MORE VEGETABLES NOW THAT'S THE ONLY THING BECAUSE I MY PARENTS BLESS THEM THEY THEY WERE VERY GOOD COOKS IN ANY WAYS BUT THEY WERE NOT GOOD AT JUST PREPARING PLAIN VEGETABLES",
+  "utterance_id": "f025afcd3b75",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C11-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "",
+  "avg_logprob": 0.0,
+  "no_speech_prob": 0.0,
+  "wall_clock_seconds": 0.035205624997615814,
+  "n_segments": 0,
+  "wer": 1.0,
+  "reference": "MM HMM",
+  "utterance_id": "ac80fd406c17",
+  "accent": "Irish English",
+  "speaker": "EDACC-C47-B"
+}

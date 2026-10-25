@@ -1,0 +1,12 @@
+{
+  "text": "hang on.",
+  "avg_logprob": -0.827713216145833,
+  "no_speech_prob": 2.7111937694890287e-11,
+  "wall_clock_seconds": 3.4412503329949686,
+  "n_segments": 44,
+  "wer": 1.0,
+  "reference": "WHEN THAT HAPPENS",
+  "utterance_id": "2df3731f138f",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B"
+}

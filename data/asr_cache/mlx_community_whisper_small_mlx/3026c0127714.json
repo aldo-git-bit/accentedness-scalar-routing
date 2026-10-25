@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, cabbage, cabbage leaves. And like you boil the leaves and you cook the meat and then you wrap them in. And it's like a dumpling with a leaf on the outside. And then you eat that with sour cream and stuff and that's pretty good.",
+  "avg_logprob": -0.2321145356591068,
+  "no_speech_prob": 0.014613287523388863,
+  "wall_clock_seconds": 0.28124395799750346,
+  "n_segments": 6,
+  "wer": 0.08333333333333333,
+  "reference": "YEAH CABBAGE CABBAGE LEAVES AND LIKE YOU BOIL THE LEAVES AND YOU COOK THE MEAT AND THEN YOU WRAP THEM IN AND IT'S LIKE A A DUMPLING BUT WITH A LEAF ON THE OUTSIDE AND YOU EAT THAT WITH LIKE SOUR CREAM AND STUFF AND THAT'S PRETTY GOOD",
+  "utterance_id": "3026c0127714",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C06-A"
+}

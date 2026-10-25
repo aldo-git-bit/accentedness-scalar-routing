@@ -1,0 +1,11 @@
+{
+  "text": "How's the thing is, like, you mostly hang out in that royal-miley area, right?",
+  "wer": 0.5294117647058824,
+  "reference": "AND I ALSO THINK IT'S LIKE YOU MOSTLY HANG OUT IN THE ROYAL MILE Y AREA RIGHT",
+  "utterance_id": "fd4667ad6b43",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B",
+  "wall_clock_seconds": 0.9441924999991897,
+  "avg_logprob": null,
+  "no_speech_prob": null
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Hi, I'm participant C33B-P1.",
+  "avg_logprob": -0.17163155873616537,
+  "no_speech_prob": 0.052471600472927094,
+  "wall_clock_seconds": 0.6060780840016378,
+  "n_segments": 1,
+  "wer": 0.7,
+  "reference": "HI I'M PARTICIPANT C THIRTY THREE B DASH P ONE",
+  "utterance_id": "5e8832f237a0",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C17-A"
+}

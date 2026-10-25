@@ -1,0 +1,12 @@
+{
+  "text": "the sports camps.",
+  "avg_logprob": -2.506765365600586,
+  "no_speech_prob": 0.27300918102264404,
+  "wall_clock_seconds": 0.2905984169919975,
+  "n_segments": 2,
+  "wer": 0.6,
+  "reference": "UM SPORTS CAMPS AND WHATNOT",
+  "utterance_id": "ebcd3bb05821",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-A"
+}

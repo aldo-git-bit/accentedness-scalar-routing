@@ -1,0 +1,12 @@
+{
+  "text": "So I love her, I love retitude. All of those kind of movies I'd watch them again and again. I think they're very light. They're great for completely distressing and just completely switching off of all of them.",
+  "avg_logprob": -0.3862008868523364,
+  "no_speech_prob": 0.01322285458445549,
+  "wall_clock_seconds": 0.07316204201197252,
+  "n_segments": 2,
+  "wer": 0.15789473684210525,
+  "reference": "SO I LOVE GARFIELD I LOVE RATATOUILLE ALL OF THOSE KIND OF MOVIES I'D WATCH THEM AGAIN AND AGAIN I THINK THEY'RE VERY LIGHT THEY'RE GREAT FOR UM COMPLETELY DESTRESSING AND JUST COMPLETELY SWITCHING OFF OF ALL THE",
+  "utterance_id": "719d5462b4e0",
+  "accent": "Irish English",
+  "speaker": "EDACC-C47-B"
+}

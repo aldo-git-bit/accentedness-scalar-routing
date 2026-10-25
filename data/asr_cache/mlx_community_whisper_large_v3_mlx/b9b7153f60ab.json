@@ -1,0 +1,12 @@
+{
+  "text": "You too. Bye-bye.",
+  "avg_logprob": -0.1656144380569458,
+  "no_speech_prob": 0.0014613799285143614,
+  "wall_clock_seconds": 0.547186583000439,
+  "n_segments": 1,
+  "wer": 0.5,
+  "reference": "YOU TOO BYE BYE",
+  "utterance_id": "b9b7153f60ab",
+  "accent": "Irish English",
+  "speaker": "EDACC-C61-B"
+}

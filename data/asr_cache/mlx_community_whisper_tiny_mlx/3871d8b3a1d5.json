@@ -1,0 +1,12 @@
+{
+  "text": "the",
+  "avg_logprob": -2.6141843795776367,
+  "no_speech_prob": 0.5246366262435913,
+  "wall_clock_seconds": 0.1402513750072103,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "MOTHER NO",
+  "utterance_id": "3871d8b3a1d5",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-A"
+}

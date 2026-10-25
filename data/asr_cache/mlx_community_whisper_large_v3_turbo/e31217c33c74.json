@@ -1,0 +1,12 @@
+{
+  "text": "I think...",
+  "avg_logprob": -0.8245330651601156,
+  "no_speech_prob": 2.013521120669548e-11,
+  "wall_clock_seconds": 0.39165362498897593,
+  "n_segments": 1,
+  "wer": 2.0,
+  "reference": "YEAH",
+  "utterance_id": "e31217c33c74",
+  "accent": "Irish English",
+  "speaker": "EDACC-C50-B"
+}

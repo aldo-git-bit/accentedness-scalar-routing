@@ -1,0 +1,12 @@
+{
+  "text": "It's really quite something.",
+  "avg_logprob": -0.41190656026204425,
+  "no_speech_prob": 0.08305814117193222,
+  "wall_clock_seconds": 0.02287279198935721,
+  "n_segments": 1,
+  "wer": 0.2,
+  "reference": "YEAH IT'S REALLY QUITE SOMETHING",
+  "utterance_id": "f953f879efcd",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-A"
+}

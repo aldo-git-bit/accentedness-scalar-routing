@@ -1,0 +1,12 @@
+{
+  "text": "UD",
+  "avg_logprob": -3.977687120437622,
+  "no_speech_prob": 0.5687411427497864,
+  "wall_clock_seconds": 4.070303750002495,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "OH MY GOD YES",
+  "utterance_id": "29adf40f6f1b",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C06-B"
+}

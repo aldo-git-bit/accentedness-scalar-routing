@@ -1,0 +1,12 @@
+{
+  "text": "No, it was too... I have no idea, like too cheesy for me.",
+  "avg_logprob": -0.5906703255393289,
+  "no_speech_prob": 0.22757665812969208,
+  "wall_clock_seconds": 0.06356237499858253,
+  "n_segments": 2,
+  "wer": 0.3333333333333333,
+  "reference": "I DON'T KNOW IT WAS TOO I I I I HAVE NO IDEA LIKE TOO CHEESY FOR ME",
+  "utterance_id": "140219ca53c1",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-B"
+}

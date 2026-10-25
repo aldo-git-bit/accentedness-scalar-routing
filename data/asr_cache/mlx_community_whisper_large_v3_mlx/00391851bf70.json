@@ -1,0 +1,12 @@
+{
+  "text": "FIFA, obviously.",
+  "avg_logprob": -0.2576796667916434,
+  "no_speech_prob": 0.0063469549641013145,
+  "wall_clock_seconds": 0.5205896249972284,
+  "n_segments": 1,
+  "wer": 0.6,
+  "reference": "FIFA OBVIOUSLY I DON'T KNOW",
+  "utterance_id": "00391851bf70",
+  "accent": "Irish English",
+  "speaker": "EDACC-C50-A"
+}

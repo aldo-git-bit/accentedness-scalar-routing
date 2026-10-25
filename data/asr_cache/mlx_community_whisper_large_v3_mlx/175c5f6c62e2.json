@@ -1,0 +1,12 @@
+{
+  "text": "Affiliate marketing. No, I know I've had the opportunity to work on the websites that has to do with affiliate marketing, but I haven't really given it much thought.",
+  "avg_logprob": -0.19601308107376098,
+  "no_speech_prob": 0.045794956386089325,
+  "wall_clock_seconds": 0.9087003749991709,
+  "n_segments": 1,
+  "wer": 0.19444444444444445,
+  "reference": "AFFILIATE MARKETING NO I I KNOW I'VE HAD THE OPPORTUNITY TO WORK ON THE WEBSITES THAT HAS UM TO DO WITH THE AFFILIATE MARKETING BUT I HAVEN'T REALLY GIVEN IT MUCH THOUGHT UH WHAT ABOUT YOU",
+  "utterance_id": "175c5f6c62e2",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "F U U U U",
+  "avg_logprob": -3.639400005340576,
+  "no_speech_prob": 0.5485926866531372,
+  "wall_clock_seconds": 0.7236981249989185,
+  "n_segments": 1,
+  "wer": 1.25,
+  "reference": "UH EFFIE EFFIE TRINKET",
+  "utterance_id": "193e58a19101",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-B"
+}

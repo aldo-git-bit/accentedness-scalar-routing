@@ -1,0 +1,12 @@
+{
+  "text": "Yeah.",
+  "avg_logprob": -0.8938838005065918,
+  "no_speech_prob": 0.161203071475029,
+  "wall_clock_seconds": 0.017292832999373786,
+  "n_segments": 1,
+  "wer": 0.0,
+  "reference": "YEAH",
+  "utterance_id": "18ad755385e5",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

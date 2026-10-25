@@ -1,0 +1,12 @@
+{
+  "text": "I think that had to, there was so many people opting for, because the original old, old Sky television was just on the horizon.",
+  "avg_logprob": -0.20948456315433278,
+  "no_speech_prob": 0.022202879190444946,
+  "wall_clock_seconds": 0.8319613749990822,
+  "n_segments": 2,
+  "wer": 0.12,
+  "reference": "BUT I THINK THEY HAD TO THERE WAS SO MANY PEOPLE OPTING FOR 'CAUSE THE ORIGINAL OLD OLD SKY TELEVISION WAS JUST ON THE HORIZON",
+  "utterance_id": "6dc8319fc97a",
+  "accent": "Irish English",
+  "speaker": "EDACC-C61-B"
+}

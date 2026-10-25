@@ -1,0 +1,12 @@
+{
+  "text": "In yoga, I was actually really lucky this year because one of my friends trained to be a yoga teacher. Oh, wow.",
+  "avg_logprob": -0.17177218775595388,
+  "no_speech_prob": 0.014773030765354633,
+  "wall_clock_seconds": 0.7940402499989432,
+  "n_segments": 2,
+  "wer": 0.13636363636363635,
+  "reference": "IN IN YOGA I WAS ACTUALLY REALLY LUCKY THIS YEAR BECAUSE ONE OF MY FRIENDS TRAINED TO BE A YOGA TEACHER AND",
+  "utterance_id": "2d365906b297",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C22-A"
+}

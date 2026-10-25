@@ -1,0 +1,12 @@
+{
+  "text": "the bed.",
+  "avg_logprob": -3.0156162806919644,
+  "no_speech_prob": 0.5552527904510498,
+  "wall_clock_seconds": 0.5387779999873601,
+  "n_segments": 1,
+  "wer": 2.0,
+  "reference": "YEAH",
+  "utterance_id": "8e800b247e7c",
+  "accent": "Irish English",
+  "speaker": "EDACC-C50-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "I think so. Oh, no, no, no, I don't think I'm not really sure of that. I'm not sure. I'm not sure of that. I'm not sure that I can't tell, but I think that environment looks like Dubai. Yes, I think society is in Dubai. It should be in Dubai.",
+  "avg_logprob": -0.3547363500485475,
+  "no_speech_prob": 0.022057894617319107,
+  "wall_clock_seconds": 0.34661925000182237,
+  "n_segments": 8,
+  "wer": 0.10909090909090909,
+  "reference": "I THINK SO OH NO NO NO I DON'T THINK I'M NOT REALLY SURE OF THAT I'M NOT SURE I'M NOT SURE OF THAT I'M NOT SURE OF THAT I CAN'T TELL WHAT I THINK THAT ENVIRONMENT LOOKS LIKE LOOKS LIKE DUBAI YES I THINK SUN CITY IS IN DUBAI IT SHOULD BE IN DUBAI",
+  "utterance_id": "265a7d8bac78",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C41-A"
+}

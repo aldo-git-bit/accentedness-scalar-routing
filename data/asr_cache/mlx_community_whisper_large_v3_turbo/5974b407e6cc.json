@@ -1,0 +1,12 @@
+{
+  "text": "I think mine is, what is it called? Shaoma. I've not had the opportunity to test it. But recipe, I got a few recipes from my friends who can make it very well. So I got recipes from them. I think I'll make it in Shaoma soon.",
+  "avg_logprob": -0.27245463265313047,
+  "no_speech_prob": 4.013284149451124e-11,
+  "wall_clock_seconds": 0.5506003749906085,
+  "n_segments": 6,
+  "wer": 0.24,
+  "reference": "OKAY I THINK MINE IS UM WHAT IS IT CALLED SHAWARMA I'VE NOT HAD THE OPPORTUNITY TO TASTE IT BUT UM UH RECIPE I GOT FEW RECIPES FROM MY FRIENDS WHO CAN MAKE IT VERY WELL SO I GOT RECIPES FROM THEM I THINK I WILL BE MAKING SHAWARMA SOON",
+  "utterance_id": "5974b407e6cc",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C41-A"
+}

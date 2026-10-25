@@ -1,0 +1,12 @@
+{
+  "text": "as to what safer.",
+  "avg_logprob": -0.9390716552734375,
+  "no_speech_prob": 0.1091027781367302,
+  "wall_clock_seconds": 0.10200595800051815,
+  "n_segments": 1,
+  "wer": 0.75,
+  "reference": "IT'S A LOT SAFER",
+  "utterance_id": "cc47e6329ea1",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-B"
+}

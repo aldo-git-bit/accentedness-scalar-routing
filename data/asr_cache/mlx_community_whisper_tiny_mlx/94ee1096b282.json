@@ -1,0 +1,12 @@
+{
+  "text": "And people are killing you face to face.",
+  "avg_logprob": -0.43975067138671875,
+  "no_speech_prob": 0.014070888049900532,
+  "wall_clock_seconds": 0.025089041999308392,
+  "n_segments": 1,
+  "wer": 0.125,
+  "reference": "THAT PEOPLE ARE KILLING YOU FACE TO FACE",
+  "utterance_id": "94ee1096b282",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C28-B"
+}

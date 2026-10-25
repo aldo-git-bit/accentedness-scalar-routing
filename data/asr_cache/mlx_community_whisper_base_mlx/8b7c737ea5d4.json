@@ -1,0 +1,12 @@
+{
+  "text": "So I slow-cooked it with a tomato-based sauce with onions and garlic, smoked paprika, and then I did the potatoes separately, I chopped them all up, part boiled them, and then sprayed them with the fry light. It's a bit healthier. Seasoning and put them in the oven. And slow-cooked the chorizo mixture on low for maybe around three hours or so. And then basically once the potatoes were ready, I took them out and poured the mix over the top. And I just served it with couscous and some coaselo. It was quite simple, quite easy, and it really, really tasted so nice, so it was lovely.",
+  "avg_logprob": -0.27128885232488986,
+  "no_speech_prob": 0.029668168763497045,
+  "wall_clock_seconds": 0.36269887500384357,
+  "n_segments": 7,
+  "wer": 0.13636363636363635,
+  "reference": "SO I SLOW COOKED IT WITH A TOMATO BASED SAUCE WITH ONIONS AND GARLIC SMOKED PAPRIKA AND THEN I DID THE POTATO SEPARATELY I CHOPPED THEM ALL UP PARBOILED THEM AND THEN SPRAYED THEM WITH THE FRYLIGHT IT'S A BIT HEALTHIER SEASONING AND PUT THEM IN THE OVEN AND SLOW COOKED THE CHORIZO MIXTURE ON LOW FOR MAYBE AROUND THREE HOURS OR SO AND THEN BASICALLY ONCE THE POTATOES WERE READY I TOOK THEM OUT AND POURED THE MIX OVER THE TOP AND I JUST SERVED IT WITH COUSCOUS AND SOME COLESLAW IT WAS QUITE SIMPLE QUITE EASY AND R R REALLY REALLY TASTED SO NICE THOUGH IT WAS LOVELY",
+  "utterance_id": "8b7c737ea5d4",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-A"
+}

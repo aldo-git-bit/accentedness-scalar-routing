@@ -1,0 +1,12 @@
+{
+  "text": "Oh man, good times.",
+  "avg_logprob": -0.49682871500651044,
+  "no_speech_prob": 0.16735072433948517,
+  "wall_clock_seconds": 0.039493542004493065,
+  "n_segments": 1,
+  "wer": 0.0,
+  "reference": "OH MAN GOOD TIMES",
+  "utterance_id": "8580919e24bd",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C03-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "",
+  "avg_logprob": 0.0,
+  "no_speech_prob": 0.0,
+  "wall_clock_seconds": 0.09635112499745446,
+  "n_segments": 0,
+  "wer": 1.0,
+  "reference": "SO",
+  "utterance_id": "5dcd1f484ee5",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C32-B"
+}

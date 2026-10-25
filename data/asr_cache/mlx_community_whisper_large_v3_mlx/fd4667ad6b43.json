@@ -1,0 +1,12 @@
+{
+  "text": "I also think it's like you mostly hang out in that Royal Miley area. Yeah.",
+  "avg_logprob": -0.23371469974517822,
+  "no_speech_prob": 0.0077973282895982265,
+  "wall_clock_seconds": 0.719761667001876,
+  "n_segments": 2,
+  "wer": 0.29411764705882354,
+  "reference": "AND I ALSO THINK IT'S LIKE YOU MOSTLY HANG OUT IN THE ROYAL MILE Y AREA RIGHT",
+  "utterance_id": "fd4667ad6b43",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B"
+}

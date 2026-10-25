@@ -1,0 +1,12 @@
+{
+  "text": "But I get a lot less suggestions for Eurovision because I think my people go, this has got awful.",
+  "avg_logprob": -0.5021623992919921,
+  "no_speech_prob": 0.01966894418001175,
+  "wall_clock_seconds": 0.04116700000304263,
+  "n_segments": 1,
+  "wer": 0.2727272727272727,
+  "reference": "UM BOTH BUT I GET A LOT LESS SUGGESTIONS FOR EUROVISION BECAUSE I THINK MOST PEOPLE GO THIS IS GOD AWFUL <LAUGH>",
+  "utterance_id": "88937d9a681e",
+  "accent": "Irish English",
+  "speaker": "EDACC-C50-A"
+}

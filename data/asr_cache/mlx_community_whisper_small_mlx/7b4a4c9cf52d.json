@@ -1,0 +1,12 @@
+{
+  "text": "online.",
+  "avg_logprob": -0.7175596237182618,
+  "no_speech_prob": 0.19842152297496796,
+  "wall_clock_seconds": 0.09022845800063806,
+  "n_segments": 1,
+  "wer": 0.5,
+  "reference": "O ONLINE",
+  "utterance_id": "7b4a4c9cf52d",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-A"
+}

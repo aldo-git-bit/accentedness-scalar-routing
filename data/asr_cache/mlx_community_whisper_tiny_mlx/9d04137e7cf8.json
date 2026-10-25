@@ -1,0 +1,12 @@
+{
+  "text": "do it around.",
+  "avg_logprob": -0.9200705800737653,
+  "no_speech_prob": 0.20596131682395935,
+  "wall_clock_seconds": 0.019600333995185792,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "THE WAY THEY RAP",
+  "utterance_id": "9d04137e7cf8",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Honestly, like back in the day when you actually had to wait for the video to buffer. Now I don't remember the last time I saw the buffering site on any streaming site.",
+  "avg_logprob": -0.152252851530563,
+  "no_speech_prob": 1.8829595001268462e-12,
+  "wall_clock_seconds": 0.4755965000076685,
+  "n_segments": 2,
+  "wer": 0.030303030303030304,
+  "reference": "HONESTLY LIKE BACK IN THE DAY WHEN YOU ACTUALLY HAD TO WAIT FOR THE VIDEO TO BUFFER NOW I DON'T REMEMBER THE LAST TIME I SAW THE BUFFERING SIGN ON ANY STREAMING SITE",
+  "utterance_id": "a7973f0aeafa",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C03-B"
+}

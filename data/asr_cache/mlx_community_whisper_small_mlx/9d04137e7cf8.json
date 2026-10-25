@@ -1,0 +1,12 @@
+{
+  "text": "We made a wrap.",
+  "avg_logprob": -0.8455673456192017,
+  "no_speech_prob": 0.26783499121665955,
+  "wall_clock_seconds": 0.10695562500040978,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "THE WAY THEY RAP",
+  "utterance_id": "9d04137e7cf8",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "When I was a kid, I used to play a lot of board games. And because I was an asthmatic patient and since my childhood, I could not really participate into much physical activities. So board games were a safe space for me. I used to play them a lot with my cousins and with my brother. And I remember playing Scrabble, monopoly. And I also remember playing Hangry Man, where I used to guess words. And I also remember playing a lot of computer games, like different word games, painting, coloring. So these are the games that I can remember so far.",
+  "avg_logprob": -0.35923316872279204,
+  "no_speech_prob": 0.15120099019259214,
+  "wall_clock_seconds": 0.3141618330118945,
+  "n_segments": 10,
+  "wer": 0.05660377358490566,
+  "reference": "UM WHEN I WAS A KID I USED TO PLAY A LOT OF BOARD GAMES AND BECAUSE I WAS AN ASTHMATIC PATIENT AND SINCE MY CHILDHOOD I COULD NOT REALLY PARTICIPATE INTO MUCH PHYSICAL ACTIVITIES SO BOARD GAMES WERE UH A SAFE SPACE FOR ME I USED TO PLAY THEM A LOT WITH MY COUSIN AND WITH MY BROTHER AND I REMEMBER PLAYING SCRABBLE MONOPOLY AND I ALSO REMEMBER PLAYING HUNGRY MAN WHERE YOU USED TO GUESS WORDS AND I ALSO REMEMBER PLAYING A LOT OF COMPUTER GAMES LIKE UM DIFFERENT WORD GAMES PAINTING COLORING SO THESE ARE THE GAMES THAT I CAN REMEMBER SO FAR",
+  "utterance_id": "c1d9afbd2aff",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C34-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "That was like two trees and risiga.",
+  "avg_logprob": -0.8354565302530924,
+  "no_speech_prob": 0.011450691148638725,
+  "wall_clock_seconds": 0.1141049590005423,
+  "n_segments": 1,
+  "wer": 0.5555555555555556,
+  "reference": "THAT WAS TWO LIKE TWO SUMMERS THREE SUMMERS AGO",
+  "utterance_id": "4e4ef1861337",
+  "accent": "Irish English",
+  "speaker": "EDACC-C50-B"
+}

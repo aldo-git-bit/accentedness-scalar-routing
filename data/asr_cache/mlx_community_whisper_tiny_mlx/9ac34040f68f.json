@@ -1,0 +1,12 @@
+{
+  "text": "the homeless climate climate.",
+  "avg_logprob": -0.24238433837890624,
+  "no_speech_prob": 0.060639869421720505,
+  "wall_clock_seconds": 0.5721907909901347,
+  "n_segments": 2,
+  "wer": 0.8888888888888888,
+  "reference": "OH WHAT WAS THE NAME OF THE CAT AGAIN",
+  "utterance_id": "9ac34040f68f",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

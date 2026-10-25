@@ -1,0 +1,12 @@
+{
+  "text": "don't do the monkey. don't do the monkey.",
+  "avg_logprob": -2.496029324001736,
+  "no_speech_prob": 0.40739864110946655,
+  "wall_clock_seconds": 0.255859375,
+  "n_segments": 2,
+  "wer": 1.1428571428571428,
+  "reference": "YOU'VE NOT TOLD ME ABOUT THAT NO",
+  "utterance_id": "9335c79216d4",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

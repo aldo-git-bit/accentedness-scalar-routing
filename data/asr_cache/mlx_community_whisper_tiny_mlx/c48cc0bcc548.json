@@ -1,0 +1,12 @@
+{
+  "text": "It was the who that's definitely up there. Pink Floyd as well, but like I've a couple of I really like, but the who kind of just tops it in.",
+  "avg_logprob": -0.6057179768880209,
+  "no_speech_prob": 0.013528082519769669,
+  "wall_clock_seconds": 0.06514841700845864,
+  "n_segments": 4,
+  "wer": 0.25,
+  "reference": "UM WHO WAS THE WHO THAT'S DEFINITELY UP THERE UM PINK FLOYD AS WELL L LIKE I HAVE A COUPLE THAT I REALLY LIKE BUT THE WHO KIND OF TOPS IT IN",
+  "utterance_id": "c48cc0bcc548",
+  "accent": "Irish English",
+  "speaker": "EDACC-C63-A"
+}

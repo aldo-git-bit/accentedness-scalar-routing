@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, yeah, yeah.",
+  "avg_logprob": -0.8527970843844943,
+  "no_speech_prob": 0.38976866006851196,
+  "wall_clock_seconds": 0.021665625012246892,
+  "n_segments": 1,
+  "wer": 0.5,
+  "reference": "YEAH YEAH THAT <OVERLAP>",
+  "utterance_id": "a27fcf4f130c",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-B"
+}

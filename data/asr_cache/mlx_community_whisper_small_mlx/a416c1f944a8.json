@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, so it was, yeah, it took a while to get there. And we finally got there. We sat down and they said, oh, just wait here. There'll be what you shortly. And we finally got up to the person and they said, well, that's great. And all the forms filled out and everything. We just need to see your passport. And he was like.",
+  "avg_logprob": -0.2578967821480024,
+  "no_speech_prob": 0.052998874336481094,
+  "wall_clock_seconds": 0.3830359999992652,
+  "n_segments": 9,
+  "wer": 0.11764705882352941,
+  "reference": "YEAH <LAUGH> SO IT WAS YEAH IT TOOK A WHILE TO GET THERE AND WE FINALLY GOT THERE WE SAT DOWN THEY SAID OH JUST WAIT HERE THEY WILL BE WITH YOU SHORTLY AND UH WE FINALLY GOT UP TO THE PERSON AND THEY SAID OH THAT'S GREAT AND ALL THE FORMS FILLED OUT AND EVERYTHING UH WE JUST NEED TO SEE YOUR PASSPORT AND HE WAS LIKE",
+  "utterance_id": "a416c1f944a8",
+  "accent": "Irish English",
+  "speaker": "EDACC-C50-A"
+}

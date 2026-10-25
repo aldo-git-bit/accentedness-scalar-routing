@@ -1,0 +1,12 @@
+{
+  "text": "when you're reading the paper for other things as well. So I think that was shared around the family.",
+  "avg_logprob": -0.5335235948915835,
+  "no_speech_prob": 0.007860538549721241,
+  "wall_clock_seconds": 0.042234958993503824,
+  "n_segments": 2,
+  "wer": 0.1111111111111111,
+  "reference": "WHEN YOU'RE READING THE PAPER FOR OTHER THINGS AS WELL SO I THINK THEY SHARED AROUND THE FAMILY",
+  "utterance_id": "f92a621a7957",
+  "accent": "Irish English",
+  "speaker": "EDACC-C61-A"
+}

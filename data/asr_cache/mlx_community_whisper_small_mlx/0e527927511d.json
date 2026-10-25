@@ -1,0 +1,12 @@
+{
+  "text": "I've never liked tripmills for that reason.",
+  "avg_logprob": -0.37564236777169363,
+  "no_speech_prob": 0.005139957647770643,
+  "wall_clock_seconds": 0.11888083300073049,
+  "n_segments": 1,
+  "wer": 0.4,
+  "reference": "YEAH I'VE NEVER I NEVER LIKED TREADMILLS FOR THAT REASON",
+  "utterance_id": "0e527927511d",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C17-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "The idea is to talk.",
+  "avg_logprob": -0.4120100869072808,
+  "no_speech_prob": 0.07996629178524017,
+  "wall_clock_seconds": 0.5392159160001029,
+  "n_segments": 1,
+  "wer": 0.2857142857142857,
+  "reference": "THE THE THEIR IDEA IS TO TALK",
+  "utterance_id": "f2ec7647c0de",
+  "accent": "Indian English",
+  "speaker": "EDACC-C36-A"
+}

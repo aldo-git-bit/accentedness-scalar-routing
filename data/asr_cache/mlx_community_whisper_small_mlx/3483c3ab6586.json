@@ -1,0 +1,12 @@
+{
+  "text": "",
+  "avg_logprob": 0.0,
+  "no_speech_prob": 0.0,
+  "wall_clock_seconds": 0.09560849999979837,
+  "n_segments": 0,
+  "wer": 1.0,
+  "reference": "ALL RIGHT",
+  "utterance_id": "3483c3ab6586",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-A"
+}

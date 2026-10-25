@@ -1,0 +1,12 @@
+{
+  "text": "And they looked at you like...",
+  "avg_logprob": -0.5239648818969727,
+  "no_speech_prob": 0.08523888885974884,
+  "wall_clock_seconds": 0.5522151660006784,
+  "n_segments": 1,
+  "wer": 0.5454545454545454,
+  "reference": "AND THEN THEY LOOK AT YOU LIKE WHAT DO YOU MEAN",
+  "utterance_id": "326b1abe3e19",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-A"
+}

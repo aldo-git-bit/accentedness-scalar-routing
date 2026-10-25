@@ -1,0 +1,12 @@
+{
+  "text": "Recently, but not not",
+  "avg_logprob": -0.2969418168067932,
+  "no_speech_prob": 0.01957867480814457,
+  "wall_clock_seconds": 0.10002041700136033,
+  "n_segments": 1,
+  "wer": 0.5,
+  "reference": "RECENTLY RECENTLY YEAH BUT NOW NOT",
+  "utterance_id": "558e3429a656",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C64-A"
+}

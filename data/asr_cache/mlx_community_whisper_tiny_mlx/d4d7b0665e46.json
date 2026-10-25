@@ -1,0 +1,12 @@
+{
+  "text": "Let's go, Bob.",
+  "avg_logprob": -0.8098910649617513,
+  "no_speech_prob": 0.20480522513389587,
+  "wall_clock_seconds": 0.021493125008419156,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "A LAD'S GOT A WATCH",
+  "utterance_id": "d4d7b0665e46",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-B"
+}

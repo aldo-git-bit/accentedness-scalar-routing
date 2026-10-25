@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, Disney are going in a very different direction I think. Sort of moving away from the animated side of things, not certainly being absolutely animated, they're starting to move away and diversify their films a wee bit. That's been the last decade or so they've been doing that.",
+  "avg_logprob": -0.3570438272812787,
+  "no_speech_prob": 0.04568536952137947,
+  "wall_clock_seconds": 0.289765500001522,
+  "n_segments": 4,
+  "wer": 0.2833333333333333,
+  "reference": "AH YEAH DISNEY ARE GOING IN A A VERY DIFFERENT DIRECTION I THINK UM SO T TO KINDA MOVING AWAY FROM THE ANIMATED SIDE OF THINGS UH NOT CERTAINLY BEING ABSOLUTELY ANIMATED THAT THEY'RE STARTING TO MOVE AWAY AND YOU KNOW DIVERSIFY THEIR THEIR FILMS <DTMF> BUT THAT'S BEEN THE LAST SORT OF DECADE OR SO THEY'VE BEEN DOING THAT",
+  "utterance_id": "92d74ca25407",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

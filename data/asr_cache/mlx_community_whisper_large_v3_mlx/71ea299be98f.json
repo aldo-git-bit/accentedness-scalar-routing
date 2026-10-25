@@ -1,0 +1,12 @@
+{
+  "text": "Yeah.",
+  "avg_logprob": -0.6616546630859375,
+  "no_speech_prob": 0.6721798777580261,
+  "wall_clock_seconds": 0.4927498329998343,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "MAYBE PORTUGAL",
+  "utterance_id": "71ea299be98f",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C44-A"
+}

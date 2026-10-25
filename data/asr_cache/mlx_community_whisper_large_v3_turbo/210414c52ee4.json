@@ -1,0 +1,12 @@
+{
+  "text": "Hi, I'm FP26P2 and I'm fine.",
+  "avg_logprob": -0.2824132740497589,
+  "no_speech_prob": 5.614681462817739e-12,
+  "wall_clock_seconds": 0.4154302500101039,
+  "n_segments": 1,
+  "wer": 0.5833333333333334,
+  "reference": "UH HI I'M F C TWO SIX P TWO AND I'M FINE",
+  "utterance_id": "210414c52ee4",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C34-B"
+}

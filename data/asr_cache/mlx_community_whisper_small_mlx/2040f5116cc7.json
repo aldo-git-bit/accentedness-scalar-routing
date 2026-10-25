@@ -1,0 +1,12 @@
+{
+  "text": "I was Tim Taylor Norton.",
+  "avg_logprob": -0.9822572708129883,
+  "no_speech_prob": 0.21958981454372406,
+  "wall_clock_seconds": 0.37470891600241885,
+  "n_segments": 1,
+  "wer": 0.4,
+  "reference": "I WAS TEAM TAYLOR LAUTNER",
+  "utterance_id": "2040f5116cc7",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "that.",
+  "avg_logprob": -2.374482536315918,
+  "no_speech_prob": 0.3716782033443451,
+  "wall_clock_seconds": 0.5696995830076048,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "I LIKE MANGA QUITE A LOT",
+  "utterance_id": "bf140c1e17c9",
+  "accent": "Irish English",
+  "speaker": "EDACC-C63-A"
+}

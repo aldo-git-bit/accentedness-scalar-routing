@@ -1,0 +1,12 @@
+{
+  "text": "Because, yeah, here it was 30 degrees. It was 27, 28, 29, 30-ish.",
+  "avg_logprob": -0.22076355969464337,
+  "no_speech_prob": 5.788615246860029e-12,
+  "wall_clock_seconds": 0.43811016700055916,
+  "n_segments": 2,
+  "wer": 0.8235294117647058,
+  "reference": "MM BECAUSE YEAH YOU'RE ALMOST THIRTY DEGREES THERE WAS TWENTY SEVEN TWENTY EIGHT TWENTY NINE THIRTY ISH",
+  "utterance_id": "404b6b8ab4ae",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B"
+}

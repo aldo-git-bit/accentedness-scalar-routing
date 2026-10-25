@@ -1,0 +1,12 @@
+{
+  "text": "The water down version of the book Jimmy.",
+  "avg_logprob": -0.7840103308359782,
+  "no_speech_prob": 0.07834310829639435,
+  "wall_clock_seconds": 0.025187791005009785,
+  "n_segments": 1,
+  "wer": 0.4444444444444444,
+  "reference": "IT'S A WATERED DOWN VERSION OF THE BOOK GINNY",
+  "utterance_id": "c298d48b72d3",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-B"
+}

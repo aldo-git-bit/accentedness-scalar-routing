@@ -1,0 +1,12 @@
+{
+  "text": "So I want to boost about myself. I have been cooking since when I was nine.",
+  "avg_logprob": -0.4458939096202021,
+  "no_speech_prob": 0.1091407909989357,
+  "wall_clock_seconds": 0.14677512500202283,
+  "n_segments": 2,
+  "wer": 0.391304347826087,
+  "reference": "UH WELL I I I WANT TO I WANT TO BOAST ABOUT MYSELF I HAVE BEEN COOKING SINCE WHEN I WAS NINE OKAY",
+  "utterance_id": "f630115aebae",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Right now in China, it's been hard for me to find my favorite snack because I feel like they're quite, quite different from my home country.",
+  "avg_logprob": -0.208879877539242,
+  "no_speech_prob": 0.10525250434875488,
+  "wall_clock_seconds": 0.83165008299693,
+  "n_segments": 1,
+  "wer": 0.16129032258064516,
+  "reference": "UH RIGHT NOW IN CHINA LIKE IT'S BEEN HARD FOR ME TO FIND THE LIKE MY FAVORITE SNACK BECAUSE I FEEL LIKE THEY'RE QUITE QUITE DIFFERENT FROM MY HOME COUNTRY SO",
+  "utterance_id": "8d7322dee7ae",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C19-B"
+}

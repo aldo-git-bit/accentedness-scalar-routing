@@ -1,0 +1,12 @@
+{
+  "text": "Huh, maybe the whole name thing in this thing is a bit of a formality. Are we breaking the fort while by doing this?",
+  "avg_logprob": -0.37568404457785864,
+  "no_speech_prob": 0.1765081137418747,
+  "wall_clock_seconds": 0.08416420900903177,
+  "n_segments": 2,
+  "wer": 0.27586206896551724,
+  "reference": "OH MAYBE THE WHOLE NAME THING AND THIS THING IS A BIT OF A FORMALITY ARE WE BREAKING THE FORT WALL BY DOING THIS STUFF I THINK WE ARE",
+  "utterance_id": "c22d1df89107",
+  "accent": "Irish English",
+  "speaker": "EDACC-C50-A"
+}

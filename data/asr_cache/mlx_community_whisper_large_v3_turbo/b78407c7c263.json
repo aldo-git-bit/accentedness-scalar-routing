@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, I can imagine. Yeah.",
+  "avg_logprob": -0.4061025839585524,
+  "no_speech_prob": 9.112446040793198e-12,
+  "wall_clock_seconds": 0.4071589580125874,
+  "n_segments": 2,
+  "wer": 0.16666666666666666,
+  "reference": "<LAUGH> YEAH I CAN IMAGINE YEAH",
+  "utterance_id": "b78407c7c263",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C19-B"
+}

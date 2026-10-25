@@ -1,0 +1,12 @@
+{
+  "text": "That's true. That's true.",
+  "avg_logprob": -0.303603484080388,
+  "no_speech_prob": 0.1067187637090683,
+  "wall_clock_seconds": 0.5867642500015791,
+  "n_segments": 2,
+  "wer": 0.3333333333333333,
+  "reference": "I MEAN THAT'S TRUE THAT'S TRUE",
+  "utterance_id": "dfd9a71644c4",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-A"
+}

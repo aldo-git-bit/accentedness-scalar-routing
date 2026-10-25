@@ -1,0 +1,12 @@
+{
+  "text": "that the best way to do.",
+  "avg_logprob": -0.9356835259331594,
+  "no_speech_prob": 0.13937444984912872,
+  "wall_clock_seconds": 0.5770046249963343,
+  "n_segments": 44,
+  "wer": 1.0,
+  "reference": "MM THAT'S THAT'S A VERY VERY GOOD ENGLISH <NO-SPEECH>",
+  "utterance_id": "b92e61e1cd7b",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C41-B"
+}

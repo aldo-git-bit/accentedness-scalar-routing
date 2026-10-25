@@ -1,0 +1,12 @@
+{
+  "text": "Well, experience. Experience is everything, I guess.",
+  "avg_logprob": -0.5148156881332397,
+  "no_speech_prob": 0.03770856559276581,
+  "wall_clock_seconds": 0.6261703750024026,
+  "n_segments": 2,
+  "wer": 0.25,
+  "reference": "UH EXPERIENCE EXPERIENCE IS EVERYTHING I GUESS IT'S",
+  "utterance_id": "0479249c426a",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

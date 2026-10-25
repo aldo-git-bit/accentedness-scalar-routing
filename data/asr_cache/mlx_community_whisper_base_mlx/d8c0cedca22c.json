@@ -1,0 +1,12 @@
+{
+  "text": "Maybe once or twice a week.",
+  "avg_logprob": -0.38271312713623046,
+  "no_speech_prob": 0.025782031938433647,
+  "wall_clock_seconds": 0.04093645799730439,
+  "n_segments": 1,
+  "wer": 0.0,
+  "reference": "MAYBE ONCE OR TWICE A WEEK",
+  "utterance_id": "d8c0cedca22c",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C42-B"
+}

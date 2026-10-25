@@ -1,0 +1,12 @@
+{
+  "text": "Odin's can be preserved in the near place, I guess. It's not the direction I thought conversation was going, but yeah.",
+  "avg_logprob": -0.6437922969008937,
+  "no_speech_prob": 0.048838648945093155,
+  "wall_clock_seconds": 0.08524699999543373,
+  "n_segments": 2,
+  "wer": 0.23809523809523808,
+  "reference": "BODIES CAN BE PRESERVED IN WEIRD WAYS I GUESS IT'S NOT THE DIRECTION I THOUGHT THE CONVERSATION WAS GOING BUT YEAH",
+  "utterance_id": "c50f1c155ea9",
+  "accent": "Irish English",
+  "speaker": "EDACC-C63-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Next question is, do you still like eating it now? So the answer is no.",
+  "avg_logprob": -0.29548489529153577,
+  "no_speech_prob": 0.028435062617063522,
+  "wall_clock_seconds": 0.1448369999998249,
+  "n_segments": 2,
+  "wer": 0.16666666666666666,
+  "reference": "NEXT QUESTION IS THAT DO YOU STILL LIKE EATING IT NOW SO THE ANSWER IS NO FOR YOU",
+  "utterance_id": "66893ae04044",
+  "accent": "Irish English",
+  "speaker": "EDACC-C50-B"
+}

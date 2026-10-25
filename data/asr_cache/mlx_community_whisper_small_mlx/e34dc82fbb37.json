@@ -1,0 +1,12 @@
+{
+  "text": "your shorts and you had to like yank it out in time for it to count as a catch. And I think that was when we were playing touch rugby so we could practice, you know, touch tackles.",
+  "avg_logprob": -0.32798097647872626,
+  "no_speech_prob": 0.078300341963768,
+  "wall_clock_seconds": 0.23776391700084787,
+  "n_segments": 3,
+  "wer": 0.0,
+  "reference": "YOUR SHORTS AND YOU HAD TO LIKE YANK IT OUT IN TIME FOR IT TO COUNT AS A CATCH AND I THINK THAT WAS WHEN WE WERE PLAYING TOUCH RUGBY SO WE COULD PRACTICE YOU KNOW TOUCH TACKLES",
+  "utterance_id": "e34dc82fbb37",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-A"
+}

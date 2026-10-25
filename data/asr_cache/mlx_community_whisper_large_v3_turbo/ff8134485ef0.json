@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, you should make some real food.",
+  "avg_logprob": -0.30607839425404865,
+  "no_speech_prob": 1.3558413072822795e-11,
+  "wall_clock_seconds": 0.4016850829939358,
+  "n_segments": 1,
+  "wer": 0.14285714285714285,
+  "reference": "YEAH WE SHOULD MAKE SOME REAL FOOD",
+  "utterance_id": "ff8134485ef0",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B"
+}

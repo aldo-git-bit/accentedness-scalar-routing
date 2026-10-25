@@ -1,0 +1,11 @@
+{
+  "text": "Sex.",
+  "wer": 1.0,
+  "reference": "<OVERLAP>",
+  "utterance_id": "d1b104b26e70",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B",
+  "wall_clock_seconds": 7.176025958993705,
+  "avg_logprob": null,
+  "no_speech_prob": null
+}

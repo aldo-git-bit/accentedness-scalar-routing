@@ -1,0 +1,12 @@
+{
+  "text": "because it was difficult to find books and then um",
+  "avg_logprob": -0.6827675746037409,
+  "no_speech_prob": 0.23865839838981628,
+  "wall_clock_seconds": 0.028718792003928684,
+  "n_segments": 1,
+  "wer": 0.375,
+  "reference": "BUT I STILL HAD TO WAIT BECAUSE IT WAS DIFFICULT TO FIND BOOKS AND THEN UM",
+  "utterance_id": "b21c89d38329",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-A"
+}

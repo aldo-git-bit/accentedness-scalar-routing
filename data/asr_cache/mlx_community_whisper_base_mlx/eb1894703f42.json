@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, it's the Chondam Blue.",
+  "avg_logprob": -0.7941014216496394,
+  "no_speech_prob": 0.05351819470524788,
+  "wall_clock_seconds": 0.04620712500764057,
+  "n_segments": 1,
+  "wer": 0.8333333333333334,
+  "reference": "YEAH I THINK ON THE MOON",
+  "utterance_id": "eb1894703f42",
+  "accent": "Irish English",
+  "speaker": "EDACC-C63-A"
+}

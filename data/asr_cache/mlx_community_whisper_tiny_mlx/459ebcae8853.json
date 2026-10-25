@@ -1,0 +1,12 @@
+{
+  "text": "go for that yeah",
+  "avg_logprob": -0.9119562421526227,
+  "no_speech_prob": 0.31808263063430786,
+  "wall_clock_seconds": 0.019198249996406958,
+  "n_segments": 1,
+  "wer": 0.2,
+  "reference": "TO GO FOR THAT YEAH",
+  "utterance_id": "459ebcae8853",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C22-A"
+}

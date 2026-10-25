@@ -1,0 +1,12 @@
+{
+  "text": "Thank you. Thank you. Thank you.",
+  "avg_logprob": -0.7968045473098755,
+  "no_speech_prob": 0.5438679456710815,
+  "wall_clock_seconds": 0.18993862500065006,
+  "n_segments": 3,
+  "wer": 1.0,
+  "reference": "YOU'RE WELCOME YOU'RE WELCOME YOU'RE WELCOME YOU'RE WELCOME YOU'RE WELCOME",
+  "utterance_id": "e34707dca728",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-B"
+}

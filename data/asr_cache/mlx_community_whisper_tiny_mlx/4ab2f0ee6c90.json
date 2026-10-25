@@ -1,0 +1,12 @@
+{
+  "text": "It takes really, really good and normally when I tell people that they say disgusting, but I love this kid.",
+  "avg_logprob": -0.4139915613027719,
+  "no_speech_prob": 0.008067965507507324,
+  "wall_clock_seconds": 0.04218637499434408,
+  "n_segments": 1,
+  "wer": 0.2608695652173913,
+  "reference": "IT TASTES REALLY REALLY GOOD AND NORMALLY WHEN I TELL PEOPLE THAT THEY SAY IT'S DISGUSTING BUT I LOVED IT AS A KID",
+  "utterance_id": "4ab2f0ee6c90",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C11-B"
+}

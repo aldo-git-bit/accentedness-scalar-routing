@@ -1,0 +1,12 @@
+{
+  "text": "Yeah. Maybe. somehow.",
+  "avg_logprob": -1.1266844346788194,
+  "no_speech_prob": 0.05136512592434883,
+  "wall_clock_seconds": 0.8042779579991475,
+  "n_segments": 56,
+  "wer": 0.8,
+  "reference": "YEAH SO HOW ABOUT YOU",
+  "utterance_id": "63f9a0579671",
+  "accent": "Irish English",
+  "speaker": "EDACC-C47-B"
+}

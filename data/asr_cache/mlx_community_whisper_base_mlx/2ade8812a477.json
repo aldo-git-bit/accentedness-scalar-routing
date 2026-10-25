@@ -1,0 +1,12 @@
+{
+  "text": "No, I'm not aware of all of my sons tell me that they are different kind of festivals.",
+  "avg_logprob": -0.4035516182581584,
+  "no_speech_prob": 0.03722299262881279,
+  "wall_clock_seconds": 0.06761637500312645,
+  "n_segments": 1,
+  "wer": 0.45,
+  "reference": "NO I'M NOT AWARE OF ALTHOUGH MY SON TELLS ME THAT THERE ARE THAT THERE ARE DIFFERENT KINDS OF FESTIVALS",
+  "utterance_id": "2ade8812a477",
+  "accent": "Indian English",
+  "speaker": "EDACC-C36-A"
+}

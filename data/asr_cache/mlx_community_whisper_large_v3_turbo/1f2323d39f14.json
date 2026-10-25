@@ -1,0 +1,12 @@
+{
+  "text": "They really are. I've been there North Berwick. I don't think I've been to Berwick-upon-Tweed, but North Berwick certainly is absolutely beautiful as well. It's not too far away from where I live either. So it's quite nice to even just go away for a day trip.",
+  "avg_logprob": -0.17725730553651467,
+  "no_speech_prob": 1.201855238594507e-12,
+  "wall_clock_seconds": 0.571378916996764,
+  "n_segments": 5,
+  "wer": 0.08,
+  "reference": "THEY REALLY ARE I I'VE BEEN THERE NORTH BERWICK I DON'T THINK I'VE BEEN TO BERWICK UPON TWEED BUT NORTH BERWICK CERTAINLY IS ABSOLUTELY BEAUTIFUL AS WELL IT'S NOT TOO FAR AWAY FROM WHERE I LIVE EITHER SO IT'S QUITE NICE TO EVEN JUST GO AWAY FOR A DAY TRIP",
+  "utterance_id": "1f2323d39f14",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-A"
+}

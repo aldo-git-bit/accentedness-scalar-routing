@@ -1,0 +1,12 @@
+{
+  "text": "Okay. Yeah, I can't imagine.",
+  "avg_logprob": -0.3479517527988979,
+  "no_speech_prob": 0.0678098276257515,
+  "wall_clock_seconds": 0.6029989160015248,
+  "n_segments": 2,
+  "wer": 0.6666666666666666,
+  "reference": "AH OKAY YEAH YEAH YEAH I CA I CAN I CAN IMAGINE",
+  "utterance_id": "978d8d250c9b",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

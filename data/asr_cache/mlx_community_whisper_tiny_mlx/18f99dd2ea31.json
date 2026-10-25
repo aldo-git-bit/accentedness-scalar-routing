@@ -1,0 +1,12 @@
+{
+  "text": "I actually not sure. I think I think we call this lady, but like, you know, the Bulgarian word for it. I have no idea why. But yeah.",
+  "avg_logprob": -0.5398684562520778,
+  "no_speech_prob": 0.015356139279901981,
+  "wall_clock_seconds": 0.06660770800954197,
+  "n_segments": 5,
+  "wer": 0.1935483870967742,
+  "reference": "UH I'M ACTUALLY NOT SURE I THINK I THINK WE CALLED IT LADY BUT LIKE YOU KNOW THE BULGARIAN WORD FOR IT I I HAVE NO IDEA WHY BUT YEAH <LAUGH>",
+  "utterance_id": "18f99dd2ea31",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C02-B"
+}

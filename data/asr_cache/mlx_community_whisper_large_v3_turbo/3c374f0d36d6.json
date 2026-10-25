@@ -1,0 +1,12 @@
+{
+  "text": "There's jumpers. Yeah.",
+  "avg_logprob": -0.526673952738444,
+  "no_speech_prob": 1.8865889753194587e-11,
+  "wall_clock_seconds": 0.4013598750025267,
+  "n_segments": 2,
+  "wer": 1.0,
+  "reference": "PATTERNS THAT ARE MESHED INTO IRISH JUMPERS",
+  "utterance_id": "3c374f0d36d6",
+  "accent": "Irish English",
+  "speaker": "EDACC-C47-B"
+}

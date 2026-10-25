@@ -1,0 +1,12 @@
+{
+  "text": "But I really love letting my friend very therapeutic and it's lovely to see quite quickly the work that you've been putting into it. You know, with some crafts or some hobbies, you might spend a very long time making something and you don't really see the final product until weeks later, but with knitting and I suppose crocheting too. You see the product very fast, what like your work kind of shows very fast, do you think so.",
+  "avg_logprob": -0.23982881039989237,
+  "no_speech_prob": 0.06034955382347107,
+  "wall_clock_seconds": 0.18900983298954088,
+  "n_segments": 3,
+  "wer": 0.05,
+  "reference": "BUT I REALLY LOVE KNITTING I FIND IT VERY THERAPEUTIC AND IT'S LOVELY TO SEE QUITE QUICKLY THE WORK THAT YOU'VE BEEN PUTTING INTO IT YOU KNOW WITH SOME CRAFTS OR SOME HOBBIES YOU MIGHT SPEND A VERY LONG TIME MAKING SOMETHING AND YOU DON'T REALLY SEE THE FINAL PRODUCT UNTIL WEEKS LATER BUT WITH KNITTING AND I SUPPOSE CROCHETING TOO YOU SEE THE PRODUCT VERY FAST WHAT LIKE YOUR WORK KIND OF SHOWS VERY FAST DO YOU THINK SO",
+  "utterance_id": "7bade8affaf2",
+  "accent": "Irish English",
+  "speaker": "EDACC-C47-A"
+}

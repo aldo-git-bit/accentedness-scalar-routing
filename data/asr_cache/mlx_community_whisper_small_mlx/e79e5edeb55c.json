@@ -1,0 +1,12 @@
+{
+  "text": "Oh my god, there's so many lax there. I can't think which is the very famous one. I forgot the name of it, but it was unbelievable. And we did loads of touristy things and we were there. You know, we took the boat all around the lake and it was amazing.",
+  "avg_logprob": -0.2678730176842731,
+  "no_speech_prob": 0.18800169229507446,
+  "wall_clock_seconds": 0.2896614999990561,
+  "n_segments": 2,
+  "wer": 0.1111111111111111,
+  "reference": "UH LOCH OH MY GOD THERE'S SO MANY LOCHS THERE I CAN'T THINK WHICH IS THE VERY FAMOUS ONE I'VE FORGOTTEN THE NAME OF IT BUT IT WAS UNBELIEVABLE AND WE DID LOADS OF TOURISTY THINGS WHEN WE WERE THERE YOU KNOW WE TOOK THE BOAT ALL AROUND THE LAKE AND IT WAS AMAZING",
+  "utterance_id": "e79e5edeb55c",
+  "accent": "Irish English",
+  "speaker": "EDACC-C47-B"
+}

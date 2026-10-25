@@ -1,0 +1,12 @@
+{
+  "text": "And I'm just kind of curious, what is it about FPS games that you didn't like since the very beginning and until now you still kind of dislike?",
+  "avg_logprob": -0.16861134606438713,
+  "no_speech_prob": 0.032311394810676575,
+  "wall_clock_seconds": 0.8642437499984226,
+  "n_segments": 2,
+  "wer": 0.07692307692307693,
+  "reference": "I'M JUST KIND OF CURIOUS WHAT IS ABOUT FPS GAMES THAT YOU DIDN'T LIKE SINCE THE VERY BEGINNING AND UNTIL NOW YOU STILL KIND OF DISLIKE",
+  "utterance_id": "62b4802c1cd4",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C28-B"
+}

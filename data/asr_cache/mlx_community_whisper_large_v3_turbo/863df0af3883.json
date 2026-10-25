@@ -1,0 +1,12 @@
+{
+  "text": "Be quiet and to do.",
+  "avg_logprob": -0.6741178300645616,
+  "no_speech_prob": 3.284952171389577e-11,
+  "wall_clock_seconds": 0.4015089160093339,
+  "n_segments": 1,
+  "wer": 1.25,
+  "reference": "IT SOUNDS TERRIBLE IDEA",
+  "utterance_id": "863df0af3883",
+  "accent": "Irish English",
+  "speaker": "EDACC-C50-A"
+}

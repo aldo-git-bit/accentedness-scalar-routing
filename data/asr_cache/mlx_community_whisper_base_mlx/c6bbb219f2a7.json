@@ -1,0 +1,12 @@
+{
+  "text": "Okay, for me, I love visiting zoos and swimming pools. So when I don't have the opportunity to go to swimming pools and I have the opportunity to travel to my village, I go to a stream or a river with my friends, my cousins, my siblings, and I love going to the zoo too.",
+  "avg_logprob": -0.3396454372921506,
+  "no_speech_prob": 0.14290320873260498,
+  "wall_clock_seconds": 0.1513228749972768,
+  "n_segments": 4,
+  "wer": 0.12280701754385964,
+  "reference": "OKAY UM FOR ME I I LOVE VISITING ZOOS AND SWIMMING POOLS SO WHEN I DON'T HAVE THE OPPORTUNITY TO GO TO SWIMMING POOLS AND I HAVE THE OPPORTUNITY TO TRAVEL TO MY VILLAGE I GO TO STREAMS OR RIVERS WITH MY WITH MY FRIENDS MY COUSINS MY SIBLINGS AND I LOVE GOING TO THE ZOO TOO",
+  "utterance_id": "c6bbb219f2a7",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C41-A"
+}

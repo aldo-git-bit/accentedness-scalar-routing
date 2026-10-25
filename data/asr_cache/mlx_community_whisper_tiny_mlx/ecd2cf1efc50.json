@@ -1,0 +1,12 @@
+{
+  "text": "with one who doesn't mind from the expensive.",
+  "avg_logprob": -0.8366335355318509,
+  "no_speech_prob": 0.003472063224762678,
+  "wall_clock_seconds": 0.026076709007611498,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "WITH LAMB ISN'T LAMB VERY EXPENSIVE",
+  "utterance_id": "ecd2cf1efc50",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-B"
+}

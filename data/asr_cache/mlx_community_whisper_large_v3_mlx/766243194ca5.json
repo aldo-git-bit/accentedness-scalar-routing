@@ -1,0 +1,12 @@
+{
+  "text": "back in the late 90s, early 2000s. But yeah, I got into it through the black and white anime. I haven't watched it in a long time, but I've been really wanting to watch it again recently. Just for nostalgia's sake.",
+  "avg_logprob": -0.30416959524154663,
+  "no_speech_prob": 0.055308278650045395,
+  "wall_clock_seconds": 1.200174125002377,
+  "n_segments": 5,
+  "wer": 0.3488372093023256,
+  "reference": "BACK LIKE THE LATE NINETEES OR TWO THOUSANDS UM SO YEAH NO I GOT INTO IT THROUGH THE BLACK AND WHITE ANIME I HAVEN'T WATCHED IT IN A LONG TIME BUT I'M REALLY WANTING TO WATCH IT AGAIN IT'S LIKE IT'S FOR <DTMF>",
+  "utterance_id": "766243194ca5",
+  "accent": "Irish English",
+  "speaker": "EDACC-C63-A"
+}

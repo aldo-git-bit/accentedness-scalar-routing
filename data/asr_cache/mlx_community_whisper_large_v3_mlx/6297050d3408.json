@@ -1,0 +1,12 @@
+{
+  "text": "specifically because it was very similar to Lord. I mean, Pauline, Christopher Pauline himself said that.",
+  "avg_logprob": -0.35201998679868635,
+  "no_speech_prob": 0.12023388594388962,
+  "wall_clock_seconds": 0.8112515829998301,
+  "n_segments": 4,
+  "wer": 0.2222222222222222,
+  "reference": "ERAGON SPECIFICALLY BECAUSE IT WAS VERY SIMILAR TO LORD I MEAN PAOLINI CHRISTOPHER PAOLINI HIMSELF SAID THAT HE",
+  "utterance_id": "6297050d3408",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-B"
+}

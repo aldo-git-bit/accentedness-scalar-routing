@@ -1,0 +1,12 @@
+{
+  "text": "Women's Sweden. Women don't. Women don't. but the BFX was the best. Thank you.",
+  "avg_logprob": -0.949657006933986,
+  "no_speech_prob": 0.2546093171260443,
+  "wall_clock_seconds": 1.6747326670010807,
+  "n_segments": 83,
+  "wer": 0.9375,
+  "reference": "<LAUGH> HUMANS SWIM HUMAN BEINGS SWIM SO YOU MUST NOT BE A FISH BEFORE YOU SWIM",
+  "utterance_id": "b80244bc5ea9",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C41-A"
+}

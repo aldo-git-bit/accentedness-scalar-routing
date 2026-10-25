@@ -1,0 +1,12 @@
+{
+  "text": "shouldn't have pain right now but we said you know for some people it's different the you know healing processes take the healing process can take longer she said that",
+  "avg_logprob": -0.16865517642046954,
+  "no_speech_prob": 1.0157423947082522e-12,
+  "wall_clock_seconds": 0.46353970900236163,
+  "n_segments": 2,
+  "wer": 0.17647058823529413,
+  "reference": "YOU SHOULDN'T HAVE PAIN RIGHT NOW BUT HE WELL HE SAID YOU KNOW FOR SOME PEOPLE IT'S DIFFERENT THE YOU KNOW HEALING PROCESSES TAKE THE HEALING PROCESS CAN TAKE LONGER SO HE SAID THAT",
+  "utterance_id": "1d9d3b487032",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C07-A"
+}

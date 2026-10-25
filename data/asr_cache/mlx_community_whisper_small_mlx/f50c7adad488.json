@@ -1,0 +1,12 @@
+{
+  "text": "What?",
+  "avg_logprob": -0.535773754119873,
+  "no_speech_prob": 0.5402872562408447,
+  "wall_clock_seconds": 0.09200495799814234,
+  "n_segments": 1,
+  "wer": 0.0,
+  "reference": "WHAT",
+  "utterance_id": "f50c7adad488",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-B"
+}

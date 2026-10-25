@@ -1,0 +1,12 @@
+{
+  "text": "my phone is different than me. I have everything on it. I mean how could it be?",
+  "avg_logprob": -0.5075608712655527,
+  "no_speech_prob": 0.016127848997712135,
+  "wall_clock_seconds": 0.04355075000785291,
+  "n_segments": 3,
+  "wer": 0.2857142857142857,
+  "reference": "MY PHONE DEFINITELY I HAVE EVERYTHING ON IT I MEAN HOW COULD IT BE",
+  "utterance_id": "b50c32b30f8f",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C32-A"
+}

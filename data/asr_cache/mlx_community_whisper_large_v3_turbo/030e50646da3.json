@@ -1,0 +1,12 @@
+{
+  "text": "every couple of years of my childhood and even probably adult years i would start playing it for fun and then i would get addicted because you want to expand more and more and more that was",
+  "avg_logprob": -0.09513178325834729,
+  "no_speech_prob": 1.3250704786887946e-12,
+  "wall_clock_seconds": 0.47579850000329316,
+  "n_segments": 2,
+  "wer": 0.13157894736842105,
+  "reference": "UH EVERY COUPLE OF YEARS OF MY CHILDHOOD AND EVEN PROBABLY ADULT YEARS I WOULD START PLAYING IT FOR FUN AND THEN I WOULD GET ADDICTED 'CAUSE YOU WANNA EXPAND MORE AND MORE AND MORE YEAH THAT WAS",
+  "utterance_id": "030e50646da3",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C33-B"
+}

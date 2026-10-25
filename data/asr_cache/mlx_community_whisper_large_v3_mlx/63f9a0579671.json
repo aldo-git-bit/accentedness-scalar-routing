@@ -1,0 +1,12 @@
+{
+  "text": "yeah maybe helps gotcha",
+  "avg_logprob": -0.9615077972412109,
+  "no_speech_prob": 0.045695748180150986,
+  "wall_clock_seconds": 0.5291522080005961,
+  "n_segments": 1,
+  "wer": 0.8,
+  "reference": "YEAH SO HOW ABOUT YOU",
+  "utterance_id": "63f9a0579671",
+  "accent": "Irish English",
+  "speaker": "EDACC-C47-B"
+}

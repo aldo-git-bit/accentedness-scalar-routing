@@ -1,0 +1,12 @@
+{
+  "text": "I think British art centers cool. I don't hate it. It's cool. I like it. It's just why I like it. It kind of dextends you from others. Maybe it was because if you see a British person, you might not know. Once a person just make a sentence, you will definitely tell you the best name from.",
+  "avg_logprob": -0.5333607518971244,
+  "no_speech_prob": 0.0317249545827508,
+  "wall_clock_seconds": 0.4467259999983071,
+  "n_segments": 10,
+  "wer": 0.3924050632911392,
+  "reference": "I THINK UH I BRITISH ACCENT IS COOL I I I DON'T HATE IT IT'S COOL I LIKE I LIKE IT UH IT'S 'CAUSE I GUESS JUST JUST WHY I LIKE IT BUT IT KIND OF THIS UH DISTANCE YOU FROM OTHERS MAYBE UH ONCE IF IF BECAUSE IF YOU IF YOU SEE A BRITISH PERSON MIGHT NOT KNOW ONCE A PERSON JUST MM UM MAKE A SENTENCE YOU YOU WOULD DEFINITELY TELL YOU WHERE THE PERSON IS FROM",
+  "utterance_id": "4e94afa72bad",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-A"
+}

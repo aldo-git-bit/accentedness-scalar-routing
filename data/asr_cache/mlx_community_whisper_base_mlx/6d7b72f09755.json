@@ -1,0 +1,12 @@
+{
+  "text": "Let's do it. Let's do it.",
+  "avg_logprob": -0.7011940002441406,
+  "no_speech_prob": 0.3208605945110321,
+  "wall_clock_seconds": 0.04976449999958277,
+  "n_segments": 2,
+  "wer": 1.0,
+  "reference": "AND YOU WERE STILL A KID THEN",
+  "utterance_id": "6d7b72f09755",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-A"
+}

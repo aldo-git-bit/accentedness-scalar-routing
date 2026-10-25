@@ -1,0 +1,12 @@
+{
+  "text": "Okay. You're all gay.",
+  "avg_logprob": -0.8544963995615641,
+  "no_speech_prob": 8.301544174305064e-11,
+  "wall_clock_seconds": 0.4033787499938626,
+  "n_segments": 2,
+  "wer": 2.0,
+  "reference": "<FOREIGN> YEAH",
+  "utterance_id": "d4a345ee67a7",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C06-A"
+}

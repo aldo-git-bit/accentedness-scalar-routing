@@ -1,0 +1,12 @@
+{
+  "text": "enjoy the fifth one that much to be honest i don't know why though i think it was just because by that time i had stopped really liking the actors also itna",
+  "avg_logprob": -0.11505823868971604,
+  "no_speech_prob": 2.460144588045665e-11,
+  "wall_clock_seconds": 0.46620116601116024,
+  "n_segments": 2,
+  "wer": 0.03125,
+  "reference": "ENJOY THE FIFTH ONE THAT MUCH TO BE HONEST I DON'T KNOW WHY THOUGH I THINK IT WAS JUST BECAUSE BY THAT TIME I HAD STOPPED REALLY LIKING THE ACTORS ALSO <DTMF>",
+  "utterance_id": "bb32463c9a97",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-B"
+}

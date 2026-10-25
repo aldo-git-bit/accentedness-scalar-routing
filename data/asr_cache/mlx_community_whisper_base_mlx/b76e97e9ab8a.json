@@ -1,0 +1,12 @@
+{
+  "text": "went together and we enjoyed very much. We enjoyed very much because all of my cousins are there with me and we spent a really good time. You can say it's a precious time together. We spent our precious time together so when we are in. So I think that even at that time I tried to spend, I don't know, but still now I don't know how to spend because all my cousins or family members, they went for the training and I don't have a time to go there to train myself for swimming. They know how to swim but I don't know how to swim.",
+  "avg_logprob": -0.28901033559307704,
+  "no_speech_prob": 0.3410904301951329,
+  "wall_clock_seconds": 0.29944295799941756,
+  "n_segments": 6,
+  "wer": 0.1774193548387097,
+  "reference": "WENT TOGETHER AND WE ENJOYED VERY MUCH WE ENJOYED VERY MUCH BECAUSE UH MY ALL OF MY COUSINS ARE THERE WITH ME AND WE SPENT UH A REALLY GOOD TIME YOU CAN SAY IT'S A PRECIOUS TIME WITH TOGETHER WE SPENT OUR PRECIOUS TIME TOGETHER SO WHEN WE ARE YOUNG SO I THINK THAT AND EVEN THAT TIME I TRIED TO UH TRIED FOR UH TRIED TO SWIM <LAUGH> I DON'T KNOW BUT UH STILL NOW I DON'T KNOW HOW TO SWIM BECAUSE ALL MY COUSINS OR FAMILY MEMBERS THEY WENT FOR THE TRAINING AND UH YEAH YOU KNOW I DON'T HAVE UH TIME TO GO THERE TO TRAIN MYSELF FOR SWIMMING THEY KNOW HOW TO SWIM BUT I DON'T KNOW HOW TO SWIM",
+  "utterance_id": "b76e97e9ab8a",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C31-A"
+}

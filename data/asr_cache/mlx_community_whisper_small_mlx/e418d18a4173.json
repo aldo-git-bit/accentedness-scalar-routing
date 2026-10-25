@@ -1,0 +1,12 @@
+{
+  "text": "visit there.",
+  "avg_logprob": -0.6622114181518555,
+  "no_speech_prob": 0.15797406435012817,
+  "wall_clock_seconds": 0.09584845800054609,
+  "n_segments": 1,
+  "wer": 0.3333333333333333,
+  "reference": "TO VISIT THERE",
+  "utterance_id": "e418d18a4173",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C44-A"
+}

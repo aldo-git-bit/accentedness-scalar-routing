@@ -1,0 +1,12 @@
+{
+  "text": "Sivalis like globally known. Okay.",
+  "avg_logprob": -0.9473449162074498,
+  "no_speech_prob": 0.1422889679670334,
+  "wall_clock_seconds": 0.1187612909998279,
+  "n_segments": 2,
+  "wer": 0.5714285714285714,
+  "reference": "DIWALI IS LIKE GLOBALLY KNOWN YOU KNOW",
+  "utterance_id": "aa3428a3e836",
+  "accent": "Indian English",
+  "speaker": "EDACC-C36-A"
+}

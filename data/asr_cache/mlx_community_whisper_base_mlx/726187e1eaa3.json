@@ -1,0 +1,12 @@
+{
+  "text": "any animated ones as a child, at Ben Tens.",
+  "avg_logprob": -0.6105306625366211,
+  "no_speech_prob": 0.03334866836667061,
+  "wall_clock_seconds": 0.048885375013924204,
+  "n_segments": 1,
+  "wer": 0.1111111111111111,
+  "reference": "ANY ANIMATED ONES AS A CHILD LIKE BEN TENS",
+  "utterance_id": "726187e1eaa3",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-A"
+}

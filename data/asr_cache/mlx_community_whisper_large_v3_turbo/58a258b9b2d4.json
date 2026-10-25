@@ -1,0 +1,12 @@
+{
+  "text": "okay so do you have any favorite hobby even as a kid when you were a kid what was your favorite hobby",
+  "avg_logprob": -0.27599078637582286,
+  "no_speech_prob": 1.8525767725430242e-11,
+  "wall_clock_seconds": 0.4393713750032475,
+  "n_segments": 2,
+  "wer": 0.23809523809523808,
+  "reference": "OKAY SO DO YOU HAVE ANY FAVORITE HOBBY LIKE EVEN AS A KID WAY WAY KID WHAT WAS YOUR FAVORITE HOBBY",
+  "utterance_id": "58a258b9b2d4",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C41-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "That day we did lots of begging. Please, Daddy, we will do it here. You have warned you not to ever play football again in the house. I warned you only when I permit you. You don't listen. You are disobedient children. You are disobedient children. God, I was like, hey, we've had that today. We've had that trouble. So like after that, we've been here.",
+  "avg_logprob": -0.45658290278804187,
+  "no_speech_prob": 0.02007128670811653,
+  "wall_clock_seconds": 0.2274507080001058,
+  "n_segments": 11,
+  "wer": 0.27692307692307694,
+  "reference": "THAT DAY WE DID A LOT OF BEGGING PLEASE DADDY WE WON'T DO IT AGAIN I'VE WARNED YOU NOT TO EVER PLAY FOOTBALL AGAIN IN THE HOUSE I'VE WARNED YOU ONLY WHEN I PERMIT YOU YOU DON'T LISTEN YOU ARE DISOBEDIENT CHILDREN YOU'RE DISOBEDIENT CHILDREN GOD I WAS LIKE HEY WE'VE ENTERED TO THE WE'VE ENTERED TROUBLE SO LIKE AFTER THAT WE PLAYED AGAIN <OVERLAP>",
+  "utterance_id": "68d723825022",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-A"
+}

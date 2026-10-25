@@ -1,0 +1,12 @@
+{
+  "text": "and a huge sum of money. The main reason why you might want to not be so happy to do it is because you don't know when the reward is gonna come.",
+  "avg_logprob": -0.28615641593933105,
+  "no_speech_prob": 0.08308849483728409,
+  "wall_clock_seconds": 0.20875716700174962,
+  "n_segments": 4,
+  "wer": 0.2,
+  "reference": "AND A HUGE SUM OF MONEY YOU KNOW THE THE MAIN REASON WHY YOU MIGHT WANT TO YOU KNOW NOT BE SO HAPPY TO DO IT IS BECAUSE YOU DON'T NE YOU DON'T KNOW WHEN THE REWARD IS GONNA COME",
+  "utterance_id": "d711255ddb08",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, me too. I saw it last year. So I think the movie was what's the hype. They were just hyping the movie. And when I saw the movie, I was like, wow, this movie is really what's the hype. I loved the movie, how the lead character played her role perfectly. I just loved the movie and how we were kept in suspense. We didn't know the next step they were going to take. The movie was just smart. The movie was cool.",
+  "avg_logprob": -0.12071010522675096,
+  "no_speech_prob": 0.10566966235637665,
+  "wall_clock_seconds": 1.8043917079994571,
+  "n_segments": 5,
+  "wer": 0.047058823529411764,
+  "reference": "YEAH ME TOO I SAW IT LAST YEAR SO I THINK THE MOVIE WAS WORTH THE HYPE LIKE THEY ARE JUST HYPING THE MOVIE AND WHEN I SAW THE MOVIE I WAS LIKE WOW THIS MOVIE IS REALLY WORTH THE HYPE I LOVED THE MOVIE HOW THE LEAD CHARACTER PLAYED HER ROLE PERFECTLY I JUST LOVED THE MOVIE AND HOW WE WERE KEPT IN SUSPENSE WE DIDN'T KNOW THE NEXT STEP THEY WERE GOING TO TAKE THE MOVIE WAS JUST SMART THE MOVIE WAS COOL",
+  "utterance_id": "7b30f8b132cf",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C41-A"
+}

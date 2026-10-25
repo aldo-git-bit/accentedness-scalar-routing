@@ -1,0 +1,12 @@
+{
+  "text": "enjoy the fifth one that must be on his side. I don't know why though. I think it was just because by that time, I had stopped really liking the actors also. I don't know.",
+  "avg_logprob": -0.6286313562858395,
+  "no_speech_prob": 0.5895503610372543,
+  "wall_clock_seconds": 0.1368151670030784,
+  "n_segments": 2,
+  "wer": 0.25,
+  "reference": "ENJOY THE FIFTH ONE THAT MUCH TO BE HONEST I DON'T KNOW WHY THOUGH I THINK IT WAS JUST BECAUSE BY THAT TIME I HAD STOPPED REALLY LIKING THE ACTORS ALSO <DTMF>",
+  "utterance_id": "bb32463c9a97",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-B"
+}

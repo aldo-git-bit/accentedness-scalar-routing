@@ -1,0 +1,12 @@
+{
+  "text": "capital of food which is a lot of hand sandwiches for three days.",
+  "avg_logprob": -0.6911775925580192,
+  "no_speech_prob": 0.0063841938972473145,
+  "wall_clock_seconds": 0.03133237500151154,
+  "n_segments": 1,
+  "wer": 0.42857142857142855,
+  "reference": "CAFETERIA FOOD WHICH WAS I ATE A LOT OF HAM SANDWICHES FOR THREE DAYS",
+  "utterance_id": "5a12a0be8b07",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B"
+}

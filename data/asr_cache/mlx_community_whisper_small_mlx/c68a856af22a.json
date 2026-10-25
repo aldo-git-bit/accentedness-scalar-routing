@@ -1,0 +1,12 @@
+{
+  "text": "We had like enough food in the house. It's just that everybody was grabbing at it. So I've always developed the thing of older that if you, as a mold of like, if you have extra rice in the pan, it is a challenge to finish the rice. You've committed to the rice, you have to finish the rice. So I guess I see meals as a bit of a challenge, but also just food's fantastic. I love it. There are very few foods I didn't like as a kid and there are very few foods I don't like now. Like almost everything I eat now I also ate as a kid. I think the exceptions would be coffee, although I didn't really have that much to keep it like more of a coffee flavor.",
+  "avg_logprob": -0.188942336189404,
+  "no_speech_prob": 0.007939709583297372,
+  "wall_clock_seconds": 0.748583000000508,
+  "n_segments": 15,
+  "wer": 0.09859154929577464,
+  "reference": "WE HAD LIKE ENOUGH FOOD IN THE HOUSE IT'S JUST THAT EVERYBODY WAS GRABBING AT IT SO I'VE ALWAYS DEVELOPED THE THE THING OF OLDER THE THAT IF YOU AS I'M OLDER THAT LIKE IF YOU HAVE EXTRA RICE IN THE PAN IT IS A CHALLENGE TO FINISH THE RICE <LAUGH> YOU'VE COMMITTED TO THE RICE YOU HAVE TO FINISH THE RICE SO I GUESS I SEE MEALS AS A BIT OF A CHALLENGE UM BUT ALSO JUST FOOD'S FANTASTIC I LOVE IT THERE ARE VERY FEW FOODS I I DIDN'T LIKE AS A KID AND THERE ARE VERY FEW FOODS I DON'T LIKE NOW LIKE AL ALMOST EVERYTHING I EAT NOW I ALSO ATE AS A KID I THINK THE EXCEPTIONS WILL BE COFFEE ALTHOUGH I DIDN'T REALLY HAVE THAT MUCH AS A KID BUT LIKE MORE OF A COFFEE FLAVOR",
+  "utterance_id": "c68a856af22a",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C11-B"
+}

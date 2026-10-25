@@ -1,0 +1,12 @@
+{
+  "text": "Wow, that's cool. It's fine. I love playing basketball and tennis ball. I just love it. I'm always in the basketball court and tennis ball court. I have a few friends there who love playing with me. I used to love football. I used to play football. But at some point, I stopped playing football because I had a sprained ankle. I got injured, so I decided to stop.",
+  "avg_logprob": -0.19033846808868704,
+  "no_speech_prob": 0.033146824687719345,
+  "wall_clock_seconds": 1.6856430000007094,
+  "n_segments": 8,
+  "wer": 0.014285714285714285,
+  "reference": "WOW THAT'S COOL IT'S FINE I LOVE UM PLAYING BASKETBALL AND TENNIS BALL I JUST LOVE IT I'M ALWAYS IN THE BASKETBALL COURT AND TENNIS BALL COURT I HAVE A FEW FRIENDS THERE WHO LOVE PLAYING WITH ME I USED TO LOVE FOOTBALL I USED TO PLAY FOOTBALL BUT AT SOME POINT I STOPPED PLAYING FOOTBALL BECAUSE I HAD A SPRAINED ANKLE I GOT INJURED SO I DECIDED TO STOP",
+  "utterance_id": "7c9a204fb678",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C41-A"
+}

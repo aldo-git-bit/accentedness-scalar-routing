@@ -1,0 +1,12 @@
+{
+  "text": "I don't know how to do it.",
+  "avg_logprob": -0.9157668749491373,
+  "no_speech_prob": 0.5583831667900085,
+  "wall_clock_seconds": 0.08926358300959691,
+  "n_segments": 1,
+  "wer": 3.5,
+  "reference": "NO JOKING",
+  "utterance_id": "24a6864793ca",
+  "accent": "Irish English",
+  "speaker": "EDACC-C50-B"
+}

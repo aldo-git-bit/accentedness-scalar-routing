@@ -1,0 +1,12 @@
+{
+  "text": "I think some of the other ones have books there that aren't.",
+  "avg_logprob": -0.1316530283759622,
+  "no_speech_prob": 7.490503985303765e-13,
+  "wall_clock_seconds": 0.4147893750050571,
+  "n_segments": 1,
+  "wer": 0.0,
+  "reference": "I THINK SOME OF THE OTHER ONES HAVE BOOKS THERE THAT AREN'T",
+  "utterance_id": "91156f8064a6",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C03-B"
+}

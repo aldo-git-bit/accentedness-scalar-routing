@@ -1,0 +1,12 @@
+{
+  "text": "You know, it's a great outdoor sport for girls, for boys, for children. It's great physically.",
+  "avg_logprob": -0.1888798475265503,
+  "no_speech_prob": 0.16640429198741913,
+  "wall_clock_seconds": 0.7708520000014687,
+  "n_segments": 2,
+  "wer": 0.11764705882352941,
+  "reference": "YOU KNOW IT'S A GREAT OUTDOOR SPORT FOR FOR GIRLS FOR BOYS FOR CHILDREN IT'S GREAT PHYSICAL",
+  "utterance_id": "616728413ba8",
+  "accent": "Indian English",
+  "speaker": "EDACC-C36-A"
+}

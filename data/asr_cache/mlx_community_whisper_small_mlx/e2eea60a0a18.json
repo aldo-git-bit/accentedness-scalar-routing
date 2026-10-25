@@ -1,0 +1,12 @@
+{
+  "text": "Bye.",
+  "avg_logprob": -0.9354311943054199,
+  "no_speech_prob": 0.37650519609451294,
+  "wall_clock_seconds": 0.09231279099913081,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "ERAGON",
+  "utterance_id": "e2eea60a0a18",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-A"
+}

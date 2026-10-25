@@ -1,0 +1,12 @@
+{
+  "text": "But maybe that's why you don't like it.",
+  "avg_logprob": -0.2751828602382115,
+  "no_speech_prob": 0.0012245480902493,
+  "wall_clock_seconds": 0.11961279200113495,
+  "n_segments": 1,
+  "wer": 0.125,
+  "reference": "SO MAYBE THAT'S WHY YOU DON'T LIKE IT",
+  "utterance_id": "ab9ba34b4ddf",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C28-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "you know, from BTS.",
+  "avg_logprob": -0.6959288914998373,
+  "no_speech_prob": 0.2512926161289215,
+  "wall_clock_seconds": 0.10346104100244702,
+  "n_segments": 1,
+  "wer": 0.5,
+  "reference": "YOU KNOW TRAUMA PTSD",
+  "utterance_id": "098e407994a0",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-A"
+}

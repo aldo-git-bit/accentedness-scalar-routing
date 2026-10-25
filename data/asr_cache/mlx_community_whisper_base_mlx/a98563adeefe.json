@@ -1,0 +1,12 @@
+{
+  "text": "the",
+  "avg_logprob": -2.6947017669677735,
+  "no_speech_prob": 0.5781130194664001,
+  "wall_clock_seconds": 0.21011991699924693,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "MM HMM",
+  "utterance_id": "a98563adeefe",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-B"
+}

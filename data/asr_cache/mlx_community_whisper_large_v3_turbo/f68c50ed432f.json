@@ -1,0 +1,12 @@
+{
+  "text": "Oh, that was rad.",
+  "avg_logprob": -0.3377520243326823,
+  "no_speech_prob": 2.30008004829807e-12,
+  "wall_clock_seconds": 0.3984969579905737,
+  "n_segments": 1,
+  "wer": 0.4,
+  "reference": "OH THAT WAS RED YEAH",
+  "utterance_id": "f68c50ed432f",
+  "accent": "Irish English",
+  "speaker": "EDACC-C50-A"
+}

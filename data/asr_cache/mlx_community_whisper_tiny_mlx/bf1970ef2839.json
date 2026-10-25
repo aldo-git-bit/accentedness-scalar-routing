@@ -1,0 +1,12 @@
+{
+  "text": "We were also near a market garden that we could go up and buy their stuff. So there was a lot of, I mean, I suppose, and I'm not that old, but we didn't have papers and things like that when we were, there wasn't any pastries or anything like that.",
+  "avg_logprob": -0.3459284409232762,
+  "no_speech_prob": 0.03138964623212814,
+  "wall_clock_seconds": 0.09227116699912585,
+  "n_segments": 3,
+  "wer": 0.10909090909090909,
+  "reference": "WE WERE ALSO LIVING NEAR A MARKET GARDEN THAT WE COULD GO UP AND BUY THEIR STUFF SO THERE WAS A LOT LIKE OF I MEAN I SUPPOSE AND I'M NOT THAT OLD BUT LIKE WE DIDN'T HAVE PEPPERS AND THINGS LIKE THAT WHEN WE WERE THERE THERE WASN'T ANY PASTA OR ANYTHING LIKE THAT",
+  "utterance_id": "bf1970ef2839",
+  "accent": "Irish English",
+  "speaker": "EDACC-C47-B"
+}

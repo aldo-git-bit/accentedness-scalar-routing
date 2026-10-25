@@ -1,0 +1,12 @@
+{
+  "text": "So we are trying to send out the working experiment for ladies.",
+  "avg_logprob": -0.6756924986839294,
+  "no_speech_prob": 0.037926506251096725,
+  "wall_clock_seconds": 0.05061395799566526,
+  "n_segments": 1,
+  "wer": 0.6428571428571429,
+  "reference": "SO WHAT YOU'RE TRYING TO SAY NOW IS COOKING IS ONLY MEANT FOR LADIES",
+  "utterance_id": "2e4e9a636b67",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C41-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Not really, not really. No. Do you like drawing?",
+  "avg_logprob": -0.6322883605957031,
+  "no_speech_prob": 5.610823763067818e-13,
+  "wall_clock_seconds": 0.42124283299199305,
+  "n_segments": 3,
+  "wer": 0.0,
+  "reference": "NOT REALLY NOT REALLY NO DO YOU LIKE DRAWING",
+  "utterance_id": "2f8ccd45fea4",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C32-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "I don't know how to bring in books. The only books I read are on deep books for science, technology, just a wide-end mind scope. I'm not a fan of books. What about you?",
+  "avg_logprob": -0.5284106167879972,
+  "no_speech_prob": 0.004241396673023701,
+  "wall_clock_seconds": 0.08241158300370444,
+  "n_segments": 5,
+  "wer": 0.375,
+  "reference": "I I DON'T LOVE READING BOOKS THE ONLY BOOKS I READ ARE ONLY BOOKS FOR SCIENCE TECHNOLOGY JUST TO WIDEN MY SCOPE I I'M NOT A FAN OF BOOKS WHAT ABOUT YOU",
+  "utterance_id": "db04b7d2816a",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C41-B"
+}

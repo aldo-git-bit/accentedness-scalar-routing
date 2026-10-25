@@ -1,0 +1,12 @@
+{
+  "text": "That's what the cliche says about Glasgow.",
+  "avg_logprob": -0.29557375113169354,
+  "no_speech_prob": 8.850168861651575e-12,
+  "wall_clock_seconds": 0.4010715830081608,
+  "n_segments": 1,
+  "wer": 0.625,
+  "reference": "AND AT LEAST THAT'S WHAT THEY SAID THE THAT IS WHAT THE CLICH\u00e9 SAYS ABOUT GLASGOW",
+  "utterance_id": "02c94313938b",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C20-B"
+}

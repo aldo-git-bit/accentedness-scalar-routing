@@ -1,0 +1,12 @@
+{
+  "text": "Absolutely. It's quite interesting how they're remaking these things and sort of bringing it into a new era. It's quite good. I haven't seen...",
+  "avg_logprob": -0.2307547807693481,
+  "no_speech_prob": 1.5735408852649013e-12,
+  "wall_clock_seconds": 0.4788774999906309,
+  "n_segments": 3,
+  "wer": 0.21428571428571427,
+  "reference": "ABSOLUTELY IT'S IT'S QUITE INTERESTING THOUGH HOW THEY'RE THEY'RE REMAKING THESE THINGS AND SORT OF BRINGING IT INTO NEW ERA IT'S QUITE IT'S QUITE GOOD I HAVEN'T SEEN",
+  "utterance_id": "541906ca1d9d",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-A"
+}

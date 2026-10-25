@@ -1,0 +1,12 @@
+{
+  "text": "I think eventually most people will. It's all about having the infrastructure at your home as well though and being able to ensure that having an allergic or a hybrid works for yourself.",
+  "avg_logprob": -0.4465905166253811,
+  "no_speech_prob": 0.13313889503479004,
+  "wall_clock_seconds": 0.09799725000630133,
+  "n_segments": 2,
+  "wer": 0.24390243902439024,
+  "reference": "<COUGH> I THINK EVENTUALLY YEAH I THINK EVENTUALLY MOST PEOPLE WILL UM IT'S ALL ABOUT HAVING THE INFRASTRUCTURE AT YOUR HOME AS WELL THOUGH AND BEING ABLE TO ENSURE THAT HAVING A UM AN ELECTRIC OR THE HYBRID WORKS FOR YOURSELF",
+  "utterance_id": "89dc0674c05c",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

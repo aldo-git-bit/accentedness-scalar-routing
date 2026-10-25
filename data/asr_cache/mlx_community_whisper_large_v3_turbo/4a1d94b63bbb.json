@@ -1,0 +1,12 @@
+{
+  "text": "My parents got a different outlook on it. But we would all sit there. It was an event, you know.",
+  "avg_logprob": -0.21581206783171622,
+  "no_speech_prob": 1.3045224622754148e-12,
+  "wall_clock_seconds": 0.44832516700262204,
+  "n_segments": 3,
+  "wer": 0.15,
+  "reference": "MY PARENTS GOT A DIFFERENT OUTLOOK ON IT BUT WE WOULD ALSO IT WAS IT WAS AN EVENT YOU KNOW",
+  "utterance_id": "4a1d94b63bbb",
+  "accent": "Irish English",
+  "speaker": "EDACC-C61-A"
+}

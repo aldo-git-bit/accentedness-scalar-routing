@@ -1,0 +1,12 @@
+{
+  "text": "Then after that they are, yeah, then after...",
+  "avg_logprob": -0.5697785445622036,
+  "no_speech_prob": 0.10948755592107773,
+  "wall_clock_seconds": 0.1177140830004646,
+  "n_segments": 1,
+  "wer": 0.14285714285714285,
+  "reference": "THEN AFTER THAT THEY YEAH THEN AFTER",
+  "utterance_id": "f615ed44ecfd",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C31-A"
+}

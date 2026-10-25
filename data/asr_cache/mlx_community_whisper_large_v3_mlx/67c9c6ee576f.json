@@ -1,0 +1,12 @@
+{
+  "text": "That's right. What kind of recipes have you been making recently?",
+  "avg_logprob": -0.09603348900290097,
+  "no_speech_prob": 0.0030619523022323847,
+  "wall_clock_seconds": 0.6413714160007657,
+  "n_segments": 1,
+  "wer": 0.0,
+  "reference": "THAT'S RIGHT WHAT KIND OF RECIPES HAVE YOU BEEN MAKING RECENTLY",
+  "utterance_id": "67c9c6ee576f",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-A"
+}

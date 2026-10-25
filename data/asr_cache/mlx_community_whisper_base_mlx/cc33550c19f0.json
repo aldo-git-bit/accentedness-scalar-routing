@@ -1,0 +1,12 @@
+{
+  "text": "the",
+  "avg_logprob": -2.9962364196777345,
+  "no_speech_prob": 0.4274153411388397,
+  "wall_clock_seconds": 0.21713904099306092,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "<NO-SPEECH>",
+  "utterance_id": "cc33550c19f0",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C03-B"
+}

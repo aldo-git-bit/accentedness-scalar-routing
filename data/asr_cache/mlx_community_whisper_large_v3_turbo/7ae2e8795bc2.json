@@ -1,0 +1,12 @@
+{
+  "text": "Thank you.",
+  "avg_logprob": -0.8829364776611328,
+  "no_speech_prob": 1.3347162264309986e-10,
+  "wall_clock_seconds": 1.1904531250038417,
+  "n_segments": 1,
+  "wer": 2.0,
+  "reference": "VEGETABLE",
+  "utterance_id": "7ae2e8795bc2",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C31-B"
+}

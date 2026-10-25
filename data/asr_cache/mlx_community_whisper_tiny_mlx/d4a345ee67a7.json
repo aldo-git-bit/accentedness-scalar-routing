@@ -1,0 +1,12 @@
+{
+  "text": "the pee pee",
+  "avg_logprob": -4.416437149047852,
+  "no_speech_prob": 0.042205870151519775,
+  "wall_clock_seconds": 0.5730552919994807,
+  "n_segments": 1,
+  "wer": 1.5,
+  "reference": "<FOREIGN> YEAH",
+  "utterance_id": "d4a345ee67a7",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C06-A"
+}

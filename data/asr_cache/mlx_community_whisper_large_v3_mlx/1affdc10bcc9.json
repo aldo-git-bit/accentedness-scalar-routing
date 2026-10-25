@@ -1,0 +1,12 @@
+{
+  "text": "No, it's the way the country's shaped effectively that England comes up further on the right-hand side. And as a result, it's right next to Berwick-upon-Tweed, which is in England.",
+  "avg_logprob": -0.22061906542096818,
+  "no_speech_prob": 0.0038526810240000486,
+  "wall_clock_seconds": 1.1051708750019316,
+  "n_segments": 4,
+  "wer": 0.2894736842105263,
+  "reference": "NO NO IT'S THE WAY THE WAY THE THE COUNTRY IS SHAPED EFFECTIVELY THAT ENGLAND COMES UP FURTHER ON THE RIGHT HAND SIDE AND AS A RESULT IT'S RIGHT NEXT TO BERWICK UPON TWEED WHICH IS IN ENGLAND",
+  "utterance_id": "1affdc10bcc9",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

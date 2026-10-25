@@ -1,0 +1,12 @@
+{
+  "text": "I think I've seen a lot of things. My favorite is Game of Thrones. I love Game of Thrones.",
+  "avg_logprob": -0.3564795811971029,
+  "no_speech_prob": 1.779537801838149e-11,
+  "wall_clock_seconds": 0.4467192919983063,
+  "n_segments": 3,
+  "wer": 0.4375,
+  "reference": "I THINK I <NO-SPEECH> MY FAVORITE IS UM GAME OF THRONES I LOVE GAME OF THRONES",
+  "utterance_id": "3f84dca51d56",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C41-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "the great. the great.",
+  "avg_logprob": -3.27631409962972,
+  "no_speech_prob": 0.1768876016139984,
+  "wall_clock_seconds": 0.16297849999682512,
+  "n_segments": 2,
+  "wer": 1.0,
+  "reference": "AND SAT AND ATE WORMS",
+  "utterance_id": "598543abdaee",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-B"
+}

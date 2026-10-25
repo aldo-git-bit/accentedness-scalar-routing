@@ -1,0 +1,12 @@
+{
+  "text": "You know, he's nice, he has a nice, he has a nice...",
+  "avg_logprob": -0.6497463703155517,
+  "no_speech_prob": 0.13285696506500244,
+  "wall_clock_seconds": 0.13976199999888195,
+  "n_segments": 1,
+  "wer": 1.4285714285714286,
+  "reference": "YOU KNOW IT'S NOT EASY AS <DTMF>",
+  "utterance_id": "fee28f379471",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-A"
+}

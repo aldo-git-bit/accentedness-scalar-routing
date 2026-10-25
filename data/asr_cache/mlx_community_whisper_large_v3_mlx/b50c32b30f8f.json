@@ -1,0 +1,12 @@
+{
+  "text": "My phone, definitely. I have everything on it. I mean, how could it be?",
+  "avg_logprob": -0.15192260525443338,
+  "no_speech_prob": 0.0298540648072958,
+  "wall_clock_seconds": 0.7035827910003718,
+  "n_segments": 1,
+  "wer": 0.0,
+  "reference": "MY PHONE DEFINITELY I HAVE EVERYTHING ON IT I MEAN HOW COULD IT BE",
+  "utterance_id": "b50c32b30f8f",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C32-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "I'm not sure if it was something I would be able to do to cycle all because the ternene is difficult. You know, even in a car, it's tricky.",
+  "avg_logprob": -0.3860779716855004,
+  "no_speech_prob": 0.005216274410486221,
+  "wall_clock_seconds": 0.06320074999530334,
+  "n_segments": 2,
+  "wer": 0.12903225806451613,
+  "reference": "I'M NOT SURE IF IT IS SOMETHING I WOULD BE ABLE TO DO TO TO CYCLE IT ALL BECAUSE THE TERRAIN IS DIFFICULT YOU KNOW EVEN IN A CAR IT'S TRICKY",
+  "utterance_id": "526ad42ff5ec",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-A"
+}

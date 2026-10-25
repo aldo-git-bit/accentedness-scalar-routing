@@ -1,0 +1,11 @@
+{
+  "text": "Yeah.",
+  "wer": 0.0,
+  "reference": "YEAH",
+  "utterance_id": "4167fc6d9266",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B",
+  "wall_clock_seconds": 0.7181556669966085,
+  "avg_logprob": null,
+  "no_speech_prob": null
+}

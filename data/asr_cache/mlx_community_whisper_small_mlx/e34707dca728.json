@@ -1,0 +1,12 @@
+{
+  "text": "Welcome, welcome, welcome, welcome. Okay, so.",
+  "avg_logprob": -0.556210012996898,
+  "no_speech_prob": 0.4540468454360962,
+  "wall_clock_seconds": 0.12920458300141036,
+  "n_segments": 2,
+  "wer": 0.6,
+  "reference": "YOU'RE WELCOME YOU'RE WELCOME YOU'RE WELCOME YOU'RE WELCOME YOU'RE WELCOME",
+  "utterance_id": "e34707dca728",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-B"
+}

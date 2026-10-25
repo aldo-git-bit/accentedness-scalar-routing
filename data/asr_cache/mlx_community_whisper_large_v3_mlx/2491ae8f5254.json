@@ -1,0 +1,12 @@
+{
+  "text": "Thank you.",
+  "avg_logprob": -0.4978956381479899,
+  "no_speech_prob": 0.9497062563896179,
+  "wall_clock_seconds": 0.5046605419993284,
+  "n_segments": 1,
+  "wer": 2.0,
+  "reference": "<DTMF>",
+  "utterance_id": "2491ae8f5254",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C04-B"
+}

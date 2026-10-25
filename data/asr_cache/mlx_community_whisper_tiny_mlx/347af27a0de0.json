@@ -1,0 +1,12 @@
+{
+  "text": "think it might be, but it looks like it might be in real life, you know, more kind of real life as opposed to animated.",
+  "avg_logprob": -0.3153184950351715,
+  "no_speech_prob": 0.008140750229358673,
+  "wall_clock_seconds": 0.051684499994735233,
+  "n_segments": 1,
+  "wer": 0.038461538461538464,
+  "reference": "I THINK IT MIGHT BE BUT IT LOOKS LIKE IT MIGHT BE IN REAL LIFE YOU KNOW MORE KIND OF REAL LIFE AS OPPOSED TO ANIMATED",
+  "utterance_id": "347af27a0de0",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-A"
+}

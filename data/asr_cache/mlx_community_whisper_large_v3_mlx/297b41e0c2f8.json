@@ -1,0 +1,12 @@
+{
+  "text": "I mean, I know a little about Aflamek Mankatinaanit. I mean, it's like the big deal right now.",
+  "avg_logprob": -0.5193426344129775,
+  "no_speech_prob": 0.03801063075661659,
+  "wall_clock_seconds": 0.861905542002205,
+  "n_segments": 2,
+  "wer": 0.30434782608695654,
+  "reference": "I MEAN I KNOW I KNOW LIKE A LITTLE ABOUT AFFILIATE MARKETING AND IT'S I MEAN IT'S LIKE THE BIG DEAL RIGHT NOW",
+  "utterance_id": "297b41e0c2f8",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-B"
+}

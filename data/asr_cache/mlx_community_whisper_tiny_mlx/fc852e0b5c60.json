@@ -1,0 +1,12 @@
+{
+  "text": "It's all right. Have you ever been to Lisbon?",
+  "avg_logprob": -0.4835478663444519,
+  "no_speech_prob": 0.30290818214416504,
+  "wall_clock_seconds": 0.029695249992073514,
+  "n_segments": 1,
+  "wer": 0.375,
+  "reference": "AND SO HAVE YOU EVER BEEN TO LISBON",
+  "utterance_id": "fc852e0b5c60",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B"
+}

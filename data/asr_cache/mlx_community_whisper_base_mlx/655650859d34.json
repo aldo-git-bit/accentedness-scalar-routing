@@ -1,0 +1,12 @@
+{
+  "text": "read.",
+  "avg_logprob": -0.9632732391357421,
+  "no_speech_prob": 0.49671661853790283,
+  "wall_clock_seconds": 0.031733916999655776,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "REALLY",
+  "utterance_id": "655650859d34",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-A"
+}

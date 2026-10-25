@@ -1,0 +1,12 @@
+{
+  "text": "Yeah. Yeah. Oh.",
+  "avg_logprob": -0.8635711669921875,
+  "no_speech_prob": 0.15852995216846466,
+  "wall_clock_seconds": 0.04549199999019038,
+  "n_segments": 3,
+  "wer": 0.5,
+  "reference": "UH YEAH YEAH UH",
+  "utterance_id": "fcc6d15714ce",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-A"
+}

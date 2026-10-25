@@ -1,0 +1,12 @@
+{
+  "text": "Derek.",
+  "avg_logprob": -0.8850608825683594,
+  "no_speech_prob": 0.5041530132293701,
+  "wall_clock_seconds": 0.09244899999976042,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "YEAH SURE",
+  "utterance_id": "ab9ab62b05c5",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C31-B"
+}

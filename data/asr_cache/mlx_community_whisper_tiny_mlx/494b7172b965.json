@@ -1,0 +1,12 @@
+{
+  "text": "I don't want to be honest, I actually explored the library all that much. Like it was any the other day that I decided to start having a look because I figured as much as we do probably must have academic and type stuff. I was thinking that I'm still going to have some more leisurely meeting type things that",
+  "avg_logprob": -0.4545050048828125,
+  "no_speech_prob": 0.010355688631534576,
+  "wall_clock_seconds": 0.10345862500253133,
+  "n_segments": 4,
+  "wer": 0.3382352941176471,
+  "reference": "OH I GET WHAT YOU MEAN TO BE HONEST I HAVEN'T REALLY EXPLORED THE LIBRARY ALL THAT MUCH UM LIKE IT WAS ONLY THE OTHER DAY THAT I DECIDED TO START HAVING A LOOK CUZ I FIGURED AS MUCH AS WE WE DO PROBABLY MOSTLY HAVE ACADEMICY TYPE STUFF UM I WAS THINKING THAT I JUST WANNA HAVE SOME MORE LIKE LEISURELY READING TYPE TYPE THINGS THAT THEY",
+  "utterance_id": "494b7172b965",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C03-B"
+}

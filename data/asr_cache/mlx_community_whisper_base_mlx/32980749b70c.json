@@ -1,0 +1,12 @@
+{
+  "text": "Yes, that's a lot of health benefits from what I",
+  "avg_logprob": -0.612639045715332,
+  "no_speech_prob": 0.20274727046489716,
+  "wall_clock_seconds": 0.05022187500435393,
+  "n_segments": 1,
+  "wer": 0.4666666666666667,
+  "reference": "BUT I THINK YAM DOES HAVE A LOT OF HEALTH BENEFITS FROM WHAT I KNOW",
+  "utterance_id": "32980749b70c",
+  "accent": "Indian English",
+  "speaker": "EDACC-C36-A"
+}

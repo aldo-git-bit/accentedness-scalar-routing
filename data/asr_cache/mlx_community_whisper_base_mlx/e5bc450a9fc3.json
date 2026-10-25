@@ -1,0 +1,12 @@
+{
+  "text": "Thank you. Thank you.",
+  "avg_logprob": -0.9581388993696733,
+  "no_speech_prob": 0.20808827877044678,
+  "wall_clock_seconds": 0.04289529200468678,
+  "n_segments": 2,
+  "wer": 2.0,
+  "reference": "<DTMF> MAYBE",
+  "utterance_id": "e5bc450a9fc3",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C14-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "That's an Italian dish. So...",
+  "avg_logprob": -0.4431317769564115,
+  "no_speech_prob": 0.1520977020263672,
+  "wall_clock_seconds": 0.5872260840005765,
+  "n_segments": 2,
+  "wer": 0.16666666666666666,
+  "reference": "THAT'S AN ITALIAN DISH SO UM",
+  "utterance_id": "53b89b5f4a9c",
+  "accent": "Indian English",
+  "speaker": "EDACC-C36-A"
+}

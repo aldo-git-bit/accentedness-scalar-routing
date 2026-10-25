@@ -1,0 +1,12 @@
+{
+  "text": "What are you doing here?",
+  "avg_logprob": -0.9464895460340712,
+  "no_speech_prob": 5.137162362167658e-10,
+  "wall_clock_seconds": 0.8138665420119651,
+  "n_segments": 1,
+  "wer": 0.75,
+  "reference": "OH UM WHAT ADS ANNOY YOU THE MOST",
+  "utterance_id": "247e1c85352b",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C32-B"
+}

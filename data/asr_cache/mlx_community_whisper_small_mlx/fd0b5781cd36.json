@@ -1,0 +1,12 @@
+{
+  "text": "Let me summarize.",
+  "avg_logprob": -0.8419662884303502,
+  "no_speech_prob": 0.06975936144590378,
+  "wall_clock_seconds": 0.0975767089985311,
+  "n_segments": 1,
+  "wer": 0.6,
+  "reference": "LET ME LET ME THINK",
+  "utterance_id": "fd0b5781cd36",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C33-B"
+}

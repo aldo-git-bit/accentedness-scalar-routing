@@ -1,0 +1,12 @@
+{
+  "text": "So I got finna was a drug contest. So they were the place that she was trying to rap. She was like, she was like, I flew. She was like, I beat. She was just giving some kind of rap when she was speaking. She means my team. I streamed, but she was like, I'm a diva when I enter the river. She was just beating.",
+  "avg_logprob": -0.5343497848510742,
+  "no_speech_prob": 0.3403002619743347,
+  "wall_clock_seconds": 0.18873587499547284,
+  "n_segments": 8,
+  "wer": 0.4024390243902439,
+  "reference": "SO AWKWA AWKWA AWKWAFINA WAS THE DRAGON THERE SO THERE WAS A A PLACE THERE SHE WAS TRYING TO RAP SHE WAS SHE WAS LIKE UM UH UH SHE WAS LIKE I I I FLOW I UM SHE WAS LIKE I BEAT SHE WAS SHE WAS JUST GIVING SOME KIND OF RAP WHEN SHE WAS SPEAKING OKAY SWIMMING IS MY THING UH I SWIM SHE WAS LIKE I'M A OKAY I'M A DIVA WHEN I ENTER THE RIVER SHE WAS JUST BEATING",
+  "utterance_id": "058e7da29b34",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-B"
+}

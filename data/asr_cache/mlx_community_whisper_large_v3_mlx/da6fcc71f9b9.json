@@ -1,0 +1,12 @@
+{
+  "text": "And.",
+  "avg_logprob": -0.9336368560791015,
+  "no_speech_prob": 0.8775972127914429,
+  "wall_clock_seconds": 0.4945795419989736,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "MM HMM",
+  "utterance_id": "da6fcc71f9b9",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B"
+}

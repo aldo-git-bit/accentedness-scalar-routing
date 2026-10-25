@@ -1,0 +1,12 @@
+{
+  "text": "I didn't find it difficult when I was in school. It was very easy for me. Those oral stops, transcription of words, transcribing words. It was very, very easy for me. Yes, I had a few friends that complained about English language as a subject. They really hated English language as a subject. And the funnest of it, they loved mathematics. They were great fans of mathematics. They always waited for the math teacher to arrive in class. I was like, how do they do this? Math gives me a headache. I don't like math, but they all love math and dislike English like math.",
+  "avg_logprob": -0.2416503397053292,
+  "no_speech_prob": 1.415610481845612e-11,
+  "wall_clock_seconds": 1.131910500000231,
+  "n_segments": 12,
+  "wer": 0.20512820512820512,
+  "reference": "OKAY I LIKE I DIDN'T FIND IT DIFFICULT WHEN I WAS IN SCHOOL IT WAS VERY EASY FOR ME THOSE ORAL STUFFS TRANSCRIPTION OF WORDS TRANSCRIBING WORDS IT WAS VERY VERY EASY FOR ME FOR ME YES I HAD FEW FRIENDS THAT COMPLAINED ABOUT ENGLISH LANGUAGE AS A SUBJECT LIKE THEY REALLY HATED ENGLISH LANGUAGE AS A SUBJECT AND THE WH THE FUNNIEST OF IT WAS JUST THEY LOVED MATHEMATICS LIKE THEY WERE GREAT FANS OF MATHEMATICS THEY ALWAYS WAITED FOR THE MATHS TEACHER TO ARRIVE THE CLASS LIKE I WAS LIKE HOW DO THEY DO THIS'' LIKE MATHS MATHS GIVES ME HEADACHE I DON'T LIKE MATHS BUT THEY ALL LOVE MATHS AND DISLIKE ENGLISH LIKE MAD",
+  "utterance_id": "889fbd3115cc",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C41-A"
+}

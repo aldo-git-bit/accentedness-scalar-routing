@@ -1,0 +1,12 @@
+{
+  "text": "When I was small about age or nine, I used to also play Lego.",
+  "avg_logprob": -0.3999893790797183,
+  "no_speech_prob": 0.24783854186534882,
+  "wall_clock_seconds": 0.13714754200191237,
+  "n_segments": 1,
+  "wer": 0.2777777777777778,
+  "reference": "YOU LEARN WHEN I WAS SMALL ABOUT EIGHT OR NINE I USED TO ALSO PLAY LEGO I USE",
+  "utterance_id": "904551227565",
+  "accent": "Irish English",
+  "speaker": "EDACC-C47-B"
+}

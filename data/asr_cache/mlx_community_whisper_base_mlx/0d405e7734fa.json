@@ -1,0 +1,12 @@
+{
+  "text": "you saw this when you were here.",
+  "avg_logprob": -0.6345663937655363,
+  "no_speech_prob": 0.06026436388492584,
+  "wall_clock_seconds": 0.0429781249986263,
+  "n_segments": 1,
+  "wer": 0.25,
+  "reference": "YOU YOU SAW THIS WHEN YOU WERE A",
+  "utterance_id": "0d405e7734fa",
+  "accent": "Irish English",
+  "speaker": "EDACC-C61-A"
+}

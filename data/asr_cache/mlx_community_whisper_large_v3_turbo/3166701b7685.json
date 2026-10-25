@@ -1,0 +1,12 @@
+{
+  "text": "out of cartoons.",
+  "avg_logprob": -0.27531678336007254,
+  "no_speech_prob": 9.824440740102691e-12,
+  "wall_clock_seconds": 0.38907266699243337,
+  "n_segments": 1,
+  "wer": 0.0,
+  "reference": "OUT OF CARTOONS",
+  "utterance_id": "3166701b7685",
+  "accent": "Irish English",
+  "speaker": "EDACC-C61-B"
+}

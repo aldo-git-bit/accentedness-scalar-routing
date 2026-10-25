@@ -1,0 +1,12 @@
+{
+  "text": "I love to buy like, I will not tell you to buy, I will not tell you to visit the buy-post, I will not have the opportunity. I just love to buy.",
+  "avg_logprob": -0.694647572257302,
+  "no_speech_prob": 0.09962311387062073,
+  "wall_clock_seconds": 0.10220279201166704,
+  "n_segments": 2,
+  "wer": 0.7407407407407407,
+  "reference": "I LOVE DUBAI LIKE I'VE ALWAYS WANTED TO BE DUBAI I'VE I'VE ALWAYS WANTED TO VISIT DUBAI BUT I'VE NOT HAD THE OPPORTUNITY I JUST LOVE DUBAI",
+  "utterance_id": "6f2d56dad193",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C41-A"
+}

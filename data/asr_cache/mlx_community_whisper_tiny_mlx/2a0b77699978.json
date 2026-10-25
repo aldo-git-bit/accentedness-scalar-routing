@@ -1,0 +1,12 @@
+{
+  "text": "And that got you some serious cartoons. Yeah.",
+  "avg_logprob": -0.4576821009318034,
+  "no_speech_prob": 0.0012369247851893306,
+  "wall_clock_seconds": 0.029376416990999132,
+  "n_segments": 2,
+  "wer": 0.1111111111111111,
+  "reference": "AND THAT THAT GOT YOU SOME SERIOUS CARTOONS YEAH",
+  "utterance_id": "2a0b77699978",
+  "accent": "Irish English",
+  "speaker": "EDACC-C61-A"
+}

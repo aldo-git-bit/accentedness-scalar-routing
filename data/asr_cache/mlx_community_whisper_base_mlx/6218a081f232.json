@@ -1,0 +1,12 @@
+{
+  "text": "to lose interest in things like in art when the art is...",
+  "avg_logprob": -0.5807385444641113,
+  "no_speech_prob": 0.06686213612556458,
+  "wall_clock_seconds": 0.052593583008274436,
+  "n_segments": 1,
+  "wer": 0.2727272727272727,
+  "reference": "<OVERLAP> LOSE INTEREST IN THINGS LIKE IN ART WHEN THE ARTIST",
+  "utterance_id": "6218a081f232",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-B"
+}

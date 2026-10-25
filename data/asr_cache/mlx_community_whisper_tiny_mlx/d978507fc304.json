@@ -1,0 +1,12 @@
+{
+  "text": "and like five years.",
+  "avg_logprob": -0.9645565748214722,
+  "no_speech_prob": 0.03325573727488518,
+  "wall_clock_seconds": 0.02099645799899008,
+  "n_segments": 1,
+  "wer": 0.8,
+  "reference": "KINDA LIKE FILING YOUR TEETH",
+  "utterance_id": "d978507fc304",
+  "accent": "Irish English",
+  "speaker": "EDACC-C50-B"
+}

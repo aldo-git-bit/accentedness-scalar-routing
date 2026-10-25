@@ -1,0 +1,12 @@
+{
+  "text": "also i could just like put in",
+  "avg_logprob": -0.7755748271942139,
+  "no_speech_prob": 0.30669617652893066,
+  "wall_clock_seconds": 1.9172905000013998,
+  "n_segments": 1,
+  "wer": 0.5384615384615384,
+  "reference": "AND SO I COULD JUST LIKE PUT IN <DTMF> OH BY THE WAY",
+  "utterance_id": "172cfdbb68df",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-B"
+}

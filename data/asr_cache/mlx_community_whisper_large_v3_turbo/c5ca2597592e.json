@@ -1,0 +1,12 @@
+{
+  "text": "Since the beginning of golf, I believe. That's potentially where golf started in a lot of people's eyes.",
+  "avg_logprob": -0.1888395377567836,
+  "no_speech_prob": 1.5429089212856684e-12,
+  "wall_clock_seconds": 0.44039916699694004,
+  "n_segments": 2,
+  "wer": 0.1,
+  "reference": "YEAH SINCE THE BEGINNING OF GOLF I BELIEVE THAT'S THAT'S POTENTIALLY WHERE GOLF STARTED IN A LOT OF PEOPLE'S EYES",
+  "utterance_id": "c5ca2597592e",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

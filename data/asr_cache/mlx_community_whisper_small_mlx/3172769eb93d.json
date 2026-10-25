@@ -1,0 +1,12 @@
+{
+  "text": "the first series. I've read a lot actually but maybe maybe Narnia I think chronicles of Narnia probably.",
+  "avg_logprob": -0.3293809561893858,
+  "no_speech_prob": 0.04499820992350578,
+  "wall_clock_seconds": 0.16425654200065765,
+  "n_segments": 1,
+  "wer": 0.05263157894736842,
+  "reference": "THE FIRST SERIES I'VE READ A LOT ACTUALLY BUT MAYBE MAYBE NARNIA I THINK THE CHRONICLES OF NARNIA PROBABLY",
+  "utterance_id": "3172769eb93d",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-B"
+}

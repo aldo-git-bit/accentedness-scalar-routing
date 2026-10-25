@@ -1,0 +1,12 @@
+{
+  "text": "with the more money you spend like the more like uh like information they disclose to you about like the religion or whatever um",
+  "avg_logprob": -0.24085424792382024,
+  "no_speech_prob": 1.1556583598068548e-12,
+  "wall_clock_seconds": 0.4537689590069931,
+  "n_segments": 3,
+  "wer": 0.42857142857142855,
+  "reference": "YEAH WITH THE MORE MONEY YOU SPEND LIKE THE MORE LIKE UH INFORMATION THEY DISCLOSE YOU TO BUT LIKE THE RELIGION I DON'T KNOW IT'S KIND OF TRICKY",
+  "utterance_id": "ebf97930605f",
+  "accent": "Irish English",
+  "speaker": "EDACC-C50-A"
+}

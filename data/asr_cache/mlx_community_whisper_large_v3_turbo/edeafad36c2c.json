@@ -1,0 +1,12 @@
+{
+  "text": "I love that Peppa Pig. Oh,",
+  "avg_logprob": -0.519249541418893,
+  "no_speech_prob": 9.165242349784553e-13,
+  "wall_clock_seconds": 0.4153233749966603,
+  "n_segments": 2,
+  "wer": 0.625,
+  "reference": "OH LOVE A BIT OF PEPPA PIG RIGHT",
+  "utterance_id": "edeafad36c2c",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-A"
+}

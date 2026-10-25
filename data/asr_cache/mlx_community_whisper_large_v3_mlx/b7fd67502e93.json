@@ -1,0 +1,12 @@
+{
+  "text": "What's your favorite leaf fruit, favorite fruit?",
+  "avg_logprob": -0.3647576112013597,
+  "no_speech_prob": 0.009083917364478111,
+  "wall_clock_seconds": 0.5898793330015906,
+  "n_segments": 1,
+  "wer": 0.3333333333333333,
+  "reference": "WHAT'S YOUR FAVORITE LEAST FRUIT FAVORITE FRUIT AND WHY",
+  "utterance_id": "b7fd67502e93",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C32-B"
+}

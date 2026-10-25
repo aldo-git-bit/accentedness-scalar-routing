@@ -1,0 +1,12 @@
+{
+  "text": "Oh no, I'm at a cafe and they have been preparing dough since the morning and heating up the oven. So yeah, very soon I'm going to be having a pizza.",
+  "avg_logprob": -0.2886959711710612,
+  "no_speech_prob": 0.04942280054092407,
+  "wall_clock_seconds": 0.09496529099124018,
+  "n_segments": 2,
+  "wer": 0.15625,
+  "reference": "OH NO I'M AT A CAF\u00e9 AND THEY HA THEY HAVE BEEN PREPARING DOUGH SINCE THE MORNING AND HEATING UP THE OVEN SO YEAH VERY SOON I'M GONNA BE HAVING A PIZZA",
+  "utterance_id": "f8861ba12198",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C42-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Bye.",
+  "avg_logprob": -0.4150057792663574,
+  "no_speech_prob": 0.04371364414691925,
+  "wall_clock_seconds": 0.49417958299818565,
+  "n_segments": 1,
+  "wer": 0.0,
+  "reference": "BYE",
+  "utterance_id": "5831384230d0",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C41-A"
+}

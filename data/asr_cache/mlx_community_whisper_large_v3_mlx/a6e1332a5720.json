@@ -1,0 +1,12 @@
+{
+  "text": "I've got another question.",
+  "avg_logprob": -0.29316968388027614,
+  "no_speech_prob": 0.011649006977677345,
+  "wall_clock_seconds": 0.5388860410021152,
+  "n_segments": 1,
+  "wer": 0.2,
+  "reference": "UM I'VE GOT ANOTHER QUESTION",
+  "utterance_id": "a6e1332a5720",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C33-A"
+}

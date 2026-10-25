@@ -1,0 +1,12 @@
+{
+  "text": "I've actually played that game too but we didn't call it school",
+  "avg_logprob": -0.15112676118549548,
+  "no_speech_prob": 2.0437998082128983e-12,
+  "wall_clock_seconds": 0.4191224170062924,
+  "n_segments": 2,
+  "wer": 0.07692307692307693,
+  "reference": "I I'VE ACTUALLY PLAYED THAT GAME TOO BUT WE DIDN'T CALL IT SCHOOL",
+  "utterance_id": "104ebea9d5b2",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C02-B"
+}

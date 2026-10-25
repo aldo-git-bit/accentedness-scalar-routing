@@ -1,0 +1,12 @@
+{
+  "text": "That clicked with us work, so we're genius. Yeah, still continuing. Yeah, Bob, I'm trying to learn Python because everything goes. If you look at CDs of every single person out there, they know at least like three languages. And a few variations. Okay, only one thing, it's pretty basic. To everyone else.",
+  "avg_logprob": -0.5558944702148437,
+  "no_speech_prob": 0.07701774686574936,
+  "wall_clock_seconds": 0.11178687500068918,
+  "n_segments": 7,
+  "wer": 0.38596491228070173,
+  "reference": "EXACTLY WHEN I WAS BORN 'CAUSE I WAS GENIUS YEAH STILL CAN'T DO ANYTHING YEAH BUT I'M TRYING TO LEARN PYTHON 'CAUSE EVERY SINGLE IF YOU LOOK AT THE CVS OF EVERY SINGLE PERSON OUT THERE THEY KNOW AT LEAST LIKE THREE LANGUAGES AND A FEW VERY STUPID ONLY ONE THING IT'S PRETTY BASIC THAT EVERYBODY KNOWS",
+  "utterance_id": "865319bf15ea",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C04-B"
+}

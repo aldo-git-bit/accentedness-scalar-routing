@@ -1,0 +1,12 @@
+{
+  "text": "Just the shape, or you know, it's not, it's not the real day.",
+  "avg_logprob": -0.7804460525512695,
+  "no_speech_prob": 0.05618320405483246,
+  "wall_clock_seconds": 0.03693708298669662,
+  "n_segments": 1,
+  "wer": 0.3333333333333333,
+  "reference": "JUST THE THE SHAPE OR OR YOU KNOW IT'S NOT IT'S NOT VERY DETAILED FACE",
+  "utterance_id": "dbd4a9baffc1",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C54-B"
+}

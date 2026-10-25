@@ -1,0 +1,12 @@
+{
+  "text": "all the wild thorn breeze.",
+  "avg_logprob": -0.5894288063049317,
+  "no_speech_prob": 0.09008540958166122,
+  "wall_clock_seconds": 0.04064937499060761,
+  "n_segments": 1,
+  "wer": 0.8333333333333334,
+  "reference": "OH THE WI THE WILD THORNBERRYS",
+  "utterance_id": "a437cfcfac58",
+  "accent": "Irish English",
+  "speaker": "EDACC-C47-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "I do, that's right. And we used to use that big oak tree as the goals.",
+  "avg_logprob": -0.14642755508422853,
+  "no_speech_prob": 9.396089592147994e-13,
+  "wall_clock_seconds": 0.44073304200719576,
+  "n_segments": 2,
+  "wer": 0.0,
+  "reference": "I DO THAT'S RIGHT AND WE USED TO USE THAT BIG OAK TREE AS THE GOALS",
+  "utterance_id": "a366791f7556",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "I don't know, it's 108, I'll be started at like 12, 155 or something like that.",
+  "avg_logprob": -0.47102172286422167,
+  "no_speech_prob": 0.05958329513669014,
+  "wall_clock_seconds": 0.0714396669936832,
+  "n_segments": 1,
+  "wer": 0.42105263157894735,
+  "reference": "I DON'T KNOW IT'S ONE O EIGHT UM WE STARTED AT LIKE TWELVE FIFTY FIVE OR SOMETHING LIKE THAT",
+  "utterance_id": "733707300d39",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B"
+}

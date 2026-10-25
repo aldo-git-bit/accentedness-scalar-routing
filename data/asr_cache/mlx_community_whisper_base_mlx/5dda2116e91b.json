@@ -1,0 +1,12 @@
+{
+  "text": "Snow card. Snow card. Snow card. the",
+  "avg_logprob": -1.3831127209133571,
+  "no_speech_prob": 0.37546399235725403,
+  "wall_clock_seconds": 2.006841374997748,
+  "n_segments": 2,
+  "wer": 1.75,
+  "reference": "STONE UH STONE PLAYGROUND",
+  "utterance_id": "5dda2116e91b",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-B"
+}

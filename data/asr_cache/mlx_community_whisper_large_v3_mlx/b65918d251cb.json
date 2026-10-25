@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, yeah. I mean, I've not scratched back the right way. If I had known what I know now, I would have, I think, I think there are a lot of stuff I can do now that I believe if I had known about them when I was leaving secondary school, I would have opted for maybe, I would have attended other institutions besides the university that would help me harness those skills proper. I would have maybe attended a computer school, computer engineering school, something like that, or software engineering school.",
+  "avg_logprob": -0.26346309623131003,
+  "no_speech_prob": 0.03298126766458154,
+  "wall_clock_seconds": 2.25754116600001,
+  "n_segments": 2,
+  "wer": 0.3564356435643564,
+  "reference": "YEAH YEAH I MADE A LOT SCRATCH BACK IN WRITING THIS UM MAYBE IF I STARTED IF I HAD KNOW WHAT I KNOW NOW I WOULD HAVE I THINK I THINK THERE ARE A LOT OF STUFF I CAN DO NOW THAT'S I BELIEVE IF I HAD UM KNOWN ABOUT THEM WHEN I WAS LIVING SECONDARY SCHOOL I WOULD'VE OPTED FOR UH MAYBE UH UH THE A ATTENDED OTHER INSTITUTION DECIDED UNIVERSITY THAT WOULD HELP ME HARNESS THOSE SKILLS PROPER I WOULD'VE MAYBE ATTENDED UM UM UM COMPUTER SCHOOL UM COMPUTER ENGINEERING SCHOOLS SOMETHING THAT UM YEAH OR SOFTWARE ENGINEERING SCHOOL",
+  "utterance_id": "b65918d251cb",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-A"
+}

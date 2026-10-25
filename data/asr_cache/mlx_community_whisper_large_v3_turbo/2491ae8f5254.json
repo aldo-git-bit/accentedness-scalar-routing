@@ -1,0 +1,12 @@
+{
+  "text": "hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang",
+  "avg_logprob": -0.2778644307454427,
+  "no_speech_prob": 1.815687183936987e-10,
+  "wall_clock_seconds": 3.4517715830006637,
+  "n_segments": 4,
+  "wer": 36.0,
+  "reference": "<DTMF>",
+  "utterance_id": "2491ae8f5254",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C04-B"
+}

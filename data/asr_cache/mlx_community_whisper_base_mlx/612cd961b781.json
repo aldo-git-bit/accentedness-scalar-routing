@@ -1,0 +1,12 @@
+{
+  "text": "I used to mock at everywhere and here I am.",
+  "avg_logprob": -0.8121519088745117,
+  "no_speech_prob": 0.2626432478427887,
+  "wall_clock_seconds": 0.04852783300157171,
+  "n_segments": 1,
+  "wer": 0.4,
+  "reference": "I WAS ONE OF THEM I USED TO MOCK THEM EVERYWHERE AND HERE I AM",
+  "utterance_id": "612cd961b781",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C06-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang",
+  "avg_logprob": -0.2508572048611111,
+  "no_speech_prob": 1.1641498182113352e-10,
+  "wall_clock_seconds": 3.4694936250016326,
+  "n_segments": 3,
+  "wer": 18.0,
+  "reference": "MM HMM",
+  "utterance_id": "eff8a6729c2a",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C11-B"
+}

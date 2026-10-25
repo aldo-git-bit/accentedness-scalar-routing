@@ -1,0 +1,12 @@
+{
+  "text": "Everyone.",
+  "avg_logprob": -2.336549758911133,
+  "no_speech_prob": 0.20831027626991272,
+  "wall_clock_seconds": 0.12560095899971202,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "ONE",
+  "utterance_id": "276a68dafd8c",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-A"
+}

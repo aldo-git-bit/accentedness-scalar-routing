@@ -1,0 +1,12 @@
+{
+  "text": "I mean, they just end up, yeah, I mean, so there's this guy Richie, the main character, of course, he's kind of, I don't know, the smart guy, guys, and then there's the fans, Henry Wrinkler. He's like the cool guy, where's the leather jacket? And then there's like these, you know, like clumsy clowns, you know.",
+  "avg_logprob": -0.2836681253769818,
+  "no_speech_prob": 0.04004504904150963,
+  "wall_clock_seconds": 0.20723824999004137,
+  "n_segments": 7,
+  "wer": 0.203125,
+  "reference": "I MEAN IT'S THEY JUST END UP YEAH HAVING I MEAN SO THERE'S IS THE GUY RICHIE HE'S THE MAIN MAIN CHARACTER OF COURSE HE'S KIND OF I DON'T KNOW THE SMART GUY I GUESS AND THEN THERE'S THE FONZIE HENRY WINKLER HE'S LIKE THE COOL GUY WEARS THE LEATHER JACKET AND THEN JUST LIKE THESE YOU KNOW LIKE LIKE CLUMSY CLOWNS YOU KNOW",
+  "utterance_id": "b9edb26ab57d",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C64-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, I don't think lightly said anything",
+  "avg_logprob": -1.3572945594787598,
+  "no_speech_prob": 0.12199366092681885,
+  "wall_clock_seconds": 0.8316094579968194,
+  "n_segments": 1,
+  "wer": 0.5,
+  "reference": "YEAH I DON'T THINK LAMB IS A <DTMF>",
+  "utterance_id": "0486ded92339",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-B"
+}

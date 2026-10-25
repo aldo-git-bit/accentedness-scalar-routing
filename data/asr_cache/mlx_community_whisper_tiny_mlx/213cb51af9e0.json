@@ -1,0 +1,12 @@
+{
+  "text": "so. the",
+  "avg_logprob": -0.7834754774305556,
+  "no_speech_prob": 0.11862064898014069,
+  "wall_clock_seconds": 0.6151152079983149,
+  "n_segments": 74,
+  "wer": 0.7777777777777778,
+  "reference": "SO WHAT IS THE MOST POPULAR DISH IN GHANA",
+  "utterance_id": "213cb51af9e0",
+  "accent": "Indian English",
+  "speaker": "EDACC-C36-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, so the topic that we chosen was basically what was the first movie that we watched that was based on a book. So for me, it's Alice in Wonderland. What is it for you?",
+  "avg_logprob": -0.2018908642707987,
+  "no_speech_prob": 0.00842893123626709,
+  "wall_clock_seconds": 0.2190476249998028,
+  "n_segments": 2,
+  "wer": 0.10810810810810811,
+  "reference": "UH YEAH SO THE TOPIC THAT WE'VE CHOSEN WAS BASICALLY WHAT WAS THE FIRST UH MOVIE THAT WE WATCHED THAT WAS BASED ON A BOOK SO FOR ME IT'S ALICE IN WONDERLAND WHAT WAS IT FOR YOU",
+  "utterance_id": "8484b27ed548",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-B"
+}

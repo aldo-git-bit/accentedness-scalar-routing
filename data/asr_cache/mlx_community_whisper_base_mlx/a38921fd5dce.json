@@ -1,0 +1,12 @@
+{
+  "text": "the great finally.",
+  "avg_logprob": -0.43524156358506944,
+  "no_speech_prob": 0.06038191169500351,
+  "wall_clock_seconds": 0.8503371669939952,
+  "n_segments": 37,
+  "wer": 1.0,
+  "reference": "HAVE YOU GIVEN A THOUGHT TO AFFILIATE MARKETING",
+  "utterance_id": "a38921fd5dce",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "is so cool. No, I have to go there now.",
+  "avg_logprob": -0.50017911195755,
+  "no_speech_prob": 0.09667157381772995,
+  "wall_clock_seconds": 0.0518116250023013,
+  "n_segments": 1,
+  "wer": 0.23076923076923078,
+  "reference": "THAT IS SO COOL NO I I HAVE TO GO THERE NOW <LAUGH>",
+  "utterance_id": "d65ddf46d390",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C03-B"
+}

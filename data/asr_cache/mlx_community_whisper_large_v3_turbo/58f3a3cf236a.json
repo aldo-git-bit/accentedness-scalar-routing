@@ -1,0 +1,12 @@
+{
+  "text": "Yes, why is it? Yeah, yeah.",
+  "avg_logprob": -0.6820293426513672,
+  "no_speech_prob": 2.602689591624241e-11,
+  "wall_clock_seconds": 0.41021591599565,
+  "n_segments": 2,
+  "wer": 0.8571428571428571,
+  "reference": "YEAH HAWAII IS IN ASIA AND LIKE",
+  "utterance_id": "58f3a3cf236a",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-A"
+}

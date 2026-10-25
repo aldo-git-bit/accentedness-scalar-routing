@@ -1,0 +1,12 @@
+{
+  "text": "I absolutely agree. Thank you very much. Petra Raghu is very good as well.",
+  "avg_logprob": -0.8572383456759982,
+  "no_speech_prob": 0.017236050218343735,
+  "wall_clock_seconds": 0.04214712498651352,
+  "n_segments": 3,
+  "wer": 0.6470588235294118,
+  "reference": "OH ABSOLUTELY I'VE HEARD GREAT THINGS OF IT HEARD THEIR RAG\u00f9 IS VERY GOOD AS WELL ACTUALLY",
+  "utterance_id": "17e401a91c04",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang hang",
+  "avg_logprob": -0.26184202406141494,
+  "no_speech_prob": 1.216991507568821e-10,
+  "wall_clock_seconds": 3.4676847080118023,
+  "n_segments": 4,
+  "wer": 72.0,
+  "reference": "YEAH",
+  "utterance_id": "157797765a7d",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-A"
+}

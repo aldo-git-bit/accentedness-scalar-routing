@@ -1,0 +1,12 @@
+{
+  "text": "I see why they are like waves, but then the study of them in the English block have a micro wave and that's very useful because you can just go, you know, keep your little thing up.",
+  "avg_logprob": -0.4536574749236411,
+  "no_speech_prob": 0.14193204045295715,
+  "wall_clock_seconds": 0.10940533300163224,
+  "n_segments": 2,
+  "wer": 0.35135135135135137,
+  "reference": "THEY HAVE MICROWAVES I SEE WHY THEY HAVE MICROWAVES BUT THEN THE STUDY ROOM IN THE ENGLISH BLOCK HAVE A MICROWAVE AND THAT'S VERY USEFUL BECAUSE YOU CAN JUST GO YOU KNOW HEAT THE WHOLE THING UP",
+  "utterance_id": "8cb5ea0bea77",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C11-B"
+}

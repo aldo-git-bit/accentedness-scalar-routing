@@ -1,0 +1,12 @@
+{
+  "text": "Yeah. I mean, our school didn't have any grass fields. It was just...",
+  "avg_logprob": -0.36693103790283205,
+  "no_speech_prob": 8.895637590260186e-13,
+  "wall_clock_seconds": 0.4351438750018133,
+  "n_segments": 3,
+  "wer": 0.1875,
+  "reference": "YEAH I MEAN OUR SCHOOL DIDN'T HAVE ANY UH GRASS FIELDS SO IT WAS JUST UM",
+  "utterance_id": "98aa2f0614a9",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-B"
+}

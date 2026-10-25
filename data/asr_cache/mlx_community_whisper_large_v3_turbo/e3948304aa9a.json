@@ -1,0 +1,12 @@
+{
+  "text": "too much i mean people are really used to working from home and i mean it's kind of especially",
+  "avg_logprob": -0.3866984176635742,
+  "no_speech_prob": 3.801567567685016e-12,
+  "wall_clock_seconds": 0.4339748330094153,
+  "n_segments": 2,
+  "wer": 0.2727272727272727,
+  "reference": "WAS TOO MUCH I MEAN PEOPLE HAVE REALLY GOTTEN LIKE USED TO WORKING FROM HOME AND I MEAN IT KIND OF <OVERLAP>",
+  "utterance_id": "e3948304aa9a",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-B"
+}

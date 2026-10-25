@@ -1,0 +1,12 @@
+{
+  "text": "I think we're supposed to read paragraphs. I'll go first. Please call Stella. Ask her to bring these things with her from the store. Six spoons of fresh nilbees, five thick slabs of blue cheese, and maybe a snack for her brother Bob. We also need a small plastic snake and a big toy frog for the kids. She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.",
+  "avg_logprob": -0.2218552648493674,
+  "no_speech_prob": 0.03414681926369667,
+  "wall_clock_seconds": 1.8073389579985815,
+  "n_segments": 9,
+  "wer": 78.0,
+  "reference": "IGNORE_TIME_SEGMENT_IN_SCORING",
+  "utterance_id": "5caccc8e5dd8",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-A"
+}

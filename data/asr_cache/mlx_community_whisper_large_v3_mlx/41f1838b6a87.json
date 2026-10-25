@@ -1,0 +1,12 @@
+{
+  "text": "No.",
+  "avg_logprob": -0.5214592933654785,
+  "no_speech_prob": 0.8583892583847046,
+  "wall_clock_seconds": 0.4927104579983279,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "MM HMM MM HMM",
+  "utterance_id": "41f1838b6a87",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C02-B"
+}

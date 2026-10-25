@@ -1,0 +1,12 @@
+{
+  "text": "I've actually played that thing too, but within that call it school.",
+  "avg_logprob": -0.8094239234924316,
+  "no_speech_prob": 0.16393430531024933,
+  "wall_clock_seconds": 0.056035749992588535,
+  "n_segments": 1,
+  "wer": 0.3076923076923077,
+  "reference": "I I'VE ACTUALLY PLAYED THAT GAME TOO BUT WE DIDN'T CALL IT SCHOOL",
+  "utterance_id": "104ebea9d5b2",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C02-B"
+}

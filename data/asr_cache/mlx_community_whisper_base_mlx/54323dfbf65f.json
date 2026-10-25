@@ -1,0 +1,12 @@
+{
+  "text": "Women.",
+  "avg_logprob": -0.5384191216362847,
+  "no_speech_prob": 0.15860679745674133,
+  "wall_clock_seconds": 1.3064866670029005,
+  "n_segments": 56,
+  "wer": 1.0,
+  "reference": "MM VERY VERY INTERESTING I LOVE IT SO MUCH <OVERLAP>",
+  "utterance_id": "54323dfbf65f",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-B"
+}

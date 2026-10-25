@@ -1,0 +1,12 @@
+{
+  "text": "People are leaving their 9-5 these days because I think everyone likes to walk from home.",
+  "avg_logprob": -0.24522655660455878,
+  "no_speech_prob": 0.046343427151441574,
+  "wall_clock_seconds": 0.7018365830008406,
+  "n_segments": 1,
+  "wer": 0.2631578947368421,
+  "reference": "YEAH PEOPLE ARE LEAVING THEIR NINE TO FIVE THESE DAYS BECAUSE I THINK EVERYONE LIKES TO WORK FROM HOME",
+  "utterance_id": "0186569c5727",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-B"
+}

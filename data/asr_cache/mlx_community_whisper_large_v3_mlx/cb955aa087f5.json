@@ -1,0 +1,12 @@
+{
+  "text": "I really love the cartoon I used to love when I was younger was Courage the Cowardly Dog or Recess. But there was one that I've for years I've tried to ask people the name of it. It was for bugs. I used to love that cartoon. I'd watch it every Saturday morning in my mom's bed. It was so fun.",
+  "avg_logprob": -0.1501150585356213,
+  "no_speech_prob": 0.010603925213217735,
+  "wall_clock_seconds": 1.4452705000003334,
+  "n_segments": 4,
+  "wer": 0.13432835820895522,
+  "reference": "UM I REALLY LOVE THE CARTOON I USED TO LOVE WHEN I WAS YOUNGER WAS UM COURAGE THE COWARDLY DOG OR RECESS UM WHAT ELSE THERE WAS ONE THAT I'VE FOR YEARS I'VE TRIED TO ASK PEOPLE THE NAME OF IT IT WAS FOUR BUGS I USED TO LOVE THAT CARTOON AND I'D WATCH IT EVERY SATURDAY MORNING IN MY MUM'S BED IT WAS SO FUN UM",
+  "utterance_id": "cb955aa087f5",
+  "accent": "Irish English",
+  "speaker": "EDACC-C47-A"
+}

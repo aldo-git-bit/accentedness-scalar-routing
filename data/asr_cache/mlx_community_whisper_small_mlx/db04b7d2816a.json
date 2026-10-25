@@ -1,0 +1,12 @@
+{
+  "text": "I don't love reading books. The only books I read are only books for science technology, just to widen my scope. I'm not a fan of books. What about you?",
+  "avg_logprob": -0.2592881066458566,
+  "no_speech_prob": 0.008573908358812332,
+  "wall_clock_seconds": 0.20658649999677436,
+  "n_segments": 2,
+  "wer": 0.0625,
+  "reference": "I I DON'T LOVE READING BOOKS THE ONLY BOOKS I READ ARE ONLY BOOKS FOR SCIENCE TECHNOLOGY JUST TO WIDEN MY SCOPE I I'M NOT A FAN OF BOOKS WHAT ABOUT YOU",
+  "utterance_id": "db04b7d2816a",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C41-B"
+}

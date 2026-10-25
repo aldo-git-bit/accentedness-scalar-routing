@@ -1,0 +1,12 @@
+{
+  "text": "Mahadebh Hain, which is why I got it expedited.",
+  "avg_logprob": -0.7931087895443565,
+  "no_speech_prob": 0.04135458171367645,
+  "wall_clock_seconds": 0.05745066699455492,
+  "n_segments": 1,
+  "wer": 0.5,
+  "reference": "BUT THEY'RE BEHIND WHICH IS WHY I GOT EXPEDITED UGH",
+  "utterance_id": "a89f8f907c64",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B"
+}

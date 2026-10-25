@@ -1,0 +1,12 @@
+{
+  "text": "So that is quite funny. I'm quite talkative. But I'll give you the podium once again and you're the forum to speak. And I will simply ask you to give my throat a little break also in the meanwhile. So did you play a sport or have another hobby as a kid? Or let's say do you still have it?",
+  "avg_logprob": -0.26998881406562275,
+  "no_speech_prob": 0.007590473163872957,
+  "wall_clock_seconds": 0.3365212079988851,
+  "n_segments": 7,
+  "wer": 0.19444444444444445,
+  "reference": "SO THA THAT IS THAT IS QUITE FUNNY I'M QUITE TALKATIVE UH BUT I'LL UH YOU KNOW MM GIVE YOU THE PODIUM ONCE AGAIN HAND YOU WITH THE FORUM TO SPEAK AND I WILL SIMPLY ASK YOU TO YOU KNOW GIVE MY THROAT A LITTLE BREAK ALSO IN THE MEANWHILE SO UH DID YOU PLAY A SPORT OR HAVE ANOTHER HOBBY AS A KID OR LET'S SAY DO YOU STILL HAVE IT",
+  "utterance_id": "cbf7c03e36bb",
+  "accent": "Indian English",
+  "speaker": "EDACC-C34-A"
+}

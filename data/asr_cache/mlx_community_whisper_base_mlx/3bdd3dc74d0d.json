@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, I was speaking to my friend who is the translator of the French translator. So he was telling me about this platform. He was here to take their tests, signing up on the platform to take their tests. And you're telling me that it's a translator, translation gig. And you sign up the, except the translation. He's a test. He passed and also sending a document from time to time to food for them and translate. Okay, so it means some of those most people speak French, understand French and the transcript or translate.",
+  "avg_logprob": -0.5900784789296044,
+  "no_speech_prob": 0.0490667138248682,
+  "wall_clock_seconds": 0.2867698340123752,
+  "n_segments": 10,
+  "wer": 0.37383177570093457,
+  "reference": "YEAH I WAS SPEAKING TO MY FRIEND WHO IS THE TRANSLATOR OF A FRENCH TRANSLATOR SO HE WAS TELLING ME ABOUT THERE IS THIS PLATFORM HE WAS HE HAD TO TAKE THEIR TEST HE WAS SIGNING UP ON THE PLATFORM TO TAKE THEIR TEST AND HE WAS TELLING ME THAT IT'S TRANSLATOR TRANSLATION GIG THAT UM YOU UM YOU SIGN UP THERE TAKE THE TRANSLATION UM QUIZ OR TEST IF YOU PASS THEN THEY'LL JUST BE SENDING YOU DOCUMENTS FROM TIME TO TIME TO PROOFREAD FOR THEM AND TRANSLATE THEY'LL PAY SO SENT ME SOME MOST MOST PEOPLE SPEAK FRENCH UNDERSTAND FRENCH AND THEY TRANSCRIBE OR TRANSLATES",
+  "utterance_id": "3bdd3dc74d0d",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-A"
+}

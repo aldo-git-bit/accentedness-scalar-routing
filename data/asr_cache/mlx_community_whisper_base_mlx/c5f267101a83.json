@@ -1,0 +1,12 @@
+{
+  "text": "the",
+  "avg_logprob": -2.6511024475097655,
+  "no_speech_prob": 0.5421626567840576,
+  "wall_clock_seconds": 0.2053409170039231,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "YEAH",
+  "utterance_id": "c5f267101a83",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-A"
+}

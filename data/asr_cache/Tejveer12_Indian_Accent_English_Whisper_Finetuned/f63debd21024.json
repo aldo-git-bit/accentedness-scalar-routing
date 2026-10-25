@@ -1,0 +1,11 @@
+{
+  "text": "I used to, like, need a sweater to go to school.",
+  "wer": 0.1,
+  "reference": "I USED TO LIKE NEED A SWEATER TO GO TO",
+  "utterance_id": "f63debd21024",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B",
+  "wall_clock_seconds": 0.8359414579899749,
+  "avg_logprob": null,
+  "no_speech_prob": null
+}

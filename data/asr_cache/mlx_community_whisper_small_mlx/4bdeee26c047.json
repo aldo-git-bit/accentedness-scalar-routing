@@ -1,0 +1,12 @@
+{
+  "text": "They're gonna take us away",
+  "avg_logprob": -0.3051296997070312,
+  "no_speech_prob": 0.17562860250473022,
+  "wall_clock_seconds": 3.1174795839979197,
+  "n_segments": 37,
+  "wer": 1.0,
+  "reference": "SO LIKE THERE IN PERS PERSON <OVERLAP> GIVE ME A SPECIFIC REASON FOR CHOOSING LONDON",
+  "utterance_id": "4bdeee26c047",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-B"
+}

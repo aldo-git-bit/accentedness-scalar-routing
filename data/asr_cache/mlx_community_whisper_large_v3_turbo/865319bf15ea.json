@@ -1,0 +1,12 @@
+{
+  "text": "exactly what i was for because we're genius yeah i still can't do anything you know but i'm trying to learn python because every single if you look at the series of every single person out there they know at least like three languages and i feel very stupid only one thing it's pretty basic that everybody knows",
+  "avg_logprob": -0.2174172065627407,
+  "no_speech_prob": 6.243306219233524e-12,
+  "wall_clock_seconds": 0.5463827079947805,
+  "n_segments": 4,
+  "wer": 0.21052631578947367,
+  "reference": "EXACTLY WHEN I WAS BORN 'CAUSE I WAS GENIUS YEAH STILL CAN'T DO ANYTHING YEAH BUT I'M TRYING TO LEARN PYTHON 'CAUSE EVERY SINGLE IF YOU LOOK AT THE CVS OF EVERY SINGLE PERSON OUT THERE THEY KNOW AT LEAST LIKE THREE LANGUAGES AND A FEW VERY STUPID ONLY ONE THING IT'S PRETTY BASIC THAT EVERYBODY KNOWS",
+  "utterance_id": "865319bf15ea",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C04-B"
+}

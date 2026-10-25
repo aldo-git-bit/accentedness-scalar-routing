@@ -1,0 +1,12 @@
+{
+  "text": "I used to play badminton.",
+  "avg_logprob": -0.5166867429559882,
+  "no_speech_prob": 0.05815822631120682,
+  "wall_clock_seconds": 0.042623917004675604,
+  "n_segments": 1,
+  "wer": 0.0,
+  "reference": "I USED TO PLAY BADMINTON",
+  "utterance_id": "5ef398e58219",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C34-B"
+}

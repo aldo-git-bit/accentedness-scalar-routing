@@ -1,0 +1,12 @@
+{
+  "text": "Useless.",
+  "avg_logprob": -2.165151155911959,
+  "no_speech_prob": 0.11356164515018463,
+  "wall_clock_seconds": 2.9871665419996134,
+  "n_segments": 2,
+  "wer": 1.0,
+  "reference": "STONE UH STONE PLAYGROUND",
+  "utterance_id": "5dda2116e91b",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-B"
+}

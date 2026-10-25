@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, yeah. That's something that's best. Yeah. So I'm not, I'm not, I'm against the idea of somebody going there in two weeks or three weeks and claims that he has the accent of chronology.",
+  "avg_logprob": -0.5907133671275356,
+  "no_speech_prob": 1.4103596762682358e-12,
+  "wall_clock_seconds": 0.5101681249943795,
+  "n_segments": 4,
+  "wer": 0.23076923076923078,
+  "reference": "MM YEAH YEAH THAT'S THAT'S SOMETHING THAT'S <DTMF> YEAH SO UH WELL I'M NOT I'M I'M AGAINST THE IDEA OF SOMEBODY GOING THERE IN TWO WEEKS OR THREE WEEKS TIME AND CLAIMS THAT HE HAS THE ACCENT <DTMF> <LAUGH>",
+  "utterance_id": "791950cae654",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-A"
+}

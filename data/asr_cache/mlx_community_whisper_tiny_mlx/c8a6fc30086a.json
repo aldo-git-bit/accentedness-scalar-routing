@@ -1,0 +1,12 @@
+{
+  "text": "I don't know, there we go. Lailing.",
+  "avg_logprob": -0.7102749207440544,
+  "no_speech_prob": 0.06985535472631454,
+  "wall_clock_seconds": 0.030834000004688278,
+  "n_segments": 2,
+  "wer": 0.5714285714285714,
+  "reference": "I DON'T KNOW I WOULD STOP SMILING",
+  "utterance_id": "c8a6fc30086a",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C28-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, because even on like a clear night, you can barely see the stars.",
+  "avg_logprob": -0.3956479549407959,
+  "no_speech_prob": 0.058113399893045425,
+  "wall_clock_seconds": 0.05506441699981224,
+  "n_segments": 1,
+  "wer": 0.07142857142857142,
+  "reference": "YEAH 'CAUSE EVEN ON LIKE A CLEAR NIGHT YOU CAN BARELY SEE THE STARS",
+  "utterance_id": "9b4016eb344e",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-B"
+}

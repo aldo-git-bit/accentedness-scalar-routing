@@ -1,0 +1,12 @@
+{
+  "text": "Okay, tell me about a particular food you used to like when you were a child then.",
+  "avg_logprob": -0.12235665321350098,
+  "no_speech_prob": 9.358700880229831e-13,
+  "wall_clock_seconds": 0.4289031250082189,
+  "n_segments": 1,
+  "wer": 0.05555555555555555,
+  "reference": "OOH OKAY TELL ME ABOUT A PARTICULAR FOOD YOU USED TO LIKE WHEN YOU WERE A CHILD THEN",
+  "utterance_id": "d3a0f1cf940e",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C06-A"
+}

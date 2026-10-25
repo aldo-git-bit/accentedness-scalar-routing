@@ -1,0 +1,12 @@
+{
+  "text": "So where would you go in the world if you could go anywhere in the world?",
+  "avg_logprob": -0.08048213720321655,
+  "no_speech_prob": 0.024491939693689346,
+  "wall_clock_seconds": 0.6802146250010992,
+  "n_segments": 1,
+  "wer": 0.058823529411764705,
+  "reference": "SO WHERE WHERE WOULD YOU GO IN THE WORLD IF YOU COULD GO ANYWHERE IN THE WORLD",
+  "utterance_id": "7a5349a46a68",
+  "accent": "Irish English",
+  "speaker": "EDACC-C50-B"
+}

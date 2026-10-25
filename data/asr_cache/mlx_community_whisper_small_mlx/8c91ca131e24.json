@@ -1,0 +1,12 @@
+{
+  "text": "I also love to play rounders. That was a nice game to play. I suppose in school I used to like to play rounders and like you said, I like to play basketball and different games maybe with the hula hoop, throwing the hoops onto cones, you know, like the ring toss game, you know, the one that you throw them onto the wall.",
+  "avg_logprob": -0.25091631036055717,
+  "no_speech_prob": 0.03352759778499603,
+  "wall_clock_seconds": 0.3661142499986454,
+  "n_segments": 8,
+  "wer": 0.07575757575757576,
+  "reference": "I ALSO LOVED TO PLAY ROUNDERS SO IT WAS A NICE GAME TO PLAY I SUPPOSE IN SCHOOL I USED TO LIKE TO PLAY ROUNDERS AND LIKE YOU SAID I LIKE TO PLAY BASKETBALL AND DIFFERENT GAMES MAYBE WITH THE HULA HOOP THROWING THE HOOPS ONTO CONES YOU KNOW LIKE UM THE RING TASK GAME YOU KNOW THE ONE THAT YOU THROW THEM ONTO THE WALL",
+  "utterance_id": "8c91ca131e24",
+  "accent": "Irish English",
+  "speaker": "EDACC-C47-A"
+}

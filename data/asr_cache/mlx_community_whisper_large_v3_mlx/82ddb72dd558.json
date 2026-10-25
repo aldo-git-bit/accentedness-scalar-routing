@@ -1,0 +1,12 @@
+{
+  "text": "Yeah.",
+  "avg_logprob": -0.3314827919006348,
+  "no_speech_prob": 0.23775559663772583,
+  "wall_clock_seconds": 0.5079104579999694,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "YES",
+  "utterance_id": "82ddb72dd558",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-A"
+}

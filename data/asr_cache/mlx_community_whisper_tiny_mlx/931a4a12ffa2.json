@@ -1,0 +1,12 @@
+{
+  "text": "Exactly. She would do that. Gut that. Exactly.",
+  "avg_logprob": -1.0291413031684022,
+  "no_speech_prob": 0.18269073963165283,
+  "wall_clock_seconds": 0.6348230419971514,
+  "n_segments": 23,
+  "wer": 0.75,
+  "reference": "EXACTLY SHE WAS GOOD AT THAT GOOD AT HEXES AND THEN SHE",
+  "utterance_id": "931a4a12ffa2",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-A"
+}

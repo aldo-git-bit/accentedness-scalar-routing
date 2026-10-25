@@ -1,0 +1,12 @@
+{
+  "text": "It is very gory, yes, which as a family, where is our condos such as very much like that.",
+  "avg_logprob": -0.6903673807779948,
+  "no_speech_prob": 0.0049011120572686195,
+  "wall_clock_seconds": 0.046162249986082315,
+  "n_segments": 2,
+  "wer": 0.4,
+  "reference": "IT IS VERY GORY YES WHICH IS A FAN OF BERSERK AND AS SUCH I VERY MUCH LIKE THAT UM",
+  "utterance_id": "1aeb445e6a2f",
+  "accent": "Irish English",
+  "speaker": "EDACC-C63-A"
+}

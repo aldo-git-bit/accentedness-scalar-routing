@@ -1,0 +1,12 @@
+{
+  "text": "midsummer.",
+  "avg_logprob": -0.4479304041181292,
+  "no_speech_prob": 0.41922295093536377,
+  "wall_clock_seconds": 0.5242885839979863,
+  "n_segments": 1,
+  "wer": 0.5,
+  "reference": "LIKE MIDSUMMER",
+  "utterance_id": "33a3589791c3",
+  "accent": "Irish English",
+  "speaker": "EDACC-C50-B"
+}

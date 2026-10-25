@@ -1,0 +1,12 @@
+{
+  "text": "",
+  "avg_logprob": 0.0,
+  "no_speech_prob": 0.0,
+  "wall_clock_seconds": 0.47624137500315555,
+  "n_segments": 0,
+  "wer": 1.0,
+  "reference": "<LAUGH>",
+  "utterance_id": "b0f709b95f9a",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C28-B"
+}

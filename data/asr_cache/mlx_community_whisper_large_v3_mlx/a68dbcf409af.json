@@ -1,0 +1,12 @@
+{
+  "text": "Oh, yeah. That looks...",
+  "avg_logprob": -0.7792596817016602,
+  "no_speech_prob": 0.09987185150384903,
+  "wall_clock_seconds": 0.576823167000839,
+  "n_segments": 2,
+  "wer": 0.6666666666666666,
+  "reference": "OH YEAH PIPLUP",
+  "utterance_id": "a68dbcf409af",
+  "accent": "Irish English",
+  "speaker": "EDACC-C63-A"
+}

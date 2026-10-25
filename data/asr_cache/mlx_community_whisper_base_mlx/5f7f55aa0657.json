@@ -1,0 +1,12 @@
+{
+  "text": "I don't do any broadcast now. Have you been catching up with the recent Love Island?",
+  "avg_logprob": -0.40663925806681317,
+  "no_speech_prob": 0.026673244312405586,
+  "wall_clock_seconds": 0.0658980000007432,
+  "n_segments": 2,
+  "wer": 0.125,
+  "reference": "I DON'T DO ANY PODCASTS NO HAVE YOU BEEN CATCHING UP WITH THE RECENT LOVE ISLAND",
+  "utterance_id": "5f7f55aa0657",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C32-A"
+}

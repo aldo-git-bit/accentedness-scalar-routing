@@ -1,0 +1,12 @@
+{
+  "text": "That is a recipe for like, for heaven.",
+  "avg_logprob": -0.33908814650315505,
+  "no_speech_prob": 0.16534751653671265,
+  "wall_clock_seconds": 0.5915042500018899,
+  "n_segments": 1,
+  "wer": 0.38461538461538464,
+  "reference": "THAT IS A RECIPE YEAH THAT IS A RECIPE FOR LIKE FOR HEAVEN",
+  "utterance_id": "61cd23b7098d",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-B"
+}

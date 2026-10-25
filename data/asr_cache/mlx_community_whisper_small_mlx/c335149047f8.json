@@ -1,0 +1,12 @@
+{
+  "text": "Somewhere?",
+  "avg_logprob": -2.2914920806884767,
+  "no_speech_prob": 0.12330436706542969,
+  "wall_clock_seconds": 1.782794124999782,
+  "n_segments": 1,
+  "wer": 0.6666666666666666,
+  "reference": "SHIFT SOMEWHERE <LAUGH>",
+  "utterance_id": "c335149047f8",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C28-B"
+}

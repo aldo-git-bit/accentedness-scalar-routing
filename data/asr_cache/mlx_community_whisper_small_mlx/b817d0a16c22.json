@@ -1,0 +1,12 @@
+{
+  "text": "No, no, I don't try. I don't know, strangely enough, I have never been to Sugo. I absolutely love Pezzano, but I've never been to Sugo.",
+  "avg_logprob": -0.3537699381510417,
+  "no_speech_prob": 0.014895460568368435,
+  "wall_clock_seconds": 0.23358645799817168,
+  "n_segments": 3,
+  "wer": 0.26666666666666666,
+  "reference": "NO NO NO I HAVEN'T TRY THEM UM D DO YOU KNOW STRANGELY ENOUGH I HAVE NEVER BEEN TO SUGO I ABSOLUTELY LOVE PAESANO BUT I'VE NEVER BEEN TO SUGO",
+  "utterance_id": "b817d0a16c22",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

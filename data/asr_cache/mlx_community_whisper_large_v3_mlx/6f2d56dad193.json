@@ -1,0 +1,12 @@
+{
+  "text": "I love Dubai. I've always wanted to visit Dubai, but I've not had the opportunity. I just love Dubai.",
+  "avg_logprob": -0.26728811860084534,
+  "no_speech_prob": 0.006690386217087507,
+  "wall_clock_seconds": 0.8156852920001256,
+  "n_segments": 3,
+  "wer": 0.2962962962962963,
+  "reference": "I LOVE DUBAI LIKE I'VE ALWAYS WANTED TO BE DUBAI I'VE I'VE ALWAYS WANTED TO VISIT DUBAI BUT I'VE NOT HAD THE OPPORTUNITY I JUST LOVE DUBAI",
+  "utterance_id": "6f2d56dad193",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C41-A"
+}

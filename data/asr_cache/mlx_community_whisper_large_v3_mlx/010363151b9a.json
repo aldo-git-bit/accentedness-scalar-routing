@@ -1,0 +1,12 @@
+{
+  "text": "What would you like to eat? Is there anything in particular you'd like to eat?",
+  "avg_logprob": -0.11875295639038086,
+  "no_speech_prob": 0.062367033213377,
+  "wall_clock_seconds": 0.7071777499986638,
+  "n_segments": 2,
+  "wer": 0.25,
+  "reference": "OH WHAT WOULD YOU LIKE TO EAT IS THERE ANYTHING IN PARTICULAR YOU WANT TO UH YOU'D LIKE TO EAT",
+  "utterance_id": "010363151b9a",
+  "accent": "Indian English",
+  "speaker": "EDACC-C36-A"
+}

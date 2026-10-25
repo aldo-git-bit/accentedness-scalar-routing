@@ -1,0 +1,12 @@
+{
+  "text": "your best subject.",
+  "avg_logprob": -0.47346292223249165,
+  "no_speech_prob": 0.011141027323901653,
+  "wall_clock_seconds": 0.09791387500081328,
+  "n_segments": 1,
+  "wer": 0.0,
+  "reference": "YOUR BEST SUBJECT",
+  "utterance_id": "30147ac00e3c",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C32-B"
+}

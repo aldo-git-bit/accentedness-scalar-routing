@@ -1,0 +1,12 @@
+{
+  "text": "There's this quote unquote mystery guy, these five people and one talking dog. And they'd go and solve mysteries. And they'd be like some person dressed up as a monster or ghost terrorizing some neighborhood or something. And they'd try and find out who it was. They'd get someone to call them in, like, how you need to solve this. Like, okay, we're here to help. And at the end, they'd always reveal the person. They'd catch him in a big elaborate plan, take their mask off, and it would be one of the people I'd call them for help or something like that. It's always quite funny and it's always quite silly. It had a very slapstick way of running and eating as well. It was a very enjoyable TV show.",
+  "avg_logprob": -0.20391847073887956,
+  "no_speech_prob": 0.19264443591237068,
+  "wall_clock_seconds": 0.37513975000183564,
+  "n_segments": 12,
+  "wer": 0.20279720279720279,
+  "reference": "THE IDEA IS THERE'S THIS MYSTERY GANG THESE FIVE PEOPLE AND ONE TALKING DOG AND THEY'D GO AND SOLVE MYSTERIES AND THERE'D BE LIKE SOME PERSON DRESSED UP AS A MONSTER OR GHOST TERRORIZING SOME NEIGHBORHOOD OR SOMETHING AND THEY'D UM TRY AND FIND OUT WHO IT WAS THEY'D GET SOMEONE SOMEONE WOULD CALL THEM IN LIKE HELP WE NEED TO SOLVE THIS AND THEY'D BE LIKE OKAY WE'RE HERE TO HELP AND AT THE END THEY'D ALWAYS REVEAL THE PERSON THEY HAD TO CATCH THEM IN A BIG ELABORATE PLAN TAKE THEIR MASK OFF AND IT WOULD BE ONE OF THE PEOPLE THAT HAD CALLED THEM FOR HELP SOMETHING LIKE THAT IT WAS ALWAYS QUITE FUNNY AND IT WAS ALWAYS QUITE SILLY IT HAD A VERY SLAP STICK WAY OF RUNNING AND EATING AS WELL IT WAS A VERY ENJOYABLE TV SHOW",
+  "utterance_id": "4556774fa403",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Another tinder el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el",
+  "avg_logprob": -0.10041219075520834,
+  "no_speech_prob": 0.07970062643289566,
+  "wall_clock_seconds": 0.7600339170021471,
+  "n_segments": 1,
+  "wer": 36.833333333333336,
+  "reference": "ANOTHER THING THAT I WILL NEVER",
+  "utterance_id": "b9bf472aff0c",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "One of these days never told me that I know you prepared a couple of things for your delicacies. You've never really prepared that in my presence. Are you shy or something? I don't know.",
+  "avg_logprob": -0.3930582898728391,
+  "no_speech_prob": 0.16955336928367615,
+  "wall_clock_seconds": 0.10967749998962972,
+  "n_segments": 2,
+  "wer": 0.2765957446808511,
+  "reference": "BUT YOU KNOW ONE OF THESE DAYS YOU NEVER TOLD ME THAT YOU KNOW I KNOW YOU'VE PREPARED A COUPLE OF THINGS FOR YOU KNOW LIKE YOUR DELICACIES YOU'VE NEVER REALLY YOU KNOW PREPARED THAT IN MY PRESENCE ARE YOU SHY OR SOMETHING I DON'T KNOW <LAUGH>",
+  "utterance_id": "00a5818fc2e3",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-B"
+}

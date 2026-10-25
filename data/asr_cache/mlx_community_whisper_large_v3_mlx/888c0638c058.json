@@ -1,0 +1,12 @@
+{
+  "text": "Yes, and do you have, for example, any favorite place that you've already been? That you can add like your favorite holiday ever?",
+  "avg_logprob": -0.21810534421135397,
+  "no_speech_prob": 0.010982444509863853,
+  "wall_clock_seconds": 0.8403146250020654,
+  "n_segments": 2,
+  "wer": 0.11538461538461539,
+  "reference": "YES <OVERLAP> AND DO YOU HAVE FOR EXAMPLE ANY FAVORITE PLACE THAT YOU'VE ALREADY BEEN UH THAT YOU CAN UM ADD LIKE YOUR FAVORITE HOLIDAY EVER",
+  "utterance_id": "888c0638c058",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C44-A"
+}

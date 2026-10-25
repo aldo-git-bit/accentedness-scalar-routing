@@ -1,0 +1,12 @@
+{
+  "text": "you're having the four lovely beaches over there. No one's got a good deal too.",
+  "avg_logprob": -0.5626370906829834,
+  "no_speech_prob": 0.008000463247299194,
+  "wall_clock_seconds": 0.03910770900256466,
+  "n_segments": 2,
+  "wer": 0.5555555555555556,
+  "reference": "YEAH I'VE BEEN BEFORE THERE ARE GOOD LOVELY BEACHES OVER THERE YOU ALWAYS GET A GOOD DEAL TOO",
+  "utterance_id": "1bea60133b3e",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Thank you. Thank you.",
+  "avg_logprob": -0.4569944901899858,
+  "no_speech_prob": 0.03875089809298515,
+  "wall_clock_seconds": 0.10994095800197101,
+  "n_segments": 2,
+  "wer": 0.0,
+  "reference": "THANK YOU THANK YOU",
+  "utterance_id": "485736097473",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C34-B"
+}

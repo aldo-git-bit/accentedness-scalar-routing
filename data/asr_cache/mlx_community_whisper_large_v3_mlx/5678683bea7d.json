@@ -1,0 +1,12 @@
+{
+  "text": "I'm really looking forward to getting it because it will give me some really nice memories of them.",
+  "avg_logprob": -0.25670236089955206,
+  "no_speech_prob": 0.008995108306407928,
+  "wall_clock_seconds": 0.7074570000004314,
+  "n_segments": 1,
+  "wer": 0.21052631578947367,
+  "reference": "THAT'S IT I'M REALLY LOOKING FORWARD TO GETTING IT BECAUSE IT'LL GIVE ME SOME REALLY NICE MEMORIES OF THEM",
+  "utterance_id": "5678683bea7d",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-A"
+}

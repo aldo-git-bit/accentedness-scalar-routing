@@ -1,0 +1,12 @@
+{
+  "text": "and we ended up getting dinner at 11.30.",
+  "avg_logprob": -0.3043663501739502,
+  "no_speech_prob": 0.010047318413853645,
+  "wall_clock_seconds": 0.12138787499861792,
+  "n_segments": 1,
+  "wer": 0.2222222222222222,
+  "reference": "AND WE ENDED UP GETTING DINNER AT ELEVEN THIRTY",
+  "utterance_id": "e99c69cb528a",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "the vision.",
+  "avg_logprob": -2.8835391998291016,
+  "no_speech_prob": 0.19302955269813538,
+  "wall_clock_seconds": 0.5679047089943197,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "TO VISIT THERE",
+  "utterance_id": "e418d18a4173",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C44-A"
+}

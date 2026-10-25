@@ -1,0 +1,12 @@
+{
+  "text": "as well as with the beans and the corn. I like you too.",
+  "avg_logprob": -0.5520551681518555,
+  "no_speech_prob": 0.029354184865951538,
+  "wall_clock_seconds": 0.036595166006009094,
+  "n_segments": 2,
+  "wer": 0.3333333333333333,
+  "reference": "AS WELL AS FOR THE BEANS AND UM THE CORN I LIKE USING THAT <OVERLAP>",
+  "utterance_id": "ce60876f40d5",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-A"
+}

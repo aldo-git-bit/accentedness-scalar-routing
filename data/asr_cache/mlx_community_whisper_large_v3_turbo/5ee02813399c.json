@@ -1,0 +1,12 @@
+{
+  "text": "Is there a particular food you used to like as a child? I'm quite tempted by that.",
+  "avg_logprob": -0.1489736557006836,
+  "no_speech_prob": 2.108556385049809e-12,
+  "wall_clock_seconds": 0.4321859579940792,
+  "n_segments": 2,
+  "wer": 0.05555555555555555,
+  "reference": "IT'S IS THERE A PARTICULAR FOOD YOU USED TO LIKE AS A CHILD I'M QUITE TEMPTED BY THAT",
+  "utterance_id": "5ee02813399c",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C06-B"
+}

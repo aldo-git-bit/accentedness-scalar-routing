@@ -1,0 +1,12 @@
+{
+  "text": "the card the kid so that the",
+  "avg_logprob": -2.8201444799249824,
+  "no_speech_prob": 0.22478219866752625,
+  "wall_clock_seconds": 0.8059303750051185,
+  "n_segments": 1,
+  "wer": 0.5,
+  "reference": "THE CAR ON THE GATE SO THAT WE",
+  "utterance_id": "21b85a0dfeae",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-A"
+}

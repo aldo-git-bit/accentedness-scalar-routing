@@ -1,0 +1,12 @@
+{
+  "text": "I don't do any broadcast night. Have you been catching up with the Missing Lab oil in?",
+  "avg_logprob": -0.7760931895329402,
+  "no_speech_prob": 0.06613246351480484,
+  "wall_clock_seconds": 0.04210845900524873,
+  "n_segments": 2,
+  "wer": 0.375,
+  "reference": "I DON'T DO ANY PODCASTS NO HAVE YOU BEEN CATCHING UP WITH THE RECENT LOVE ISLAND",
+  "utterance_id": "5f7f55aa0657",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C32-A"
+}

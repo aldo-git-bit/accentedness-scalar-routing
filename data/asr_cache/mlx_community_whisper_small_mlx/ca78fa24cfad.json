@@ -1,0 +1,12 @@
+{
+  "text": "Whatever it is, that would be in me to allow it. I love to...",
+  "avg_logprob": -0.454345703125,
+  "no_speech_prob": 0.10634289681911469,
+  "wall_clock_seconds": 0.14256374999968102,
+  "n_segments": 2,
+  "wer": 0.35294117647058826,
+  "reference": "UH WHATEVER IT IS THAT IT WOULD BE IN MEAT AND I'LL LOVE IT I LOVE TO",
+  "utterance_id": "ca78fa24cfad",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C31-A"
+}

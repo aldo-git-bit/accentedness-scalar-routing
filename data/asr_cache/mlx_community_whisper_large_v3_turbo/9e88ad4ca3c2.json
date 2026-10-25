@@ -1,0 +1,12 @@
+{
+  "text": "Wow.",
+  "avg_logprob": -0.46962900161743165,
+  "no_speech_prob": 4.6305497630738657e-11,
+  "wall_clock_seconds": 0.3844139170105336,
+  "n_segments": 1,
+  "wer": 0.75,
+  "reference": "OH WOW MY GOD",
+  "utterance_id": "9e88ad4ca3c2",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-B"
+}

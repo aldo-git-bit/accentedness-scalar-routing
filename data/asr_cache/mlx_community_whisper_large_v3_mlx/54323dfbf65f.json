@@ -1,0 +1,12 @@
+{
+  "text": "Very, very interesting.",
+  "avg_logprob": -0.6781816482543945,
+  "no_speech_prob": 0.3732708692550659,
+  "wall_clock_seconds": 0.5231076250020124,
+  "n_segments": 1,
+  "wer": 0.7,
+  "reference": "MM VERY VERY INTERESTING I LOVE IT SO MUCH <OVERLAP>",
+  "utterance_id": "54323dfbf65f",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-B"
+}

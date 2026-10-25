@@ -1,0 +1,12 @@
+{
+  "text": "me let's go play badminton somewhere i'd be happy to do that and i taught him and he liked he enjoyed the sport too",
+  "avg_logprob": -0.2231253277171742,
+  "no_speech_prob": 0.24934625625610352,
+  "wall_clock_seconds": 0.8264196669988451,
+  "n_segments": 2,
+  "wer": 0.07692307692307693,
+  "reference": "TELL ME LET'S GO PLAY BADMINTON SOMEWHERE I'D BE HAPPY TO DO THAT AND I TAUGHT HIM AND HE HE LIKED HE ENJOYED THE SPORT TOO",
+  "utterance_id": "ba0afda7c6e3",
+  "accent": "Indian English",
+  "speaker": "EDACC-C36-A"
+}

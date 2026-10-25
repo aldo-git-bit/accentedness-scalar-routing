@@ -1,0 +1,12 @@
+{
+  "text": "but they don't know that they can actually make money off of it. So I think a lot of freelancing websites or platforms need to advertise better, in exposing those different types of skills that people have and they can market, and actually get paid for it. I think that way unemployment rate is not reduced.",
+  "avg_logprob": -0.2809579251992582,
+  "no_speech_prob": 0.14783285856246947,
+  "wall_clock_seconds": 1.7880517080011487,
+  "n_segments": 5,
+  "wer": 0.36904761904761907,
+  "reference": "FRENCH BUT THEY DON'T KNOW THAT THEY CAN ACTUALLY MAKE MONEY OFF OF IT SO I THINK UM THERE ARE A LOT OF PERSONS OR WILL I SAY UM A LOT OF FREELANCING WEBSITES OR PLATFORMS NEED TO UM WILL I SAY ADVERTISE BETTER YOU UNDERSTAND IN UM EXPOSING THOSE DIFFERENT TYPES OF UM SKILLS THAT OR THAT PEOPLE HAVE AND CAN MARKET YOU UNDERSTAND AND ACTUALLY GET PAID FOR IT YEAH I THINK THAT WAY UM UNEMPLOYMENT RATE IS GOING TO REDUCED BECAUSE",
+  "utterance_id": "a5927a69e31b",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-A"
+}

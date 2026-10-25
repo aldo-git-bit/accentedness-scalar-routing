@@ -1,0 +1,12 @@
+{
+  "text": "too much. I mean people are really used to working from home and I mean it's kind of a gift. Especially like those few hands.",
+  "avg_logprob": -0.7335555693682503,
+  "no_speech_prob": 0.1925162672996521,
+  "wall_clock_seconds": 0.1852333329989051,
+  "n_segments": 2,
+  "wer": 0.5454545454545454,
+  "reference": "WAS TOO MUCH I MEAN PEOPLE HAVE REALLY GOTTEN LIKE USED TO WORKING FROM HOME AND I MEAN IT KIND OF <OVERLAP>",
+  "utterance_id": "e3948304aa9a",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-B"
+}

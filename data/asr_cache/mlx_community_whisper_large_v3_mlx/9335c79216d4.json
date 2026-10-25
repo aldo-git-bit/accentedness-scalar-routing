@@ -1,0 +1,12 @@
+{
+  "text": "You've not told me about that, no.",
+  "avg_logprob": -0.1415578585404616,
+  "no_speech_prob": 0.10263846069574356,
+  "wall_clock_seconds": 0.5896514999985811,
+  "n_segments": 1,
+  "wer": 0.0,
+  "reference": "YOU'VE NOT TOLD ME ABOUT THAT NO",
+  "utterance_id": "9335c79216d4",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

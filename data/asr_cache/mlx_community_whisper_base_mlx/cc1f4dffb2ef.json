@@ -1,0 +1,12 @@
+{
+  "text": "The idea is, it's essentially the same as bulldog, you have to drive one thing to the field. There's one person who's this sharp or maybe two people and they can move any direction and if they take you, you become seaweed and you can't move your feet. You can like lean out to catch people.",
+  "avg_logprob": -0.3602377573649089,
+  "no_speech_prob": 0.09963425993919373,
+  "wall_clock_seconds": 0.16194020799594,
+  "n_segments": 5,
+  "wer": 0.18032786885245902,
+  "reference": "WE'D UH THE IDEA IT'S ESSENTIALLY THE SAME AS BULLDOG YOU HAVE TO TRY AND RUN TO THE END OF THE FIELD THERE'S ONE PERSON WHO'S THIS SHARK OR MAYBE TWO PEOPLE AND THEY CAN MOVE ANY DIRECTION AND IF THEY TAKE YOU YOU BECOME SEAWEED AND YOU CAN'T MOVE YOUR FEET BUT YOU CAN LIKE LEAN OUT TO CATCH PEOPLE",
+  "utterance_id": "cc1f4dffb2ef",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-A"
+}

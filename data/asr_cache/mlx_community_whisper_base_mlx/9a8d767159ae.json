@@ -1,0 +1,12 @@
+{
+  "text": "one can be a little bit like has the thexterity on these things. He's way better than the others because it takes a lot of face. I don't know.",
+  "avg_logprob": -0.5227799006870816,
+  "no_speech_prob": 0.32986616094907123,
+  "wall_clock_seconds": 0.12737720800214447,
+  "n_segments": 3,
+  "wer": 0.2647058823529412,
+  "reference": "THE SMALL ONE CAN BE A LITTLE BIT LIKE UH HAS DEXTERITY ON THESE THINGS HE'S WAY BETTER THAN THE OTHERS BECAUSE IT IT IT TAKES A LOT OF PACE I I DON'T KNOW",
+  "utterance_id": "9a8d767159ae",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C20-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Bye. Bye. Bye.",
+  "avg_logprob": -0.9467042776254507,
+  "no_speech_prob": 5.4470948585017e-11,
+  "wall_clock_seconds": 0.4099114590062527,
+  "n_segments": 3,
+  "wer": 1.0,
+  "reference": "ALL RIGHT ALL RIGHT YEAH",
+  "utterance_id": "1b57e6e90d7b",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C33-A"
+}

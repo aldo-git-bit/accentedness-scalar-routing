@@ -1,0 +1,12 @@
+{
+  "text": "Yes, that is what I am. I'm a procrastinator. And it has always worked for me in the past because like, stress has been kind of helpful, just like, push me forward. So like I work, you know, just a tiny, tiny amount for the, you know, first three weeks. And then I'm like, this is for the last week. And now, obviously, I was, you know, moving to a different country during this annual review. And oh my God, this, this procrastination schedule did not work this time. It was so hectic. It was like the first time I'm almost, almost on a, like, what's it called? Like a, like a, like a, bonita.",
+  "avg_logprob": -0.36722946729562755,
+  "no_speech_prob": 0.02346038445830345,
+  "wall_clock_seconds": 0.3677193750045262,
+  "n_segments": 12,
+  "wer": 0.17886178861788618,
+  "reference": "YES THAT THAT IS WHAT I AM I'M A PROCRASTINATOR AND IT HAS ALWAYS WORKED FOR ME IN THE PAST BECAUSE LIKE STRESS HAS BEEN KIND OF HELPFUL IT JUST LIKE PUSHES ME FORWARD SO LIKE I I WORK YOU KNOW JUST A TINY TINY AMOUNTS FOR THE YOU KNOW FIRST THREE WEEKS AND THEN I'M LIKE BUSY FOR THE LAST WEEK AND UH NOW OBVIOUSLY I WAS UM YOU KNOW UH MOVING TO A DIFFERENT COUNTRY DURING THIS ANNUAL REVIEW AND OH MY GOD THIS THIS PROCRASTINATION SCHEDULE DID NOT WORK THIS TIME IT WAS SO HECTIC OOF IT WAS LIKE THE FIRST TIME I'VE ALMOST ALMOST ON UM UM LIKE UH WHAT IS IT CALLED LIKE UM LIKE AN ALL NIGHTER",
+  "utterance_id": "7bb47e530a80",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C17-A"
+}

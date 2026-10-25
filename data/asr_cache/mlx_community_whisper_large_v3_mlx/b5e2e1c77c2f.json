@@ -1,0 +1,12 @@
+{
+  "text": "I was happy or no matter what frame of mind I was in, I'd always like to have sweet conch in soup.",
+  "avg_logprob": -0.11785643676231647,
+  "no_speech_prob": 0.02161954529583454,
+  "wall_clock_seconds": 0.779440207999869,
+  "n_segments": 1,
+  "wer": 0.13636363636363635,
+  "reference": "I WAS HAPPY OR NO MATTER WHAT FRAME OF MIND I WAS IN I'D ALWAYS LIKED TO HAVE SWEET CORN CHICKEN SOUP",
+  "utterance_id": "b5e2e1c77c2f",
+  "accent": "Indian English",
+  "speaker": "EDACC-C36-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "And it sucks. What about you?",
+  "avg_logprob": -0.42599953137911284,
+  "no_speech_prob": 7.49067127769898e-12,
+  "wall_clock_seconds": 0.40449654099938925,
+  "n_segments": 2,
+  "wer": 0.14285714285714285,
+  "reference": "AND IT SUCKS <LAUGH> WHAT ABOUT YOU",
+  "utterance_id": "f785edcb354b",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B"
+}

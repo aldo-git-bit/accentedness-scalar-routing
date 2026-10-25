@@ -1,0 +1,12 @@
+{
+  "text": "books one, four, and seven because those are the ones I had to buy because the library did that.",
+  "avg_logprob": -0.4392767333984375,
+  "no_speech_prob": 0.03736835718154907,
+  "wall_clock_seconds": 0.1545969580001838,
+  "n_segments": 1,
+  "wer": 0.19047619047619047,
+  "reference": "BOOKS ONE FOUR AND SEVEN BECAUSE BECAUSE THOSE ARE THE ONES I HAD TO BUY BECAUSE THE LIBRARY DIDN'T HAVE THEM",
+  "utterance_id": "265757da118c",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C03-B"
+}

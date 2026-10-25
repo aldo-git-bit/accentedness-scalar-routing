@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, well, the oven is hot and the dough is ready. So why not pop a pizza in?",
+  "avg_logprob": -0.15631640398943866,
+  "no_speech_prob": 7.321260785120298e-12,
+  "wall_clock_seconds": 0.43758850000449456,
+  "n_segments": 2,
+  "wer": 0.0,
+  "reference": "YEAH WELL THE OVEN IS HOT AND THE DOUGH IS READY SO WHY NOT POP A PIZZA IN",
+  "utterance_id": "2d8ba7988cec",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C42-B"
+}

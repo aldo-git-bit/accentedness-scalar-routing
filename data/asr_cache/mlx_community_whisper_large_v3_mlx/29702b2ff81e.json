@@ -1,0 +1,12 @@
+{
+  "text": "It was a good quality pancetta. Put that in. It's really simple, actually. It's really, really simple. Some garlic. Cook it all off and add it all together. The balsamic glaze works a lot better than the balsamic vinegar because that's just a bit too wet. It's too much liquid. You'd have to try and...",
+  "avg_logprob": -0.22241929112648476,
+  "no_speech_prob": 0.008080234751105309,
+  "wall_clock_seconds": 1.6337870419993124,
+  "n_segments": 10,
+  "wer": 0.05454545454545454,
+  "reference": "IT WAS GOOD QUALITY PANCETTA PUT THAT IN IT'S REALLY SIMPLE ACTUALLY IT'S REALLY REALLY SIMPLE SOME GARLIC COOK IT ALL OFF AND ADD IT ALL TOGETHER THE BALSAMIC GLAZE WORKS A LOT BETTER THAN THE BALSAMIC VINEGAR BECAUSE THAT'S JUST A BIT TOO WET IT'S TOO MUCH LIQUID TO TO HAVE TO TRY AND",
+  "utterance_id": "29702b2ff81e",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-A"
+}

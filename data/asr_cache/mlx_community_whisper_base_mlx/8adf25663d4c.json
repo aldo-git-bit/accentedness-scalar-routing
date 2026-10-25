@@ -1,0 +1,12 @@
+{
+  "text": "I'm not, yeah, we have a French talking.",
+  "avg_logprob": -0.6810920079549153,
+  "no_speech_prob": 0.028142539784312248,
+  "wall_clock_seconds": 0.0498444160039071,
+  "n_segments": 1,
+  "wer": 0.7777777777777778,
+  "reference": "NO NOT YET I MEAN WE HAVEN'T FINISHED TALKING",
+  "utterance_id": "8adf25663d4c",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C32-A"
+}

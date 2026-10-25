@@ -1,0 +1,12 @@
+{
+  "text": "I like my new question.",
+  "avg_logprob": -0.7381681336296929,
+  "no_speech_prob": 0.3946775496006012,
+  "wall_clock_seconds": 0.5402325830000336,
+  "n_segments": 1,
+  "wer": 0.6666666666666666,
+  "reference": "I LIKE MANGA QUITE A LOT",
+  "utterance_id": "bf140c1e17c9",
+  "accent": "Irish English",
+  "speaker": "EDACC-C63-A"
+}

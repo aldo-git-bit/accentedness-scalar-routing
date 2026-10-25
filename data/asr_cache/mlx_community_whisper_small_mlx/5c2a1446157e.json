@@ -1,0 +1,12 @@
+{
+  "text": "Oh my god, grapes are amazing. My long pants are always by an extra pack, because I just launch in it like in the shop and stuff.",
+  "avg_logprob": -0.6650076414409437,
+  "no_speech_prob": 0.014720724895596504,
+  "wall_clock_seconds": 0.19406808300118428,
+  "n_segments": 3,
+  "wer": 0.4838709677419355,
+  "reference": "OH MY GOD GRAPES ARE AMAZING MY MOM HAD TO ALWAYS BUY AN EXTRA PACK 'CAUSE I JUST MUNCH IT LIKE IN THE SHOPPING CENTER OR IN THE IN THE SHOP",
+  "utterance_id": "5c2a1446157e",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Hello, and my number is C3P2.",
+  "avg_logprob": -0.3759589876447405,
+  "no_speech_prob": 0.012359716929495335,
+  "wall_clock_seconds": 0.11969400000089081,
+  "n_segments": 1,
+  "wer": 0.4444444444444444,
+  "reference": "HELLO AND MY NUMBER IS C THREE P TWO",
+  "utterance_id": "742dc9385cf2",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C02-B"
+}

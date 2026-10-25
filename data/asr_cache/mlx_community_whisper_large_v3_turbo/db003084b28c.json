@@ -1,0 +1,12 @@
+{
+  "text": "Yeah.",
+  "avg_logprob": -0.5242929458618164,
+  "no_speech_prob": 6.872369340271689e-11,
+  "wall_clock_seconds": 0.38620754099974874,
+  "n_segments": 1,
+  "wer": 0.5,
+  "reference": "YEAH YEAH",
+  "utterance_id": "db003084b28c",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C33-A"
+}

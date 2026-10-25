@@ -1,0 +1,12 @@
+{
+  "text": "And then there was a pig style where you chase the person with the ball and just throw it at them. Which like...",
+  "avg_logprob": -0.4952208201090495,
+  "no_speech_prob": 0.002870693802833557,
+  "wall_clock_seconds": 0.04862850000790786,
+  "n_segments": 2,
+  "wer": 0.08,
+  "reference": "AND THEN THERE WAS LIKE A PIG STYLE WHERE YOU LIKE CHASE THE PERSON WITH THE BALL AND JUST THROW IT AT THEM WHICH LIKE",
+  "utterance_id": "144018b5db92",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-A"
+}

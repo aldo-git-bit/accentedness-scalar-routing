@@ -1,0 +1,12 @@
+{
+  "text": "So maybe we should do like a few more extra minutes just",
+  "avg_logprob": -0.4409749984741211,
+  "no_speech_prob": 0.07712874561548233,
+  "wall_clock_seconds": 0.029220249998616055,
+  "n_segments": 1,
+  "wer": 0.08333333333333333,
+  "reference": "SO MAYBE WE SHOULD DO LIKE A FEW MORE EXTRAS MINUTES JUST",
+  "utterance_id": "b11a51a29657",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B"
+}

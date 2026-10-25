@@ -1,0 +1,12 @@
+{
+  "text": "That was a treat. Maybe it didn't go as often.",
+  "avg_logprob": -0.2704254388809204,
+  "no_speech_prob": 2.869832843588327e-12,
+  "wall_clock_seconds": 0.4141454999917187,
+  "n_segments": 1,
+  "wer": 0.18181818181818182,
+  "reference": "THAT WAS A TREAT MAYBE MAYBE I DIDN'T GO AS OFTEN",
+  "utterance_id": "f0090fb3a827",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C22-A"
+}

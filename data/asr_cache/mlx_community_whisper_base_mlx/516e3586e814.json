@@ -1,0 +1,12 @@
+{
+  "text": "I have heard of the other-",
+  "avg_logprob": -0.6657989501953125,
+  "no_speech_prob": 0.059389110654592514,
+  "wall_clock_seconds": 0.04070054099429399,
+  "n_segments": 1,
+  "wer": 0.5,
+  "reference": "I HAVE HEARD OF IT YEAH I DON'T",
+  "utterance_id": "516e3586e814",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C07-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Which I don't think you see nowadays.",
+  "avg_logprob": -0.419191837310791,
+  "no_speech_prob": 0.03953348845243454,
+  "wall_clock_seconds": 0.04401454199978616,
+  "n_segments": 1,
+  "wer": 0.0,
+  "reference": "WHICH I DON'T THINK YOU SEE NOWADAYS",
+  "utterance_id": "e5d306830936",
+  "accent": "Irish English",
+  "speaker": "EDACC-C61-A"
+}

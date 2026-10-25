@@ -1,0 +1,12 @@
+{
+  "text": "That's what I'm going to do.",
+  "avg_logprob": -0.2641490300496419,
+  "no_speech_prob": 0.04880140349268913,
+  "wall_clock_seconds": 0.5697559170002933,
+  "n_segments": 1,
+  "wer": 0.4,
+  "reference": "THAT'S WHAT I'M GONNA DO",
+  "utterance_id": "b6f7d3751b8a",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C22-A"
+}

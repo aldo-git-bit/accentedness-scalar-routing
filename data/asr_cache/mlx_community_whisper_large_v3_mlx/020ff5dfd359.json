@@ -1,0 +1,12 @@
+{
+  "text": "like i'm dying to see it and i'm also one of like i want to see a lot of things like i don't just want to be a spectator like okay people are telling me this oh this is what it is or maybe i'm just watching it in the movie or seeing it on tv i actually want to know what it looks like what it feels like so you know just want to go there have fun take time off you know vacation modes you know yeah so paris is my second place",
+  "avg_logprob": -0.1180498341151646,
+  "no_speech_prob": 0.05795864693354815,
+  "wall_clock_seconds": 2.2719672919993172,
+  "n_segments": 5,
+  "wer": 0.09375,
+  "reference": "YEAH SO LIKE I'M DYING TO SEE IT AND I'M ALSO WANNA LIKE I WANT TO SEE A LOT OF THINGS LIKE I DON'T JUST WANT TO BE A SPECTATOR LIKE OKAY PEOPLE ARE TELLING ME THIS OH THIS IS WHAT IT IS OR MAYBE I'M JUST WATCHING IT IN THE MOVIE OR SEEING IT ON TV I ACTUALLY WANT TO KNOW WHAT IT LOOKS LIKE WHAT IT FEELS LIKE SO YOU KNOW I JUST WANNA GO THERE HAVE FUN TAKE TIME OFF YOU KNOW VACATION MODE YOU KNOW YEAH SO PARIS IS MY SECOND LIST",
+  "utterance_id": "020ff5dfd359",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-A"
+}

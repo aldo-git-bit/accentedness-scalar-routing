@@ -1,0 +1,12 @@
+{
+  "text": "Yeah.",
+  "avg_logprob": -0.6460483551025391,
+  "no_speech_prob": 0.13163334131240845,
+  "wall_clock_seconds": 0.03147187500144355,
+  "n_segments": 1,
+  "wer": 0.5,
+  "reference": "YEAH CINNA",
+  "utterance_id": "d03a52684ca1",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-A"
+}

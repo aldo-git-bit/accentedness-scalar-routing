@@ -1,0 +1,12 @@
+{
+  "text": "You",
+  "avg_logprob": -0.987888753414154,
+  "no_speech_prob": 7.566926252255968e-11,
+  "wall_clock_seconds": 0.7746684580051806,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "MM HMM",
+  "utterance_id": "5e5dd0d2b636",
+  "accent": "Irish English",
+  "speaker": "EDACC-C47-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "I'm not so funny. I think I've watched that like 20 times over the years.",
+  "avg_logprob": -0.5064253807067871,
+  "no_speech_prob": 0.028587210923433304,
+  "wall_clock_seconds": 0.0394740420015296,
+  "n_segments": 2,
+  "wer": 0.25,
+  "reference": "I FOUND THAT SO FUNNY I THINK I'VE WATCHED THAT LIKE TWENTY TIMES OVER THE YEARS",
+  "utterance_id": "369746444df2",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C06-A"
+}

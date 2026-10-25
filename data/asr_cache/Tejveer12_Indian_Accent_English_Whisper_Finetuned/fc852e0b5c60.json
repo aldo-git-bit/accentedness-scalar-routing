@@ -1,0 +1,11 @@
+{
+  "text": "Have you ever been to Lisbon?",
+  "wer": 0.25,
+  "reference": "AND SO HAVE YOU EVER BEEN TO LISBON",
+  "utterance_id": "fc852e0b5c60",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B",
+  "wall_clock_seconds": 0.7775807919970248,
+  "avg_logprob": null,
+  "no_speech_prob": null
+}

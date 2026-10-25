@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, an autobiography. Oh, other he said biology.",
+  "avg_logprob": -0.9787586000230577,
+  "no_speech_prob": 0.03903371840715408,
+  "wall_clock_seconds": 0.05561166700499598,
+  "n_segments": 2,
+  "wer": 0.375,
+  "reference": "YEAH AN AUTOBIOGRAPHY I THOUGHT YOU SAID BIOLOGY",
+  "utterance_id": "e0cf1ec75661",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C32-A"
+}

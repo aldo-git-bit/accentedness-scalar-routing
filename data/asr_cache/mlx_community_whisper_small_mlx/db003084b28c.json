@@ -1,0 +1,12 @@
+{
+  "text": "Um",
+  "avg_logprob": -0.5722253322601318,
+  "no_speech_prob": 0.3056369721889496,
+  "wall_clock_seconds": 0.0882781670006807,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "YEAH YEAH",
+  "utterance_id": "db003084b28c",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C33-A"
+}

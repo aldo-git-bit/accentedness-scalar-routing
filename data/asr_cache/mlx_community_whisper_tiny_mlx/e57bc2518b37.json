@@ -1,0 +1,12 @@
+{
+  "text": "That's right, it's such an open space up there and there's so many trees and really cool hidden places, as you see. I remember playing down by the barn. Do you remember that little bridge?",
+  "avg_logprob": -0.33718236287434894,
+  "no_speech_prob": 0.0036688765976577997,
+  "wall_clock_seconds": 0.07147254100709688,
+  "n_segments": 2,
+  "wer": 0.21951219512195122,
+  "reference": "THAT'S RIGHT IT'S SUCH AN OPEN SPACE UP THERE AND THERE ARE SO MANY TREE THERE ARE SO MANY TREES AND REALLY COOL HIDING PLACES AS YOU SAY I REMEMBER PLAYING DOWN BY THE BARN DO YOU REMEMBER THAT LITTLE BRIDGE",
+  "utterance_id": "e57bc2518b37",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-A"
+}

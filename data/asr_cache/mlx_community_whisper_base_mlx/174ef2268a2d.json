@@ -1,0 +1,12 @@
+{
+  "text": "for good, good nights after school, I was focusing on how to use this word. So, fortunately, you know, they gave us, they wanted, instead of them to give us a topic, maybe a deal to this or they decided to give us a topic on the assembly ground, on the assembly ground.",
+  "avg_logprob": -0.3788573036731129,
+  "no_speech_prob": 0.3940213918685913,
+  "wall_clock_seconds": 0.15173854200111236,
+  "n_segments": 3,
+  "wer": 0.19230769230769232,
+  "reference": "FOR GOOD TWO NIGHTS AFTER SCHOOL I WAS FOCUSING ON HOW TO USE THESE WORDS SO FORTUNATELY ENOUGH THEY GAVE US THEY WANTED INSTEAD OF THEM TO GIVE US UM A TOPIC MAYBE A DAY <NO-SPEECH> THEY THEY DECIDED TO GIVE US A TOPIC ON THE ASSEMBLY GROUND ON THE ASSEMBLY GROUND",
+  "utterance_id": "174ef2268a2d",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-B"
+}

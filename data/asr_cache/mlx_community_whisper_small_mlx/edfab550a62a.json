@@ -1,0 +1,12 @@
+{
+  "text": "definitely is. There's a lot of different things that you can do there as well in terms of the travelling, you know, you can have, you can travel in camp, you can travel in a camper van, you can stay in the local hotels or B&Bs, which are usually very full, so I reckon if you were going to do anything like that, you would need to book it well in advance. I don't think you could just turn expect to have availability.",
+  "avg_logprob": -0.24592282588665304,
+  "no_speech_prob": 0.04582606256008148,
+  "wall_clock_seconds": 0.4997247499995865,
+  "n_segments": 5,
+  "wer": 0.047058823529411764,
+  "reference": "DEFINITELY IS THERE'S A LOT OF DIFFERENT THINGS THAT YOU CAN DO THERE AS WELL IN TERMS OF THE TRAVELING YOU KNOW YOU CAN HAVE YOU CAN TRAVEL AND CAMP YOU CAN TRAVEL IN A CAMPER VAN YOU CAN STAY IN THE LOCAL HOTELS OR BBS WHICH ARE USUALLY VERY FULL SO I RECKON IF YOU WERE GOING TO DO ANYTHING LIKE THAT YOU WOULD NEED TO BOOK IT WELL IN ADVANCE I DON'T THINK YOU COULD JUST TURN UP AND EXPECT TO HAVE AVAILABILITY",
+  "utterance_id": "edfab550a62a",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-A"
+}

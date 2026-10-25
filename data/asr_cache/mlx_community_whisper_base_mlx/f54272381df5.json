@@ -1,0 +1,12 @@
+{
+  "text": "I would check to see if it was in my local library, check to see if it was in my school library.",
+  "avg_logprob": -0.26215559860755655,
+  "no_speech_prob": 0.027377886697649956,
+  "wall_clock_seconds": 0.07533116600825451,
+  "n_segments": 2,
+  "wer": 0.08333333333333333,
+  "reference": "SO I WOULD UM CHECK TO SEE IF IT WAS IN MY LOCAL LIBRARY CHECK TO SEE IF IT WAS IN MY SCHOOL LIBRARY",
+  "utterance_id": "f54272381df5",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C03-B"
+}

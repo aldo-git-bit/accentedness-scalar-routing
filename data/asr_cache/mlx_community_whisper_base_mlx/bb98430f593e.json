@@ -1,0 +1,12 @@
+{
+  "text": "if you could go on holiday anywhere, where would you go and play?",
+  "avg_logprob": -0.42030345069037545,
+  "no_speech_prob": 0.032812003046274185,
+  "wall_clock_seconds": 0.052553250003256835,
+  "n_segments": 1,
+  "wer": 0.07692307692307693,
+  "reference": "IF YOU COULD GO ON HOLIDAY ANYWHERE WHERE WOULD YOU GO AND WHY",
+  "utterance_id": "bb98430f593e",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-B"
+}

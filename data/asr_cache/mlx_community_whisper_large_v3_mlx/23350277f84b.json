@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, it's sunny after a rainy day yesterday.",
+  "avg_logprob": -0.14634815284184047,
+  "no_speech_prob": 0.02895863726735115,
+  "wall_clock_seconds": 0.5987112920010986,
+  "n_segments": 1,
+  "wer": 0.0,
+  "reference": "YEAH IT'S SUNNY AFTER A RAINY DAY YESTERDAY",
+  "utterance_id": "23350277f84b",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C42-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Okay, great. Okay, I'm gonna stop the recording now. Are you sure you want to stop recording to quote? Yes.",
+  "avg_logprob": -0.19974197281731498,
+  "no_speech_prob": 0.0018940189620479941,
+  "wall_clock_seconds": 0.1869265829991491,
+  "n_segments": 4,
+  "wer": 0.15,
+  "reference": "OKAY GREAT I'M GONNA STOP THE RECORDING NOW UM ARE YOU SURE YOU WANT TO STOP RECORDING TO CLOUD YES",
+  "utterance_id": "8e3eb3508ed6",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C03-A"
+}

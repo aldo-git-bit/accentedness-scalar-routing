@@ -1,0 +1,12 @@
+{
+  "text": "Yes, yes, I'm aware and everything is organic.",
+  "avg_logprob": -0.3342567443847656,
+  "no_speech_prob": 0.010476915165781975,
+  "wall_clock_seconds": 0.12133216700021876,
+  "n_segments": 1,
+  "wer": 0.0,
+  "reference": "YES YES I'M AWARE AND EVERYTHING IS ORGANIC",
+  "utterance_id": "e469e9f11416",
+  "accent": "Indian English",
+  "speaker": "EDACC-C36-A"
+}

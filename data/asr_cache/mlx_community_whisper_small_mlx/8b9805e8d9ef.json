@@ -1,0 +1,12 @@
+{
+  "text": "So, yeah, I think this is 15 done. So I'm going to stop the recording and then upload the files.",
+  "avg_logprob": -0.30524981816609703,
+  "no_speech_prob": 0.027891529724001884,
+  "wall_clock_seconds": 0.17063366699949256,
+  "n_segments": 2,
+  "wer": 0.20833333333333334,
+  "reference": "COOL SO UM YEAH I THINK THIS IS FIFTEEN DONE UH SO I'M GOING TO STOP THE RECORDING AND THEN UPLOAD THE FILES RIGHT",
+  "utterance_id": "8b9805e8d9ef",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-A"
+}

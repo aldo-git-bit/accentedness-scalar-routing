@@ -1,0 +1,12 @@
+{
+  "text": "We're trying to complete the Pok\u00e9dex, but there's like over 700 Pok\u00e9mon. Yeah.",
+  "avg_logprob": -0.33293801087599534,
+  "no_speech_prob": 7.462151556392183e-13,
+  "wall_clock_seconds": 0.4371379999938654,
+  "n_segments": 2,
+  "wer": 0.4,
+  "reference": "WE WERE TRYING TO COMPLETE POKE THE DECKS BUT THERE'S LIKE OVER SEVEN HUNDRED POKEMON",
+  "utterance_id": "273b911ff9c3",
+  "accent": "Irish English",
+  "speaker": "EDACC-C63-A"
+}

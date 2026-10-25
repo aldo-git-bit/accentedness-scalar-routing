@@ -1,0 +1,12 @@
+{
+  "text": "So I don't know if you've done this before but slow cooked chorizo is actually really really nice. It's you know sometimes when you cook it it can become a little bit tough.",
+  "avg_logprob": -0.29737593910910864,
+  "no_speech_prob": 0.00986653845757246,
+  "wall_clock_seconds": 0.10475795800448395,
+  "n_segments": 2,
+  "wer": 0.029411764705882353,
+  "reference": "SO I DON'T KNOW IF YOU'VE DONE THIS BEFORE BUT SLOW COOKED CHORIZO IS ACTUALLY REALLY REALLY NICE IT IT'S YOU KNOW SOMETIMES WHEN YOU COOK IT IT CAN BECOME A LITTLE BIT TOUGH",
+  "utterance_id": "3a6f88d3f903",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-A"
+}

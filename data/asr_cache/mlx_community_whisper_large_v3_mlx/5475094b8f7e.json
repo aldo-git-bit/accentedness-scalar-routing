@@ -1,0 +1,12 @@
+{
+  "text": "I see. Yes.",
+  "avg_logprob": -0.6141993045806885,
+  "no_speech_prob": 0.3025406301021576,
+  "wall_clock_seconds": 0.5475104580000334,
+  "n_segments": 2,
+  "wer": 0.7142857142857143,
+  "reference": "I THINK UM YES JUST LIKE WEEDS",
+  "utterance_id": "5475094b8f7e",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C20-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Let's wash them kind of.",
+  "avg_logprob": -0.7692878723144532,
+  "no_speech_prob": 0.10346782952547073,
+  "wall_clock_seconds": 0.04134841701306868,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "THAT'S WHAT I'M GONNA DO",
+  "utterance_id": "b6f7d3751b8a",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C22-A"
+}

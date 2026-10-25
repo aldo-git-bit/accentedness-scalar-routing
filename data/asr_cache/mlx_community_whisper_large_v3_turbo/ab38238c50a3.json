@@ -1,0 +1,12 @@
+{
+  "text": "I just, I couldn't turn down free phones.",
+  "avg_logprob": -0.2836851733071463,
+  "no_speech_prob": 1.2489735808085545e-12,
+  "wall_clock_seconds": 0.4103058750042692,
+  "n_segments": 1,
+  "wer": 0.125,
+  "reference": "I JUST I COULDN'T TURN DOWN FREE CLOTHES",
+  "utterance_id": "ab38238c50a3",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C17-B"
+}

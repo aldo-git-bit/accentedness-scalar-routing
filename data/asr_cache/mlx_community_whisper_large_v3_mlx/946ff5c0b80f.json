@@ -1,0 +1,12 @@
+{
+  "text": "As you.",
+  "avg_logprob": -0.5256790717442831,
+  "no_speech_prob": 0.9273668527603149,
+  "wall_clock_seconds": 0.5095441670018772,
+  "n_segments": 1,
+  "wer": 2.0,
+  "reference": "YEAH",
+  "utterance_id": "946ff5c0b80f",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "We do.",
+  "avg_logprob": -0.4443175395329793,
+  "no_speech_prob": 0.807440459728241,
+  "wall_clock_seconds": 0.507198667000921,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "ALL RIGHT",
+  "utterance_id": "04b97c95d532",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-B"
+}

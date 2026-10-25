@@ -1,0 +1,12 @@
+{
+  "text": "It didn't really as a lovely place. Special Christmas time I always think it's such a lovely place to be.",
+  "avg_logprob": -0.3989092728187298,
+  "no_speech_prob": 0.0037277343217283487,
+  "wall_clock_seconds": 0.050982207991182804,
+  "n_segments": 2,
+  "wer": 0.3157894736842105,
+  "reference": "EDINBURGH REALLY IS A LOVELY PLACE ESPECIALLY AT CHRISTMAS TIME I ALWAYS THINK IT'S SUCH A LOVELY TO BE",
+  "utterance_id": "e69794ed3d55",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-A"
+}

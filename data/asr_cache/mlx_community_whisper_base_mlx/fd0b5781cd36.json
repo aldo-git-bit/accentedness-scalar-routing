@@ -1,0 +1,12 @@
+{
+  "text": "Let me. Some words.",
+  "avg_logprob": -0.9120247580788352,
+  "no_speech_prob": 0.13085955381393433,
+  "wall_clock_seconds": 0.03998587500245776,
+  "n_segments": 2,
+  "wer": 0.6,
+  "reference": "LET ME LET ME THINK",
+  "utterance_id": "fd0b5781cd36",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C33-B"
+}

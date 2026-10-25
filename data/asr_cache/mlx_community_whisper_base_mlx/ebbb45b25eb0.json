@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, he's, he's a boy who's same-made with that person as well.",
+  "avg_logprob": -0.5207347869873047,
+  "no_speech_prob": 0.05426965281367302,
+  "wall_clock_seconds": 0.0643358750094194,
+  "n_segments": 1,
+  "wer": 0.23076923076923078,
+  "reference": "YEAH HE'S HE'S A BOY AND SAME AGE WITH THAT PERSON AS WELL",
+  "utterance_id": "ebbb45b25eb0",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C31-A"
+}

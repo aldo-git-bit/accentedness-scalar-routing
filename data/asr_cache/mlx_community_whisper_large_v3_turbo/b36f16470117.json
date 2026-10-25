@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, yeah, of course.",
+  "avg_logprob": -0.20000762939453126,
+  "no_speech_prob": 6.549456072965643e-13,
+  "wall_clock_seconds": 0.39699833300255705,
+  "n_segments": 1,
+  "wer": 0.0,
+  "reference": "YEAH YEAH OF COURSE",
+  "utterance_id": "b36f16470117",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C14-A"
+}

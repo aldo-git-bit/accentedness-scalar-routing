@@ -1,0 +1,12 @@
+{
+  "text": "and they break the peasants or not.",
+  "avg_logprob": -0.9940713246663412,
+  "no_speech_prob": 0.13477887213230133,
+  "wall_clock_seconds": 0.026530750008532777,
+  "n_segments": 1,
+  "wer": 0.5,
+  "reference": "DID THEY BREAK THE PRISONS OR NOT AND HOW MUCH",
+  "utterance_id": "6bd4b827fb65",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C31-B"
+}

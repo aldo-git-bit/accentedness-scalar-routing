@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, the closest thing we have is something called Saramadesh, but it's not like a dumping, it's like wrapped in those banana leaves, you know.",
+  "avg_logprob": -0.4048179479745718,
+  "no_speech_prob": 0.060150276869535446,
+  "wall_clock_seconds": 0.093756417001714,
+  "n_segments": 2,
+  "wer": 0.23333333333333334,
+  "reference": "YEAH THEY HAVE WELL THE CLOSEST THING WE HAVE IS SOMETHING CALLED UM <FOREIGN> BUT IT'S NOT LIKE A DUMPLING IT'S LIKE WRAPPED IN THOSE LIKE BANANA LEAVES YOU KNOW",
+  "utterance_id": "151390f4d230",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C06-A"
+}

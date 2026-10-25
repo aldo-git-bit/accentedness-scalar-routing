@@ -1,0 +1,12 @@
+{
+  "text": "question. Yeah, I get it. So actually I'm letting these two skews get because that's where the wall is in to ground. That's where the world is going into.",
+  "avg_logprob": -0.46251687338185865,
+  "no_speech_prob": 0.14949248731136322,
+  "wall_clock_seconds": 0.06372704199748114,
+  "n_segments": 2,
+  "wer": 0.5,
+  "reference": "I GET YOU I GET THE WHOLE QUESTION YEAH I GET IT SO ACTUALLY UM I'M LEARNING DIGITAL SKILLS YEAH BECAUSE THAT'S WHERE THE WORLD IS INTO NOW THAT'S WHERE THE WORLD IS GOING INTO TODAY",
+  "utterance_id": "2a72b2427d8d",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-A"
+}

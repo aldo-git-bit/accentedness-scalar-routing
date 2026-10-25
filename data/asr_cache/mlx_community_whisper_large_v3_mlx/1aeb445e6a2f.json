@@ -1,0 +1,12 @@
+{
+  "text": "It is very gory, yes, which as a fan of Berserk and the such, I very much like that.",
+  "avg_logprob": -0.29174383755387934,
+  "no_speech_prob": 0.0739433616399765,
+  "wall_clock_seconds": 0.7776406249977299,
+  "n_segments": 1,
+  "wer": 0.15,
+  "reference": "IT IS VERY GORY YES WHICH IS A FAN OF BERSERK AND AS SUCH I VERY MUCH LIKE THAT UM",
+  "utterance_id": "1aeb445e6a2f",
+  "accent": "Irish English",
+  "speaker": "EDACC-C63-A"
+}

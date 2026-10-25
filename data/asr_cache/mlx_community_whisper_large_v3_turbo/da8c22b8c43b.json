@@ -1,0 +1,12 @@
+{
+  "text": "So I was thinking of a few destinations post-COVID. I know traveling is not really easy.",
+  "avg_logprob": -0.1715699159182035,
+  "no_speech_prob": 2.7603295083694634e-12,
+  "wall_clock_seconds": 0.43578537499706727,
+  "n_segments": 2,
+  "wer": 0.21052631578947367,
+  "reference": "UM SO I WAS THINKING OF A FEW DESTINATIONS POST COVID I KNOW UM TRAVELING IS NOT REALLY EASY",
+  "utterance_id": "da8c22b8c43b",
+  "accent": "Indian English",
+  "speaker": "EDACC-C36-A"
+}

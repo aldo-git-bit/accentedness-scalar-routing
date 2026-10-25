@@ -1,0 +1,12 @@
+{
+  "text": "Um, so...",
+  "avg_logprob": -0.6531760351998466,
+  "no_speech_prob": 0.16851793229579926,
+  "wall_clock_seconds": 0.0975104579993058,
+  "n_segments": 1,
+  "wer": 0.0,
+  "reference": "UM SO",
+  "utterance_id": "b8eb7427ad5d",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C14-A"
+}

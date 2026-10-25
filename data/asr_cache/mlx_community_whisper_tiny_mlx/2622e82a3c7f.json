@@ -1,0 +1,12 @@
+{
+  "text": "because I've been taught in the house, but I don't remember driving that person's farm. I guess I wasn't the one driving it. I guess we just, especially where it is, I'm like, that would actually be really awkward to get to from where I come from, because where I came from had no fucking roads to work. I do not remember going that far.",
+  "avg_logprob": -0.424626964992947,
+  "no_speech_prob": 0.041452325880527496,
+  "wall_clock_seconds": 0.12527433299692348,
+  "n_segments": 5,
+  "wer": 0.19402985074626866,
+  "reference": "BECAUSE I'VE BEEN TO ALTON TOWERS BUT I DON'T REMEMBER DRIVING THAT FRICKING FAR I GUESS I WASN'T I WASN'T THE ONE DRIVING I GUESS WE JUST GO ESPECIALLY WHERE IT IS I'M LIKE THAT THAT WOULD ACTUALLY BE REALLY AWKWARD TO GET TO FROM WHERE I COME FROM BECAUSE WHERE I CAME FROM HAD NO FUCKING ROADS THAT WORKED I DO NOT REMEMBER GOING THAT FAR",
+  "utterance_id": "2622e82a3c7f",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C17-B"
+}

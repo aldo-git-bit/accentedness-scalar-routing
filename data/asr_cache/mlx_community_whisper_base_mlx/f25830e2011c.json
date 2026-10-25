@@ -1,0 +1,12 @@
+{
+  "text": "Do you think those are real?",
+  "avg_logprob": -0.3834686279296875,
+  "no_speech_prob": 0.22780409455299377,
+  "wall_clock_seconds": 0.041252875002101064,
+  "n_segments": 1,
+  "wer": 0.16666666666666666,
+  "reference": "DO YOU THINK GHOSTS ARE REAL",
+  "utterance_id": "f25830e2011c",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C32-B"
+}

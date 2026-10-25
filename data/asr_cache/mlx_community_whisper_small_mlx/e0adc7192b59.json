@@ -1,0 +1,12 @@
+{
+  "text": "Well, what is your opinion on cereal before milk or milk before cereal?",
+  "avg_logprob": -0.331265926361084,
+  "no_speech_prob": 0.05314606428146362,
+  "wall_clock_seconds": 0.13198183300119126,
+  "n_segments": 1,
+  "wer": 0.13333333333333333,
+  "reference": "OKAY WELL MM WHAT IS YOUR OPINION ON CEREAL BEFORE MILK OR MILK BEFORE CEREAL",
+  "utterance_id": "e0adc7192b59",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C32-A"
+}

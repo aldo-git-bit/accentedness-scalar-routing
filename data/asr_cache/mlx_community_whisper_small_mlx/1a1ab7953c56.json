@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, just a wee bit too far away. It's a place I've never been. I've lived in Scotland my whole life and I've never been to John O'Groats. Somewhere that I think would be quite interesting to say that you've been though.",
+  "avg_logprob": -0.30860513540414664,
+  "no_speech_prob": 0.004188844934105873,
+  "wall_clock_seconds": 0.2753076669978327,
+  "n_segments": 4,
+  "wer": 0.2,
+  "reference": "YEAH JUST A WEE BIT TOO FAR AWAY IT'S A PLACE I'VE NEVER BEEN LIVED IN SCOTLAND MY WHOLE LIFE I'VE NEVER BEEN TO JOHN O' GROATS SOMEWHERE THAT I THINK IT'D BE QUITE INTERESTING TO SEE YOU'VE BEEN <DTMF>",
+  "utterance_id": "1a1ab7953c56",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

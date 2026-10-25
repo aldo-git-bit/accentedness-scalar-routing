@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, I guess so. They're like, because you don't",
+  "avg_logprob": -0.5109347388857887,
+  "no_speech_prob": 0.056481633335351944,
+  "wall_clock_seconds": 0.6829036249982892,
+  "n_segments": 3,
+  "wer": 0.42857142857142855,
+  "reference": "YEAH I GUESS SO THEY'RE LIKE <OVERLAP>",
+  "utterance_id": "ba34d712b098",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C06-A"
+}

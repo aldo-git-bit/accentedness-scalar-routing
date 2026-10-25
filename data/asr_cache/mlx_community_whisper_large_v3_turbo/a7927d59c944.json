@@ -1,0 +1,12 @@
+{
+  "text": "Echo stories.",
+  "avg_logprob": -0.5204017162322998,
+  "no_speech_prob": 8.721483604756664e-12,
+  "wall_clock_seconds": 0.387392374992487,
+  "n_segments": 1,
+  "wer": 0.6666666666666666,
+  "reference": "LIKE GHOST STORIES",
+  "utterance_id": "a7927d59c944",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B"
+}

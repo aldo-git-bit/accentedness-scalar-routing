@@ -1,0 +1,12 @@
+{
+  "text": "All right. All right. Please call Stella. Ask her to bring these things with her from the store. Six spoons of fresh snow peas, five, six slabs of blue cheese and maybe a snack for her brother Bob. We also need a small plastic snake and a big toy for the kids. She can scoop these things in a three-read bag and we will go meet her Wednesday at the train station.",
+  "avg_logprob": -0.2208123566001974,
+  "no_speech_prob": 0.026242677122354507,
+  "wall_clock_seconds": 0.3611170000003767,
+  "n_segments": 4,
+  "wer": 72.0,
+  "reference": "IGNORE_TIME_SEGMENT_IN_SCORING",
+  "utterance_id": "6d1867e5637c",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C34-B"
+}

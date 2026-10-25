@@ -1,0 +1,12 @@
+{
+  "text": "Take mid-summer.",
+  "avg_logprob": -0.9669042163425021,
+  "no_speech_prob": 0.04808846488595009,
+  "wall_clock_seconds": 0.1036868749979476,
+  "n_segments": 1,
+  "wer": 0.5,
+  "reference": "LIKE MIDSUMMER",
+  "utterance_id": "33a3589791c3",
+  "accent": "Irish English",
+  "speaker": "EDACC-C50-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Cocoa. Cocoa.",
+  "avg_logprob": -0.5447252880443226,
+  "no_speech_prob": 9.324361595342001e-12,
+  "wall_clock_seconds": 0.4066207920113811,
+  "n_segments": 2,
+  "wer": 1.0,
+  "reference": "COCO COCO",
+  "utterance_id": "402867ab7fce",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C17-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Okay, that's fine. How about changing? Can you fry changing? Thank you, Brett, changing.",
+  "avg_logprob": -0.62848550302011,
+  "no_speech_prob": 0.05228402465581894,
+  "wall_clock_seconds": 0.0786302920023445,
+  "n_segments": 2,
+  "wer": 0.47058823529411764,
+  "reference": "OKAY THAT'S FINE HOW ABOUT CHIN CHIN CAN YOU FRY CHIN CHIN CAN YOU PREPARE CHIN CHIN",
+  "utterance_id": "c89857cacf79",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C41-A"
+}

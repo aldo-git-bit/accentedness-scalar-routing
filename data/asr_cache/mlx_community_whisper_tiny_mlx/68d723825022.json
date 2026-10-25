@@ -1,0 +1,12 @@
+{
+  "text": "That day we did lots of baking. Please, that will do it again. You have warned you not to ever play football game in the house. I warned you only when I permit you. You don't listen. You are disobedient children. You are disobedient children. Go out of my cake. We've entered today. We've entered trouble. So like, after that, we'll play.",
+  "avg_logprob": -0.47617601667131704,
+  "no_speech_prob": 0.0472395084798336,
+  "wall_clock_seconds": 0.13796370899945032,
+  "n_segments": 11,
+  "wer": 0.35384615384615387,
+  "reference": "THAT DAY WE DID A LOT OF BEGGING PLEASE DADDY WE WON'T DO IT AGAIN I'VE WARNED YOU NOT TO EVER PLAY FOOTBALL AGAIN IN THE HOUSE I'VE WARNED YOU ONLY WHEN I PERMIT YOU YOU DON'T LISTEN YOU ARE DISOBEDIENT CHILDREN YOU'RE DISOBEDIENT CHILDREN GOD I WAS LIKE HEY WE'VE ENTERED TO THE WE'VE ENTERED TROUBLE SO LIKE AFTER THAT WE PLAYED AGAIN <OVERLAP>",
+  "utterance_id": "68d723825022",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-A"
+}

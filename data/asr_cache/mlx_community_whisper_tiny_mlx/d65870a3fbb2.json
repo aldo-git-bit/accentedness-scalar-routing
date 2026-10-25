@@ -1,0 +1,12 @@
+{
+  "text": "It's healthy.",
+  "avg_logprob": -0.6888561248779297,
+  "no_speech_prob": 0.08759856969118118,
+  "wall_clock_seconds": 0.019557332998374477,
+  "n_segments": 1,
+  "wer": 0.3333333333333333,
+  "reference": "IT'S IT'S HEALTHY",
+  "utterance_id": "d65870a3fbb2",
+  "accent": "Indian English",
+  "speaker": "EDACC-C36-A"
+}

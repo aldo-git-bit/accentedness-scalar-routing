@@ -1,0 +1,12 @@
+{
+  "text": "",
+  "avg_logprob": 0.0,
+  "no_speech_prob": 0.0,
+  "wall_clock_seconds": 0.029724125008215196,
+  "n_segments": 0,
+  "wer": 1.0,
+  "reference": "OF COURSE",
+  "utterance_id": "52c1cd37d07d",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-A"
+}

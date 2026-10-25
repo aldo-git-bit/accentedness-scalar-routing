@@ -1,0 +1,12 @@
+{
+  "text": "but they're behind which is why I got it expedited.",
+  "avg_logprob": -0.5785587430000305,
+  "no_speech_prob": 0.00707694748416543,
+  "wall_clock_seconds": 0.03087454200431239,
+  "n_segments": 1,
+  "wer": 0.2,
+  "reference": "BUT THEY'RE BEHIND WHICH IS WHY I GOT EXPEDITED UGH",
+  "utterance_id": "a89f8f907c64",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B"
+}

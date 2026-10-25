@@ -1,0 +1,12 @@
+{
+  "text": "I think they tend to be fans of colors, not just knowing more color than guys.",
+  "avg_logprob": -0.3258668127514067,
+  "no_speech_prob": 9.615769985815703e-12,
+  "wall_clock_seconds": 0.42746112500026356,
+  "n_segments": 1,
+  "wer": 0.16666666666666666,
+  "reference": "I THINK I THINK THEY TEND TO BE FANS OF COLORS NOT JUST KNOWING MORE COLORS THAN GUYS",
+  "utterance_id": "1ae7624864f6",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C41-B"
+}

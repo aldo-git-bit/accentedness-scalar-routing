@@ -1,0 +1,12 @@
+{
+  "text": "with vagaling nature and pasta. Apart from that, it's kind of hard to remember. I really liked Hummus, which I feel like is quite sophisticated.",
+  "avg_logprob": -0.4824593694586503,
+  "no_speech_prob": 0.011507791467010975,
+  "wall_clock_seconds": 0.0554590000101598,
+  "n_segments": 2,
+  "wer": 0.2413793103448276,
+  "reference": "WHICH SPEAKS TO THE PREVAILING NATURE OF PASTA UM APART FROM THAT IT'S KIND OF HARD TO REMEMBER I REALLY LIKED HUMMUS WHICH I FEEL LIKE IS QUITE SOPHISTICATED",
+  "utterance_id": "7cba181460cf",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C11-B"
+}

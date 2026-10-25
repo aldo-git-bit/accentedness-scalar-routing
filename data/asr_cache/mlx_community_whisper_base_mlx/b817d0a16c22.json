@@ -1,0 +1,12 @@
+{
+  "text": "No, no, no, I'm done playing. I don't know, strings are enough. I have never been to Sugu. I absolutely love Pesano, but I've never been to Sugu.",
+  "avg_logprob": -0.5832632892536667,
+  "no_speech_prob": 0.09864822030067444,
+  "wall_clock_seconds": 0.1169212919921847,
+  "n_segments": 4,
+  "wer": 0.43333333333333335,
+  "reference": "NO NO NO I HAVEN'T TRY THEM UM D DO YOU KNOW STRANGELY ENOUGH I HAVE NEVER BEEN TO SUGO I ABSOLUTELY LOVE PAESANO BUT I'VE NEVER BEEN TO SUGO",
+  "utterance_id": "b817d0a16c22",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

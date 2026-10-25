@@ -1,0 +1,12 @@
+{
+  "text": "Okay, Rungi.",
+  "avg_logprob": -0.9420650270250108,
+  "no_speech_prob": 0.06115028262138367,
+  "wall_clock_seconds": 0.10367795799902524,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "<FOREIGN> YEAH",
+  "utterance_id": "d4a345ee67a7",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C06-A"
+}

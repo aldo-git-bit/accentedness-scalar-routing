@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, yeah, I remember, I remember it pretty well.",
+  "avg_logprob": -0.4300835132598877,
+  "no_speech_prob": 0.07936914265155792,
+  "wall_clock_seconds": 0.1266576250018261,
+  "n_segments": 1,
+  "wer": 0.5714285714285714,
+  "reference": "OH YEAH YEAH YEAH I REMEMBER YEAH I I RE YEAH I REMEMBER IT PRETTY WELL I GUE I GUESS YEAH",
+  "utterance_id": "02e7cbce741e",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C64-A"
+}

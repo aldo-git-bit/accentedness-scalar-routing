@@ -1,0 +1,12 @@
+{
+  "text": "Well, experience. Experience is a blessing, I guess.",
+  "avg_logprob": -0.49709342507755055,
+  "no_speech_prob": 8.416350949502771e-12,
+  "wall_clock_seconds": 0.41532916700816713,
+  "n_segments": 2,
+  "wer": 0.5,
+  "reference": "UH EXPERIENCE EXPERIENCE IS EVERYTHING I GUESS IT'S",
+  "utterance_id": "0479249c426a",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "I love them. I wish it's time.",
+  "avg_logprob": -0.8756635372455304,
+  "no_speech_prob": 0.257896363735199,
+  "wall_clock_seconds": 0.063881541005685,
+  "n_segments": 1,
+  "wer": 0.8181818181818182,
+  "reference": "OH GOD I LOVED THAT MOVIE I WATCHED IT EIGHT TIMES",
+  "utterance_id": "8a493fa8dbe0",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-B"
+}

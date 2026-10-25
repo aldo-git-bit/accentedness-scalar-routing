@@ -1,0 +1,12 @@
+{
+  "text": "I still believe about you today. I'm maybe one of the strikers of my look out area where we host matches and have fun.",
+  "avg_logprob": -0.618560791015625,
+  "no_speech_prob": 0.015850944444537163,
+  "wall_clock_seconds": 0.09482370800105855,
+  "n_segments": 4,
+  "wer": 0.2916666666666667,
+  "reference": "I STILL PLAY FOOTBALL TILL TODAY I'M EVEN ONE OF UM THE STRIKERS OF MY LOCAL AREA WHERE WE HOST MATCHES AND HAVE FUN",
+  "utterance_id": "2e4b8d0c605e",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C41-B"
+}

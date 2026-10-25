@@ -1,0 +1,12 @@
+{
+  "text": "and stuff so I could just like put in that oh by the",
+  "avg_logprob": -0.40795814074002784,
+  "no_speech_prob": 0.04101336747407913,
+  "wall_clock_seconds": 0.7539687919997959,
+  "n_segments": 6,
+  "wer": 0.23076923076923078,
+  "reference": "AND SO I COULD JUST LIKE PUT IN <DTMF> OH BY THE WAY",
+  "utterance_id": "172cfdbb68df",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-B"
+}

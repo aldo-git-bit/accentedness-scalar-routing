@@ -1,0 +1,12 @@
+{
+  "text": "Exactly the calm before the storm.",
+  "avg_logprob": -0.6729497909545898,
+  "no_speech_prob": 0.04175397381186485,
+  "wall_clock_seconds": 0.039490124996518716,
+  "n_segments": 1,
+  "wer": 0.0,
+  "reference": "EXACTLY THE CALM BEFORE THE STORM",
+  "utterance_id": "5d65dc35d469",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Not really, not really. Do you like touring?",
+  "avg_logprob": -0.7236457467079163,
+  "no_speech_prob": 0.022591283544898033,
+  "wall_clock_seconds": 0.030510374999721535,
+  "n_segments": 2,
+  "wer": 0.2222222222222222,
+  "reference": "NOT REALLY NOT REALLY NO DO YOU LIKE DRAWING",
+  "utterance_id": "2f8ccd45fea4",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C32-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, the closest thing we have is something called Sarmadhis, but it's not like a dumpling. It's like wrapped in those like binanalaves, you know?",
+  "avg_logprob": -0.5335723876953125,
+  "no_speech_prob": 0.0075851683504879475,
+  "wall_clock_seconds": 0.06448654099949636,
+  "n_segments": 3,
+  "wer": 0.23333333333333334,
+  "reference": "YEAH THEY HAVE WELL THE CLOSEST THING WE HAVE IS SOMETHING CALLED UM <FOREIGN> BUT IT'S NOT LIKE A DUMPLING IT'S LIKE WRAPPED IN THOSE LIKE BANANA LEAVES YOU KNOW",
+  "utterance_id": "151390f4d230",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C06-A"
+}

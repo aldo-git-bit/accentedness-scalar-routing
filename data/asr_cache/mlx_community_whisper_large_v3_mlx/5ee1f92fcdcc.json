@@ -1,0 +1,12 @@
+{
+  "text": "Maybe he's black.",
+  "avg_logprob": -0.39135563373565674,
+  "no_speech_prob": 0.37581294775009155,
+  "wall_clock_seconds": 0.5236730830001761,
+  "n_segments": 1,
+  "wer": 0.6666666666666666,
+  "reference": "MAYBE IT WAS",
+  "utterance_id": "5ee1f92fcdcc",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C20-B"
+}

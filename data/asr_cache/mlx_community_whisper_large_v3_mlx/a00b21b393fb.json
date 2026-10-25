@@ -1,0 +1,12 @@
+{
+  "text": "And F.E. Trinket's character, to be honest.",
+  "avg_logprob": -0.2350309689839681,
+  "no_speech_prob": 0.5099998712539673,
+  "wall_clock_seconds": 0.6550145410001278,
+  "n_segments": 1,
+  "wer": 0.4444444444444444,
+  "reference": "I LIKE THE EFFIE TRINKET'S CHARACTER TO BE HONEST",
+  "utterance_id": "a00b21b393fb",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-B"
+}

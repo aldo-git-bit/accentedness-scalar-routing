@@ -1,0 +1,12 @@
+{
+  "text": "hang on hang on",
+  "avg_logprob": -0.8838427056206595,
+  "no_speech_prob": 2.310046251507991e-11,
+  "wall_clock_seconds": 3.4314540839986876,
+  "n_segments": 30,
+  "wer": 4.0,
+  "reference": "YEAH",
+  "utterance_id": "433a91f703ad",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C42-B"
+}

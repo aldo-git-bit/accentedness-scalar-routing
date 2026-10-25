@@ -1,0 +1,12 @@
+{
+  "text": "Diwali is like globally known. Okay. You know.",
+  "avg_logprob": -0.44765954268606084,
+  "no_speech_prob": 0.11027692258358002,
+  "wall_clock_seconds": 0.6613435830004164,
+  "n_segments": 3,
+  "wer": 0.14285714285714285,
+  "reference": "DIWALI IS LIKE GLOBALLY KNOWN YOU KNOW",
+  "utterance_id": "aa3428a3e836",
+  "accent": "Indian English",
+  "speaker": "EDACC-C36-A"
+}

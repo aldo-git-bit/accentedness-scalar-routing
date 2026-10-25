@@ -1,0 +1,12 @@
+{
+  "text": "It's fine. So is there any sports you play? Yeah, there's a sport.",
+  "avg_logprob": -0.8652490774790446,
+  "no_speech_prob": 0.08935865759849548,
+  "wall_clock_seconds": 0.03941887499240693,
+  "n_segments": 2,
+  "wer": 0.5,
+  "reference": "MM IT'S FINE IT'S FINE SO IS THERE ANY SPORTS YOU PLAY DO YOU HAVE ANY SPORTS YOU'RE",
+  "utterance_id": "dff4687c9c63",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C41-A"
+}

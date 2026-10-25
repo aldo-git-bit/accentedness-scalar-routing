@@ -1,0 +1,12 @@
+{
+  "text": "I worked on that. Yeah, I did on that. So, but also far, they are seeing their results. So, but if it's a nine to five, I will prefer, if it's a nine to five, I'll be compelled to do that of the, I would like to perform the job tax during that period I'm working. And when I get home, and maybe you might say, maybe something urgent, you want to call me, that I should work on something else. I will just lose your cope, you understand, because I can't give you my nine to five minute day time and give you my night time when I'm supposed to be focusing on something that's personal to me. So, yeah.",
+  "avg_logprob": -0.27416779932988533,
+  "no_speech_prob": 4.422052041258165e-12,
+  "wall_clock_seconds": 1.20321354198677,
+  "n_segments": 14,
+  "wer": 0.17777777777777778,
+  "reference": "I WORKED ON THAT YEAH I DID ON THAT SO LIKE SO FAR THEY ARE SEEN THEIR RESULTS SO BUT IF IT'S A NINE TO FIVE I WILL I WOULD PREFER UM IF NAH LIKE NINE TO FIVE I'LL BE COMPELLED TO DO THAT OF THE UM I WOULD LIKE TO DO PERFORM THE JOB TASK DURING THAT PERIOD I'M WORKING AND FIND OUT THAT WHEN I GET HOME AND MAYBE YOU MIGHT SAY MAYBE SOMETHING URGENT YOU WANT TO CALL ME THAT I SHOULD WORK ON SOMETHING ELSE I WILL I WILL JUST I WILL EXCUSE YOUR CALL YOU UNDERSTAND BECAUSE I CAN'T GIVE YOU MY NINE TO FIVE IN THE DAY TIME AND GIVE YOU MY NIGHT TIME WHEN I'M SUPPOSED TO BE FOCUSING ON SOMETHING THAT IS PERSONAL TO ME SO YEAH",
+  "utterance_id": "cb9b43617c81",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-A"
+}

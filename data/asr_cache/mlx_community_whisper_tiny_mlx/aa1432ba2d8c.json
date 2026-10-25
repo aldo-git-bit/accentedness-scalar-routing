@@ -1,0 +1,12 @@
+{
+  "text": "I have been, yes, I have been to the twice. I have been to Edinburgh once and I have been to Glasgow once. In fact, I was only in Glasgow last September for a wedding. Oh my god, unbelievable. I fell in love with the place when I went to Edinburgh was about maybe 25 years old. It was in a place called Luck Ek, which was a gorgeous love cabin. And we did a Lord of Hikinger and a Luck widget orienteering. And there were so many bugs there that the people in orienteering, they'd actually have the huge, big white sous-jean, however, you know, a hand-dignal jar of the sheets and the woods that was that many bugs.",
+  "avg_logprob": -0.43960352397055175,
+  "no_speech_prob": 0.03882249639454213,
+  "wall_clock_seconds": 0.2327638749993639,
+  "n_segments": 11,
+  "wer": 0.224,
+  "reference": "I HAVE BEEN YES I HAVE BEEN TO SCOTLAND TWICE I HAVE BEEN TO EDINBURGH ONCE AND I HAVE BEEN TO GLASGOW ONCE IN FACT I WAS ONLY IN GLASGOW LAST SEPTEMBER FOR A WEDDING OH MY GOD UNBELIEVABLE I FELL IN LOVE WITH THE PLACE UH WHEN I WENT TO EDINBURGH WAS ABOUT MAYBE TWENTY FIVE YEARS AGO WE STAYED IN A PLACE CALLED LOCH ECK WHICH WAS A GORGEOUS LOG CABIN AND WE DID A LOAD OF HIKING THERE AND A LOT WE DID ORIENTEERING AND THERE WERE SO MANY BUGS THERE THE PEOPLE IN ORIENTEERING THEY'D ACTUALLY HAVE THE HUGE BIG WHITE SUIT ON WHILE THEY WERE YOU KNOW HANDING OUT ALL THE SHEETS IN THE WOODS THERE WAS THAT MANY BUGS",
+  "utterance_id": "aa1432ba2d8c",
+  "accent": "Irish English",
+  "speaker": "EDACC-C47-B"
+}

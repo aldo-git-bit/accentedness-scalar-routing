@@ -1,0 +1,12 @@
+{
+  "text": "Okay, my participation number is FC71-P1.",
+  "avg_logprob": -0.39199921290079753,
+  "no_speech_prob": 3.031678207088273e-12,
+  "wall_clock_seconds": 0.4120704579981975,
+  "n_segments": 1,
+  "wer": 0.5833333333333334,
+  "reference": "OKAY MY PARTICIPATION NUMBER IS F C SEVEN ONE DASH P ONE",
+  "utterance_id": "27a60a0b2904",
+  "accent": "Irish English",
+  "speaker": "EDACC-C63-A"
+}

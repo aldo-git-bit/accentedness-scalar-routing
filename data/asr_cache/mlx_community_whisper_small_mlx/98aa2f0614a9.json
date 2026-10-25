@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, when art school didn't have any grass fields, it was just done.",
+  "avg_logprob": -0.3201709747314453,
+  "no_speech_prob": 0.017154179513454437,
+  "wall_clock_seconds": 0.13879329200062784,
+  "n_segments": 1,
+  "wer": 0.375,
+  "reference": "YEAH I MEAN OUR SCHOOL DIDN'T HAVE ANY UH GRASS FIELDS SO IT WAS JUST UM",
+  "utterance_id": "98aa2f0614a9",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "I was happy or no matter what frame of mind I was in, I'd always like to have sweet conscience in soul.",
+  "avg_logprob": -0.612866439819336,
+  "no_speech_prob": 0.3374977298080921,
+  "wall_clock_seconds": 0.10353704199951608,
+  "n_segments": 2,
+  "wer": 0.18181818181818182,
+  "reference": "I WAS HAPPY OR NO MATTER WHAT FRAME OF MIND I WAS IN I'D ALWAYS LIKED TO HAVE SWEET CORN CHICKEN SOUP",
+  "utterance_id": "b5e2e1c77c2f",
+  "accent": "Indian English",
+  "speaker": "EDACC-C36-A"
+}

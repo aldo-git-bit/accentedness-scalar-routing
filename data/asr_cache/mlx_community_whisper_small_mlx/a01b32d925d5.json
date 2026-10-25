@@ -1,0 +1,12 @@
+{
+  "text": "So I was talking about your favorite food.",
+  "avg_logprob": -0.3937983512878418,
+  "no_speech_prob": 0.010545818135142326,
+  "wall_clock_seconds": 0.11536433299988857,
+  "n_segments": 1,
+  "wer": 0.2,
+  "reference": "SO I WAS I WAS TALKING ABOUT YOUR FAVORITE FOOD",
+  "utterance_id": "a01b32d925d5",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-B"
+}

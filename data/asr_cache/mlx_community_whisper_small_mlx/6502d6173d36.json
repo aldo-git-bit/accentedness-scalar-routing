@@ -1,0 +1,12 @@
+{
+  "text": "",
+  "avg_logprob": 0.0,
+  "no_speech_prob": 0.0,
+  "wall_clock_seconds": 0.0979191250007716,
+  "n_segments": 0,
+  "wer": 1.0,
+  "reference": "OH",
+  "utterance_id": "6502d6173d36",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-B"
+}

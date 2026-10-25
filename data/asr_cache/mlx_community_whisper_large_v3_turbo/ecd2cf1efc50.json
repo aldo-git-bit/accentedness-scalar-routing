@@ -1,0 +1,12 @@
+{
+  "text": "With lamb, isn't lamb fairly expensive?",
+  "avg_logprob": -0.39760788281758624,
+  "no_speech_prob": 6.453271077233591e-12,
+  "wall_clock_seconds": 0.4018632500083186,
+  "n_segments": 1,
+  "wer": 0.16666666666666666,
+  "reference": "WITH LAMB ISN'T LAMB VERY EXPENSIVE",
+  "utterance_id": "ecd2cf1efc50",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-B"
+}

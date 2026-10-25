@@ -1,0 +1,12 @@
+{
+  "text": "I think it can be preserved in the near plays I guess. It's not the direction I've got to conversation with going about. Yeah.",
+  "avg_logprob": -0.6241636276245117,
+  "no_speech_prob": 0.013005897402763367,
+  "wall_clock_seconds": 0.05490745800489094,
+  "n_segments": 3,
+  "wer": 0.5238095238095238,
+  "reference": "BODIES CAN BE PRESERVED IN WEIRD WAYS I GUESS IT'S NOT THE DIRECTION I THOUGHT THE CONVERSATION WAS GOING BUT YEAH",
+  "utterance_id": "c50f1c155ea9",
+  "accent": "Irish English",
+  "speaker": "EDACC-C63-A"
+}

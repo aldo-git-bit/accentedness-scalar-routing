@@ -1,0 +1,12 @@
+{
+  "text": "I read that, actually, you know, like, surprisingly, I read Arrogant really late. Like, when I was, even Percy Jackson, for example. Like, these are the books that...",
+  "avg_logprob": -0.22159704870107222,
+  "no_speech_prob": 1.6046154205709429e-12,
+  "wall_clock_seconds": 0.492900750003173,
+  "n_segments": 3,
+  "wer": 0.1724137931034483,
+  "reference": "I I READ THAT ACTUALLY REALLY LIKE SURPRISINGLY I READ ERAGON REALLY LATE LIKE WHEN I WAS EVEN PERCY JACKSON FOR EXAMPLE LIKE THESE ARE THE BOOKS THAT YOU'RE",
+  "utterance_id": "12741cb797d1",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Hi, my participant number is FC21P1. Please call Stella. Ask her to bring these things with her from the store. Six spoons of fresh snow peas, five thick slave of blue cheese, and maybe a snack for her brother, Bob. We also need a small plastic snack and a big toy frog for the kids. She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.",
+  "avg_logprob": -0.2279849260572403,
+  "no_speech_prob": 4.767864841001904e-12,
+  "wall_clock_seconds": 1.0146367920096964,
+  "n_segments": 8,
+  "wer": 75.0,
+  "reference": "IGNORE_TIME_SEGMENT_IN_SCORING",
+  "utterance_id": "534a0755a4d6",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C31-A"
+}

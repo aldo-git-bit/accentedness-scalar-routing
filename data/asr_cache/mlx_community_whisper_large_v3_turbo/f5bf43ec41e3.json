@@ -1,0 +1,12 @@
+{
+  "text": "Come on. Come on. I told you I liked pizza.",
+  "avg_logprob": -0.407804012298584,
+  "no_speech_prob": 1.8856737352135333e-11,
+  "wall_clock_seconds": 0.4211015829932876,
+  "n_segments": 3,
+  "wer": 0.2222222222222222,
+  "reference": "<DTMF> COME ON I TOLD YOU I LIKED PIZZA",
+  "utterance_id": "f5bf43ec41e3",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-B"
+}

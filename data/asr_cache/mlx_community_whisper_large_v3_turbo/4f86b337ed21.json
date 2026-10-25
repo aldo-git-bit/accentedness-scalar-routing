@@ -1,0 +1,12 @@
+{
+  "text": "I absolutely loved any of the Pluto Disney. He was absolutely fabulous. A Mickey Mouse.",
+  "avg_logprob": -0.3033629608154297,
+  "no_speech_prob": 1.072490620618316e-12,
+  "wall_clock_seconds": 0.4335969579988159,
+  "n_segments": 3,
+  "wer": 0.17647058823529413,
+  "reference": "I ABSOLUTELY LOVED ANY OF THE OH PLUTO IN DISNEY HE WAS ABSOLUTELY FABULOUS AND MICKEY MOUSE",
+  "utterance_id": "4f86b337ed21",
+  "accent": "Irish English",
+  "speaker": "EDACC-C47-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "We grew up with more dramatic backgrounds, especially with the British programme, things like Black Beauty are...",
+  "avg_logprob": -0.44210239078687585,
+  "no_speech_prob": 0.005173700395971537,
+  "wall_clock_seconds": 0.1476132919997326,
+  "n_segments": 1,
+  "wer": 0.391304347826087,
+  "reference": "WE GREW UP WE GREW UP WITH UH WITH A MORE DRAMATIC BACKGROUND ESPECIALLY WITH THE BRITISH PROGRAMMING THINGS LIKE BLACK BEAUTY OR",
+  "utterance_id": "33401ad246b0",
+  "accent": "Irish English",
+  "speaker": "EDACC-C61-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U",
+  "avg_logprob": -0.13860308329264323,
+  "no_speech_prob": 0.3354583978652954,
+  "wall_clock_seconds": 4.024534832999052,
+  "n_segments": 1,
+  "wer": 37.166666666666664,
+  "reference": "YEAH I KNOW WHAT YOU MEAN",
+  "utterance_id": "259426338460",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C11-B"
+}

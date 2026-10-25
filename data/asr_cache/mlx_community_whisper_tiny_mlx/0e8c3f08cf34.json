@@ -1,0 +1,12 @@
+{
+  "text": "Come down.",
+  "avg_logprob": -0.8511503537495931,
+  "no_speech_prob": 0.15212763845920563,
+  "wall_clock_seconds": 0.018356125001446344,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "AND THEN CAN WE DO A COUNTDOWN",
+  "utterance_id": "0e8c3f08cf34",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C04-B"
+}

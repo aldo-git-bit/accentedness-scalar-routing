@@ -1,0 +1,12 @@
+{
+  "text": "Thank you.",
+  "avg_logprob": -0.9846596717834473,
+  "no_speech_prob": 0.774922788143158,
+  "wall_clock_seconds": 0.09612662500148872,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "ALL RIGHT",
+  "utterance_id": "c1b7c40c98dc",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C31-B"
+}

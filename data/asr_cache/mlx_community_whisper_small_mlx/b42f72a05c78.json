@@ -1,0 +1,12 @@
+{
+  "text": "your favorite fast food restaurant.",
+  "avg_logprob": -0.9151037004258897,
+  "no_speech_prob": 0.06784555315971375,
+  "wall_clock_seconds": 0.10537420800028485,
+  "n_segments": 1,
+  "wer": 0.2857142857142857,
+  "reference": "MM WHAT'S YOUR FAVORITE FAST FOOD RESTAURANT",
+  "utterance_id": "b42f72a05c78",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C32-B"
+}

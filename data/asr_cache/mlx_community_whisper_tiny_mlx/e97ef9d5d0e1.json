@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, yeah.",
+  "avg_logprob": -0.777900150844029,
+  "no_speech_prob": 0.12038811296224594,
+  "wall_clock_seconds": 0.01943549999850802,
+  "n_segments": 1,
+  "wer": 0.0,
+  "reference": "YEAH YEAH",
+  "utterance_id": "e97ef9d5d0e1",
+  "accent": "Irish English",
+  "speaker": "EDACC-C50-A"
+}

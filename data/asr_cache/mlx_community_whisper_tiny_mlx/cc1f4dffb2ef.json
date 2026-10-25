@@ -1,0 +1,12 @@
+{
+  "text": "The idea is, it's essentially the same as both of you have to grind one thing to the field. There is one person who's the shark or maybe two people and they can move any direction. And if they take you, you become seaweed and you can't move your feet. You can like lean out to catch three-po.",
+  "avg_logprob": -0.3616385826697716,
+  "no_speech_prob": 0.022498033940792084,
+  "wall_clock_seconds": 0.10972424999636132,
+  "n_segments": 4,
+  "wer": 0.26229508196721313,
+  "reference": "WE'D UH THE IDEA IT'S ESSENTIALLY THE SAME AS BULLDOG YOU HAVE TO TRY AND RUN TO THE END OF THE FIELD THERE'S ONE PERSON WHO'S THIS SHARK OR MAYBE TWO PEOPLE AND THEY CAN MOVE ANY DIRECTION AND IF THEY TAKE YOU YOU BECOME SEAWEED AND YOU CAN'T MOVE YOUR FEET BUT YOU CAN LIKE LEAN OUT TO CATCH PEOPLE",
+  "utterance_id": "cc1f4dffb2ef",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-A"
+}

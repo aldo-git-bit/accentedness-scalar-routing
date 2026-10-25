@@ -1,0 +1,12 @@
+{
+  "text": "Yeah. Yeah. That's the somewhere that.",
+  "avg_logprob": -0.45686553955078113,
+  "no_speech_prob": 0.17648984491825104,
+  "wall_clock_seconds": 3.1764827910083113,
+  "n_segments": 54,
+  "wer": 0.8717948717948718,
+  "reference": "MM YEAH YEAH THAT'S THAT'S SOMETHING THAT'S <DTMF> YEAH SO UH WELL I'M NOT I'M I'M AGAINST THE IDEA OF SOMEBODY GOING THERE IN TWO WEEKS OR THREE WEEKS TIME AND CLAIMS THAT HE HAS THE ACCENT <DTMF> <LAUGH>",
+  "utterance_id": "791950cae654",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-A"
+}

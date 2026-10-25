@@ -1,0 +1,12 @@
+{
+  "text": "I think it's been 15 minutes now.",
+  "avg_logprob": -0.2529749075571696,
+  "no_speech_prob": 0.003835148410871625,
+  "wall_clock_seconds": 0.02501450000272598,
+  "n_segments": 1,
+  "wer": 0.14285714285714285,
+  "reference": "I THINK IT'S BEEN FIFTEEN MINUTES NOW",
+  "utterance_id": "5e23084c59e7",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C02-B"
+}

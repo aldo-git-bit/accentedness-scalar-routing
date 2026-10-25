@@ -1,0 +1,12 @@
+{
+  "text": "I have a first sign of the exam and I've been having ease to my last sign of the exam, the last sign of the exam I had, it was me, I had been my last sign of the exam. I love science.",
+  "avg_logprob": -0.5229135240827288,
+  "no_speech_prob": 0.3381998836994171,
+  "wall_clock_seconds": 0.12448216600751039,
+  "n_segments": 3,
+  "wer": 0.5555555555555556,
+  "reference": "<NO-SPEECH> IN MY FIRST SCIENCE EXAM AND I'VE BEEN HAVING AS TILL MY LAST SCIENCE EXAM THE LAST SCIENCE EXAM I HAD IT WAS B I HAD B IN MY LAST SCIENCE EXAM I LOVE SCIENCE",
+  "utterance_id": "535ea494622e",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C41-A"
+}

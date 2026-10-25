@@ -1,0 +1,12 @@
+{
+  "text": "I've never tried it. What countries have you traveled to?",
+  "avg_logprob": -0.48629527621799046,
+  "no_speech_prob": 2.474835007065801e-12,
+  "wall_clock_seconds": 0.42606887499277946,
+  "n_segments": 2,
+  "wer": 0.09090909090909091,
+  "reference": "I'VE NEVER TRIED IT SO WHAT COUNTRIES HAVE YOU TRAVELED TO",
+  "utterance_id": "f2059615335b",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C32-B"
+}

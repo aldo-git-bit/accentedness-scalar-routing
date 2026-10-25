@@ -1,0 +1,12 @@
+{
+  "text": "I think there's something so medieval about growing and cooking a person.",
+  "avg_logprob": -0.4189132802626666,
+  "no_speech_prob": 0.0021878371480852365,
+  "wall_clock_seconds": 0.031144209002377465,
+  "n_segments": 1,
+  "wer": 0.25,
+  "reference": "I FEEL THERE'S SOMETHING SO MEDIEVAL ABOUT GOING AND COOKING A PHEASANT",
+  "utterance_id": "5e733d7e909a",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C11-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "and sugar of course but uh generally uh we we tend to make sweets uh there are some people who have a sweet tooth that they could have sweet something sweet every day after every meal",
+  "avg_logprob": -0.10988939099195527,
+  "no_speech_prob": 6.642005521972916e-12,
+  "wall_clock_seconds": 0.4716381670004921,
+  "n_segments": 2,
+  "wer": 0.0,
+  "reference": "AND SUGAR OF COURSE BUT UH GENERALLY UH WE WE TEND TO MAKE SWEETS UH THERE ARE SOME PEOPLE WHO HAVE A SWEET TOOTH THAT THEY COULD HAVE SWEET SOMETHING SWEET EVERY DAY AFTER EVERY MEAL",
+  "utterance_id": "f57876419279",
+  "accent": "Indian English",
+  "speaker": "EDACC-C36-A"
+}

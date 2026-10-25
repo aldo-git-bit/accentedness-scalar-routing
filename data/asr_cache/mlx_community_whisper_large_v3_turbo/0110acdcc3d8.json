@@ -1,0 +1,12 @@
+{
+  "text": "Personally, when Sky started their own morning, Saturday morning TV shows, and I think they had DJ Kat for a while.",
+  "avg_logprob": -0.1370408535003662,
+  "no_speech_prob": 1.0772181757712218e-12,
+  "wall_clock_seconds": 0.43935020799108315,
+  "n_segments": 1,
+  "wer": 0.09090909090909091,
+  "reference": "PERSONALLY WHEN SKY STARTED THEIR OWN MORNING UM SATURDAY MORNING TV SHOWS AND I THINK THEY HAD DJ CAT FOR A WHILE",
+  "utterance_id": "0110acdcc3d8",
+  "accent": "Irish English",
+  "speaker": "EDACC-C61-A"
+}

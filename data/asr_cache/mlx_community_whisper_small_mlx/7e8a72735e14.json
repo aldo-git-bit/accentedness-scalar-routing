@@ -1,0 +1,12 @@
+{
+  "text": "No, I don't play golf anymore. I used to when I was younger. It's a very good course though. And whenever you go up there, there's all sorts of people from all different countries that travel far and wide to play there.",
+  "avg_logprob": -0.21727293935315362,
+  "no_speech_prob": 0.010548890568315983,
+  "wall_clock_seconds": 0.2506429580025724,
+  "n_segments": 3,
+  "wer": 0.023809523809523808,
+  "reference": "NO I DON'T PLAY GOLF ANYMORE I USED TO WHEN I WAS YOUNGER IT'S A VERY GOOD COURSE THOUGH AND WHENEVER YOU GO OUT THERE THERE'S ALL SORTS OF PEOPLE FROM ALL DIFFERENT COUNTRIES THAT TRAVEL FAR AND WIDE TO PLAY THERE",
+  "utterance_id": "7e8a72735e14",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U",
+  "avg_logprob": -0.1363199700249566,
+  "no_speech_prob": 0.5916763544082642,
+  "wall_clock_seconds": 4.037175499997829,
+  "n_segments": 1,
+  "wer": 223.0,
+  "reference": "YEAH",
+  "utterance_id": "157797765a7d",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-A"
+}

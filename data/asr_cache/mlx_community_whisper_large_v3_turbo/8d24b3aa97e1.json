@@ -1,0 +1,12 @@
+{
+  "text": "Mungini was amazing.",
+  "avg_logprob": -0.7357898818122016,
+  "no_speech_prob": 1.2301442850470856e-11,
+  "wall_clock_seconds": 0.3980054999992717,
+  "n_segments": 1,
+  "wer": 0.6,
+  "reference": "BOOK GINNY WAS AMAZING LIKE",
+  "utterance_id": "8d24b3aa97e1",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "The scene where he starts dancing and does the little conga routine. Oh my God.",
+  "avg_logprob": -0.27927854786748474,
+  "no_speech_prob": 0.03627261891961098,
+  "wall_clock_seconds": 0.7101427910019993,
+  "n_segments": 2,
+  "wer": 0.26666666666666666,
+  "reference": "THE SCENE WHERE HE STARTS DANCING AND DOES LIKE THE LITTLE CONGA ROUTINE IT'S JUST",
+  "utterance_id": "82c4d4dceba6",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C06-A"
+}

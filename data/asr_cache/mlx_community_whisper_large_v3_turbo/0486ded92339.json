@@ -1,0 +1,12 @@
+{
+  "text": "I don't think why it's inevitable. Yeah.",
+  "avg_logprob": -0.42679879400465226,
+  "no_speech_prob": 4.57763080913276e-12,
+  "wall_clock_seconds": 0.4161209159938153,
+  "n_segments": 3,
+  "wer": 0.625,
+  "reference": "YEAH I DON'T THINK LAMB IS A <DTMF>",
+  "utterance_id": "0486ded92339",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-B"
+}

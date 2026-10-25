@@ -1,0 +1,12 @@
+{
+  "text": "the",
+  "avg_logprob": -2.8756130218505858,
+  "no_speech_prob": 0.5751227736473083,
+  "wall_clock_seconds": 0.21021275001112372,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "SCHOOL",
+  "utterance_id": "9775408dac83",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C02-B"
+}

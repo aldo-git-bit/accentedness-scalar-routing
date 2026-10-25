@@ -1,0 +1,11 @@
+{
+  "text": "No, no, I definitely love it, like, it's a great city, I can see myself living there forever, you know, or at least living there for a really long time. Like, like, like, my husband's man, just like, yeah, I don't think I can live here.",
+  "wer": 0.25925925925925924,
+  "reference": "NO NO I DEFINITELY LOVE IT LIKE IT IT'S A GREAT CITY I I CAN SEE MYSELF LIVING THERE FOREVER YOU KNOW OR AT LEAST LIVING THERE FOR A REALLY LONG TIME LIKE HOW LIKE LIKE IN LIKE WHEN I WENT TO MANCHESTER AND I IT'S LIKE I DON'T THINK I CAN LIVE HERE",
+  "utterance_id": "0014fac04b52",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B",
+  "wall_clock_seconds": 1.4910022919939365,
+  "avg_logprob": null,
+  "no_speech_prob": null
+}

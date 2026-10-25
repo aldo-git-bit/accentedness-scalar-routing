@@ -1,0 +1,12 @@
+{
+  "text": "I was actually thinking of that because there would have been approximately maybe at most 10 or 11 channels. So at one point in time the paper near the back page used to have a whole page just devoted in six or seven columns and you could read down what was on. So that was a daily thing and the paper always seemed cheaper than the actual TV guide itself.",
+  "avg_logprob": -0.19622170052877286,
+  "no_speech_prob": 0.02513795904815197,
+  "wall_clock_seconds": 0.3286622920022637,
+  "n_segments": 4,
+  "wer": 0.1232876712328767,
+  "reference": "WELL I WAS ACTUALLY THINKING OF THAT THERE WAS SO 'CAUSE THERE WOULD'VE BEEN APPROXIMATELY MAYBE AT MOST TEN OR ELEVEN CHANNELS SO AT ONE POINT IN TIME THE PAPER NEAR THE BACK PAGE USED TO HAVE A WHOLE PAGE JUST DEVOTED IN SIX OR SEVEN COLUMNS AND YOU COULD READ DOWN WHAT WAS ON SO THAT WAS A DAILY THING AND THE PAPER ALWAYS SEEMED CHEAPER THAN THE ACTUAL TV GUIDE ITSELF",
+  "utterance_id": "1727c8456fcd",
+  "accent": "Irish English",
+  "speaker": "EDACC-C61-B"
+}

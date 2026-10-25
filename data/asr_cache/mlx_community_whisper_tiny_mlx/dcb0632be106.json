@@ -1,0 +1,12 @@
+{
+  "text": "So, let's get it back down.",
+  "avg_logprob": -0.9640606244405111,
+  "no_speech_prob": 0.14238105714321136,
+  "wall_clock_seconds": 0.02553245800663717,
+  "n_segments": 1,
+  "wer": 1.25,
+  "reference": "<DTMF> SCARY BACK THEN",
+  "utterance_id": "dcb0632be106",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-B"
+}

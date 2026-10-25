@@ -1,0 +1,12 @@
+{
+  "text": "Well, it is something for actually, you know, keep the fish, smoke hits and drive.",
+  "avg_logprob": -0.5847425875456437,
+  "no_speech_prob": 0.005614868365228176,
+  "wall_clock_seconds": 0.03849195799557492,
+  "n_segments": 1,
+  "wer": 0.47058823529411764,
+  "reference": "WELL THE THING IS SOME PEOPLE ACTUALLY YOU KNOW KILL THE FISH SMOKE IT AND DRY IT",
+  "utterance_id": "e957fb6f7ace",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-A"
+}

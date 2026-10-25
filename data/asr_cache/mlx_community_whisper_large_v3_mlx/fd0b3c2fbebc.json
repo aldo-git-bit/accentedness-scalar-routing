@@ -1,0 +1,12 @@
+{
+  "text": "I don't bother myself with such information.",
+  "avg_logprob": -0.18753153085708618,
+  "no_speech_prob": 0.16193732619285583,
+  "wall_clock_seconds": 0.5757500830004574,
+  "n_segments": 1,
+  "wer": 0.3,
+  "reference": "UH THAT'S UH I DON'T BOTHER MYSELF WITH SUCH INFORMATION",
+  "utterance_id": "fd0b3c2fbebc",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C41-B"
+}

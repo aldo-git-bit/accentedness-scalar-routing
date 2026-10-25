@@ -1,0 +1,12 @@
+{
+  "text": "That's a fair point actually, I'm thinking about it. I did notice that they're remaking the movie of the little mermaid, did you see that?",
+  "avg_logprob": -0.34456268109773336,
+  "no_speech_prob": 0.005077841691672802,
+  "wall_clock_seconds": 0.19449300000269432,
+  "n_segments": 2,
+  "wer": 0.11538461538461539,
+  "reference": "AND THAT'S A FAIR POINT ACTUALLY THINKING ABOUT IT MM I DID NOTICE THAT THEY'RE REMAKING THE MOVIE OF THE LITTLE MERMAID DID YOU SEE THAT",
+  "utterance_id": "f359f2db159d",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-A"
+}

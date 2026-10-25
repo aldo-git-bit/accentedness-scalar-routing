@@ -1,0 +1,12 @@
+{
+  "text": "the",
+  "avg_logprob": -2.6299972534179688,
+  "no_speech_prob": 0.437211811542511,
+  "wall_clock_seconds": 0.2105252500041388,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "IT'S TRUE YEAH",
+  "utterance_id": "b006b43fdca3",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C19-B"
+}

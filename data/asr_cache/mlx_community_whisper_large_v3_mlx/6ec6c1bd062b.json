@@ -1,0 +1,12 @@
+{
+  "text": "Okay, so usually I don't have breakfast. Like during my normal day, I try to skip breakfast, even though it's important, but I don't have breakfast usually. So for lunch, since here I can't really find my home food, I prefer to eat like rice with potatoes and chicken. So I can say that's my go-to lunch food. Food, that's what I eat for my lunch. And then dinner, dinner, it varies. Maybe I can have spaghetti or macaron, just various things. And I prefer cooking, even though I can go to the canteen, like my school's canteen, it's really, really nice. But sometimes I prefer cooking by myself. What about you?",
+  "avg_logprob": -0.1500480095214496,
+  "no_speech_prob": 0.000957959346123971,
+  "wall_clock_seconds": 3.004505042001256,
+  "n_segments": 13,
+  "wer": 0.09917355371900827,
+  "reference": "OKAY SO I'VE USUALLY I DON'T HAVE BREAKFAST LIKE DURING MY NORMAL DAY I TRY TO SKIP BREAKFAST EVEN THOUGH IT'S IMPORTANT BUT I DON'T HAVE BREAKFAST USUALLY SO FOR LUNCH SINCE HERE I CAN'T REALLY FIND MY HOME FOOD I PREFER TO EAT LIKE RICE WITH POTATOES AND CHICKEN SO I CAN SAY THAT'S MY GO TO LUNCH DIP UM FOOD THAT'S WHAT I EAT TOO FOR MY LUNCH AND THEN DINNER DINNER IT'S VA IT VARIES MAYBE I CAN HAVE MY SPAGHETTI OR MACARON GET THIS VA VARIOUS THINGS AND I PREFER COOKING EVEN THOUGH I CAN GO TO THE CANTEEN LIKE MY SCHOOL'S CANTEEN IT'S REALLY REALLY NICE BUT SOMETIMES I PREFER COOKING BY MYSELF WHAT ABOUT YOU",
+  "utterance_id": "6ec6c1bd062b",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C19-B"
+}

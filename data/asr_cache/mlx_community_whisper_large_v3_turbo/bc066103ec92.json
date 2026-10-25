@@ -1,0 +1,12 @@
+{
+  "text": "Wow.",
+  "avg_logprob": -0.8977445602416992,
+  "no_speech_prob": 1.374647878166213e-11,
+  "wall_clock_seconds": 0.38583662500604987,
+  "n_segments": 1,
+  "wer": 0.6666666666666666,
+  "reference": "<LAUGH> OH WOW",
+  "utterance_id": "bc066103ec92",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C19-B"
+}

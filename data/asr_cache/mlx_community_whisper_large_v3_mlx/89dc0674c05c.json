@@ -1,0 +1,12 @@
+{
+  "text": "I think eventually, yeah. I think eventually most people will. It's all about having the infrastructure at your home as well though. And being able to ensure that having an electric or a hybrid works for yourself.",
+  "avg_logprob": -0.16059135354083517,
+  "no_speech_prob": 0.019081249833106995,
+  "wall_clock_seconds": 0.9834507499981555,
+  "n_segments": 1,
+  "wer": 0.12195121951219512,
+  "reference": "<COUGH> I THINK EVENTUALLY YEAH I THINK EVENTUALLY MOST PEOPLE WILL UM IT'S ALL ABOUT HAVING THE INFRASTRUCTURE AT YOUR HOME AS WELL THOUGH AND BEING ABLE TO ENSURE THAT HAVING A UM AN ELECTRIC OR THE HYBRID WORKS FOR YOURSELF",
+  "utterance_id": "89dc0674c05c",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

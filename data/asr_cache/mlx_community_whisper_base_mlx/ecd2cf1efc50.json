@@ -1,0 +1,12 @@
+{
+  "text": "before I am as alone for an expensive.",
+  "avg_logprob": -0.8592254320780436,
+  "no_speech_prob": 0.029953379184007645,
+  "wall_clock_seconds": 0.04468049999559298,
+  "n_segments": 1,
+  "wer": 1.1666666666666667,
+  "reference": "WITH LAMB ISN'T LAMB VERY EXPENSIVE",
+  "utterance_id": "ecd2cf1efc50",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-B"
+}

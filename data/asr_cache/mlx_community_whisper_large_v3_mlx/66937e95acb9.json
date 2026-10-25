@@ -1,0 +1,12 @@
+{
+  "text": "everyone was saying it would be a capacity revision song because like it starts off kind of like a pop song that goes in this deep metal section then then back and forth and for the rest",
+  "avg_logprob": -0.1702545710972377,
+  "no_speech_prob": 0.1136152446269989,
+  "wall_clock_seconds": 0.9399187080016418,
+  "n_segments": 2,
+  "wer": 0.35714285714285715,
+  "reference": "AND UH EVERYONE WAS SAYING IT WOULD BE LIKE A GASS EUROVISION SONG 'CAUSE LIKE IT STARTS OFF KINDA LIKE A POP SONG AND IT GOES THIS DEEP METAL SECTION THEN THEN BACK AND FORTH THEN FOR THE REST OF THE SONG",
+  "utterance_id": "66937e95acb9",
+  "accent": "Irish English",
+  "speaker": "EDACC-C50-B"
+}

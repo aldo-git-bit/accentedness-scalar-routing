@@ -1,0 +1,12 @@
+{
+  "text": "Or maybe, no, maybe some of the books aren't in that library, but potentially in another library, in the sense that I think some of the, as in even if the main library doesn't have everything.",
+  "avg_logprob": -0.192951961439483,
+  "no_speech_prob": 1.5310893828821004e-12,
+  "wall_clock_seconds": 0.49228116701124236,
+  "n_segments": 2,
+  "wer": 0.07894736842105263,
+  "reference": "<NO-SPEECH> MAYBE NO MAYBE SOME OF THE BOOKS AREN'T IN THAT LIBRARY BUT POTENTIALLY IN ANOTHER LIBRARY UM IN THE SENSE THAT I THINK SOME OF THE UM AS IN EVEN IF THE MAIN LIBRARY DOESN'T HAVE EVERYTHING",
+  "utterance_id": "af2dc694a967",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C03-B"
+}

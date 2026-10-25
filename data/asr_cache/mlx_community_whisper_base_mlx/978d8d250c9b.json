@@ -1,0 +1,12 @@
+{
+  "text": "Okay, yeah, can I count him on you?",
+  "avg_logprob": -0.803168637411935,
+  "no_speech_prob": 0.29918262362480164,
+  "wall_clock_seconds": 0.1612968749977881,
+  "n_segments": 1,
+  "wer": 0.75,
+  "reference": "AH OKAY YEAH YEAH YEAH I CA I CAN I CAN IMAGINE",
+  "utterance_id": "978d8d250c9b",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

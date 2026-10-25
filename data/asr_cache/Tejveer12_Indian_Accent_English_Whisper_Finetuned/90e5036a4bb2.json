@@ -1,0 +1,11 @@
+{
+  "text": "Desertation problems, I know, that's how I felt last year. Now I'm finding mistakes in my previous models that I had run because of everything I'm doing in Msomar, and I'm going back and thinking, oh, maybe I should have been included this as a covariate, or whatever.",
+  "wer": 0.2807017543859649,
+  "reference": "<LAUGH> UH YES DISSERTATION PROBLEMS I KNOW THAT'S HOW I FELT LAST YEAR LIKE NOW I'M FINDING MISTAKES IN MY PREVIOUS LIKE MODELS THAT I HAD RUN BECAUSE OF EVERYTHING THEY'RE DOING IN MSMR AND I'M I'M GOING BACK AND THINKING LIKE <BREATH> OH MAYBE I SHOULD'VE INVA IN UM INCLUDED THIS AS A COVARIANT OR WHATEVER",
+  "utterance_id": "90e5036a4bb2",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B",
+  "wall_clock_seconds": 1.5167114999931073,
+  "avg_logprob": null,
+  "no_speech_prob": null
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Let's go.",
+  "avg_logprob": -0.7691170828683036,
+  "no_speech_prob": 0.29151809215545654,
+  "wall_clock_seconds": 0.03509124999982305,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "RECORDINGS YEAH",
+  "utterance_id": "6ea8a9affd95",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C22-A"
+}

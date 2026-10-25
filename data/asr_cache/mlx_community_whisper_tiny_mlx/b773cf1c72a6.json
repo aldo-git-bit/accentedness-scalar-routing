@@ -1,0 +1,12 @@
+{
+  "text": "the bed.",
+  "avg_logprob": -1.0036385769314238,
+  "no_speech_prob": 0.18443630635738373,
+  "wall_clock_seconds": 0.6478329590026988,
+  "n_segments": 74,
+  "wer": 0.9166666666666666,
+  "reference": "WHAT OF THE BEACH WHAT OF HAVE YOU VISITED THE BEACH BEFORE",
+  "utterance_id": "b773cf1c72a6",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C41-A"
+}

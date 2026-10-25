@@ -1,0 +1,12 @@
+{
+  "text": "Sure. In terms of me with my cat, I mean, we obviously had her for 14 years since she was a baby. And like we said before, her health did rapidly decline quite quickly once we found out that she was unwell. So we knew it was the right thing to do is to send her to sleep, which was like, you know, an easy thing at all, because you don't want to lose your pet, but you have to look at it from their point of view. And what kind of quality of life they have. So I think like you, we probably won't get any more pets at the moment.",
+  "avg_logprob": -0.10579297707710432,
+  "no_speech_prob": 0.00045042110741633223,
+  "wall_clock_seconds": 2.6539992920006625,
+  "n_segments": 6,
+  "wer": 0.02702702702702703,
+  "reference": "SURE IN TERMS OF ME WITH MY CAT I MEAN WE OBVIOUSLY HAD HER FOR FOURTEEN YEARS SINCE SHE WAS A BABY AND LIKE WE SAID BEFORE HER HEALTH DID RAPIDLY DECLINE QUITE QUICKLY ONCE WE FOUND OUT THAT SHE WAS UNWELL SO WE KNEW IT WAS THE RIGHT THING TO DO IS TO SEND HER TO SLEEP WHICH WAS LIKE YOU KNOW UNEASY THING AT ALL BECAUSE YOU DON'T WANT TO LOSE YOUR PET BUT YOU HAVE TO LOOK AT IT FROM THEIR POINT OF VIEW AND WHAT KIND OF QUALITY OF LIFE THEY HAVE SO I THINK LIKE YOU WE PROBABLY WON'T GET ANY MORE PETS AT THE MOMENT",
+  "utterance_id": "17346ed1fc49",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-A"
+}

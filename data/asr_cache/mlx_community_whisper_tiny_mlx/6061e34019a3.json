@@ -1,0 +1,12 @@
+{
+  "text": "the face off.",
+  "avg_logprob": -0.9158463478088379,
+  "no_speech_prob": 0.10469138622283936,
+  "wall_clock_seconds": 0.019801208007265814,
+  "n_segments": 1,
+  "wer": 1.5,
+  "reference": "OF YOURSELF",
+  "utterance_id": "6061e34019a3",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C32-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "So Aquafina was the dragon there. So there was a place there she was trying to rap. She was like, I flew. She was like, I beat. She was just giving some kind of rap when she was speaking. Okay, swimming is my thing. I swim. She was like, okay, I'm a diva when I enter the river. She was just beating.",
+  "avg_logprob": -0.26639711013948075,
+  "no_speech_prob": 0.07771463692188263,
+  "wall_clock_seconds": 1.6228830000000016,
+  "n_segments": 9,
+  "wer": 0.2682926829268293,
+  "reference": "SO AWKWA AWKWA AWKWAFINA WAS THE DRAGON THERE SO THERE WAS A A PLACE THERE SHE WAS TRYING TO RAP SHE WAS SHE WAS LIKE UM UH UH SHE WAS LIKE I I I FLOW I UM SHE WAS LIKE I BEAT SHE WAS SHE WAS JUST GIVING SOME KIND OF RAP WHEN SHE WAS SPEAKING OKAY SWIMMING IS MY THING UH I SWIM SHE WAS LIKE I'M A OKAY I'M A DIVA WHEN I ENTER THE RIVER SHE WAS JUST BEATING",
+  "utterance_id": "058e7da29b34",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "happens with the consciousness, that's something that we can't comprehend. And therefore, I can only dream or imagine about it, but I can't really, I can't really",
+  "avg_logprob": -0.17808836559916652,
+  "no_speech_prob": 0.1499825119972229,
+  "wall_clock_seconds": 0.20604154199827462,
+  "n_segments": 3,
+  "wer": 0.03571428571428571,
+  "reference": "WHAT HAPPENS WITH THE CONSCIOUSNESS THAT'S SOMETHING THAT WE CAN'T COMPREHEND AND THEREFORE I CAN ONLY DREAM OR IMAGINE ABOUT IT BUT I CAN'T REALLY I CAN'T REALLY",
+  "utterance_id": "7359da48f132",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C33-B"
+}

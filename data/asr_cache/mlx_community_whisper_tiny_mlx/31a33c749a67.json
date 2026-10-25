@@ -1,0 +1,12 @@
+{
+  "text": "18 or you'd watch airwolf, but what I really enjoy the most were the big kind of many series family events.",
+  "avg_logprob": -0.43975626627604164,
+  "no_speech_prob": 0.027766412124037743,
+  "wall_clock_seconds": 0.0462438749964349,
+  "n_segments": 2,
+  "wer": 0.21739130434782608,
+  "reference": "THE A TEAM OR YOU'D WATCH AIRWOLF BUT WHAT I REALLY ENJOYED THE MOST WERE THE BIG KIND OF MINI SERIES FAMILY EVENTS",
+  "utterance_id": "31a33c749a67",
+  "accent": "Irish English",
+  "speaker": "EDACC-C61-A"
+}

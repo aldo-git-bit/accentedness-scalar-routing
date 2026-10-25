@@ -1,0 +1,12 @@
+{
+  "text": "I mean, I'm doing a logical engineering, I'm glad to meeting those coming here like in June, like next month. So yeah, I'm almost done with my status and I'm just preparing to pursue masters degree and material science and engineering. So yeah.",
+  "avg_logprob": -0.5211474565749473,
+  "no_speech_prob": 0.034269958113630615,
+  "wall_clock_seconds": 0.09601416700752452,
+  "n_segments": 3,
+  "wer": 0.38095238095238093,
+  "reference": "OKAY UM I'M IN AERONAUT I'M DOING AERONAUTICAL ENGINEERING I'M GRADUATING THIS COMING YEAR LIKE IN JUNE LIKE NEXT MONTH SO YEAH I'M ALMOST DONE WITH MY STUDIES AND I'M JUST PREPARING TO PURSUE MASTER'S DEGREE IN MATERIALS SCIENCE AND ENGINEERING SO",
+  "utterance_id": "66a116aa6f95",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C19-B"
+}

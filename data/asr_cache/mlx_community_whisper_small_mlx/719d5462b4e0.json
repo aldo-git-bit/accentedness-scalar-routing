@@ -1,0 +1,12 @@
+{
+  "text": "So I love Garfield, I love Ratatouille, all of those kind of movies, I'd watch them again and again I think they're very light, they're great for completely de-stressing and just completely switching off of all.",
+  "avg_logprob": -0.228247149237271,
+  "no_speech_prob": 0.008827748708426952,
+  "wall_clock_seconds": 0.25628662500093924,
+  "n_segments": 3,
+  "wer": 0.05263157894736842,
+  "reference": "SO I LOVE GARFIELD I LOVE RATATOUILLE ALL OF THOSE KIND OF MOVIES I'D WATCH THEM AGAIN AND AGAIN I THINK THEY'RE VERY LIGHT THEY'RE GREAT FOR UM COMPLETELY DESTRESSING AND JUST COMPLETELY SWITCHING OFF OF ALL THE",
+  "utterance_id": "719d5462b4e0",
+  "accent": "Irish English",
+  "speaker": "EDACC-C47-B"
+}

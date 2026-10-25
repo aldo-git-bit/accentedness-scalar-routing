@@ -1,0 +1,12 @@
+{
+  "text": "Well, in India, it's all about food. So the more I learn, the better I get.",
+  "avg_logprob": -0.13651385130705657,
+  "no_speech_prob": 4.919599883718151e-12,
+  "wall_clock_seconds": 0.4399272500013467,
+  "n_segments": 2,
+  "wer": 0.0,
+  "reference": "WELL IN INDIA IT'S ALL ABOUT FOOD SO THE MORE I LEARN THE BETTER I GET",
+  "utterance_id": "57c2aeb40c62",
+  "accent": "Indian English",
+  "speaker": "EDACC-C36-A"
+}

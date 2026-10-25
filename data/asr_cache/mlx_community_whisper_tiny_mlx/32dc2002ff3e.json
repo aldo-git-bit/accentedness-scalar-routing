@@ -1,0 +1,12 @@
+{
+  "text": "What do they even do is the kid? I don't remember. They're watch TV, didn't read books. I literally think I just stayed outside.",
+  "avg_logprob": -0.4168906793361757,
+  "no_speech_prob": 0.016942450776696205,
+  "wall_clock_seconds": 0.058854540999163873,
+  "n_segments": 4,
+  "wer": 0.3333333333333333,
+  "reference": "<LAUGH> WHAT DID I EVEN DO AS A KID I CAN'T REMEMBER I DIDN'T WATCH TV I DIDN'T READ BOOKS I LITERALLY THINK I JUST STAYED OUTSIDE",
+  "utterance_id": "32dc2002ff3e",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-B"
+}

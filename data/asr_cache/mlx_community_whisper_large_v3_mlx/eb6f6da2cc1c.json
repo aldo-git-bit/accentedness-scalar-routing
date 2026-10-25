@@ -1,0 +1,12 @@
+{
+  "text": "Okay, I have the recording button and I'm going to start the conversation by introducing myself. Hello, this is FC26P1 saying hello to FC26P2. How are you doing P2?",
+  "avg_logprob": -0.25374548485938536,
+  "no_speech_prob": 0.4990035593509674,
+  "wall_clock_seconds": 1.0052674580001622,
+  "n_segments": 2,
+  "wer": 0.3953488372093023,
+  "reference": "OKAY I HAVE CLICKED THE RECORDING BUTTON AND I'M GOING TO START THE CONVERSATION BY INTRODUCING MYSELF UH HELLO UH THIS IS F C TWO SIX P ONE SAYING HELLO TO F C TWO SIX P TWO HOW ARE YOU DOING P TWO",
+  "utterance_id": "eb6f6da2cc1c",
+  "accent": "Indian English",
+  "speaker": "EDACC-C34-A"
+}

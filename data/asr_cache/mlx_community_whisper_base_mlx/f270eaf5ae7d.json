@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, well, I like Dave too. Besides the music, I also like British movies. This one I saw, I think, three years back. The gentleman or the gentleman is a British movie and you are a sense of the command of English.",
+  "avg_logprob": -0.5190995852152507,
+  "no_speech_prob": 0.25405600666999817,
+  "wall_clock_seconds": 0.13044720799371134,
+  "n_segments": 4,
+  "wer": 0.35714285714285715,
+  "reference": "YEAH EVERYONE LOVES DAVE UH I I I LIKE DAVE TOO AND AND BESIDES THE MUSIC AND FOOTBALL I ALSO LIKE BRITISH MOVIES UH THERE'S THIS ONE I SAW I THINK THREE YEARS BACK UM THE THE GENTLEMAN OR THE GENTLEMAN IS A BRITISH MOVIE AND YOU KNOW ACCENT STUFF AND THEIR COMMAND OF ENGLISH UM",
+  "utterance_id": "f270eaf5ae7d",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-A"
+}

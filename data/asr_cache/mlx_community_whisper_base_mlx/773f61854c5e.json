@@ -1,0 +1,12 @@
+{
+  "text": "I don't know for all the other ladies' thoughts. I just love Game of Thrones. I love how everything ended in the movie. I just love the characters. They all played their role perfectly. I love that movie. I'm not saying that movie that I would score Game of Thrones. I'm not.",
+  "avg_logprob": -0.5282809881516445,
+  "no_speech_prob": 0.009236746467649937,
+  "wall_clock_seconds": 0.16111854198970832,
+  "n_segments": 8,
+  "wer": 0.3050847457627119,
+  "reference": "I DON'T KNOW I DON'T I DON'T KNOW FOR OTHER LADIES BUT I JUST LOVE GAME OF THRONES I LOVE HOW EVERYTHING ENDED IN THE MOVIE I JUST I LOVE THE CHARACTERS LIKE THEY THEY ALL PLAYED THEIR ROLE PERFECTLY LIKE I LOVE THAT MOVIE I'VE NOT SEEN ANY MOVIE THAT THAT WILL OUTSCORE GAME OF THRONES I'VE NOT",
+  "utterance_id": "773f61854c5e",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C41-A"
+}

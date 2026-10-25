@@ -1,0 +1,12 @@
+{
+  "text": "it's easy but it's not",
+  "avg_logprob": -0.4126777648925781,
+  "no_speech_prob": 2.0053039090361935e-11,
+  "wall_clock_seconds": 0.39861683300114237,
+  "n_segments": 1,
+  "wer": 0.7142857142857143,
+  "reference": "YOU KNOW MOST PEOPLE THINK <OVERLAP> AS IF IT'S EASY BUT IT IS NOT",
+  "utterance_id": "c25a4d73c42c",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-B"
+}

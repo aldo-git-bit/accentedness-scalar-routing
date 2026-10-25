@@ -1,0 +1,12 @@
+{
+  "text": "I have been, yes, I have been to Scotland twice. I have been to Edinburgh once and I have been to Glasgow once. In fact, I was only in Glasgow last September for a wedding. Oh, my God. Unbelievable. I fell in love with the place. When I went to Edinburgh was about maybe 25 years ago. We stayed in a place called Loch Eich, which was a gorgeous log cabin, and we did a load of hiking there. And we did orienteering and there were so many bugs there. The people in orienteering, they'd actually have the huge big white suit on while they were, you know, handing out all the sheets in the woods. There was that many bugs.",
+  "avg_logprob": -0.19685664020631496,
+  "no_speech_prob": 0.019095765677495644,
+  "wall_clock_seconds": 3.0476386659975105,
+  "n_segments": 13,
+  "wer": 0.048,
+  "reference": "I HAVE BEEN YES I HAVE BEEN TO SCOTLAND TWICE I HAVE BEEN TO EDINBURGH ONCE AND I HAVE BEEN TO GLASGOW ONCE IN FACT I WAS ONLY IN GLASGOW LAST SEPTEMBER FOR A WEDDING OH MY GOD UNBELIEVABLE I FELL IN LOVE WITH THE PLACE UH WHEN I WENT TO EDINBURGH WAS ABOUT MAYBE TWENTY FIVE YEARS AGO WE STAYED IN A PLACE CALLED LOCH ECK WHICH WAS A GORGEOUS LOG CABIN AND WE DID A LOAD OF HIKING THERE AND A LOT WE DID ORIENTEERING AND THERE WERE SO MANY BUGS THERE THE PEOPLE IN ORIENTEERING THEY'D ACTUALLY HAVE THE HUGE BIG WHITE SUIT ON WHILE THEY WERE YOU KNOW HANDING OUT ALL THE SHEETS IN THE WOODS THERE WAS THAT MANY BUGS",
+  "utterance_id": "aa1432ba2d8c",
+  "accent": "Irish English",
+  "speaker": "EDACC-C47-B"
+}

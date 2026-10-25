@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, yeah, absolutely. I think it's our I do generally think that I just I could eat eight, you have military car a lot to put against it. And as you said earlier, I'm sorry, the noise and how quiet it is, etc. A lot of companies try to develop specific noises so that people can hear them come in the center.",
+  "avg_logprob": -0.5147533646549087,
+  "no_speech_prob": 0.048164136707782745,
+  "wall_clock_seconds": 0.1741354580008192,
+  "n_segments": 4,
+  "wer": 0.417910447761194,
+  "reference": "YEP YEP OH ABSOLUTELY I THINK IT'S UH UM I I DO GENERALLY THINK THAT IT'S A GREAT IDEA HAVING ELECTRIC CAR A LOT TO <DTMF> AGAINST IT AND AND AS YOU SAID EARLIER ON SORRY THE UH THE THE NOISE AND HOW QUIET IT IS ET CETERA A LOT OF COMPANIES TRY TO DEVELOP SPECIFIC NOISES UH SO THAT PEOPLE CAN HEAR THEM COMING ET CETERA",
+  "utterance_id": "409507d3dafd",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

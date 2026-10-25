@@ -1,0 +1,12 @@
+{
+  "text": "It's a cabbage, right? Yeah.",
+  "avg_logprob": -0.43347086225237164,
+  "no_speech_prob": 0.0340147390961647,
+  "wall_clock_seconds": 0.5942102080007317,
+  "n_segments": 2,
+  "wer": 0.8,
+  "reference": "THE CABBAGE RIGHT SORT OF",
+  "utterance_id": "85b4db5c3b6f",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C06-B"
+}

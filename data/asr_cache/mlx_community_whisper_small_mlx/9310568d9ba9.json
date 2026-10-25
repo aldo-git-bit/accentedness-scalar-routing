@@ -1,0 +1,12 @@
+{
+  "text": "Oh yeah, that makes sense I guess. So is it just a whole cherry? So you put in and...",
+  "avg_logprob": -0.6359437533787319,
+  "no_speech_prob": 0.029481491073966026,
+  "wall_clock_seconds": 0.1628076669985603,
+  "n_segments": 2,
+  "wer": 0.45454545454545453,
+  "reference": "ALL RIGHT OKAY OH YEAH ABOUT THAT MIXTURE IT'S LIKE A SO IS IT JUST A WHOLE CHORIZO YOU PUT IN AND",
+  "utterance_id": "9310568d9ba9",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

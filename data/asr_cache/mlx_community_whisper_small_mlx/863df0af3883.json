@@ -1,0 +1,12 @@
+{
+  "text": "They're quiet and territories.",
+  "avg_logprob": -2.478228463066949,
+  "no_speech_prob": 0.14644862711429596,
+  "wall_clock_seconds": 1.7924047499982407,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "IT SOUNDS TERRIBLE IDEA",
+  "utterance_id": "863df0af3883",
+  "accent": "Irish English",
+  "speaker": "EDACC-C50-A"
+}

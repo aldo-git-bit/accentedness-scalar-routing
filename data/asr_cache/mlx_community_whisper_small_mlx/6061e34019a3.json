@@ -1,0 +1,12 @@
+{
+  "text": "Uph territories?",
+  "avg_logprob": -4.226324081420898,
+  "no_speech_prob": 0.15802545845508575,
+  "wall_clock_seconds": 1.803583749999234,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "OF YOURSELF",
+  "utterance_id": "6061e34019a3",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C32-B"
+}

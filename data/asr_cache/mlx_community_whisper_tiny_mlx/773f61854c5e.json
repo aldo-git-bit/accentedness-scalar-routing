@@ -1,0 +1,12 @@
+{
+  "text": "I don't know, I don't know for other ladies' thoughts. I just love Game of Thrones. I love how everything ended in the movie. I love the characters. Like the other play DJ Roo perfectly. I love that movie. I'm not saying that they'll ask all Game of Thrones.",
+  "avg_logprob": -0.6575223971635867,
+  "no_speech_prob": 0.03511201962828636,
+  "wall_clock_seconds": 0.1060747919982532,
+  "n_segments": 7,
+  "wer": 0.3559322033898305,
+  "reference": "I DON'T KNOW I DON'T I DON'T KNOW FOR OTHER LADIES BUT I JUST LOVE GAME OF THRONES I LOVE HOW EVERYTHING ENDED IN THE MOVIE I JUST I LOVE THE CHARACTERS LIKE THEY THEY ALL PLAYED THEIR ROLE PERFECTLY LIKE I LOVE THAT MOVIE I'VE NOT SEEN ANY MOVIE THAT THAT WILL OUTSCORE GAME OF THRONES I'VE NOT",
+  "utterance_id": "773f61854c5e",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C41-A"
+}

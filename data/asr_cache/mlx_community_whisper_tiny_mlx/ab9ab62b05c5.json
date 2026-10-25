@@ -1,0 +1,12 @@
+{
+  "text": "There it is.",
+  "avg_logprob": -0.8829302787780762,
+  "no_speech_prob": 0.3552002012729645,
+  "wall_clock_seconds": 0.0682329999981448,
+  "n_segments": 1,
+  "wer": 1.5,
+  "reference": "YEAH SURE",
+  "utterance_id": "ab9ab62b05c5",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C31-B"
+}

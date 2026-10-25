@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, yeah, yeah, sort of like a scout handbook, I guess, but like further, weird thing. I like the most cool thing I've ever seen is when I went to the initiation line of Portugal.",
+  "avg_logprob": -0.3748384094238281,
+  "no_speech_prob": 0.05251285433769226,
+  "wall_clock_seconds": 0.11506900000676978,
+  "n_segments": 2,
+  "wer": 0.275,
+  "reference": "YEAH YEAH YEAH SORT LIKE A SCOUT HANDBOOK I GUESS BUT LIKE FOR THEIR WEIRD THING I LIKE UH THE MOST CULTY THING I'VE EVER SEEN IS WHEN I WENT TO THE INITIATION WHILE IN PORTUGAL I THINK THAT WAS",
+  "utterance_id": "739f53646ba8",
+  "accent": "Irish English",
+  "speaker": "EDACC-C50-A"
+}

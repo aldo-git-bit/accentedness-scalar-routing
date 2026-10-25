@@ -1,0 +1,12 @@
+{
+  "text": "and it",
+  "avg_logprob": -0.8863088607788085,
+  "no_speech_prob": 0.6357843279838562,
+  "wall_clock_seconds": 0.030853874995955266,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "YEAH I KNOW WHAT YOU MEAN",
+  "utterance_id": "259426338460",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C11-B"
+}

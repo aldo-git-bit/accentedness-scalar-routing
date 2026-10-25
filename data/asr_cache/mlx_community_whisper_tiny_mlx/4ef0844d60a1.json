@@ -1,0 +1,12 @@
+{
+  "text": "And that's reasonable, eating grits a bit too far.",
+  "avg_logprob": -0.79085373878479,
+  "no_speech_prob": 0.02863970771431923,
+  "wall_clock_seconds": 0.031929459000821225,
+  "n_segments": 1,
+  "wer": 0.3,
+  "reference": "YEAH THAT'S REASONABLE EATING BIRDS IS A BIT TOO FAR",
+  "utterance_id": "4ef0844d60a1",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-B"
+}

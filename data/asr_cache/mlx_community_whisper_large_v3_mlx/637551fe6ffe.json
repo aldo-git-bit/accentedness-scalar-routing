@@ -1,0 +1,12 @@
+{
+  "text": "I was",
+  "avg_logprob": -0.9244049072265625,
+  "no_speech_prob": 0.9274436235427856,
+  "wall_clock_seconds": 0.4869947500010312,
+  "n_segments": 1,
+  "wer": 0.6666666666666666,
+  "reference": "WELL I WOULDN'T",
+  "utterance_id": "637551fe6ffe",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C17-A"
+}

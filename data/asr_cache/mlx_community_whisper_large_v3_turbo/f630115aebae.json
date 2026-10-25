@@ -1,0 +1,12 @@
+{
+  "text": "I want to boast about myself. I have been cooking since when I was nine. Okay.",
+  "avg_logprob": -0.3347862448011126,
+  "no_speech_prob": 6.051931525363763e-12,
+  "wall_clock_seconds": 0.4417990830115741,
+  "n_segments": 4,
+  "wer": 0.30434782608695654,
+  "reference": "UH WELL I I I WANT TO I WANT TO BOAST ABOUT MYSELF I HAVE BEEN COOKING SINCE WHEN I WAS NINE OKAY",
+  "utterance_id": "f630115aebae",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-B"
+}

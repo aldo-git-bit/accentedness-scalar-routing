@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, I'd be cool. I wonder if he's like a doctor. That's a big castle.",
+  "avg_logprob": -0.5266096496582031,
+  "no_speech_prob": 0.0266428180038929,
+  "wall_clock_seconds": 0.06742858400684781,
+  "n_segments": 1,
+  "wer": 0.3684210526315789,
+  "reference": "YEAH THAT'D BE COOL LIKE I WONDER IF THERE'S LIKE A DOCTOR WHO HAS LIKE A BIG CASTLE UM",
+  "utterance_id": "8c905ce5aff3",
+  "accent": "Irish English",
+  "speaker": "EDACC-C50-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "I still won't see for it.",
+  "avg_logprob": -0.8083208257501776,
+  "no_speech_prob": 0.21072253584861755,
+  "wall_clock_seconds": 0.042175416005193256,
+  "n_segments": 1,
+  "wer": 1.5,
+  "reference": "IT'S A LOT SAFER",
+  "utterance_id": "cc47e6329ea1",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-B"
+}

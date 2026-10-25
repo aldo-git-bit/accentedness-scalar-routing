@@ -1,0 +1,12 @@
+{
+  "text": "If I know what I know now, I don't think I will answer the economics because when I was living in Segonry school, we are all filling out what the cost is we are going to study at the university, applying to universities, filling out application of funds for the cost is wanted to study. No, anybody has studied arts in Segonry school.",
+  "avg_logprob": -0.639894513467058,
+  "no_speech_prob": 0.18110643699765205,
+  "wall_clock_seconds": 0.1909982079960173,
+  "n_segments": 2,
+  "wer": 0.3888888888888889,
+  "reference": "IF I KNOW WHAT I KNOW NOW I DON'T THINK I WOULD'VE THE ECONOMICS BECAUSE WHEN I WAS LIVING SECONDARY SCHOOL AND WE ARE ALL FAILING OUT UM UM WHAT THE COURSES WE ARE GOING TO STUDY AT THE UNIVERSITY UM APPLYING TO UNIVERSITIES FILLING OUT UM UM APPLICATION FORMS FOR THE COURSES WE WANTED TO STUDY JUST NO ANYBODY THAT ANYBODY THAT STUDIES AT IN THE IN SECONDARY IN SECONDARY SCHOOL",
+  "utterance_id": "cd84b4b57a17",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-A"
+}

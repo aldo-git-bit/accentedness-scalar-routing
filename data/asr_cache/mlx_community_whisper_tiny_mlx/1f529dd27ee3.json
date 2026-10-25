@@ -1,0 +1,12 @@
+{
+  "text": "you can understand it and you need the butter to stick this wrinkles so it has hard works.",
+  "avg_logprob": -0.8449062000621449,
+  "no_speech_prob": 0.016183599829673767,
+  "wall_clock_seconds": 0.03718525001022499,
+  "n_segments": 1,
+  "wer": 0.3333333333333333,
+  "reference": "YOU CAN UNDERSTAND IT AND YOU NEED THE BUTTER TO STICK THE SPRINKLES LIKE THAT'S HOW IT WORKS",
+  "utterance_id": "1f529dd27ee3",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C11-B"
+}

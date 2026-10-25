@@ -1,0 +1,12 @@
+{
+  "text": "um... did i explain the time alone?",
+  "avg_logprob": -0.9542847360883441,
+  "no_speech_prob": 0.07518510520458221,
+  "wall_clock_seconds": 0.02731520800443832,
+  "n_segments": 2,
+  "wer": 0.8333333333333334,
+  "reference": "DO YOU LIKE SPENDING TIME ALONE",
+  "utterance_id": "a79073c62dfd",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C32-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "That's what the clich\u00e9 says about classical.",
+  "avg_logprob": -0.43028754454392654,
+  "no_speech_prob": 0.08043420314788818,
+  "wall_clock_seconds": 0.11588983399997232,
+  "n_segments": 1,
+  "wer": 0.625,
+  "reference": "AND AT LEAST THAT'S WHAT THEY SAID THE THAT IS WHAT THE CLICH\u00e9 SAYS ABOUT GLASGOW",
+  "utterance_id": "02c94313938b",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C20-B"
+}

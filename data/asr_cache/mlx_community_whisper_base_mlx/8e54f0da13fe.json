@@ -1,0 +1,12 @@
+{
+  "text": "That's great.",
+  "avg_logprob": -0.654533863067627,
+  "no_speech_prob": 0.3616573214530945,
+  "wall_clock_seconds": 0.034280708990991116,
+  "n_segments": 1,
+  "wer": 0.0,
+  "reference": "THAT'S GREAT",
+  "utterance_id": "8e54f0da13fe",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C44-A"
+}

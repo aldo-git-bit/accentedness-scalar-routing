@@ -1,0 +1,12 @@
+{
+  "text": "It's all about just where any of these things and how these we built so I've thought it was staying around a minute. I guess, and don't get me wrong, it's not something that are routinely remembered, but when you mentioned it there, and you're straight away, what you were talking about.",
+  "avg_logprob": -0.6630630493164062,
+  "no_speech_prob": 0.013154895044863224,
+  "wall_clock_seconds": 0.09418133299914189,
+  "n_segments": 3,
+  "wer": 0.40816326530612246,
+  "reference": "IT'S ALL IT JUST LEARNING THESE THINGS AND YOU KNOW THESE WE <DTMF> THINGS THAT STAY IN YOUR MEMORY I GUESS AND DON'T GET ME WRONG IT'S NOT SOMETHING THAT I ROUTINELY REMEMBERED BUT WHEN YOU MENTIONED IT THERE I I KNEW STRAIGHT AWAY WHAT YOU WERE TALKING ABOUT",
+  "utterance_id": "ac308f15179b",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

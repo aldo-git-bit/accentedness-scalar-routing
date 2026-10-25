@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, the day when I took the train to Manchester.",
+  "avg_logprob": -0.29319467544555666,
+  "no_speech_prob": 1.1509728066461111e-11,
+  "wall_clock_seconds": 0.4088691250071861,
+  "n_segments": 1,
+  "wer": 0.23076923076923078,
+  "reference": "YEAH BUT YEAH BUT THE DAY WHEN I TOOK THE TRAIN TO MANCHESTER",
+  "utterance_id": "fbb1745f4272",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B"
+}

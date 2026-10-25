@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, I was speaking to my friend who is a translator, a French translator. So he was telling me about this platform. He was, he had to take their tests. He was signing up on the platform to take their test. And he was telling me that it's a translator, translation gig, that you sign up, take the translation piece or test, you pass, and they were not sending you documents from time to time to food for them and translate. Okay, so most people speak French, understand French, and they transcribe or translate.",
+  "avg_logprob": -0.33588327365271997,
+  "no_speech_prob": 5.379428239665751e-12,
+  "wall_clock_seconds": 1.078768334002234,
+  "n_segments": 10,
+  "wer": 0.2336448598130841,
+  "reference": "YEAH I WAS SPEAKING TO MY FRIEND WHO IS THE TRANSLATOR OF A FRENCH TRANSLATOR SO HE WAS TELLING ME ABOUT THERE IS THIS PLATFORM HE WAS HE HAD TO TAKE THEIR TEST HE WAS SIGNING UP ON THE PLATFORM TO TAKE THEIR TEST AND HE WAS TELLING ME THAT IT'S TRANSLATOR TRANSLATION GIG THAT UM YOU UM YOU SIGN UP THERE TAKE THE TRANSLATION UM QUIZ OR TEST IF YOU PASS THEN THEY'LL JUST BE SENDING YOU DOCUMENTS FROM TIME TO TIME TO PROOFREAD FOR THEM AND TRANSLATE THEY'LL PAY SO SENT ME SOME MOST MOST PEOPLE SPEAK FRENCH UNDERSTAND FRENCH AND THEY TRANSCRIBE OR TRANSLATES",
+  "utterance_id": "3bdd3dc74d0d",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-A"
+}

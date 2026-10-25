@@ -1,0 +1,12 @@
+{
+  "text": "There was this today, so like the new MD came up as a, he doesn't want people to be working from home. And guess what, the less the kind of let's ask you go, like a peeper resign in.",
+  "avg_logprob": -0.8004696944664265,
+  "no_speech_prob": 0.025765081867575645,
+  "wall_clock_seconds": 0.08059987500018906,
+  "n_segments": 4,
+  "wer": 0.4358974358974359,
+  "reference": "THERE WAS THIS THING I SAW ONLINE THE NEW MD CAME UP AND SAY THAT HE DOESN'T WANT PEOPLE TO BE WORKING FROM HOME AND GUESS WHAT THE NEXT DAY THE KIND OF LETTERS HE GOT LIKE PEOPLE RESIGNING",
+  "utterance_id": "359d78d5761d",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-B"
+}

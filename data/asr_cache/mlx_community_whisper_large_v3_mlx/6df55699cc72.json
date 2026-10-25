@@ -1,0 +1,12 @@
+{
+  "text": "I think I'm going to give it a shot. Give it a shot.",
+  "avg_logprob": -0.2615177517845517,
+  "no_speech_prob": 0.050704747438430786,
+  "wall_clock_seconds": 0.6949832079990301,
+  "n_segments": 2,
+  "wer": 0.23076923076923078,
+  "reference": "I THINK I'M GONNA GIVE IT A SHOT I'LL GIVE IT A SHOT",
+  "utterance_id": "6df55699cc72",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-A"
+}

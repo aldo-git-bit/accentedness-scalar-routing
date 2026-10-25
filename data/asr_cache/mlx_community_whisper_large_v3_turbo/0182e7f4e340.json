@@ -1,0 +1,12 @@
+{
+  "text": "Have you ever been the one who is pushing?",
+  "avg_logprob": -0.3175051395709698,
+  "no_speech_prob": 5.540161211736727e-12,
+  "wall_clock_seconds": 0.40520420800021384,
+  "n_segments": 1,
+  "wer": 0.3333333333333333,
+  "reference": "BUT HAVE YOU EVER BEEN THE ONE WHO'S PUSHING",
+  "utterance_id": "0182e7f4e340",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C22-A"
+}

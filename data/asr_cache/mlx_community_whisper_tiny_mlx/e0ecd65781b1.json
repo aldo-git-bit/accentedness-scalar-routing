@@ -1,0 +1,12 @@
+{
+  "text": "I'm smart and I didn't really pay much attention on that one.",
+  "avg_logprob": -0.9079747729831271,
+  "no_speech_prob": 0.17750969529151917,
+  "wall_clock_seconds": 0.03300525000668131,
+  "n_segments": 1,
+  "wer": 0.6,
+  "reference": "UM UNFORTUNATELY NO I DIDN'T REALLY PAY MUCH ATTENTION UH TO SOME OF THOSE THINGS",
+  "utterance_id": "e0ecd65781b1",
+  "accent": "Indian English",
+  "speaker": "EDACC-C36-A"
+}

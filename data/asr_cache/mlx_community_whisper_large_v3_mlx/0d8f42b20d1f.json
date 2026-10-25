@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, that stood out to me. Do you want to start?",
+  "avg_logprob": -0.22934196977054372,
+  "no_speech_prob": 0.022222455590963364,
+  "wall_clock_seconds": 0.6283491659996798,
+  "n_segments": 1,
+  "wer": 0.2,
+  "reference": "YEAH THAT STOOD OUT TO ME DO YOU WANNA START",
+  "utterance_id": "0d8f42b20d1f",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C17-A"
+}

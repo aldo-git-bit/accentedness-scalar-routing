@@ -1,0 +1,12 @@
+{
+  "text": "I feel like, you know, I feel like as students go, we're both better cooks than a lot of students, particularly like when we in the first, the like first, second, third years. I think when you get into the later years of the degree, people generally have learned how to cook by then.",
+  "avg_logprob": -0.10183043479919433,
+  "no_speech_prob": 0.007600026670843363,
+  "wall_clock_seconds": 1.287094082999829,
+  "n_segments": 2,
+  "wer": 0.12280701754385964,
+  "reference": "I FEEL LIKE YOU YOU KNOW I I FEEL LIKE AS STUDENTS GO WE BOTH BETTER COOK FOR A LOT OF STUDENTS PARTICULARLY UH LIKE WHEN WE'RE IN THE FIRST THE LIKE FIRST SECOND THIRD YEARS I THINK WHEN YOU GET INTO THE LATER YEARS OF THE DEGREE PEOPLE GENERALLY HAVE LEARNED HOW TO COOK BY THEN",
+  "utterance_id": "b1f3ef480d74",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C11-B"
+}

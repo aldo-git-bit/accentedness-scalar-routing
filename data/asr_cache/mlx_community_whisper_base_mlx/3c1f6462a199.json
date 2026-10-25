@@ -1,0 +1,12 @@
+{
+  "text": "That's the last people I could ever want more of a gun.",
+  "avg_logprob": -0.42821185729082895,
+  "no_speech_prob": 0.06822710484266281,
+  "wall_clock_seconds": 0.053095875002327375,
+  "n_segments": 1,
+  "wer": 0.25,
+  "reference": "THEY'RE THE LAST PEOPLE I COULD EVER WANT TO HAVE A GUN",
+  "utterance_id": "3c1f6462a199",
+  "accent": "Irish English",
+  "speaker": "EDACC-C50-A"
+}

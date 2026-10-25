@@ -1,0 +1,12 @@
+{
+  "text": "And regardless, it's like speaking during a movie. It's a bit annoying because it's like, I know what's happening on the screen. I don't really need you to commentate. You know? And, uh...",
+  "avg_logprob": -0.45705722173055013,
+  "no_speech_prob": 0.1702776551246643,
+  "wall_clock_seconds": 0.1333488749951357,
+  "n_segments": 6,
+  "wer": 0.029411764705882353,
+  "reference": "AND REGARDLESS IT'S LIKE SPEAKING DURING A MOVIE IT'S A BIT ANNOYING BECAUSE IT'S LIKE I I KNOW WHAT'S HAPPENING ON THE SCREEN I DON'T REALLY NEED YOU TO COMMENTATE YOU KNOW AND UH",
+  "utterance_id": "f60873847568",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C33-A"
+}

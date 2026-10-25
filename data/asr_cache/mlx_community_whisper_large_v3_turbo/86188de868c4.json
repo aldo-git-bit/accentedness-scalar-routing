@@ -1,0 +1,12 @@
+{
+  "text": "Well, of course, my favorite book from when I was small, right up to the present day is Beatrix Potter. Absolutely love Beatrix Potter. And I have one in my bookshelf here, a really, really big, fat book with all the different animals in it. And what I often do when I'm buying gifts now for children, for babies, people who have their babies, I always buy either Beatrix Potter and little, you can buy blankets with them on it or some crockery, or I would actually buy them the book. But as an older person, I read fiction. And when I was younger, I did read a lot. But what I enjoyed always as a young person and as an older person was all books on health, health and fitness and maybe kind of mindfulness and meditation.",
+  "avg_logprob": -0.16806757927201915,
+  "no_speech_prob": 1.1583610210353507e-12,
+  "wall_clock_seconds": 1.5949217089946615,
+  "n_segments": 10,
+  "wer": 0.028169014084507043,
+  "reference": "WELL OF COURSE MY FAVORITE BOOK FROM WHEN I WAS SMALL RIGHT UP TO THE PRESENT DAY IS BEATRIX POTTER ABSOLUTELY LOVE BEATRIX POTTER AND I HAVE UH ONE IN MY BOOKSHELF HERE A REALLY REALLY BIG FAT BOOK WITH ALL THE DIFFERENT ANIMALS IN IT AND WHAT I OFTEN DO WHEN I'M BUYING GIFTS NOW FOR FOR CHILDREN FOR BABIES PEOPLE WHO HAVE THEIR BABIES I ALWAYS BUY EITHER BEATRIX POTTER AND LITTLE YOU CAN BUY BLANKETS WITH THEM ON IT OR SOME CROCKERY OR I WOULD ACTUALLY BUY THEM THE BOOK BUT UM AS AN OLDER PERSON I READ FICTION AND WHEN I WAS YOUNGER I DID READ A LOT BUT WHAT I ENJOYED ALWAYS AS A YOUNG PERSON AND AS AN OLDER PERSON WAS ALL BOOKS ON HEALTH HEALTH AND FITNESS AND MAYBE KIND OF UM MINDFULNESS AND MEDITATION",
+  "utterance_id": "86188de868c4",
+  "accent": "Irish English",
+  "speaker": "EDACC-C47-B"
+}

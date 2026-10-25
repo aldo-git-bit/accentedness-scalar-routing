@@ -1,0 +1,12 @@
+{
+  "text": "Go territories.",
+  "avg_logprob": -2.9892024993896484,
+  "no_speech_prob": 0.14203152060508728,
+  "wall_clock_seconds": 2.859832166999695,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "LIKE GHOST STORIES",
+  "utterance_id": "a7927d59c944",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B"
+}

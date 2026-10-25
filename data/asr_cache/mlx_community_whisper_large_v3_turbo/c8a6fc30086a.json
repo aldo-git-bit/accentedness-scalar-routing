@@ -1,0 +1,12 @@
+{
+  "text": "I don't know. There we go. Smiling.",
+  "avg_logprob": -0.49913667377672705,
+  "no_speech_prob": 1.7744332479058267e-12,
+  "wall_clock_seconds": 0.4175778749922756,
+  "n_segments": 3,
+  "wer": 0.42857142857142855,
+  "reference": "I DON'T KNOW I WOULD STOP SMILING",
+  "utterance_id": "c8a6fc30086a",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C28-B"
+}

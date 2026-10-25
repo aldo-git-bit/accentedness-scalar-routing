@@ -1,0 +1,12 @@
+{
+  "text": "Then that does include Dr. C.",
+  "avg_logprob": -1.144221999428489,
+  "no_speech_prob": 0.11637774854898453,
+  "wall_clock_seconds": 1.9253114169987384,
+  "n_segments": 1,
+  "wer": 0.75,
+  "reference": "AND IT DOES INCLUDE ARTHUR'S SEAT AND SO",
+  "utterance_id": "e28c0331e7f1",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-B"
+}

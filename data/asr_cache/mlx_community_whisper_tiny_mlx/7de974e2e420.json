@@ -1,0 +1,12 @@
+{
+  "text": "You know, it's on the board. It has two big, two big different color triangles. A white and a black triangle and it has little circles and you need to kind of follow the circles. It's the opposite side of the chest, for it usually. It's on the opposite side or maybe that's drafts. But yeah, I like to play chess and I think when I was younger when I was a kid, I really liked to play different games like Hayden Seek or Scream. Scream was a really fun game where you used to play when.",
+  "avg_logprob": -0.2897981617726436,
+  "no_speech_prob": 0.05850455444306135,
+  "wall_clock_seconds": 0.1733935410011327,
+  "n_segments": 6,
+  "wer": 0.1111111111111111,
+  "reference": "NO YOU KNOW IT'S ON THE BOARD IT HAS TWO THREE BIG TWO BIG DIFFERENT COLOR TRIANGLES UH WHITE AND A BLACK TRIANGLE AND IT HAS LITTLE CIRCLES AND YOU NEED TO KIND OF FOLLOW THE CIRCLES IT'S THE OPPOSITE SIDE OF THE CHESS BOARD USUALLY IT'S ON THE OPPOSITE SIDE OR MAYBE THAT'S DRAFTS BUT YEAH I LIKE TO PLAY CHESS AND I THINK WHEN I WAS YOUNGER WHEN I WAS A KID I REALLY LIKED TO PLAY DIFFERENT GAMES LIKE UM HIDE AND SEEK OR SCREAM SCREAM WAS A REALLY FUN GAME WE USED TO PLAY WHEN",
+  "utterance_id": "7de974e2e420",
+  "accent": "Irish English",
+  "speaker": "EDACC-C47-A"
+}

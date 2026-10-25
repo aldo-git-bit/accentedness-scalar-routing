@@ -1,0 +1,12 @@
+{
+  "text": "I believe you are a 9-5-Gis-Diskers. I think everyone likes to walk from home.",
+  "avg_logprob": -0.9998355229695638,
+  "no_speech_prob": 0.0440298356115818,
+  "wall_clock_seconds": 0.04663250000157859,
+  "n_segments": 2,
+  "wer": 0.631578947368421,
+  "reference": "YEAH PEOPLE ARE LEAVING THEIR NINE TO FIVE THESE DAYS BECAUSE I THINK EVERYONE LIKES TO WORK FROM HOME",
+  "utterance_id": "0186569c5727",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-B"
+}

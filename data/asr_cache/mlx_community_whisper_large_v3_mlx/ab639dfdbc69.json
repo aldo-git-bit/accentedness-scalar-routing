@@ -1,0 +1,12 @@
+{
+  "text": "So I just said I spend all the time with my family. So I had planned, I'm planning to go over there.",
+  "avg_logprob": -0.19341467272850774,
+  "no_speech_prob": 0.0657571405172348,
+  "wall_clock_seconds": 0.7930686660001811,
+  "n_segments": 2,
+  "wer": 0.2692307692307692,
+  "reference": "SO I JUST SAID UH I SPEND MY ALL THE TIME WITH MY FAMILY SO I HAVE PLAN UH I'M PLANNING TO GO OVER IN LIKE",
+  "utterance_id": "ab639dfdbc69",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C31-B"
+}

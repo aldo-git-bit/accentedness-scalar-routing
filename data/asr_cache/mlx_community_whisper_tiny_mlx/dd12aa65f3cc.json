@@ -1,0 +1,12 @@
+{
+  "text": "",
+  "avg_logprob": 0.0,
+  "no_speech_prob": 0.0,
+  "wall_clock_seconds": 0.017965249993721955,
+  "n_segments": 0,
+  "wer": 1.0,
+  "reference": "OH YES",
+  "utterance_id": "dd12aa65f3cc",
+  "accent": "Irish English",
+  "speaker": "EDACC-C47-A"
+}

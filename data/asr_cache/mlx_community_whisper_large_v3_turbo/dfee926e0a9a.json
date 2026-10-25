@@ -1,0 +1,12 @@
+{
+  "text": "Is that all their questions?",
+  "avg_logprob": -0.26544443766276044,
+  "no_speech_prob": 1.1100852008449902e-11,
+  "wall_clock_seconds": 0.39951616601319984,
+  "n_segments": 1,
+  "wer": 0.0,
+  "reference": "IS THAT ALL THEIR QUESTIONS",
+  "utterance_id": "dfee926e0a9a",
+  "accent": "Irish English",
+  "speaker": "EDACC-C50-A"
+}

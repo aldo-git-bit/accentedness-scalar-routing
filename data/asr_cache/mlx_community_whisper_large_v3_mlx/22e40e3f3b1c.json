@@ -1,0 +1,12 @@
+{
+  "text": "Sugal and the Tone.",
+  "avg_logprob": -0.5793580055236817,
+  "no_speech_prob": 0.12971024215221405,
+  "wall_clock_seconds": 0.5535009170016565,
+  "n_segments": 1,
+  "wer": 0.75,
+  "reference": "SUGO IN THE TOWN",
+  "utterance_id": "22e40e3f3b1c",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

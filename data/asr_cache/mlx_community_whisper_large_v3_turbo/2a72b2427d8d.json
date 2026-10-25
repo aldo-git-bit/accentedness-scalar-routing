@@ -1,0 +1,12 @@
+{
+  "text": "question yeah i get it so actually um i'm learning digital skills yeah because that's where the world is into now that's where the world is going into",
+  "avg_logprob": -0.11656887001461452,
+  "no_speech_prob": 4.8836520764872215e-12,
+  "wall_clock_seconds": 0.4615214579971507,
+  "n_segments": 2,
+  "wer": 0.2222222222222222,
+  "reference": "I GET YOU I GET THE WHOLE QUESTION YEAH I GET IT SO ACTUALLY UM I'M LEARNING DIGITAL SKILLS YEAH BECAUSE THAT'S WHERE THE WORLD IS INTO NOW THAT'S WHERE THE WORLD IS GOING INTO TODAY",
+  "utterance_id": "2a72b2427d8d",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-A"
+}

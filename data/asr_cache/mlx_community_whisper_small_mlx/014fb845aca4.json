@@ -1,0 +1,12 @@
+{
+  "text": "That's right. They can, their health can rapidly decline sadly and it's a shame. Do you have any pain?",
+  "avg_logprob": -0.34138965606689453,
+  "no_speech_prob": 0.017869139090180397,
+  "wall_clock_seconds": 0.1816499170017778,
+  "n_segments": 4,
+  "wer": 0.14285714285714285,
+  "reference": "THAT'S RIGHT THEY CAN THEY THEY THEIR HEALTH CAN RAPIDLY DECLINE SADLY AND IT'S A SHAME DO YOU HAVE ANY PETS",
+  "utterance_id": "014fb845aca4",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-A"
+}

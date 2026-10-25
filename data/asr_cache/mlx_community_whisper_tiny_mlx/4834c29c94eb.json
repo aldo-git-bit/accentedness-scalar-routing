@@ -1,0 +1,12 @@
+{
+  "text": "finally. I've lived the ball. We'll see the other fan. Thank you. finally.",
+  "avg_logprob": -1.014216783311632,
+  "no_speech_prob": 0.1326623409986496,
+  "wall_clock_seconds": 1.0190077919978648,
+  "n_segments": 52,
+  "wer": 0.9615384615384616,
+  "reference": "I PLAY I I PLAY FOOTBALL I'M A C RONALDO FAN AND I AND I THINK HE INSPIRED MY PLAYING FOOTBALL SO I LOVE PLAYING FOOTBALL",
+  "utterance_id": "4834c29c94eb",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C41-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "and he has so many goofy noises and moments and stuff with hammers and his explosions.",
+  "avg_logprob": -0.3477348827180408,
+  "no_speech_prob": 0.054260097444057465,
+  "wall_clock_seconds": 0.14391408400115324,
+  "n_segments": 1,
+  "wer": 0.25,
+  "reference": "YEAH IT'S GREAT AND HE HAS SO MANY GOOFY UH NOISES AND MOVEMENTS AND STUFF WITH HAMMERS AND HIS EXPLOSIONS",
+  "utterance_id": "d0cd637c92f3",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C06-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "How about you? How about you? How you spend your holidays?",
+  "avg_logprob": -0.5052462746115292,
+  "no_speech_prob": 0.07789984345436096,
+  "wall_clock_seconds": 0.05296470799657982,
+  "n_segments": 1,
+  "wer": 0.16666666666666666,
+  "reference": "HOW ABOUT YOU HOW ABOUT YOU HOW ARE YOU SPENDING YOUR HOLIDAYS",
+  "utterance_id": "ab0f6182e300",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C31-A"
+}

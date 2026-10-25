@@ -1,0 +1,12 @@
+{
+  "text": "Yes, I completely agree with that. There's a lot of factories producing a lot of harmful chemicals into the atmosphere. So that certainly is something that needs to be looked at. But yes, as you say, it's down to everybody to play their part now. And I think certainly, as you say, about the education. It's about educating the younger generation and how to look after our country and our environment in a way that it's going to have a knock on effect for the future years. Because I think sometimes with all the plastic production and all these things, certainly when we were younger, there was no such thing as recycling. So there's and that's probably been going on for a very long time. So I think.",
+  "avg_logprob": -0.15739032377731657,
+  "no_speech_prob": 0.010106406229383805,
+  "wall_clock_seconds": 0.7340963329988881,
+  "n_segments": 17,
+  "wer": 0.023076923076923078,
+  "reference": "YES I COMPLETELY AGREE WITH THAT THERE'S A LOT OF FACTORIES PRODUCING A LOT OF HARMFUL CHEMICALS INTO THE ATMOSPHERE SO THAT CERTAINLY IS SOMETHING THAT NEEDS TO BE LOOKED AT BUT YES AS YOU SAY IT'S DOWN TO EVERYBODY TO PLAY THEIR PART NOW AND I THINK CERTAINLY AS YOU SAY ABOUT THE EDUCATION IT'S ABOUT EDUCATING THE YOUNGER GENERATION IN HOW TO LOOK AFTER OUR COUNTRY AND YOU KNOW OUR ENVIRONMENT IN A WAY THAT IT'S GOING TO HAVE A KNOCK ON EFFECT FOR THE FUTURE YEARS BECAUSE I THINK SOMETIMES WITH ALL THE PLASTIC PRODUCTION AND ALL THESE THINGS CERTAINLY WHEN WE WERE YOUNGER THERE WAS NO SUCH THING AS RECYCLING SO THERE'S AND THAT'S PROBABLY BEEN GOING ON FOR A VERY LONG TIME SO I THINK",
+  "utterance_id": "bb02c5b75aea",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-A"
+}

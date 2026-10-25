@@ -1,0 +1,12 @@
+{
+  "text": "I talk about books. There are lots of them. I remember reading everything coming from an enlightened, the famous five or any other books from the author. Those are my childhood favorite books. Later on, of course, I read Harry Potter, but that was my teenage time. If I talk about films or cartoons, I used to like Powerpuff Girls. They were really popular at that time. But my favorite ones were In We Do, and Blinstone, and the Jetsons. I remember them, and I liked them still. And of course, from an age of a clich\u00e9. So these were my favorite classes. And if I come to movies, I used to like all Disney movies, whether it's Mickey Mouse or any Princess movie. These are my favorites. And in particular, I have watched Home Alone for 20-10, I don't know how many times, but I really, really like a movie.",
+  "avg_logprob": -0.3486070383717471,
+  "no_speech_prob": 0.05038793701678514,
+  "wall_clock_seconds": 0.4836597499961499,
+  "n_segments": 20,
+  "wer": 0.17391304347826086,
+  "reference": "IF I TALK ABOUT BOOKS UM THERE ARE LOTS OF THEM I REMEMBER READING EVERYTHING UM COMING FROM ENID BLYTON THE FAMOUS FIVE OR ANY ANY OTHER BOOKS FROM THE AUTHOR THOSE WERE MY CHILDHOOD FAVORITE BOOKS UM UM LATER ON OF COURSE I READ HARRY POTTER BUT THAT WAS MY TEENAGE TIME AND IF I TALK ABOUT FILMS OR CARTOONS I USED TO LIKE POWERPUFF GIRLS THEY WERE REALLY POPULAR AT THAT TIME AND BUT MY FAVORITE ONE WERE SCOOBY DOO AND FLINTSTONES AND THE JETSONS I REMEMBER THEM AND I LIKE THEM STILL AND OF COURSE TOM AND JERRY THAT'S A CLICHE ANYWAY SO THESE WERE MY FAVORITE CARTOONS AND IF I COME TO MOVIES I USED TO LIKE ALL DISNEY MOVIES WHETHER IT'S MICKEY MOUSE OR ANY PRINCESS MOVIE UH THESE ARE MY FAVORITES AND IN PARTICULAR I HAVE WATCHED HOME ALONE FOR TWENTY TEN I DON'T KNOW HOW MANY TIMES BUT I REALLY REALLY LIKE THAT MOVIE",
+  "utterance_id": "4224326b40db",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C34-B"
+}

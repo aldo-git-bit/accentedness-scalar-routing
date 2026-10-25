@@ -1,0 +1,12 @@
+{
+  "text": "Okay, I'll ask you something. Um...",
+  "avg_logprob": -0.5428446451822917,
+  "no_speech_prob": 6.500906150203045e-12,
+  "wall_clock_seconds": 0.408862374999444,
+  "n_segments": 2,
+  "wer": 0.0,
+  "reference": "OKAY I'LL ASK YOU SOMETHING UM",
+  "utterance_id": "a6e9796b8c98",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C33-B"
+}

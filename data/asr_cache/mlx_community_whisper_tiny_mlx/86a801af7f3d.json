@@ -1,0 +1,12 @@
+{
+  "text": "and then, let's turn on the Zoom and get this right next to my place. Thank you very much, Lazy.",
+  "avg_logprob": -0.9010345089820123,
+  "no_speech_prob": 0.2321682721376419,
+  "wall_clock_seconds": 0.04801450000377372,
+  "n_segments": 2,
+  "wer": 0.7647058823529411,
+  "reference": "YEAH THAT'S TRUE AND ALSO THE SUPERMARKET IS RIGHT NEXT TO MY PLACE BUT I'M JUST LAZY",
+  "utterance_id": "86a801af7f3d",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B"
+}

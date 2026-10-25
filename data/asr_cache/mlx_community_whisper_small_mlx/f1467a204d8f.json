@@ -1,0 +1,12 @@
+{
+  "text": "um no i haven't i haven't usually i buy from the market because from the supermarket so most of the time i just go for the already prepared one just get it you know i think it has to go through a lot of process when you're doing that um farmers are the ones that are the ones that actually do all that all that",
+  "avg_logprob": -0.20791194965313006,
+  "no_speech_prob": 0.042972736060619354,
+  "wall_clock_seconds": 0.3115979590002098,
+  "n_segments": 4,
+  "wer": 0.05970149253731343,
+  "reference": "UM NO I HAVEN'T I HAVEN'T USUALLY I BUY IT FROM THE MARKET OR FROM THE SUPERMARKET SO MOST OF THE TIME I JUST GO FOR THE ALREADY PREPARED ONE JUST GET IT YOU KNOW I THINK IT HAS TO GO THROUGH A LOT OF PROCESS WHEN YOU'RE DOING THAT UM FARMERS ARE THE ONE THAT ARE THE ONES THAT ACTUALLY DO ALL THAT ALL THAT WORK",
+  "utterance_id": "f1467a204d8f",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-A"
+}

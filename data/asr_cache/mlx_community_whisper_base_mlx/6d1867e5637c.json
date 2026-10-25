@@ -1,0 +1,12 @@
+{
+  "text": "All right. Please call Stella, ask her to bring these things up from the store. Six spoons of fresh, low-piece, five, six flaps of blue cheese, and maybe it's not for her but they're both. We also need a small plastic snake and a big toy for the kids. She can school these things in a three-rate bag and we'll go meet her when she's at the state, at the train station.",
+  "avg_logprob": -0.47570019847941847,
+  "no_speech_prob": 0.056706447154283524,
+  "wall_clock_seconds": 0.21036100000492297,
+  "n_segments": 7,
+  "wer": 72.0,
+  "reference": "IGNORE_TIME_SEGMENT_IN_SCORING",
+  "utterance_id": "6d1867e5637c",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C34-B"
+}

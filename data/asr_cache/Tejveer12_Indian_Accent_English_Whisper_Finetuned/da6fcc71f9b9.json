@@ -1,0 +1,11 @@
+{
+  "text": "No.",
+  "wer": 1.0,
+  "reference": "MM HMM",
+  "utterance_id": "da6fcc71f9b9",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B",
+  "wall_clock_seconds": 0.7027022080001188,
+  "avg_logprob": null,
+  "no_speech_prob": null
+}

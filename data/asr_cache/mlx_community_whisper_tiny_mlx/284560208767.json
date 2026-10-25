@@ -1,0 +1,12 @@
+{
+  "text": "He was absolutely expensive and he should not be let out of the house.",
+  "avg_logprob": -0.43773365020751953,
+  "no_speech_prob": 0.023309970274567604,
+  "wall_clock_seconds": 0.03201650000119116,
+  "n_segments": 1,
+  "wer": 0.38461538461538464,
+  "reference": "HE'S AN ABSOLUTE SPECIMEN HE SHOULD NOT BE LET OUT OF THE HOUSE",
+  "utterance_id": "284560208767",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C06-B"
+}

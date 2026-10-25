@@ -1,0 +1,12 @@
+{
+  "text": "I wouldn't say I have any like, I don't have any least favorite thing about it except the fact that they have like a very ridiculous prices for their houses, especially like all these very small studio apartments. It is like it goes for like a very huge amount. But I mean, we all have to like live somewhere.",
+  "avg_logprob": -0.3414916258591872,
+  "no_speech_prob": 0.14361079037189484,
+  "wall_clock_seconds": 1.3709370420001505,
+  "n_segments": 5,
+  "wer": 0.1875,
+  "reference": "YEAH I WOULDN'T SAY I HAVE ANY LIKE UM I DON'T HAVE I DON'T HAVE ANY LIKE LIST EVERYTHING ABOUT IT EXCEPT THE FACT THAT THEY HAVE LIKE A VERY RIDICULOUS PRICES FOR THEIR HOUSES ESPECIALLY LIKE ALL THESE VARIOUS SMALL STUDIO APARTMENTS IT IS LIKE IT GOES LIKE A VERY HUGE AMOUNT WELL I MEAN BECAUSE WE ALL HAVE TO LIKE LIVE SOMEWHERE",
+  "utterance_id": "56ebe7500c40",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-B"
+}

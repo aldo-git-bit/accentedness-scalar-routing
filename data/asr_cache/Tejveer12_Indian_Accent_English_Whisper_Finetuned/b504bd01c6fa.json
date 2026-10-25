@@ -1,0 +1,11 @@
+{
+  "text": "With the box, oh, what was that? It was brilliant. I used to watch that as well.",
+  "wer": 0.21052631578947367,
+  "reference": "WITH THE BUGS OH WHAT WAS IT IT IT WAS BRILLIANT I USED TO WATCH THAT AS WELL UH",
+  "utterance_id": "b504bd01c6fa",
+  "accent": "Irish English",
+  "speaker": "EDACC-C47-B",
+  "wall_clock_seconds": 0.9355420000065351,
+  "avg_logprob": null,
+  "no_speech_prob": null
+}

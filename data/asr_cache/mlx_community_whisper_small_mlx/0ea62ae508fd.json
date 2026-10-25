@@ -1,0 +1,12 @@
+{
+  "text": "which is just a, basically you have two ends of a pitch and your goals to reach the other end of the pitch without being tagged by someone in the middle. And no rules apply. People were beating up blood everywhere. Oh, good turnip.",
+  "avg_logprob": -0.3472455123375202,
+  "no_speech_prob": 0.0015666101826354861,
+  "wall_clock_seconds": 0.2531152080009633,
+  "n_segments": 3,
+  "wer": 0.14285714285714285,
+  "reference": "WHICH IS JUST THE WHICH IS JUST A UH BASICALLY YOU HAVE TWO ENDS OF A PITCH AND YOUR GOAL'S TO REACH THE OTHER END OF THE PITCH WITHOUT BEING TAGGED BY SOMEONE IN THE MIDDLE AND NO RULES APPLY PEOPLE WERE BEATEN UP BLOOD EVERYWHERE OH GOOD TIMES",
+  "utterance_id": "0ea62ae508fd",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-B"
+}

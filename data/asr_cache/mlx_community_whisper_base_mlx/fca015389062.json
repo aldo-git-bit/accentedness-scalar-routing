@@ -1,0 +1,12 @@
+{
+  "text": "I do like shopping, I like spending money, clothes, books, anything really.",
+  "avg_logprob": -0.5600468895652078,
+  "no_speech_prob": 0.021891040727496147,
+  "wall_clock_seconds": 0.062341790995560586,
+  "n_segments": 2,
+  "wer": 0.0,
+  "reference": "I DO LIKE SHOPPING I LIKE SPENDING MONEY CLOTHES BOOKS ANYTHING REALLY",
+  "utterance_id": "fca015389062",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C32-A"
+}

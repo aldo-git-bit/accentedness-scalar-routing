@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, I think I got quite lucky because for, I graduated undergrad when pandemic happened and then I got into PhD when pandemic sort of, not over, but a lot more loose than before. So I think I got the best.",
+  "avg_logprob": -0.3323737506208749,
+  "no_speech_prob": 1.5191345360474062e-12,
+  "wall_clock_seconds": 0.5168190830008825,
+  "n_segments": 5,
+  "wer": 0.06976744186046512,
+  "reference": "YEAH I THINK I GOT QUITE LUCKY I GUESS FOR I GRADUATED UNDERGRAD WHEN PANDEMIC HAPPENED AND THEN I GOT INTO PHD WHEN PANDEMIC SORT OF NOT NOT OVER BUT A LOT MORE LOOSE THAN BEFORE SO I THINK I GOT THE BEST",
+  "utterance_id": "dea1d8bb1b95",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C04-B"
+}

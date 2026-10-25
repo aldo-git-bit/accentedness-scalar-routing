@@ -1,0 +1,12 @@
+{
+  "text": "the street. Maybe maybe you didn't. I think go as often.",
+  "avg_logprob": -0.8104763031005859,
+  "no_speech_prob": 0.3839191496372223,
+  "wall_clock_seconds": 0.059777208996820264,
+  "n_segments": 2,
+  "wer": 0.6363636363636364,
+  "reference": "THAT WAS A TREAT MAYBE MAYBE I DIDN'T GO AS OFTEN",
+  "utterance_id": "f0090fb3a827",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C22-A"
+}

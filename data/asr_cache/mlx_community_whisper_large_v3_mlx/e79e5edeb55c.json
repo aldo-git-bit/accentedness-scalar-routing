@@ -1,0 +1,12 @@
+{
+  "text": "lock oh my god there's so many locks there I can't think which is the very famous one I forgotten the name of it but it was unbelievable and we did loads of touristy things and we were there you know we took the boat all around the lake and it was amazing",
+  "avg_logprob": -0.10013695368691096,
+  "no_speech_prob": 0.09473537653684616,
+  "wall_clock_seconds": 1.1844867079998949,
+  "n_segments": 3,
+  "wer": 0.09259259259259259,
+  "reference": "UH LOCH OH MY GOD THERE'S SO MANY LOCHS THERE I CAN'T THINK WHICH IS THE VERY FAMOUS ONE I'VE FORGOTTEN THE NAME OF IT BUT IT WAS UNBELIEVABLE AND WE DID LOADS OF TOURISTY THINGS WHEN WE WERE THERE YOU KNOW WE TOOK THE BOAT ALL AROUND THE LAKE AND IT WAS AMAZING",
+  "utterance_id": "e79e5edeb55c",
+  "accent": "Irish English",
+  "speaker": "EDACC-C47-B"
+}

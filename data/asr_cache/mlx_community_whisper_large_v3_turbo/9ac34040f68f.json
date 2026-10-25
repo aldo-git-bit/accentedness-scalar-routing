@@ -1,0 +1,12 @@
+{
+  "text": "What was the name of the Congo?",
+  "avg_logprob": -0.4370242032137784,
+  "no_speech_prob": 8.653020661109068e-11,
+  "wall_clock_seconds": 0.39941724999516737,
+  "n_segments": 1,
+  "wer": 0.3333333333333333,
+  "reference": "OH WHAT WAS THE NAME OF THE CAT AGAIN",
+  "utterance_id": "9ac34040f68f",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "I play football. We see Ronaldo fan. I think he inspired my playing football. So I love playing football.",
+  "avg_logprob": -0.5242966413497925,
+  "no_speech_prob": 0.08013822138309479,
+  "wall_clock_seconds": 0.8145480419989326,
+  "n_segments": 4,
+  "wer": 0.34615384615384615,
+  "reference": "I PLAY I I PLAY FOOTBALL I'M A C RONALDO FAN AND I AND I THINK HE INSPIRED MY PLAYING FOOTBALL SO I LOVE PLAYING FOOTBALL",
+  "utterance_id": "4834c29c94eb",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C41-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "YouTube",
+  "avg_logprob": -0.5403547286987305,
+  "no_speech_prob": 2.0111443760351122e-11,
+  "wall_clock_seconds": 0.3827393329993356,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "YEAH",
+  "utterance_id": "d532668329bc",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-B"
+}

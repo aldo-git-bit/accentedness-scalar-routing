@@ -1,0 +1,12 @@
+{
+  "text": "Would you like shopping?",
+  "avg_logprob": -0.468123197555542,
+  "no_speech_prob": 0.04402654618024826,
+  "wall_clock_seconds": 0.03543270799855236,
+  "n_segments": 1,
+  "wer": 0.5714285714285714,
+  "reference": "WHAT DO YOU DO YOU LIKE SHOPPING",
+  "utterance_id": "2575f73341f8",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C32-B"
+}

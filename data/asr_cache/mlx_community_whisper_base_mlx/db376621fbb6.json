@@ -1,0 +1,12 @@
+{
+  "text": "and",
+  "avg_logprob": -0.8242685794830322,
+  "no_speech_prob": 0.40330320596694946,
+  "wall_clock_seconds": 0.029764708000584505,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "YEAH",
+  "utterance_id": "db376621fbb6",
+  "accent": "Irish English",
+  "speaker": "EDACC-C61-B"
+}

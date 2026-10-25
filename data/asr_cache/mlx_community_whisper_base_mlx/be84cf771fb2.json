@@ -1,0 +1,12 @@
+{
+  "text": "Like people were not definitely not in just so much into food. Like it's like, yeah, it's good. We eat it, you know, okay, whatever. But.",
+  "avg_logprob": -0.4176580180292544,
+  "no_speech_prob": 0.029701922088861465,
+  "wall_clock_seconds": 0.10422670899424702,
+  "n_segments": 4,
+  "wer": 0.07692307692307693,
+  "reference": "LIKE PEOPLE WERE NOT DEFINITELY NOT ENTHUS AS SO MUCH INTO FOOD LIKE IT'S LIKE YEAH IT'S GOOD WE EAT IT YOU KNOW OKAY WHATEVER BUT",
+  "utterance_id": "be84cf771fb2",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C64-A"
+}

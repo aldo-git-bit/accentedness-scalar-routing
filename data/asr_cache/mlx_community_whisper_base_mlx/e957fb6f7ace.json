@@ -1,0 +1,12 @@
+{
+  "text": "Well, it means some people actually killed the fish, smoked kids and dried.",
+  "avg_logprob": -0.611626216343471,
+  "no_speech_prob": 0.017122024670243263,
+  "wall_clock_seconds": 0.06181970800389536,
+  "n_segments": 2,
+  "wer": 0.5882352941176471,
+  "reference": "WELL THE THING IS SOME PEOPLE ACTUALLY YOU KNOW KILL THE FISH SMOKE IT AND DRY IT",
+  "utterance_id": "e957fb6f7ace",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-A"
+}

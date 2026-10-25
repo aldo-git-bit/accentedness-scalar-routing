@@ -1,0 +1,12 @@
+{
+  "text": "Thanks.",
+  "avg_logprob": -0.9849618911743164,
+  "no_speech_prob": 0.36614781618118286,
+  "wall_clock_seconds": 0.01671487500425428,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "YEAH",
+  "utterance_id": "9e0e03480739",
+  "accent": "Irish English",
+  "speaker": "EDACC-C61-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "all right.",
+  "avg_logprob": -0.9100120862325033,
+  "no_speech_prob": 0.45563116669654846,
+  "wall_clock_seconds": 0.06953154200164136,
+  "n_segments": 1,
+  "wer": 0.5,
+  "reference": "SURE RIGHT",
+  "utterance_id": "3259a8bbbe29",
+  "accent": "Irish English",
+  "speaker": "EDACC-C61-B"
+}

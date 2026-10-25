@@ -1,0 +1,12 @@
+{
+  "text": "I was walking the annoying orange video on my mom's phone, but it wouldn't load so I was really frustrated and that's a distinct memory I have.",
+  "avg_logprob": -0.38999255044119696,
+  "no_speech_prob": 0.09305723011493683,
+  "wall_clock_seconds": 0.05223820800893009,
+  "n_segments": 1,
+  "wer": 0.21212121212121213,
+  "reference": "IT WAS ANNOYING I WAS WATCHING THE ANNOYING ORANGE VIDEO ON MY MOM'S PHONE BUT LIKE IT WOULDN'T LOAD SO I WAS LIKE REALLY FRUSTRATED AND THAT THAT'S A DISTINCT MEMORY I HAVE",
+  "utterance_id": "2d5a6ad39175",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C03-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Oh, they're lovely. Yeah, I love them.",
+  "avg_logprob": -0.23429009119669597,
+  "no_speech_prob": 2.84543959575001e-12,
+  "wall_clock_seconds": 0.4099497080023866,
+  "n_segments": 1,
+  "wer": 0.125,
+  "reference": "OH THEY'RE LOVELY YEAH I LOVE THEM GARFIELD",
+  "utterance_id": "1d21c34b6dee",
+  "accent": "Irish English",
+  "speaker": "EDACC-C47-B"
+}

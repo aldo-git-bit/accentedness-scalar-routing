@@ -1,0 +1,12 @@
+{
+  "text": "But Harry Potter witches are the hardcore Potterhead because",
+  "avg_logprob": -0.9687417837289664,
+  "no_speech_prob": 0.06666702032089233,
+  "wall_clock_seconds": 0.11424204200011445,
+  "n_segments": 1,
+  "wer": 0.5384615384615384,
+  "reference": "BUT ALSO HARRY POTTER WHICH IS WHY I WAS A HARDCORE POTTERHEAD BECAUSE",
+  "utterance_id": "8c565bd2c911",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-A"
+}

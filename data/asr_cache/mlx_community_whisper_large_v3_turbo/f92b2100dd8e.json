@@ -1,0 +1,12 @@
+{
+  "text": "He was native German, but the local dialect was Swiss German. And then he also learned English from a very young age. And because it's Swiss, you still have to learn at least two other languages that they speak in the country, like French or Italian or something else. And then he went to Norway and then he learned Norwegian there. So he knows. I don't even know how many.",
+  "avg_logprob": -0.274206368819527,
+  "no_speech_prob": 2.572308512027721e-11,
+  "wall_clock_seconds": 0.6070491669961484,
+  "n_segments": 5,
+  "wer": 0.22077922077922077,
+  "reference": "HE WELL THERE'S NATIVE GERMAN AND THEN BUT THE LOCAL DIALECT SWISS GERMAN AND THEN HE ALSO LEARNED ENGLISH FROM FROM FROM A VERY YOUNG AGE AND BECAUSE IT'S SWITZERLAND YOU STILL HAVE TO LEARN AT LEAST TWO OTHER LANGUAGE THAT THEY SPEAK IN COUNTRY LIKE FRENCH OR ITALIAN OR SOMETHING ELSE AND THEN HE WENT TO NORWAY AND THEN HE LEARNED <DTMF> SO HE KNOWS I DON'T KNOW EVEN I DON'T EVEN KNOW HOW MANY LANGUAGES",
+  "utterance_id": "f92b2100dd8e",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C04-B"
+}

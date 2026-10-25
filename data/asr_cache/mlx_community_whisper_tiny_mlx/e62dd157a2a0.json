@@ -1,0 +1,12 @@
+{
+  "text": "That's not this is not this",
+  "avg_logprob": -0.6880805015563964,
+  "no_speech_prob": 0.2546803951263428,
+  "wall_clock_seconds": 0.02313391699863132,
+  "n_segments": 1,
+  "wer": 0.75,
+  "reference": "LIKE YOU KNOW THIS IS THE MESSAGE <OVERLAP>",
+  "utterance_id": "e62dd157a2a0",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-A"
+}

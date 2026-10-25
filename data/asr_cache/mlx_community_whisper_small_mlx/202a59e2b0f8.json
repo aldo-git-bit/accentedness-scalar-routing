@@ -1,0 +1,12 @@
+{
+  "text": "visitation.",
+  "avg_logprob": -0.7438098589579264,
+  "no_speech_prob": 0.41046077013015747,
+  "wall_clock_seconds": 0.09410762499828706,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "DISSERTATION",
+  "utterance_id": "202a59e2b0f8",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B"
+}

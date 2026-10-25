@@ -1,0 +1,12 @@
+{
+  "text": "every trinket's character to be honest",
+  "avg_logprob": -0.39662283658981323,
+  "no_speech_prob": 8.460451089709053e-12,
+  "wall_clock_seconds": 0.4119012909941375,
+  "n_segments": 3,
+  "wer": 0.4444444444444444,
+  "reference": "I LIKE THE EFFIE TRINKET'S CHARACTER TO BE HONEST",
+  "utterance_id": "a00b21b393fb",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-B"
+}

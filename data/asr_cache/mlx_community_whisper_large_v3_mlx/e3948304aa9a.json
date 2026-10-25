@@ -1,0 +1,12 @@
+{
+  "text": "too much. I mean people are really good like used to walking from home and I mean it kind of gives like especially like those few ones as...",
+  "avg_logprob": -0.5997912270682199,
+  "no_speech_prob": 0.17911766469478607,
+  "wall_clock_seconds": 0.8520924580006977,
+  "n_segments": 2,
+  "wer": 0.5454545454545454,
+  "reference": "WAS TOO MUCH I MEAN PEOPLE HAVE REALLY GOTTEN LIKE USED TO WORKING FROM HOME AND I MEAN IT KIND OF <OVERLAP>",
+  "utterance_id": "e3948304aa9a",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-B"
+}

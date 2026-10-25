@@ -1,0 +1,12 @@
+{
+  "text": "Okay, so just to play football",
+  "avg_logprob": -0.4725074291229248,
+  "no_speech_prob": 0.12838351726531982,
+  "wall_clock_seconds": 0.040776166002615355,
+  "n_segments": 1,
+  "wer": 0.42857142857142855,
+  "reference": "OKAY SO DO YOU STILL PLAY FOOTBALL",
+  "utterance_id": "81a34f7429ee",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C41-A"
+}

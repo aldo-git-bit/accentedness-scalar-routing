@@ -1,0 +1,12 @@
+{
+  "text": "personally when Sky started bare-own morning Saturday morning TV shows and I think they had DJ Cass for one.",
+  "avg_logprob": -0.6173092877423322,
+  "no_speech_prob": 0.010764717124402523,
+  "wall_clock_seconds": 0.04371716600144282,
+  "n_segments": 2,
+  "wer": 0.2727272727272727,
+  "reference": "PERSONALLY WHEN SKY STARTED THEIR OWN MORNING UM SATURDAY MORNING TV SHOWS AND I THINK THEY HAD DJ CAT FOR A WHILE",
+  "utterance_id": "0110acdcc3d8",
+  "accent": "Irish English",
+  "speaker": "EDACC-C61-A"
+}

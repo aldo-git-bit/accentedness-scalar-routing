@@ -1,0 +1,12 @@
+{
+  "text": "but yeah el",
+  "avg_logprob": -3.665951199001736,
+  "no_speech_prob": 0.2647908926010132,
+  "wall_clock_seconds": 0.3392850840027677,
+  "n_segments": 2,
+  "wer": 1.5,
+  "reference": "MAYBE PORTUGAL",
+  "utterance_id": "71ea299be98f",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C44-A"
+}

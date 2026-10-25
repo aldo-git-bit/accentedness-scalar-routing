@@ -1,0 +1,12 @@
+{
+  "text": "No, like, I don't think any people were saying it's not good.",
+  "avg_logprob": -0.6156533241271973,
+  "no_speech_prob": 0.10315585881471634,
+  "wall_clock_seconds": 0.1406702079984825,
+  "n_segments": 1,
+  "wer": 0.5333333333333333,
+  "reference": "NO LIKE IS THERE ANY PEOPLE <OVERLAP> ARE THERE ANY PEOPLE SAYING IT'S NOT GOOD",
+  "utterance_id": "0aa2e5d66bad",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-B"
+}

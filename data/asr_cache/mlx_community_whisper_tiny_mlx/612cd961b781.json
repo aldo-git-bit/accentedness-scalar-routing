@@ -1,0 +1,12 @@
+{
+  "text": "I used to walk everywhere and here I am.",
+  "avg_logprob": -0.6857704749474158,
+  "no_speech_prob": 0.06568305939435959,
+  "wall_clock_seconds": 0.026313000009395182,
+  "n_segments": 1,
+  "wer": 0.4666666666666667,
+  "reference": "I WAS ONE OF THEM I USED TO MOCK THEM EVERYWHERE AND HERE I AM",
+  "utterance_id": "612cd961b781",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C06-B"
+}

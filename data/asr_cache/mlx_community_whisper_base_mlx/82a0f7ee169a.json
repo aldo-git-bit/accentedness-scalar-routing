@@ -1,0 +1,12 @@
+{
+  "text": "I think I can make me spy, I can make changing and I can make peanuts. So my next target is Shawama. I'll make you Shawama soon. So I'm just getting so ready for it.",
+  "avg_logprob": -0.4433374231511896,
+  "no_speech_prob": 0.08166524767875671,
+  "wall_clock_seconds": 0.12381020799512044,
+  "n_segments": 4,
+  "wer": 0.2894736842105263,
+  "reference": "I THINK I CAN MAKE MEAT PIE I CAN MAKE CHIN CHIN AND I CAN MAKE PEANUTS SO MY NEXT UM TARGET IS SHAWARMA I WILL BE MAKING SHAWARMA SOON SO I'M JUST GETTING SO READY FOR IT",
+  "utterance_id": "82a0f7ee169a",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C41-A"
+}

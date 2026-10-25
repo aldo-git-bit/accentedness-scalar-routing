@@ -1,0 +1,12 @@
+{
+  "text": "Hmm. That's, that's a very good idea.",
+  "avg_logprob": -0.9266593035529641,
+  "no_speech_prob": 0.21097905933856964,
+  "wall_clock_seconds": 0.1275263339994126,
+  "n_segments": 2,
+  "wer": 0.4444444444444444,
+  "reference": "MM THAT'S THAT'S A VERY VERY GOOD ENGLISH <NO-SPEECH>",
+  "utterance_id": "b92e61e1cd7b",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C41-B"
+}

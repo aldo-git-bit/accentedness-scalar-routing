@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, no, I would absolutely be nice, obviously if you have children. And I'm not sure it has a good sales point other than Scotland. And...",
+  "avg_logprob": -0.6732118129730225,
+  "no_speech_prob": 0.011456770822405815,
+  "wall_clock_seconds": 0.05903012500493787,
+  "n_segments": 3,
+  "wer": 0.23333333333333334,
+  "reference": "YEAH NO I I WOULD ABSOLUTELY BE UM NICE OBVIOUSLY IF YOU HAVE CHILDREN UM I'M NOT SO SURE IT HAS A GREAT SELLING POINT OTHER THAN SCOTLAND THOUGH AND",
+  "utterance_id": "e9d4f0c32de2",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

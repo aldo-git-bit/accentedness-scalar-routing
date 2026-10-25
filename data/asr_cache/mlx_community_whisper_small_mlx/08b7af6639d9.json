@@ -1,0 +1,12 @@
+{
+  "text": "But who in their right mind is taking out that book of going, how shall we write a verse five of this one, please?",
+  "avg_logprob": -0.386336088180542,
+  "no_speech_prob": 0.005120753310620785,
+  "wall_clock_seconds": 0.17340500000136672,
+  "n_segments": 2,
+  "wer": 0.2857142857142857,
+  "reference": "BUT WHO IN THEIR RIGHT MIND IS TAKING OUT THAT BOOK OF GOING AND SHOULD WE RIDE A <LAUGH> SHOULD WE SING VERSE FIVE OF THIS BOOK PLEASE",
+  "utterance_id": "08b7af6639d9",
+  "accent": "Irish English",
+  "speaker": "EDACC-C50-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Just walk.",
+  "avg_logprob": -0.5870519479115804,
+  "no_speech_prob": 0.2797100841999054,
+  "wall_clock_seconds": 0.5069579999981215,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "THAT WHAT",
+  "utterance_id": "4d299f6843ce",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C32-A"
+}

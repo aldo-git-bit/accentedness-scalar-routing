@@ -1,0 +1,12 @@
+{
+  "text": "better like, well, it's just life.",
+  "avg_logprob": -0.5679043989915115,
+  "no_speech_prob": 0.010524807497859001,
+  "wall_clock_seconds": 0.028222375010955147,
+  "n_segments": 1,
+  "wer": 0.14285714285714285,
+  "reference": "BETTER LIKE OH WELL IT'S JUST LIFE",
+  "utterance_id": "5410a03abd4e",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B"
+}

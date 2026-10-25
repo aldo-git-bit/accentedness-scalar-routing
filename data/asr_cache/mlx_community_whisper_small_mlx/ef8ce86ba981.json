@@ -1,0 +1,12 @@
+{
+  "text": "You may home job, yeah.",
+  "avg_logprob": -0.760742473602295,
+  "no_speech_prob": 0.019415853545069695,
+  "wall_clock_seconds": 0.1053355840012955,
+  "n_segments": 1,
+  "wer": 1.25,
+  "reference": "IN MY HOMETOWN YES",
+  "utterance_id": "ef8ce86ba981",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C54-B"
+}

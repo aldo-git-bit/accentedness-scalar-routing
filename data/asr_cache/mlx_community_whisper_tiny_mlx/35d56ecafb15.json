@@ -1,0 +1,12 @@
+{
+  "text": "Anyway, what? How did he even end up with us? Oh yeah, because of the tips. Eh, let's move on to the way.",
+  "avg_logprob": -0.5894326159828588,
+  "no_speech_prob": 0.06732133030891418,
+  "wall_clock_seconds": 0.05418529199960176,
+  "n_segments": 3,
+  "wer": 0.2727272727272727,
+  "reference": "ANYWAY WHAT HOW DID WE EVEN END UP AT TWI OH YEAH BECAUSE OF THE TEAMS EH LET'S MOVE ON TO LIKE",
+  "utterance_id": "35d56ecafb15",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-B"
+}

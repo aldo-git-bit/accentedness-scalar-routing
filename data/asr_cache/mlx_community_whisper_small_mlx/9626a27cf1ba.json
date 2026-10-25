@@ -1,0 +1,12 @@
+{
+  "text": "I'm Pippa and I'm named her Sophie. She's my best friend at the time, I'm named Sophie.",
+  "avg_logprob": -0.7258544429655998,
+  "no_speech_prob": 0.038895294070243835,
+  "wall_clock_seconds": 0.17197591699732584,
+  "n_segments": 2,
+  "wer": 0.3684210526315789,
+  "reference": "I MEAN PIPLUP AND I NAMED HER SOPHIE BECAUSE MY BEST FRIEND AT THE TIME WAS NAMED SOPHIE SO",
+  "utterance_id": "9626a27cf1ba",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C63-B"
+}

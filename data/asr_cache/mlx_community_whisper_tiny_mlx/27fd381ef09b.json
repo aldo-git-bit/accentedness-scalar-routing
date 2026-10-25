@@ -1,0 +1,12 @@
+{
+  "text": "",
+  "avg_logprob": 0.0,
+  "no_speech_prob": 0.0,
+  "wall_clock_seconds": 0.018545124999945983,
+  "n_segments": 0,
+  "wer": 1.0,
+  "reference": "MM",
+  "utterance_id": "27fd381ef09b",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C64-A"
+}

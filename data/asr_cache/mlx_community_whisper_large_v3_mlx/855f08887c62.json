@@ -1,0 +1,12 @@
+{
+  "text": "that one was pretty rough I think those kind of ones the touring ones they always put me a little bit on edge because like I don't know something like oh and towers I feel like",
+  "avg_logprob": -0.10220965884980701,
+  "no_speech_prob": 0.026197286322712898,
+  "wall_clock_seconds": 0.9340895839995937,
+  "n_segments": 2,
+  "wer": 0.19444444444444445,
+  "reference": "THEY'RE ALWAYS PRETTY ROUGH I THINK THOSE KIND OF ONES THE TOURING ONES THEY ALWAYS PUT ME A LITTLE BIT ON EDGE BECAUSE LIKE I DON'T KNOW SOMETHING LIKE ALTON TOWERS I FEEL LIKE I TRUST",
+  "utterance_id": "855f08887c62",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C17-B"
+}

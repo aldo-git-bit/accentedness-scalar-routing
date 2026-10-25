@@ -1,0 +1,12 @@
+{
+  "text": "And so all the questions.",
+  "avg_logprob": -0.7749198277791342,
+  "no_speech_prob": 0.03206650912761688,
+  "wall_clock_seconds": 0.022326000005705282,
+  "n_segments": 1,
+  "wer": 0.6,
+  "reference": "IS THAT ALL THEIR QUESTIONS",
+  "utterance_id": "dfee926e0a9a",
+  "accent": "Irish English",
+  "speaker": "EDACC-C50-A"
+}

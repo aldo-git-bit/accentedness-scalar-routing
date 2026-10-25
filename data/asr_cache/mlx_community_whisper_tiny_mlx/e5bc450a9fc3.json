@@ -1,0 +1,12 @@
+{
+  "text": "tukamam.",
+  "avg_logprob": NaN,
+  "no_speech_prob": 0.1543031632900238,
+  "wall_clock_seconds": 0.5592423750058515,
+  "n_segments": 73,
+  "wer": 1.0,
+  "reference": "<DTMF> MAYBE",
+  "utterance_id": "e5bc450a9fc3",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C14-A"
+}

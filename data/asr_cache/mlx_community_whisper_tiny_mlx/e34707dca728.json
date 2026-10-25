@@ -1,0 +1,12 @@
+{
+  "text": "the",
+  "avg_logprob": -2.574820327758789,
+  "no_speech_prob": 0.38722190260887146,
+  "wall_clock_seconds": 0.17564283301180694,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "YOU'RE WELCOME YOU'RE WELCOME YOU'RE WELCOME YOU'RE WELCOME YOU'RE WELCOME",
+  "utterance_id": "e34707dca728",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-B"
+}

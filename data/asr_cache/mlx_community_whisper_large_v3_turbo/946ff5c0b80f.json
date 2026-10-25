@@ -1,0 +1,12 @@
+{
+  "text": "As you know.",
+  "avg_logprob": -0.9196367944989886,
+  "no_speech_prob": 7.522100303747337e-11,
+  "wall_clock_seconds": 0.39147495799988974,
+  "n_segments": 1,
+  "wer": 3.0,
+  "reference": "YEAH",
+  "utterance_id": "946ff5c0b80f",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "hang on.",
+  "avg_logprob": -0.8763149685329862,
+  "no_speech_prob": 3.6427978689079765e-11,
+  "wall_clock_seconds": 3.458551666990388,
+  "n_segments": 44,
+  "wer": 1.0,
+  "reference": "MM HMM OBVIOUS",
+  "utterance_id": "3ab3d4e88125",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-B"
+}

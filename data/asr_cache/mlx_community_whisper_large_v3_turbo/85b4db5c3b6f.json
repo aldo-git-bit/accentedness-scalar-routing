@@ -1,0 +1,12 @@
+{
+  "text": "cabbage right yeah",
+  "avg_logprob": -0.7762757937113444,
+  "no_speech_prob": 1.8100789964115016e-11,
+  "wall_clock_seconds": 0.3871486660063965,
+  "n_segments": 1,
+  "wer": 0.6,
+  "reference": "THE CABBAGE RIGHT SORT OF",
+  "utterance_id": "85b4db5c3b6f",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C06-B"
+}

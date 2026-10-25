@@ -1,0 +1,12 @@
+{
+  "text": "Wow. What is your opinion on cereal, the full milk or milk before cereal?",
+  "avg_logprob": -0.6209924004294656,
+  "no_speech_prob": 0.0463736318051815,
+  "wall_clock_seconds": 0.040644749999046326,
+  "n_segments": 2,
+  "wer": 0.3333333333333333,
+  "reference": "OKAY WELL MM WHAT IS YOUR OPINION ON CEREAL BEFORE MILK OR MILK BEFORE CEREAL",
+  "utterance_id": "e0adc7192b59",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C32-A"
+}

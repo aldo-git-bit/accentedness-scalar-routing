@@ -1,0 +1,12 @@
+{
+  "text": "Please, it's better to go over and under.",
+  "avg_logprob": -0.8739991869245257,
+  "no_speech_prob": 0.23495857417583466,
+  "wall_clock_seconds": 0.026852791008423083,
+  "n_segments": 1,
+  "wer": 0.5714285714285714,
+  "reference": "IN CASE SO THAT IT'S BETTER TO GO OVER THAN UNDER I GUESS RIGHT",
+  "utterance_id": "932cb6177e24",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B"
+}

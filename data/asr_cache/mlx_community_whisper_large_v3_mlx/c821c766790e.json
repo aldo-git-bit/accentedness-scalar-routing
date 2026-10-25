@@ -1,0 +1,12 @@
+{
+  "text": "Thank you.",
+  "avg_logprob": -0.372703725641424,
+  "no_speech_prob": 0.21401120722293854,
+  "wall_clock_seconds": 0.5641490839989274,
+  "n_segments": 2,
+  "wer": 0.5,
+  "reference": "THANK YOU THANK YOU",
+  "utterance_id": "c821c766790e",
+  "accent": "Indian English",
+  "speaker": "EDACC-C34-A"
+}

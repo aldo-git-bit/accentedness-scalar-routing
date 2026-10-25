@@ -1,0 +1,12 @@
+{
+  "text": "eight words.",
+  "avg_logprob": -0.40392184257507324,
+  "no_speech_prob": 1.3869349462306002e-12,
+  "wall_clock_seconds": 0.4193482920090901,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "ATE WORMS",
+  "utterance_id": "b30c620768b1",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-B"
+}

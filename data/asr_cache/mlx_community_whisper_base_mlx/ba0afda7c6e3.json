@@ -1,0 +1,12 @@
+{
+  "text": "me let's go play Batman in somewhere I'd be happy to do that and I taught him and he liked to enjoy the spot too.",
+  "avg_logprob": -0.5769790077209473,
+  "no_speech_prob": 0.21695370227098465,
+  "wall_clock_seconds": 0.1080788749968633,
+  "n_segments": 2,
+  "wer": 0.2692307692307692,
+  "reference": "TELL ME LET'S GO PLAY BADMINTON SOMEWHERE I'D BE HAPPY TO DO THAT AND I TAUGHT HIM AND HE HE LIKED HE ENJOYED THE SPORT TOO",
+  "utterance_id": "ba0afda7c6e3",
+  "accent": "Indian English",
+  "speaker": "EDACC-C36-A"
+}

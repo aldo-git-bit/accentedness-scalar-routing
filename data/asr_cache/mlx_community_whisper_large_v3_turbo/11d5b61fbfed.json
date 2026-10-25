@@ -1,0 +1,12 @@
+{
+  "text": "That's amazing. That's so funny, isn't it? I think.",
+  "avg_logprob": -0.22977177302042642,
+  "no_speech_prob": 8.348210902946185e-13,
+  "wall_clock_seconds": 0.4269321250030771,
+  "n_segments": 2,
+  "wer": 0.1111111111111111,
+  "reference": "THAT'S AMAZING THAT'S SO FUNNY ISN'T IT TO THINK",
+  "utterance_id": "11d5b61fbfed",
+  "accent": "Irish English",
+  "speaker": "EDACC-C47-A"
+}

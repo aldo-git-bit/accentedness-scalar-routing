@@ -1,0 +1,12 @@
+{
+  "text": "U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U",
+  "avg_logprob": -0.1576960923936632,
+  "no_speech_prob": 0.513566792011261,
+  "wall_clock_seconds": 4.0480669169992325,
+  "n_segments": 1,
+  "wer": 37.166666666666664,
+  "reference": "I'LL BE ABLE TO PASS ON",
+  "utterance_id": "e1e62b3d479d",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-A"
+}

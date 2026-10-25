@@ -1,0 +1,12 @@
+{
+  "text": "I love black too. Like I would go for something darker if I could see any. Like I love black and I love pink too, you know, those girly colors. I love pink and turquoise. I love turquoise.",
+  "avg_logprob": -0.23424397140252787,
+  "no_speech_prob": 0.07865142077207565,
+  "wall_clock_seconds": 1.168901958000788,
+  "n_segments": 5,
+  "wer": 0.05,
+  "reference": "WOW I LOVE BLACK TOO LIKE I WOULD GO FOR SOMETHING DARKER IF I COULD SEE ANY LIKE I LOVE BLACK AND I LOVE PINK TOO YOU KNOW THOSE UM GIRLY COLORS I LOVE PINK AND TURQUOISE I LOVE TURQUOISE",
+  "utterance_id": "a6a52dbc5321",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C41-A"
+}

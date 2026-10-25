@@ -1,0 +1,11 @@
+{
+  "text": "I don't know, it's one or eight, I'd be started at like twelve-fifty-five or something like that.",
+  "wer": 0.3157894736842105,
+  "reference": "I DON'T KNOW IT'S ONE O EIGHT UM WE STARTED AT LIKE TWELVE FIFTY FIVE OR SOMETHING LIKE THAT",
+  "utterance_id": "733707300d39",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B",
+  "wall_clock_seconds": 1.0197498750058003,
+  "avg_logprob": null,
+  "no_speech_prob": null
+}

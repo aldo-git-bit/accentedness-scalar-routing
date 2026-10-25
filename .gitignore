@@ -13,13 +13,16 @@ venv/
 env/
 
 # Data & model artifacts (top-level only)
-/data/
-models/*.pt
+# Small, costly-to-recompute caches and split records are tracked; audio
+# pickles and WavLM feature caches stay local (archived off-repo).
+/data/*
+!/data/asr_cache/
+!/data/acoustic_features_cache/
+!/data/splits_manifest.json
+!/data/utterance_index.json
 models/*.bin
 
-# Experiment outputs (keep INDEX.md)
-# experiments/*/figures/  # tracked — these are key results
-experiments/*/metrics.json
+# Experiment outputs (figures and metrics.json are tracked — key results)
 
 # IDE
 .vscode/

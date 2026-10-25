@@ -1,0 +1,12 @@
+{
+  "text": "the",
+  "avg_logprob": -2.873937225341797,
+  "no_speech_prob": 0.5858906507492065,
+  "wall_clock_seconds": 0.13422524998895824,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "I COME FROM",
+  "utterance_id": "b1e6a07c7212",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B"
+}

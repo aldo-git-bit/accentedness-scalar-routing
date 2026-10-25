@@ -1,0 +1,12 @@
+{
+  "text": "the other.",
+  "avg_logprob": -2.890524455479213,
+  "no_speech_prob": 0.4015052020549774,
+  "wall_clock_seconds": 0.5310052499989979,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "OH MY GOD YES",
+  "utterance_id": "29adf40f6f1b",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C06-B"
+}

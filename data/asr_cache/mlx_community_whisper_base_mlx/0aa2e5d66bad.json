@@ -1,0 +1,12 @@
+{
+  "text": "No, like, he's not on his side. I think any people saying it's not good.",
+  "avg_logprob": -0.8764589749849759,
+  "no_speech_prob": 0.11556293070316315,
+  "wall_clock_seconds": 0.15284541599976365,
+  "n_segments": 2,
+  "wer": 0.4666666666666667,
+  "reference": "NO LIKE IS THERE ANY PEOPLE <OVERLAP> ARE THERE ANY PEOPLE SAYING IT'S NOT GOOD",
+  "utterance_id": "0aa2e5d66bad",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-B"
+}

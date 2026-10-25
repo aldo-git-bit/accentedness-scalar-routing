@@ -1,0 +1,12 @@
+{
+  "text": "Wow, it's fine.",
+  "avg_logprob": -0.5352099736531576,
+  "no_speech_prob": 0.015199911780655384,
+  "wall_clock_seconds": 0.038618167003733106,
+  "n_segments": 1,
+  "wer": 0.0,
+  "reference": "WOW IT'S FINE",
+  "utterance_id": "fa2e44bdfa6b",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C41-A"
+}

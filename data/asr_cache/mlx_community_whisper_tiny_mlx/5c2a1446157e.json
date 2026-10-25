@@ -1,0 +1,12 @@
+{
+  "text": "Oh my god, great, amazing. My mom and dad are always buying extra packs. I just want to make like in the shock and say, I'm in the shock.",
+  "avg_logprob": -0.8736135694715712,
+  "no_speech_prob": 0.03200910612940788,
+  "wall_clock_seconds": 0.06459162499231752,
+  "n_segments": 4,
+  "wer": 0.5806451612903226,
+  "reference": "OH MY GOD GRAPES ARE AMAZING MY MOM HAD TO ALWAYS BUY AN EXTRA PACK 'CAUSE I JUST MUNCH IT LIKE IN THE SHOPPING CENTER OR IN THE IN THE SHOP",
+  "utterance_id": "5c2a1446157e",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-B"
+}

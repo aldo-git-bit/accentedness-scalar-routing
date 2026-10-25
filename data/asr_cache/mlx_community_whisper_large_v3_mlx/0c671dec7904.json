@@ -1,0 +1,12 @@
+{
+  "text": "So what about you? How's it going?",
+  "avg_logprob": -0.2767135179959811,
+  "no_speech_prob": 0.027401812374591827,
+  "wall_clock_seconds": 0.5875524160001078,
+  "n_segments": 1,
+  "wer": 0.0,
+  "reference": "SO WHAT ABOUT YOU HOW'S IT GOING",
+  "utterance_id": "0c671dec7904",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B"
+}

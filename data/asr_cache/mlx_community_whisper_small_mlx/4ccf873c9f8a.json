@@ -1,0 +1,12 @@
+{
+  "text": "inspiration from the Lord of the Rings.",
+  "avg_logprob": -0.5485155799172141,
+  "no_speech_prob": 0.3119596838951111,
+  "wall_clock_seconds": 0.10807320800086018,
+  "n_segments": 1,
+  "wer": 0.25,
+  "reference": "<OVERLAP> INSPIRATIONS FROM THE LORD OF THE RINGS",
+  "utterance_id": "4ccf873c9f8a",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Time is up. Do we have a final message?",
+  "avg_logprob": -0.3531495928764343,
+  "no_speech_prob": 1.518429826319334e-11,
+  "wall_clock_seconds": 0.4142352079943521,
+  "n_segments": 2,
+  "wer": 0.18181818181818182,
+  "reference": "TIME IS UP UM DO WE HAVE A FINAL MESSAGE <LAUGH>",
+  "utterance_id": "ad8db5acf20d",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C17-A"
+}

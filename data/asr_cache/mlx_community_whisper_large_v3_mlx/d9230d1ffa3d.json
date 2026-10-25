@@ -1,0 +1,12 @@
+{
+  "text": "So.",
+  "avg_logprob": -0.6243063449859619,
+  "no_speech_prob": 0.6415503025054932,
+  "wall_clock_seconds": 0.4873486669966951,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "MM HMM",
+  "utterance_id": "d9230d1ffa3d",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C28-B"
+}

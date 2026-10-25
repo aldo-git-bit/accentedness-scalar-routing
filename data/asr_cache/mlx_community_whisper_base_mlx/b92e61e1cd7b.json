@@ -1,0 +1,12 @@
+{
+  "text": "Hmm. That's very important.",
+  "avg_logprob": -0.930677572886149,
+  "no_speech_prob": 0.3103768825531006,
+  "wall_clock_seconds": 0.044990291993599385,
+  "n_segments": 2,
+  "wer": 0.7777777777777778,
+  "reference": "MM THAT'S THAT'S A VERY VERY GOOD ENGLISH <NO-SPEECH>",
+  "utterance_id": "b92e61e1cd7b",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C41-B"
+}

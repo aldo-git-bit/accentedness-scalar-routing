@@ -1,0 +1,12 @@
+{
+  "text": "Thank you.",
+  "avg_logprob": -0.8893278439839681,
+  "no_speech_prob": 0.9150492548942566,
+  "wall_clock_seconds": 0.505912458000239,
+  "n_segments": 1,
+  "wer": 0.9090909090909091,
+  "reference": "OKAY YOU CAN SEE A LOT OF NIGERIANS THEY DON'T SPEAK",
+  "utterance_id": "c4b6163862c4",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-A"
+}

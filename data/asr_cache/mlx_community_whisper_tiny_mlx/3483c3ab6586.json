@@ -1,0 +1,12 @@
+{
+  "text": "Bye.",
+  "avg_logprob": -0.8500465393066406,
+  "no_speech_prob": 0.5890305042266846,
+  "wall_clock_seconds": 0.01705141700222157,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "ALL RIGHT",
+  "utterance_id": "3483c3ab6586",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-A"
+}

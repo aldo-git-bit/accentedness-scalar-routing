@@ -1,0 +1,12 @@
+{
+  "text": "And then I started Harry Potter, then Hunger Games, then the Diversion series, then Twilight.",
+  "avg_logprob": -0.3654483954111735,
+  "no_speech_prob": 0.008996626362204552,
+  "wall_clock_seconds": 0.1496962090022862,
+  "n_segments": 1,
+  "wer": 0.2631578947368421,
+  "reference": "AND THEN I THEN I STARTED HARRY POTTER THEN HUNGER GAMES THEN THE DIVERGENT SERIES AND LIKE THEN TWILIGHT",
+  "utterance_id": "ddb2db7dfd5b",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-A"
+}

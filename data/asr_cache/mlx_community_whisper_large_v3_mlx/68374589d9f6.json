@@ -1,0 +1,12 @@
+{
+  "text": "but I don't know",
+  "avg_logprob": -0.29612985253334045,
+  "no_speech_prob": 0.13894394040107727,
+  "wall_clock_seconds": 0.5272786250025092,
+  "n_segments": 1,
+  "wer": 1.3333333333333333,
+  "reference": "YEAH A PROJE",
+  "utterance_id": "68374589d9f6",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C33-A"
+}

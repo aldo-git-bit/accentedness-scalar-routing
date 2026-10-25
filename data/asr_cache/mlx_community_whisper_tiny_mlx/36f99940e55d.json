@@ -1,0 +1,12 @@
+{
+  "text": "And then I loved then they were called, you know, sort of, traveling wheelbris. And",
+  "avg_logprob": -0.6282763847937951,
+  "no_speech_prob": 0.0036272734869271517,
+  "wall_clock_seconds": 0.04629124999337364,
+  "n_segments": 2,
+  "wer": 0.17647058823529413,
+  "reference": "AND THEN I LOVED THEN THEY WERE CALLED YOU KNOW SORT OF UM THE TRAVELING WILBURYS AND",
+  "utterance_id": "36f99940e55d",
+  "accent": "Irish English",
+  "speaker": "EDACC-C47-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "um i think your opinion do we are all entitled to our opinions and based on our on our observations but since you were born till now just tell me do you think guys cook like more than ladies have you seen guys many guys cooking",
+  "avg_logprob": -0.12525497292572596,
+  "no_speech_prob": 0.03977411612868309,
+  "wall_clock_seconds": 1.0719082499999786,
+  "n_segments": 3,
+  "wer": 0.06382978723404255,
+  "reference": "MM UM I THINK YOUR OPINION THOUGH WE ARE ALL ENTITLED TO OUR OPINION AND BASED ON OUR ON OUR OBSERVATIONS BUT SINCE YOU WERE BORN TILL NOW JUST TELL ME DO YOU THINK GUYS COOK LIKE MORE THAN LADIES HAVE YOU SEEN GUYS MANY GUYS COOKING",
+  "utterance_id": "bf906f6ba010",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C41-A"
+}

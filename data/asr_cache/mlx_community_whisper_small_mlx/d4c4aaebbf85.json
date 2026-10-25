@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, yeah, I can hit.",
+  "avg_logprob": -0.7059412002563477,
+  "no_speech_prob": 0.03323248773813248,
+  "wall_clock_seconds": 0.11220816700006253,
+  "n_segments": 1,
+  "wer": 0.42857142857142855,
+  "reference": "YEAH YEAH NO I CAN HEAR YOU",
+  "utterance_id": "d4c4aaebbf85",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C31-B"
+}

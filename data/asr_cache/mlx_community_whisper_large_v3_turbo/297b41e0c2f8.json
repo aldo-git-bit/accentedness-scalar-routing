@@ -1,0 +1,12 @@
+{
+  "text": "I mean, I know a little about update fantasy on it. I mean, it's like the big deal right now.",
+  "avg_logprob": -0.5657039642333984,
+  "no_speech_prob": 2.3216430514172437e-11,
+  "wall_clock_seconds": 0.44776254100725055,
+  "n_segments": 2,
+  "wer": 0.30434782608695654,
+  "reference": "I MEAN I KNOW I KNOW LIKE A LITTLE ABOUT AFFILIATE MARKETING AND IT'S I MEAN IT'S LIKE THE BIG DEAL RIGHT NOW",
+  "utterance_id": "297b41e0c2f8",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-B"
+}

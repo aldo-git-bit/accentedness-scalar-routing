@@ -1,0 +1,12 @@
+{
+  "text": "People up in my name are so free because my best friend know that time was named so free so",
+  "avg_logprob": -0.8059238433837891,
+  "no_speech_prob": 0.1132270023226738,
+  "wall_clock_seconds": 0.06784379099553917,
+  "n_segments": 2,
+  "wer": 0.631578947368421,
+  "reference": "I MEAN PIPLUP AND I NAMED HER SOPHIE BECAUSE MY BEST FRIEND AT THE TIME WAS NAMED SOPHIE SO",
+  "utterance_id": "9626a27cf1ba",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C63-B"
+}

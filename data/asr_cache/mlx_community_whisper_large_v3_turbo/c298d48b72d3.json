@@ -1,0 +1,12 @@
+{
+  "text": "a watered down version of the book Jimmy you",
+  "avg_logprob": -0.564649079975329,
+  "no_speech_prob": 6.911399404174734e-12,
+  "wall_clock_seconds": 0.4176991249987623,
+  "n_segments": 4,
+  "wer": 0.3333333333333333,
+  "reference": "IT'S A WATERED DOWN VERSION OF THE BOOK GINNY",
+  "utterance_id": "c298d48b72d3",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-B"
+}

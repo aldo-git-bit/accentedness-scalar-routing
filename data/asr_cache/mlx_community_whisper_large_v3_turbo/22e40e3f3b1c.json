@@ -1,0 +1,12 @@
+{
+  "text": "Seagull and the Tone.",
+  "avg_logprob": -0.4894531856883656,
+  "no_speech_prob": 5.921416135201696e-11,
+  "wall_clock_seconds": 0.4010696660116082,
+  "n_segments": 1,
+  "wer": 0.75,
+  "reference": "SUGO IN THE TOWN",
+  "utterance_id": "22e40e3f3b1c",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

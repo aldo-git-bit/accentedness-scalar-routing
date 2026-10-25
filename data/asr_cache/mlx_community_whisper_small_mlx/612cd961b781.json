@@ -1,0 +1,12 @@
+{
+  "text": "I used to sit in Muckin' everywhere and here I am.",
+  "avg_logprob": -0.6252114507887099,
+  "no_speech_prob": 0.059707850217819214,
+  "wall_clock_seconds": 0.12919466699895565,
+  "n_segments": 1,
+  "wer": 0.5333333333333333,
+  "reference": "I WAS ONE OF THEM I USED TO MOCK THEM EVERYWHERE AND HERE I AM",
+  "utterance_id": "612cd961b781",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C06-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "I think he made the most of it and we tried to take him as many places as we could and give him everything he wanted or certainly not a dog and one innocent but things that we think he would like and we tried to give him but unfortunately that's just all you sometimes isn't it?",
+  "avg_logprob": -0.35924682064332825,
+  "no_speech_prob": 0.0250164233148098,
+  "wall_clock_seconds": 0.15010583400726318,
+  "n_segments": 4,
+  "wer": 0.22807017543859648,
+  "reference": "I THINK HE MADE THE MOST OF IT AND WE TRIED TO TAKE HIM AS MANY PLACES AS WE COULD AND GIVE THEM EVERYTHING THEY WANTED OR CERTAINLY NOT A DOG CAN WANT ANYTHING BUT THINGS THAT WE THINK THEY WOULD LIKE AND WE TRY WE TRY GIVE BUT UN UNFORTUNATELY THAT'S JUST LIFE SOMETIMES ISN'T IT",
+  "utterance_id": "3e76a094a10d",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

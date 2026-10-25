@@ -1,0 +1,12 @@
+{
+  "text": "Have you seen the new Mario World? No.",
+  "avg_logprob": -0.280060863494873,
+  "no_speech_prob": 0.012544509954750538,
+  "wall_clock_seconds": 0.6064037500000268,
+  "n_segments": 2,
+  "wer": 0.4166666666666667,
+  "reference": "HAVE YOU SEEN THE UM THE NEW UM MARIO WORLD LIKE <DTMF>",
+  "utterance_id": "bafa85c50096",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C17-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "area out in my journal.",
+  "avg_logprob": -0.9051791297064887,
+  "no_speech_prob": 0.1251675933599472,
+  "wall_clock_seconds": 0.039328834012849256,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "<LAUGH> YEAH I CAN IMAGINE",
+  "utterance_id": "25ecfb9a64d9",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C19-B"
+}

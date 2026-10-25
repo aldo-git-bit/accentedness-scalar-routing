@@ -1,0 +1,12 @@
+{
+  "text": "Absolutely, I felt very good. I think the mega, the ragu is very good as well, I'm sure.",
+  "avg_logprob": -0.8908065795898438,
+  "no_speech_prob": 0.09896055608987808,
+  "wall_clock_seconds": 0.07530216699524317,
+  "n_segments": 2,
+  "wer": 0.7647058823529411,
+  "reference": "OH ABSOLUTELY I'VE HEARD GREAT THINGS OF IT HEARD THEIR RAG\u00f9 IS VERY GOOD AS WELL ACTUALLY",
+  "utterance_id": "17e401a91c04",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

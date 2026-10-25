@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, yeah, that's that's a good space. Yeah. So I'm not I'm not I'm against the idea of somebody going there in two weeks or three weeks and claims that the accent I've grown on you.",
+  "avg_logprob": -0.44771991457257954,
+  "no_speech_prob": 0.06835105270147324,
+  "wall_clock_seconds": 1.100867000001017,
+  "n_segments": 4,
+  "wer": 0.358974358974359,
+  "reference": "MM YEAH YEAH THAT'S THAT'S SOMETHING THAT'S <DTMF> YEAH SO UH WELL I'M NOT I'M I'M AGAINST THE IDEA OF SOMEBODY GOING THERE IN TWO WEEKS OR THREE WEEKS TIME AND CLAIMS THAT HE HAS THE ACCENT <DTMF> <LAUGH>",
+  "utterance_id": "791950cae654",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-A"
+}

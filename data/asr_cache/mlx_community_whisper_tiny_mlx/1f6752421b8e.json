@@ -1,0 +1,12 @@
+{
+  "text": "primary school, it wasn't even 7 feet. So it was very fun to go back there and then mess about there after I did some coaching.",
+  "avg_logprob": -0.3661907468523298,
+  "no_speech_prob": 0.01906404085457325,
+  "wall_clock_seconds": 0.05462741700466722,
+  "n_segments": 2,
+  "wer": 0.2,
+  "reference": "PRIMARY SCHOOL IT WASN'T EVEN SEVEN FEET SO IT WAS VERY FUN TO GO BACK THERE THEN MESS ABOUT THEREAFTER I DID SOME UM COACHING",
+  "utterance_id": "1f6752421b8e",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Bye.",
+  "avg_logprob": -0.9731993675231934,
+  "no_speech_prob": 0.5849307775497437,
+  "wall_clock_seconds": 0.09271441600139951,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "HMM",
+  "utterance_id": "bbb356efc86c",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B"
+}

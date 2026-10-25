@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, yeah, so fun, honestly. So anyways, anyways, it's been so much fun talking to you.",
+  "avg_logprob": -0.5500377128864157,
+  "no_speech_prob": 0.20371514558792114,
+  "wall_clock_seconds": 0.046612792008090764,
+  "n_segments": 2,
+  "wer": 0.17647058823529413,
+  "reference": "YEAH YEAH YEAH SO HONESTLY SO UM ANYWAYS ANYWAYS IT'S BEEN SO MUCH FUN TALKING TO YOU",
+  "utterance_id": "f7dcaea0b82f",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-B"
+}

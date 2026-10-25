@@ -1,0 +1,12 @@
+{
+  "text": "Definitely. And like starting a like environmental company from, from an Island kind of makes sense.",
+  "avg_logprob": -0.2902956207593282,
+  "no_speech_prob": 6.431433619176474e-13,
+  "wall_clock_seconds": 0.4309582090063486,
+  "n_segments": 2,
+  "wer": 0.1111111111111111,
+  "reference": "DEFINITELY AND LIKE JUST STARTING A LIKE ENVIRONMENTAL COMPANY FROM UH FROM AN ISLAND KIND OF MAKES SENSE",
+  "utterance_id": "6345b730abd5",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C14-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "So let's be the passage August fest. Please call Stella. Accats bring these scenes with her from the store. Six points of fresh snow peas, five six laps of new cheese, and maybe a snack for a broda boar. We also need a small plastic snake. A big toy frog for the kids. She can scoop these things into three red bugs, and who go meet her when it's the adetranstisha. Great.",
+  "avg_logprob": -0.7278135914688276,
+  "no_speech_prob": 0.3348727859556675,
+  "wall_clock_seconds": 0.1568640420009615,
+  "n_segments": 10,
+  "wer": 72.0,
+  "reference": "IGNORE_TIME_SEGMENT_IN_SCORING",
+  "utterance_id": "84e3625531c8",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C41-A"
+}

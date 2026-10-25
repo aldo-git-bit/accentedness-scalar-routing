@@ -1,0 +1,12 @@
+{
+  "text": "And my biting memories of the summer would be Tom Sawyer, but it must have been a European production because of the don't.",
+  "avg_logprob": -0.462836891412735,
+  "no_speech_prob": 0.002319782041013241,
+  "wall_clock_seconds": 0.04869833300472237,
+  "n_segments": 2,
+  "wer": 0.24,
+  "reference": "AND MY ABIDING MEMORIES OF THE SUMMER WOULD BE TOM SAWYER BUT IT WAS IT MUST HAVE BEEN A EUROPEAN PRODUCTION BECAUSE IT WAS DUBBED",
+  "utterance_id": "df3eadb23482",
+  "accent": "Irish English",
+  "speaker": "EDACC-C61-A"
+}

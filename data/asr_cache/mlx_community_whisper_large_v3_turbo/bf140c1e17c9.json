@@ -1,0 +1,12 @@
+{
+  "text": "I like mine. They're quite a lot.",
+  "avg_logprob": -0.6727526346842448,
+  "no_speech_prob": 3.0994450062049594e-11,
+  "wall_clock_seconds": 0.40884312499838416,
+  "n_segments": 2,
+  "wer": 0.3333333333333333,
+  "reference": "I LIKE MANGA QUITE A LOT",
+  "utterance_id": "bf140c1e17c9",
+  "accent": "Irish English",
+  "speaker": "EDACC-C63-A"
+}

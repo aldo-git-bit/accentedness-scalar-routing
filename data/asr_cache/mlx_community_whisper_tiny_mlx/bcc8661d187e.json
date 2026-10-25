@@ -1,0 +1,12 @@
+{
+  "text": "It would certainly be the energy of the face as good as it is.",
+  "avg_logprob": -0.868807315826416,
+  "no_speech_prob": 0.004151385743170977,
+  "wall_clock_seconds": 0.032168290999834426,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "IT WOULD CERTAINLY WITH THE ENERGY PRICES GOING UP",
+  "utterance_id": "bcc8661d187e",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

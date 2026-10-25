@@ -1,0 +1,12 @@
+{
+  "text": "Yeah.",
+  "avg_logprob": -2.4040379524230957,
+  "no_speech_prob": 0.12382976710796356,
+  "wall_clock_seconds": 0.965323416996398,
+  "n_segments": 1,
+  "wer": 0.75,
+  "reference": "YEAH IT'S <NO-SPEECH> <OVERLAP>",
+  "utterance_id": "2981d4e23d2e",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-B"
+}

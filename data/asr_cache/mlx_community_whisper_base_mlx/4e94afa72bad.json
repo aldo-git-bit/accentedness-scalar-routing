@@ -1,0 +1,12 @@
+{
+  "text": "And I think British Ascension School, I don't hate it. It's cool, I like it. It's the guess. It's just why I like it. It kind of extends you from others. Maybe it was, if you see a British person, why not know once a person just make a sentence, you definitely tell your person is wrong.",
+  "avg_logprob": -0.5373941647109165,
+  "no_speech_prob": 0.06889840215444565,
+  "wall_clock_seconds": 0.19015383400255814,
+  "n_segments": 9,
+  "wer": 0.43037974683544306,
+  "reference": "I THINK UH I BRITISH ACCENT IS COOL I I I DON'T HATE IT IT'S COOL I LIKE I LIKE IT UH IT'S 'CAUSE I GUESS JUST JUST WHY I LIKE IT BUT IT KIND OF THIS UH DISTANCE YOU FROM OTHERS MAYBE UH ONCE IF IF BECAUSE IF YOU IF YOU SEE A BRITISH PERSON MIGHT NOT KNOW ONCE A PERSON JUST MM UM MAKE A SENTENCE YOU YOU WOULD DEFINITELY TELL YOU WHERE THE PERSON IS FROM",
+  "utterance_id": "4e94afa72bad",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-A"
+}

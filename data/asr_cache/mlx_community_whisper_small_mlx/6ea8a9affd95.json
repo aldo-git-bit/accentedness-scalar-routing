@@ -1,0 +1,12 @@
+{
+  "text": "So.",
+  "avg_logprob": -0.6796097755432129,
+  "no_speech_prob": 0.32507020235061646,
+  "wall_clock_seconds": 0.0901388330021291,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "RECORDINGS YEAH",
+  "utterance_id": "6ea8a9affd95",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C22-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Roberta Rober",
+  "avg_logprob": -0.21852510240342882,
+  "no_speech_prob": 5.952974918566056e-11,
+  "wall_clock_seconds": 3.425843167002313,
+  "n_segments": 1,
+  "wer": 37.333333333333336,
+  "reference": "I WAS <OVERLAP>",
+  "utterance_id": "40d7b8223a78",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C04-B"
+}

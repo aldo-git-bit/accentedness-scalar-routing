@@ -1,0 +1,12 @@
+{
+  "text": "full of fat.",
+  "avg_logprob": -0.7339596748352051,
+  "no_speech_prob": 0.4370687007904053,
+  "wall_clock_seconds": 0.09766683299676515,
+  "n_segments": 1,
+  "wer": 0.3333333333333333,
+  "reference": "FULL OF WHAT",
+  "utterance_id": "1c7c5e59c690",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C44-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "and then the the the the the the the the the the the the the the Good night, then Twilight.",
+  "avg_logprob": -0.7569353954880326,
+  "no_speech_prob": 0.02059194790975501,
+  "wall_clock_seconds": 0.734450541989645,
+  "n_segments": 24,
+  "wer": 0.7894736842105263,
+  "reference": "AND THEN I THEN I STARTED HARRY POTTER THEN HUNGER GAMES THEN THE DIVERGENT SERIES AND LIKE THEN TWILIGHT",
+  "utterance_id": "ddb2db7dfd5b",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-A"
+}

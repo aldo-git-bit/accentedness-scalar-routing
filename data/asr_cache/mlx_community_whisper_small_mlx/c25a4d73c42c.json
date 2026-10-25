@@ -1,0 +1,12 @@
+{
+  "text": "It's something cool. I think it's easy, but it's not.",
+  "avg_logprob": -0.8594638279506138,
+  "no_speech_prob": 0.28431400656700134,
+  "wall_clock_seconds": 0.14298100000087288,
+  "n_segments": 2,
+  "wer": 0.6428571428571429,
+  "reference": "YOU KNOW MOST PEOPLE THINK <OVERLAP> AS IF IT'S EASY BUT IT IS NOT",
+  "utterance_id": "c25a4d73c42c",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-B"
+}

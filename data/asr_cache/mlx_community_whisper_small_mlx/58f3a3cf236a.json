@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, so why is it actually happening?",
+  "avg_logprob": -0.8791020711263021,
+  "no_speech_prob": 0.2005668580532074,
+  "wall_clock_seconds": 0.11465129099815385,
+  "n_segments": 1,
+  "wer": 0.8571428571428571,
+  "reference": "YEAH HAWAII IS IN ASIA AND LIKE",
+  "utterance_id": "58f3a3cf236a",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-A"
+}

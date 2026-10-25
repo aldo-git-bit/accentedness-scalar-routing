@@ -1,0 +1,12 @@
+{
+  "text": "He's an absolute specimen. He should not be let out of the house.",
+  "avg_logprob": -0.13496104876200357,
+  "no_speech_prob": 0.01889527402818203,
+  "wall_clock_seconds": 0.6771282500012603,
+  "n_segments": 2,
+  "wer": 0.0,
+  "reference": "HE'S AN ABSOLUTE SPECIMEN HE SHOULD NOT BE LET OUT OF THE HOUSE",
+  "utterance_id": "284560208767",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C06-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "I mean I know I don't like a little about applying to the channel it. I mean it's like the big deal right now.",
+  "avg_logprob": -0.6197280883789062,
+  "no_speech_prob": 0.018814653158187866,
+  "wall_clock_seconds": 0.051028166999458335,
+  "n_segments": 2,
+  "wer": 0.2608695652173913,
+  "reference": "I MEAN I KNOW I KNOW LIKE A LITTLE ABOUT AFFILIATE MARKETING AND IT'S I MEAN IT'S LIKE THE BIG DEAL RIGHT NOW",
+  "utterance_id": "297b41e0c2f8",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-B"
+}

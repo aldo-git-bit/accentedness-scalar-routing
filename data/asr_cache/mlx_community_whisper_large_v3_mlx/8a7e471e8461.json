@@ -1,0 +1,12 @@
+{
+  "text": "Anyway, go ahead. Finish with your thought.",
+  "avg_logprob": -0.27891772588094077,
+  "no_speech_prob": 0.1280614137649536,
+  "wall_clock_seconds": 0.6204048750005313,
+  "n_segments": 2,
+  "wer": 0.125,
+  "reference": "ANYWAY UH GO AHEAD FINISH WITH YOUR THOUGHT",
+  "utterance_id": "8a7e471e8461",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-B"
+}

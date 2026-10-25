@@ -1,0 +1,12 @@
+{
+  "text": "Right, I think we're supposed to read a... ...paragraphs, I'll go first. Um, right. Please call Stella. Ask her to bring these things with her from the store. Six spoons of fresh, no bees. Five, six slabs of blue cheese. And maybe a sniper brother Bob. We also need a small plastic snake and a big toy frog for the kids. She can scoop these things into three red bags and we will go meet her Wednesday at the train station.",
+  "avg_logprob": -0.2959321945432633,
+  "no_speech_prob": 0.02693331427872181,
+  "wall_clock_seconds": 0.23692616599146277,
+  "n_segments": 11,
+  "wer": 81.0,
+  "reference": "IGNORE_TIME_SEGMENT_IN_SCORING",
+  "utterance_id": "5caccc8e5dd8",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-A"
+}

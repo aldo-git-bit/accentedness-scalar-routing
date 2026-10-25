@@ -1,0 +1,12 @@
+{
+  "text": "because yeah, you always thought he'd agree. They was 20, 720, 29, 30ish.",
+  "avg_logprob": -0.5975812398470365,
+  "no_speech_prob": 0.01134896744042635,
+  "wall_clock_seconds": 0.04205741701298393,
+  "n_segments": 2,
+  "wer": 0.8823529411764706,
+  "reference": "MM BECAUSE YEAH YOU'RE ALMOST THIRTY DEGREES THERE WAS TWENTY SEVEN TWENTY EIGHT TWENTY NINE THIRTY ISH",
+  "utterance_id": "404b6b8ab4ae",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B"
+}

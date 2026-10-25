@@ -1,0 +1,12 @@
+{
+  "text": "It sounds really great. I would not want to go there.",
+  "avg_logprob": -0.4619162347581651,
+  "no_speech_prob": 0.013426211662590504,
+  "wall_clock_seconds": 0.03125374999945052,
+  "n_segments": 2,
+  "wer": 0.3,
+  "reference": "IT SOUNDS REALLY GRIM I WOULD NOT WANNA GO THERE",
+  "utterance_id": "24526f571b7d",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C06-B"
+}

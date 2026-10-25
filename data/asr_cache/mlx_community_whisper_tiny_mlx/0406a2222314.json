@@ -1,0 +1,12 @@
+{
+  "text": "Wait, it's up! Is there another one?",
+  "avg_logprob": -0.4409997122628348,
+  "no_speech_prob": 0.02241111733019352,
+  "wall_clock_seconds": 0.029345332994125783,
+  "n_segments": 1,
+  "wer": 0.2857142857142857,
+  "reference": "WAIT IS THERE IS THERE ANOTHER ONE",
+  "utterance_id": "0406a2222314",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C17-B"
+}

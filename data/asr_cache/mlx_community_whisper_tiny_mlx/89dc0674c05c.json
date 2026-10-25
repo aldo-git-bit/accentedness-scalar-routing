@@ -1,0 +1,12 @@
+{
+  "text": "And I think eventually, I think eventually, most people will. It's all about having the infrastructure at the home as well, and being able to ensure that having an allergic odahy read works for us now.",
+  "avg_logprob": -0.5651066350001915,
+  "no_speech_prob": 0.02796913869678974,
+  "wall_clock_seconds": 0.07332575001055375,
+  "n_segments": 3,
+  "wer": 0.3170731707317073,
+  "reference": "<COUGH> I THINK EVENTUALLY YEAH I THINK EVENTUALLY MOST PEOPLE WILL UM IT'S ALL ABOUT HAVING THE INFRASTRUCTURE AT YOUR HOME AS WELL THOUGH AND BEING ABLE TO ENSURE THAT HAVING A UM AN ELECTRIC OR THE HYBRID WORKS FOR YOURSELF",
+  "utterance_id": "89dc0674c05c",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

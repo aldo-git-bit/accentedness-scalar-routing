@@ -1,0 +1,12 @@
+{
+  "text": "Right. And now I think we just have to contrast for 15 minutes. I start with first one. When you're a kid, what kinds of games did you play? Is there one you remember well? You can go first because you had a game.",
+  "avg_logprob": -0.39002108169814287,
+  "no_speech_prob": 0.007035158108919859,
+  "wall_clock_seconds": 0.08418545800668653,
+  "n_segments": 3,
+  "wer": 0.1875,
+  "reference": "RIGHT AND NOW I THINK WE JUST HAVE TO CONVERSE FOR FIFTEEN MINUTES UM LET'S START WITH THE FIRST ONE WHEN YOU WERE A KID WHAT KINDS OF GAMES DID YOU PLAY IS THERE ONE YOU REMEMBER WELL LIKE YOU CAN GO FIRST 'CAUSE YOU HAD A GAME",
+  "utterance_id": "36504171b57e",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-A"
+}

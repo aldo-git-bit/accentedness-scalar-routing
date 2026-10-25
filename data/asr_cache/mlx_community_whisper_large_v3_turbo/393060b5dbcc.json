@@ -1,0 +1,12 @@
+{
+  "text": "Maybe, was that not the symbol you saw, but like...",
+  "avg_logprob": -0.4313770830631256,
+  "no_speech_prob": 4.655710279105607e-12,
+  "wall_clock_seconds": 0.41364625000278465,
+  "n_segments": 1,
+  "wer": 0.09090909090909091,
+  "reference": "MAYBE WAIT WAS THAT NOT THE SYMBOL YOU SAW BUT LIKE",
+  "utterance_id": "393060b5dbcc",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C03-A"
+}

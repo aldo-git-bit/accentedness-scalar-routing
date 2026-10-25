@@ -1,0 +1,12 @@
+{
+  "text": "Yeah. Did you watch the latest song?",
+  "avg_logprob": -1.5518788655598958,
+  "no_speech_prob": 0.16796758770942688,
+  "wall_clock_seconds": 0.23113933300192002,
+  "n_segments": 2,
+  "wer": 0.6666666666666666,
+  "reference": "YEAH DID YOU NOT DID YOU WATCH LAZY TOWN",
+  "utterance_id": "f24b45543859",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-A"
+}

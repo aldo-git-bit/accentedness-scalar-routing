@@ -1,0 +1,12 @@
+{
+  "text": "No one can be a little bit like, has dexterity on these things. He's way better than the others because it takes a lot of space. I don't know.",
+  "avg_logprob": -0.2714899236505682,
+  "no_speech_prob": 1.2064523859101062e-11,
+  "wall_clock_seconds": 0.4781064169947058,
+  "n_segments": 3,
+  "wer": 0.20588235294117646,
+  "reference": "THE SMALL ONE CAN BE A LITTLE BIT LIKE UH HAS DEXTERITY ON THESE THINGS HE'S WAY BETTER THAN THE OTHERS BECAUSE IT IT IT TAKES A LOT OF PACE I I DON'T KNOW",
+  "utterance_id": "9a8d767159ae",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C20-B"
+}

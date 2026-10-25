@@ -1,0 +1,12 @@
+{
+  "text": "It sounds really grim. I would not want to go there.",
+  "avg_logprob": -0.15685253673129612,
+  "no_speech_prob": 1.5834561309727158e-12,
+  "wall_clock_seconds": 0.41661404199840035,
+  "n_segments": 2,
+  "wer": 0.2,
+  "reference": "IT SOUNDS REALLY GRIM I WOULD NOT WANNA GO THERE",
+  "utterance_id": "24526f571b7d",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C06-B"
+}

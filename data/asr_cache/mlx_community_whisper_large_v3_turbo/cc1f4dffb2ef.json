@@ -1,0 +1,12 @@
+{
+  "text": "The idea is it's essentially the same as bulldog. You have to grind one day into the field. There's one person who's the shark or maybe two people and they can move any direction. And if they take you, you become seaweed and you can't move your feet. You can like lean out to catch people.",
+  "avg_logprob": -0.19204660741294302,
+  "no_speech_prob": 6.17037801062259e-12,
+  "wall_clock_seconds": 0.5810046249971492,
+  "n_segments": 7,
+  "wer": 0.19672131147540983,
+  "reference": "WE'D UH THE IDEA IT'S ESSENTIALLY THE SAME AS BULLDOG YOU HAVE TO TRY AND RUN TO THE END OF THE FIELD THERE'S ONE PERSON WHO'S THIS SHARK OR MAYBE TWO PEOPLE AND THEY CAN MOVE ANY DIRECTION AND IF THEY TAKE YOU YOU BECOME SEAWEED AND YOU CAN'T MOVE YOUR FEET BUT YOU CAN LIKE LEAN OUT TO CATCH PEOPLE",
+  "utterance_id": "cc1f4dffb2ef",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-A"
+}

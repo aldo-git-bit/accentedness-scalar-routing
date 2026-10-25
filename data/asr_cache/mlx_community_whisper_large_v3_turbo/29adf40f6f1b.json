@@ -1,0 +1,12 @@
+{
+  "text": "on the app. Thank you.",
+  "avg_logprob": -1.2032722947143373,
+  "no_speech_prob": 5.727612202726027e-11,
+  "wall_clock_seconds": 3.994486916999449,
+  "n_segments": 56,
+  "wer": 1.25,
+  "reference": "OH MY GOD YES",
+  "utterance_id": "29adf40f6f1b",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C06-B"
+}

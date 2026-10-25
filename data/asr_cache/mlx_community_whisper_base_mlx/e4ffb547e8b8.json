@@ -1,0 +1,12 @@
+{
+  "text": "Well, I really love going to the beach and I still love it. And we were always waiting for some adults to come with us because our parents won't let us to go alone because we were too young, right? And we were going almost every day, depends if an adult is free every day, we will go every day. And we used to go cycling or walking by the beach.",
+  "avg_logprob": -0.18368902206420898,
+  "no_speech_prob": 0.033120656007668,
+  "wall_clock_seconds": 0.22910170900286175,
+  "n_segments": 8,
+  "wer": 0.11538461538461539,
+  "reference": "WELL I I REALLY LOVED GOING TO THE BEACH AND I STILL LOVE IT AND WE WERE ALWAYS UM WAITING FOR SOME ADULT TO COME WITH US BECAUSE UH OUR PARENTS WON'T LET US TO GO ALONE BECAUSE WE WERE TOO YOUNG RIGHT AND UM WE WERE UM GOING ALMOST EVERY DAY DEPENDS IF UH IF AN ADULT IS FREE EVERY DAY WE WILL GO EVERY DAY AND WE USED TO GO CYCLING OR WALKING BY THE BEACH",
+  "utterance_id": "e4ffb547e8b8",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C44-A"
+}

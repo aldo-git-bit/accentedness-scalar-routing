@@ -1,0 +1,12 @@
+{
+  "text": "opening, but it was always so depressing when you were kid and ardent that you couldn't join in, you couldn't enter competitions, you sometimes you couldn't even find some of the stuff they used for the arts and crafts.",
+  "avg_logprob": -0.30246413195574723,
+  "no_speech_prob": 0.1770007461309433,
+  "wall_clock_seconds": 0.12108320799598005,
+  "n_segments": 3,
+  "wer": 0.175,
+  "reference": "EYE OPENING BUT IT WAS ALWAYS SO DEPRESSING WHEN YOU WERE A KID IN IRELAND THAT YOU COULDN'T JOIN IN YOU COULDN'T ENTER COMPETITIONS YOU SOMETIMES YOU COULDN'T EVEN FIND SOME OF THE STUFF THEY USED FOR THE ARTSY CRAFT",
+  "utterance_id": "b07e2b3e23d6",
+  "accent": "Irish English",
+  "speaker": "EDACC-C61-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "the bed. the bed.",
+  "avg_logprob": -3.0494089126586914,
+  "no_speech_prob": 0.02334057353436947,
+  "wall_clock_seconds": 0.1740982910123421,
+  "n_segments": 2,
+  "wer": 0.75,
+  "reference": "SUGO IN THE TOWN",
+  "utterance_id": "22e40e3f3b1c",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Um... Do you like spending time alone?",
+  "avg_logprob": -0.6042564937046596,
+  "no_speech_prob": 0.0730595737695694,
+  "wall_clock_seconds": 0.12011549999806448,
+  "n_segments": 2,
+  "wer": 0.16666666666666666,
+  "reference": "DO YOU LIKE SPENDING TIME ALONE",
+  "utterance_id": "a79073c62dfd",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C32-B"
+}

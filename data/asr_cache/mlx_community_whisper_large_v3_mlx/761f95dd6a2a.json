@@ -1,0 +1,12 @@
+{
+  "text": "never do flash on that's just like insane because you're just you that's like zero social awareness because you don't really know what's going on",
+  "avg_logprob": -0.170526545388358,
+  "no_speech_prob": 0.014707227237522602,
+  "wall_clock_seconds": 0.8508685839988175,
+  "n_segments": 2,
+  "wer": 0.25806451612903225,
+  "reference": "I WOULD NEVER DO FLASH ON THAT'S JUST LIKE INSANE THAT IS ENTIRELY INSANE BECAUSE YOU'VE JUST YOU'VE THAT'S LIKE ZERO SOCIAL AWARENESS BECAUSE YOU DON'T REALLY KNOW WHAT'S GOING ON",
+  "utterance_id": "761f95dd6a2a",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C33-A"
+}

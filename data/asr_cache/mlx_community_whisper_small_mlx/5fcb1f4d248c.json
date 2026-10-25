@@ -1,0 +1,12 @@
+{
+  "text": "I feel like even now, just wouldn't enjoy it.",
+  "avg_logprob": -0.594922129313151,
+  "no_speech_prob": 0.06516216695308685,
+  "wall_clock_seconds": 0.12346358300055726,
+  "n_segments": 1,
+  "wer": 0.2,
+  "reference": "I FEEL LIKE EVEN NOW I JUST WOULDN'T ENJOY THEM",
+  "utterance_id": "5fcb1f4d248c",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-B"
+}

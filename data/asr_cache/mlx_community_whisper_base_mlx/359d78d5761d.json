@@ -1,0 +1,12 @@
+{
+  "text": "There was this thing I saw, like the new MD came up and said that he doesn't want people to be walking from home. I guess what, the next day, the kind of letter as he goes, like people resigning.",
+  "avg_logprob": -0.4463888924076872,
+  "no_speech_prob": 0.07792612910270691,
+  "wall_clock_seconds": 0.12144545798946638,
+  "n_segments": 2,
+  "wer": 0.1794871794871795,
+  "reference": "THERE WAS THIS THING I SAW ONLINE THE NEW MD CAME UP AND SAY THAT HE DOESN'T WANT PEOPLE TO BE WORKING FROM HOME AND GUESS WHAT THE NEXT DAY THE KIND OF LETTERS HE GOT LIKE PEOPLE RESIGNING",
+  "utterance_id": "359d78d5761d",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-B"
+}

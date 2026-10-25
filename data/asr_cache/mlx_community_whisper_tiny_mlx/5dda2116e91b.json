@@ -1,0 +1,12 @@
+{
+  "text": "still a great group. great.",
+  "avg_logprob": -0.5539372294861593,
+  "no_speech_prob": 0.07486095097329881,
+  "wall_clock_seconds": 1.1196833750000224,
+  "n_segments": 45,
+  "wer": 1.25,
+  "reference": "STONE UH STONE PLAYGROUND",
+  "utterance_id": "5dda2116e91b",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-B"
+}

@@ -1,0 +1,11 @@
+{
+  "text": "You know, road rashes was like, I'd rather break something than get, you know, road rash.",
+  "wer": 0.125,
+  "reference": "AND ALL ROAD RASHES WAS LIKE I'D RATHER BREAK SOMETHING THAN GET YOU KNOW ROAD RASH",
+  "utterance_id": "c5c860a92fcb",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B",
+  "wall_clock_seconds": 0.9621554170007585,
+  "avg_logprob": null,
+  "no_speech_prob": null
+}

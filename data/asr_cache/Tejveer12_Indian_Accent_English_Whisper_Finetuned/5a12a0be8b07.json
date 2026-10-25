@@ -1,0 +1,11 @@
+{
+  "text": "Capitaine of Woolwiches. He ate a lot of hand sandwiches for three days.",
+  "wer": 0.42857142857142855,
+  "reference": "CAFETERIA FOOD WHICH WAS I ATE A LOT OF HAM SANDWICHES FOR THREE DAYS",
+  "utterance_id": "5a12a0be8b07",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B",
+  "wall_clock_seconds": 0.9509730419958942,
+  "avg_logprob": null,
+  "no_speech_prob": null
+}

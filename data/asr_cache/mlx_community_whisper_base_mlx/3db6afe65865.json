@@ -1,0 +1,12 @@
+{
+  "text": "",
+  "avg_logprob": 0.0,
+  "no_speech_prob": 0.0,
+  "wall_clock_seconds": 0.03130704100476578,
+  "n_segments": 0,
+  "wer": 1.0,
+  "reference": "OKAY",
+  "utterance_id": "3db6afe65865",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-B"
+}

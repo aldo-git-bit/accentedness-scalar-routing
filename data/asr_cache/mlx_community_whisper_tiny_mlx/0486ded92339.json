@@ -1,0 +1,12 @@
+{
+  "text": "I don't think we're going to end up in the end.",
+  "avg_logprob": -0.8926535774679745,
+  "no_speech_prob": 0.22751739621162415,
+  "wall_clock_seconds": 0.031017083005281165,
+  "n_segments": 1,
+  "wer": 1.125,
+  "reference": "YEAH I DON'T THINK LAMB IS A <DTMF>",
+  "utterance_id": "0486ded92339",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-B"
+}

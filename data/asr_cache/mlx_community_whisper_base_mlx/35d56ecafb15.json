@@ -1,0 +1,12 @@
+{
+  "text": "Anyway, how did he even interpret that? Oh yeah, because of the beats. Let's move on to like...",
+  "avg_logprob": -0.6487412606516192,
+  "no_speech_prob": 0.06621363013982773,
+  "wall_clock_seconds": 0.08027212500746828,
+  "n_segments": 3,
+  "wer": 0.36363636363636365,
+  "reference": "ANYWAY WHAT HOW DID WE EVEN END UP AT TWI OH YEAH BECAUSE OF THE TEAMS EH LET'S MOVE ON TO LIKE",
+  "utterance_id": "35d56ecafb15",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-B"
+}

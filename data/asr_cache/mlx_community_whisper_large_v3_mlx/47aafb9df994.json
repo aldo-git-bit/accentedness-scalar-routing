@@ -1,0 +1,12 @@
+{
+  "text": "Obviously not as like themed or like pristine prestigious as, as Disneyland, but like, you know, something close enough to Edinburgh to travel to. Although I have to say, like, I've looked at traveling to the, like Alton Towers is like in the middle of nowhere. And it.",
+  "avg_logprob": -0.23882911682128907,
+  "no_speech_prob": 0.07469356060028076,
+  "wall_clock_seconds": 1.316442333998566,
+  "n_segments": 6,
+  "wer": 0.061224489795918366,
+  "reference": "UM OBVIOUSLY NOT AS LIKE THEMED OR LIKE PRISTINE PRESTIGIOUS AS AS DISNEYLAND BUT LIKE YOU KNOW SOMETHING CLOSE ENOUGH TO EDINBURGH TO TRAVEL TO ALTHOUGH I HAVE TO SAY LIKE I'VE LOOKED AT TRAVELLING TO THAT LIKE ALTON TOWERS IS LIKE IN THE MIDDLE OF NOWHERE AND IT",
+  "utterance_id": "47aafb9df994",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C17-A"
+}

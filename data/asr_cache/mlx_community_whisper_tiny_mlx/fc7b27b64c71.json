@@ -1,0 +1,12 @@
+{
+  "text": "It really doesn't have a taste, like a very strong taste, but it's really meeting.",
+  "avg_logprob": -0.3635495641957159,
+  "no_speech_prob": 0.00838776770979166,
+  "wall_clock_seconds": 0.03935491600714158,
+  "n_segments": 1,
+  "wer": 0.2222222222222222,
+  "reference": "UH IT REALLY DOESN'T HAVE A TASTE LIKE A VERY STRONG TASTE BUT IT'S UM IT'S REALLY MEATY",
+  "utterance_id": "fc7b27b64c71",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C42-B"
+}

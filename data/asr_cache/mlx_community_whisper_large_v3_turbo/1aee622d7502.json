@@ -1,0 +1,12 @@
+{
+  "text": "Harry Potter's? No. Really? Yeah I have not. I tried to and I got bored.",
+  "avg_logprob": -0.3241834044456482,
+  "no_speech_prob": 1.62326304741639e-12,
+  "wall_clock_seconds": 0.4321889170096256,
+  "n_segments": 1,
+  "wer": 0.36363636363636365,
+  "reference": "YEAH I HAVE NOT I TRIED TO AND I GOT BORED",
+  "utterance_id": "1aee622d7502",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Same with Percy Jackson. Like I think just because I had crossed the age.",
+  "avg_logprob": -0.23054220562889463,
+  "no_speech_prob": 0.07837953418493271,
+  "wall_clock_seconds": 0.6921486659994116,
+  "n_segments": 2,
+  "wer": 0.06666666666666667,
+  "reference": "SAME WITH PERCY JACKSON LIKE I THINK JUST BECAUSE I HAD CROSSED THE AGE FOR",
+  "utterance_id": "1191fb6beb6d",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-B"
+}

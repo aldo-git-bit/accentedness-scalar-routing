@@ -1,0 +1,12 @@
+{
+  "text": "So, let's read the passage, I'll go first. Please call Stella. I'll start to bring these things with her from the store. Six spoons of fresh snow peas, five-six laps of blue cheese, and maybe a snack for her brother Bob. We also need a small plus tea snake, a big toy frog for the kids. You can scoop these things into three red bags, and you go meet her when she's at the",
+  "avg_logprob": -0.4451297037407798,
+  "no_speech_prob": 0.10857664155108589,
+  "wall_clock_seconds": 0.28426099999342114,
+  "n_segments": 7,
+  "wer": 74.0,
+  "reference": "IGNORE_TIME_SEGMENT_IN_SCORING",
+  "utterance_id": "84e3625531c8",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C41-A"
+}

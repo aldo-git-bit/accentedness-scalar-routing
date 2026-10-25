@@ -1,0 +1,12 @@
+{
+  "text": "the",
+  "avg_logprob": -2.8647216796875,
+  "no_speech_prob": 0.4642505943775177,
+  "wall_clock_seconds": 0.7318505419971189,
+  "n_segments": 1,
+  "wer": 0.75,
+  "reference": "OKAY IN THE PAST",
+  "utterance_id": "b264ba2e9b5d",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C11-B"
+}

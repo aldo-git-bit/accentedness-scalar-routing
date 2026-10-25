@@ -1,0 +1,11 @@
+{
+  "text": "Oh!",
+  "wer": 1.0,
+  "reference": "AH",
+  "utterance_id": "cc855814b184",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B",
+  "wall_clock_seconds": 0.7032117079943419,
+  "avg_logprob": null,
+  "no_speech_prob": null
+}

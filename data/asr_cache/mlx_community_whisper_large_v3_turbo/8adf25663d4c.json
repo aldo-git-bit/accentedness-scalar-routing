@@ -1,0 +1,12 @@
+{
+  "text": "No, no, yeah, we haven't finished talking.",
+  "avg_logprob": -0.3728412310282389,
+  "no_speech_prob": 2.491406169910504e-12,
+  "wall_clock_seconds": 0.4193466249998892,
+  "n_segments": 1,
+  "wer": 0.4444444444444444,
+  "reference": "NO NOT YET I MEAN WE HAVEN'T FINISHED TALKING",
+  "utterance_id": "8adf25663d4c",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C32-A"
+}

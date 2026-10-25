@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, yeah, I know, I know. Because I remember being in, like, the sixth grade, and maybe not in the sixth grade, but, like, in elementary school, and I was watching TV, and they were talking about smartphones for the first time and, like, how smartphones will be released in Korea the next year or something. And I was actually kind of skeptical. Like, I thought, like, oh, you know, it's not going to, like, take on, I guess. But then...",
+  "avg_logprob": -0.19075999626746548,
+  "no_speech_prob": 1.7014558165162619e-12,
+  "wall_clock_seconds": 0.6878250410081819,
+  "n_segments": 10,
+  "wer": 0.08235294117647059,
+  "reference": "YEAH YEAH I KNOW I KNOW BECAUSE I REMEMBER BEING IN LIKE THE SIXTH GRADE AND MAYBE NOT IT WAS MAYBE NOT IN THE SIXTH GRADE BUT LIKE IN ELEMENTARY SCHOOL AND I WAS WATCHING TV AND THEY WERE TALKING ABOUT SMARTPHONES FOR THE FIRST TIME AND LIKE HOW SMARTPHONES WILL UM BE RELEASED IN KOREA THE NEXT YEAR OR SOMETHING AND I WAS ACTUALLY KIND OF SKEPTICAL LIKE I THOUGHT LIKE OH YOU KNOW IT'S NOT GONNA LIKE TAKE ON I GUESS BUT THEN",
+  "utterance_id": "bcd1f0014fd7",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C03-A"
+}

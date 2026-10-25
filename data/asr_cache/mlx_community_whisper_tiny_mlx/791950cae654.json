@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, yeah, I saw some respect. Yeah. So, well, I'm not, I'm a game's idea of somebody going there in two weeks or three weeks. I'm kind of clear that the accent of Corona.",
+  "avg_logprob": -0.8901572391904635,
+  "no_speech_prob": 0.04676209017634392,
+  "wall_clock_seconds": 0.07797833299264312,
+  "n_segments": 5,
+  "wer": 0.46153846153846156,
+  "reference": "MM YEAH YEAH THAT'S THAT'S SOMETHING THAT'S <DTMF> YEAH SO UH WELL I'M NOT I'M I'M AGAINST THE IDEA OF SOMEBODY GOING THERE IN TWO WEEKS OR THREE WEEKS TIME AND CLAIMS THAT HE HAS THE ACCENT <DTMF> <LAUGH>",
+  "utterance_id": "791950cae654",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-A"
+}

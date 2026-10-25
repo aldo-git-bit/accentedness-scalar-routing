@@ -1,0 +1,12 @@
+{
+  "text": "Oh.",
+  "avg_logprob": -0.9187929153442382,
+  "no_speech_prob": 0.5205799341201782,
+  "wall_clock_seconds": 0.09240170799967018,
+  "n_segments": 1,
+  "wer": 0.0,
+  "reference": "OH",
+  "utterance_id": "f5ea2de2f70a",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-A"
+}

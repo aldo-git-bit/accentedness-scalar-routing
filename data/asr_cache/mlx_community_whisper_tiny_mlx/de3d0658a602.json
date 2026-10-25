@@ -1,0 +1,12 @@
+{
+  "text": "So my design also gives me the money. I mean, that's it. It's that time to work on something myself. Then it's nice time. I was sad to do the own talks. Why not that? At the end of the day, I produce results. You understand? So I didn't mean, at the end of the day, I produce a lot. Nobody knows what time.",
+  "avg_logprob": -0.5430891536971899,
+  "no_speech_prob": 0.13065120577812195,
+  "wall_clock_seconds": 0.12788462500611786,
+  "n_segments": 10,
+  "wer": 0.44285714285714284,
+  "reference": "SO I MIGHT DECIDE NOT TO GIVE THEM MY NINE TO FIVE I MIGHT DECIDE TO USE THAT TIME TO WORK ON SOMETHING ON MYSELF THEN THE NIGHT NIGHT TIME I WILL DECIDE TO DO THEIR OWN TASK FIND OUT THAT AT THE END OF THE DAY I PRODUCE RESULTS YOU UNDERSTAND SO BUT HAD IT BEEN AT THE END OF THE DAY I PRODUCE RESULTS NOBODY KNOWS WHAT TIME",
+  "utterance_id": "de3d0658a602",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-A"
+}

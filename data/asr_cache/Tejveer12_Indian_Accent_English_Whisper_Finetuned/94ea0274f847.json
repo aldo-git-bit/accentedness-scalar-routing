@@ -1,0 +1,11 @@
+{
+  "text": "Also, first I thought I was going to leave, so I didn't want to buy any ingredients and stuff. And then I decided to stay, but then I'd already eaten like food for so long, you know, frozen food for like two weeks for that. And then after that I was in Manchester and I was eating like, excavatoria foods to play universally.",
+  "wer": 0.6428571428571429,
+  "reference": "AND THEN I DECIDED TO STAY BUT THEN I'D ALREADY EATEN LIKE FOOD FOR SO LONG YOU KNOW FROZEN FOOD FOR LIKE TWO WEEKS BEFORE THAT AND BEFORE THAT I WAS IN MANCHESTER AND I WAS EATING LIKE CAFETERIA FOOD LIKE UNIVERSITY",
+  "utterance_id": "94ea0274f847",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B",
+  "wall_clock_seconds": 1.611310542008141,
+  "avg_logprob": null,
+  "no_speech_prob": null
+}

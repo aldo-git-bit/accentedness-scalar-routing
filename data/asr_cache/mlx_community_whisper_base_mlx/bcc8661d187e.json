@@ -1,0 +1,12 @@
+{
+  "text": "It would certainly be the energy of the place is going up.",
+  "avg_logprob": -0.6360488533973694,
+  "no_speech_prob": 0.01644084043800831,
+  "wall_clock_seconds": 0.050760124999214895,
+  "n_segments": 1,
+  "wer": 0.5555555555555556,
+  "reference": "IT WOULD CERTAINLY WITH THE ENERGY PRICES GOING UP",
+  "utterance_id": "bcc8661d187e",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

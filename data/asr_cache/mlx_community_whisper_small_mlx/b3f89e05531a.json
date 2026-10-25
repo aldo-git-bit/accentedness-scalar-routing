@@ -1,0 +1,12 @@
+{
+  "text": "",
+  "avg_logprob": 0.0,
+  "no_speech_prob": 0.0,
+  "wall_clock_seconds": 0.09473312499903841,
+  "n_segments": 0,
+  "wer": 1.0,
+  "reference": "UH",
+  "utterance_id": "b3f89e05531a",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-A"
+}

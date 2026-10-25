@@ -1,0 +1,12 @@
+{
+  "text": "My inviting memories of the summer would be Tom Sawyer, but it was, it must have been a European production because it was dope.",
+  "avg_logprob": -0.363518068867345,
+  "no_speech_prob": 0.029659952968358994,
+  "wall_clock_seconds": 0.07858383300481364,
+  "n_segments": 1,
+  "wer": 0.12,
+  "reference": "AND MY ABIDING MEMORIES OF THE SUMMER WOULD BE TOM SAWYER BUT IT WAS IT MUST HAVE BEEN A EUROPEAN PRODUCTION BECAUSE IT WAS DUBBED",
+  "utterance_id": "df3eadb23482",
+  "accent": "Irish English",
+  "speaker": "EDACC-C61-A"
+}

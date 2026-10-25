@@ -1,0 +1,12 @@
+{
+  "text": "Thank you.",
+  "avg_logprob": -1.8831449236188615,
+  "no_speech_prob": 0.36854875087738037,
+  "wall_clock_seconds": 0.1360783340060152,
+  "n_segments": 1,
+  "wer": 2.0,
+  "reference": "YEAH",
+  "utterance_id": "157797765a7d",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-A"
+}

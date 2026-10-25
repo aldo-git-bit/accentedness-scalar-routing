@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, once you have a sidekick as an affiliate marketer, as a content developer, as a graphic designer, all those sorts of ways to make extra money and you'll find out that once it starts performing very well, you might even decide to leave your parents nine to five.",
+  "avg_logprob": -0.2627394855886266,
+  "no_speech_prob": 0.02754695899784565,
+  "wall_clock_seconds": 1.2623157910020382,
+  "n_segments": 5,
+  "wer": 0.2,
+  "reference": "YEAH YEAH ONCE YOU HAVE A SIDE GIG UM AS AN AFFILIATE MARKETER AS A CONTENT DEVELOPER AS UM A GRAPHIC DESIGNER ALL THOSE STUFFS UM UM WAYS TO MAKE EXTRA MONEY AND YOU'LL FIND OUT THAT ONCE YOU STARTS PERFORMING VERY WELL YOU MIGHT EVEN DECIDE TO LEAVE YOUR CURRENT NINE TO FIVE <DTMF>",
+  "utterance_id": "182ed6898583",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-A"
+}

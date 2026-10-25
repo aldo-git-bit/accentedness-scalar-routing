@@ -1,0 +1,12 @@
+{
+  "text": "the best.",
+  "avg_logprob": -0.747959459092882,
+  "no_speech_prob": 0.04463357850909233,
+  "wall_clock_seconds": 1.1722535419976339,
+  "n_segments": 44,
+  "wer": 1.0,
+  "reference": "YOU'RE NOT AS TALL AS THOSE FOOTBALLERS I USED TO ADMIRE SORRY THOSE BASKETBALLERS I USED TO ADMIRE",
+  "utterance_id": "d7a01b899a42",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-A"
+}

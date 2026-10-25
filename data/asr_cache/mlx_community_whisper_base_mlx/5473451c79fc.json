@@ -1,0 +1,12 @@
+{
+  "text": "I love that cartoon also.",
+  "avg_logprob": -0.418815188937717,
+  "no_speech_prob": 0.026026878505945206,
+  "wall_clock_seconds": 0.039147417002823204,
+  "n_segments": 1,
+  "wer": 0.0,
+  "reference": "I LOVE THAT CARTOON ALSO",
+  "utterance_id": "5473451c79fc",
+  "accent": "Irish English",
+  "speaker": "EDACC-C47-A"
+}

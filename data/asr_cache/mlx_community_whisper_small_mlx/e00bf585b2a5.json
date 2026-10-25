@@ -1,0 +1,12 @@
+{
+  "text": "Yeah.",
+  "avg_logprob": -0.5845128059387207,
+  "no_speech_prob": 0.11414463818073273,
+  "wall_clock_seconds": 0.0926309169990418,
+  "n_segments": 1,
+  "wer": 0.5,
+  "reference": "YEAH <OVERLAP>",
+  "utterance_id": "e00bf585b2a5",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C06-A"
+}

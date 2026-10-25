@@ -1,0 +1,12 @@
+{
+  "text": "I think we had chicken the most. We really never had any other different meat. It would always just be roast chicken, roast potatoes, or kosher puddings, carrots, peas, and gravy. And it's all you could ask for.",
+  "avg_logprob": -0.36503432968915517,
+  "no_speech_prob": 0.03701247274875641,
+  "wall_clock_seconds": 0.26332491599896457,
+  "n_segments": 4,
+  "wer": 0.13513513513513514,
+  "reference": "I THINK WE HAD CHICKEN THE MOST WE RARELY EVER HAD ANY OTHER DIFFERENT MEAT IT WOULD ALWAYS JUST BE ROAST CHICKEN ROAST POTATOES <DTMF> PUDDINGS CARROTS PEAS AND GRAVY AND THAT'S ALL YOU COULD ASK FOR",
+  "utterance_id": "ab586e3a427e",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-A"
+}

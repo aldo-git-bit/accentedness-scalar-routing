@@ -1,0 +1,12 @@
+{
+  "text": "Hi, I'm participant C33B-P2.",
+  "avg_logprob": -0.41774806976318357,
+  "no_speech_prob": 0.017231734469532967,
+  "wall_clock_seconds": 0.12327516699951957,
+  "n_segments": 1,
+  "wer": 0.7,
+  "reference": "HI I'M PARTICIPANT C THIRTY THREE B DASH P TWO",
+  "utterance_id": "12918e1e95c3",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C17-B"
+}

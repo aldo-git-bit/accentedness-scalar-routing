@@ -1,0 +1,12 @@
+{
+  "text": "And then give bullet the wave. We should know. I forgot this nonsense poem.",
+  "avg_logprob": -0.5808324019114176,
+  "no_speech_prob": 0.10427825897932053,
+  "wall_clock_seconds": 0.7241190839995397,
+  "n_segments": 3,
+  "wer": 0.6153846153846154,
+  "reference": "AND THEN GIMBLE IN THE WABE <DTMF> I FORGOT IT'S A NONSENSE POEM",
+  "utterance_id": "d8945d8dd78e",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-B"
+}

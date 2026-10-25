@@ -1,0 +1,12 @@
+{
+  "text": "the... that's when you had like divergent, these are all the apocalypse.",
+  "avg_logprob": -0.8554500579833985,
+  "no_speech_prob": 0.08565177023410797,
+  "wall_clock_seconds": 0.060122208000393584,
+  "n_segments": 1,
+  "wer": 0.375,
+  "reference": "AND THE WELL SOME OF YOU YOU HAD LIKE DIVERGENT <DTMF> THESE ARE ALL THE APOCALYPSE",
+  "utterance_id": "93e198ecbd18",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "All right.",
+  "avg_logprob": -0.9048465092976888,
+  "no_speech_prob": 0.539657473564148,
+  "wall_clock_seconds": 0.09591250000084983,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "WELL I WOULDN'T",
+  "utterance_id": "637551fe6ffe",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C17-A"
+}

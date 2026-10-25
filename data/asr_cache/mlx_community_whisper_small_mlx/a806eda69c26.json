@@ -1,0 +1,12 @@
+{
+  "text": "is a movie about a scout, a super good scout from the 76ers, Piladelfa 76ers, the basketball team, that discovers just a great, great player in Mallorca, Spain. And so...",
+  "avg_logprob": -0.4131443942034686,
+  "no_speech_prob": 0.02716926299035549,
+  "wall_clock_seconds": 0.2417456660004973,
+  "n_segments": 4,
+  "wer": 0.35135135135135137,
+  "reference": "IS A IS A MOVIE ABOUT A SCOUT A SUPER GOOD SCOUT FROM THIS UH UH SEVENTY SIXERS PHILADELPHIA SEVENTY SIXERS THE BASKETBALL TEAM THAT DISCOVERS UH JUST A GREAT GREAT PLAYER IN MAJORCA SPAIN UM SO",
+  "utterance_id": "a806eda69c26",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C20-B"
+}

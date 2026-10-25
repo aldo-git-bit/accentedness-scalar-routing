@@ -1,0 +1,12 @@
+{
+  "text": "Alright, yeah, so let's...",
+  "avg_logprob": -0.7010054154829546,
+  "no_speech_prob": 0.21311017870903015,
+  "wall_clock_seconds": 0.04201683300198056,
+  "n_segments": 1,
+  "wer": 0.6666666666666666,
+  "reference": "ALL RIGHT YEAH SO HAS THERE",
+  "utterance_id": "622a89fb8644",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-A"
+}

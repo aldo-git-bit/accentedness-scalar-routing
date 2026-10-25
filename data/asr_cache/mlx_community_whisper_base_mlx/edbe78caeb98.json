@@ -1,0 +1,12 @@
+{
+  "text": "That is so fackin tedious. Oh my god.",
+  "avg_logprob": -0.5414492102230296,
+  "no_speech_prob": 0.09059379994869232,
+  "wall_clock_seconds": 0.052346458003739826,
+  "n_segments": 2,
+  "wer": 0.125,
+  "reference": "THAT IS SO FECKIN' TEDIOUS OH MY GOD",
+  "utterance_id": "edbe78caeb98",
+  "accent": "Irish English",
+  "speaker": "EDACC-C50-A"
+}

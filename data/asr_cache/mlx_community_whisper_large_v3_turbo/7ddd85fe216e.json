@@ -1,0 +1,12 @@
+{
+  "text": "Oh yeah, but no, I'm super stressed out. I really need to get things together and work on my dissertation.",
+  "avg_logprob": -0.31404244899749756,
+  "no_speech_prob": 7.582265544592293e-12,
+  "wall_clock_seconds": 0.44981212499260437,
+  "n_segments": 3,
+  "wer": 0.047619047619047616,
+  "reference": "OH YEAH BUT NO I'M SUPER STRESSED OUT I REALLY NEED TO GET LIKE THINGS TOGETHER AND WORK ON MY DISSERTATION",
+  "utterance_id": "7ddd85fe216e",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B"
+}

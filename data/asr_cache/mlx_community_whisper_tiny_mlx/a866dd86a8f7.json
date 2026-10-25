@@ -1,0 +1,12 @@
+{
+  "text": "or one who know I am waiting for is a sequel to I'm some Infiles.",
+  "avg_logprob": -0.7795266650971913,
+  "no_speech_prob": 0.07777762413024902,
+  "wall_clock_seconds": 0.03587745899858419,
+  "n_segments": 1,
+  "wer": 0.6111111111111112,
+  "reference": "UM WELL I WANT YOU TO KNOW I AM WAITING FOR IS UH THE SEQUEL TO SOMNIUM FILES",
+  "utterance_id": "a866dd86a8f7",
+  "accent": "Irish English",
+  "speaker": "EDACC-C63-A"
+}

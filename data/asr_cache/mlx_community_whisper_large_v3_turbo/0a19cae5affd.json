@@ -1,0 +1,12 @@
+{
+  "text": "Okay.",
+  "avg_logprob": -0.8411545753479004,
+  "no_speech_prob": 6.123976326044556e-11,
+  "wall_clock_seconds": 0.3853319579939125,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "YEAH",
+  "utterance_id": "0a19cae5affd",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B"
+}

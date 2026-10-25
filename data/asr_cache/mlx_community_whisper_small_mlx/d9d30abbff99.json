@@ -1,0 +1,12 @@
+{
+  "text": "Rocket Launch!",
+  "avg_logprob": -0.9661251703898112,
+  "no_speech_prob": 0.0610249899327755,
+  "wall_clock_seconds": 0.09308237499863026,
+  "n_segments": 1,
+  "wer": 0.0,
+  "reference": "ROCKET LAUNCH",
+  "utterance_id": "d9d30abbff99",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C04-B"
+}

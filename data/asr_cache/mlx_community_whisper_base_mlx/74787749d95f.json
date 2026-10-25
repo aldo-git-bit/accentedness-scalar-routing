@@ -1,0 +1,12 @@
+{
+  "text": "Another layer of kind of very exotic stuff you hadn't seen, because there was all these cartoons from Europe and that they were going in. I don't remember a lot of Japanese cartoons.",
+  "avg_logprob": -0.34000672234429247,
+  "no_speech_prob": 0.0991906225681305,
+  "wall_clock_seconds": 0.10271379099867772,
+  "n_segments": 3,
+  "wer": 0.12121212121212122,
+  "reference": "ANOTHER LAYER OF KIND OF VERY EXOTIC STUFF YOU HADN'T SEEN 'CAUSE THERE WAS ALL THESE CARTOONS FROM EUROPE AND THAT THEY WERE BUYING IN AND I REMEMBER A LOT OF JAPANESE CARTOONS",
+  "utterance_id": "74787749d95f",
+  "accent": "Irish English",
+  "speaker": "EDACC-C61-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "It's not easy as it is. Bye-bye.",
+  "avg_logprob": -0.6366384169634651,
+  "no_speech_prob": 0.11209558695554733,
+  "wall_clock_seconds": 0.6374535839968303,
+  "n_segments": 2,
+  "wer": 0.7142857142857143,
+  "reference": "YOU KNOW IT'S NOT EASY AS <DTMF>",
+  "utterance_id": "fee28f379471",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-A"
+}

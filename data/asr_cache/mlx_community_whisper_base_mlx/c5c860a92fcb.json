@@ -1,0 +1,12 @@
+{
+  "text": "you know, roadrashes was like our rather break something, then get you know, roadrash.",
+  "avg_logprob": -0.6129956817626954,
+  "no_speech_prob": 0.035180263221263885,
+  "wall_clock_seconds": 0.06931654100480955,
+  "n_segments": 1,
+  "wer": 0.5,
+  "reference": "AND ALL ROAD RASHES WAS LIKE I'D RATHER BREAK SOMETHING THAN GET YOU KNOW ROAD RASH",
+  "utterance_id": "c5c860a92fcb",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "I'm just like, we're public, we said, like, we deserve to have our very most snatched.",
+  "avg_logprob": -0.7962146335177951,
+  "no_speech_prob": 0.01080753467977047,
+  "wall_clock_seconds": 0.04668629099614918,
+  "n_segments": 1,
+  "wer": 0.375,
+  "reference": "I JUST FEEL LIKE THE PUBLIC WE SUCK LIKE WE DESERVE TO HAVE OUR RING SNATCHED",
+  "utterance_id": "702107b0340e",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C17-B"
+}

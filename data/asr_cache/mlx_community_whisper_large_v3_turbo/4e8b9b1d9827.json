@@ -1,0 +1,12 @@
+{
+  "text": "America.",
+  "avg_logprob": -0.7228782653808594,
+  "no_speech_prob": 3.2407385108790265e-10,
+  "wall_clock_seconds": 0.38509262500156183,
+  "n_segments": 1,
+  "wer": 0.0,
+  "reference": "AMERICA",
+  "utterance_id": "4e8b9b1d9827",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-B"
+}

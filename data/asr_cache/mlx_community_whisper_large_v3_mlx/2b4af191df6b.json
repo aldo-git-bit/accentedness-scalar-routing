@@ -1,0 +1,12 @@
+{
+  "text": "needs can be great and you need to sort of have things available to you and certain places when there isn't things around for quite a while it does make things a bit difficult although beautiful scenery and lots of things to do historically but with a young child not as many to be fair but really nice to enjoy as as an adult like Donald Groats for instance that's beautiful up there but once you're there there's not very much in the way of things to do per se beautiful beach beautiful scenery but again it's way up at the very very very top of Scotland so it is just quite far from other places",
+  "avg_logprob": -0.10968904885507766,
+  "no_speech_prob": 0.0009447814414410719,
+  "wall_clock_seconds": 2.5606990000014775,
+  "n_segments": 7,
+  "wer": 0.05,
+  "reference": "THEIR NEEDS CAN BE GREAT AND YOU NEED TO SORT OF HAVE THINGS AVAILABLE TO YOU AND CERTAIN PLACES WHEN THERE ISN'T THINGS AROUND FOR QUITE A WHILE IT DOES MAKE THINGS A BIT DIFFICULT ALTHOUGH BEAUTIFUL SCENERY AND LOTS OF THINGS TO DO HISTORICALLY BUT WITH A CHILD A YOUNG CHILD NOT AS MANY TO BE FAIR BUT REALLY NICE TO ENJOY AS AS AN ADULT LIKE JOHN O' GROATS FOR INSTANCE THAT'S BEAUTIFUL UP THERE BUT ONCE YOU'RE THERE THERE'S NOT VERY MUCH IN THE WAY OF THINGS TO DO PER SE BEAUTIFUL BEACH BEAUTIFUL SCENERY BUT AGAIN IT'S AWAY UP AT THE VERY VERY VERY TOP OF SCOTLAND SO IT IS JUST QUITE FAR FROM OTHER PLACES",
+  "utterance_id": "2b4af191df6b",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "ball games.",
+  "avg_logprob": -0.5146764119466146,
+  "no_speech_prob": 1.869418855826588e-11,
+  "wall_clock_seconds": 0.3913912919961149,
+  "n_segments": 1,
+  "wer": 0.6,
+  "reference": "WAS THERE ANY BALL GAMES",
+  "utterance_id": "4781ce8eb20d",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-A"
+}

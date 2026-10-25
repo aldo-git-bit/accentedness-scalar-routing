@@ -1,0 +1,12 @@
+{
+  "text": "It's all about just learning these things. These wee books are things that stay in your memory, I guess. Don't get me wrong, it's not something that I routinely remembered, but when you mentioned it there, I knew straight away what you were talking about.",
+  "avg_logprob": -0.1689018914193818,
+  "no_speech_prob": 0.029764428734779358,
+  "wall_clock_seconds": 1.219527334000304,
+  "n_segments": 5,
+  "wer": 0.1836734693877551,
+  "reference": "IT'S ALL IT JUST LEARNING THESE THINGS AND YOU KNOW THESE WE <DTMF> THINGS THAT STAY IN YOUR MEMORY I GUESS AND DON'T GET ME WRONG IT'S NOT SOMETHING THAT I ROUTINELY REMEMBERED BUT WHEN YOU MENTIONED IT THERE I I KNEW STRAIGHT AWAY WHAT YOU WERE TALKING ABOUT",
+  "utterance_id": "ac308f15179b",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

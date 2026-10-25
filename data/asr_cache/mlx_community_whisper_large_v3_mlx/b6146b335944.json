@@ -1,0 +1,12 @@
+{
+  "text": "So I don't know. Yeah. So it's because of the football. I think football is premium. I'm not saying that other leagues are not premium. I think the Premier League is at the top of the charts. So that's one of the reasons why I like England. The Premier League.",
+  "avg_logprob": -0.3036291388016713,
+  "no_speech_prob": 0.35166576504707336,
+  "wall_clock_seconds": 1.3784078749995388,
+  "n_segments": 8,
+  "wer": 0.296875,
+  "reference": "SO I DON'T KNOW YEAH YEAH SO IT'S BECAUSE OF THE FOOTBALL YEAH I THINK FOOTBALL IS PREMIUM UM I'M NOT SAYING THAT OTHER UM LEAGUES ARE NOT PREMIUM OR I THINK UM THE PREMIER LEAGUES ARE THE TOP OF THE CHAT SO THAT'S ONE OF THE REASONS WHY I LIKE UM UM SOME OF THE REASONS WHY I LIKE ENGLAND THE PREMIER LEAGUE",
+  "utterance_id": "b6146b335944",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-A"
+}

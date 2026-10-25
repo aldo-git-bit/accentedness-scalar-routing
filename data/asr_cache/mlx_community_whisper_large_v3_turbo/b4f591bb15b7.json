@@ -1,0 +1,12 @@
+{
+  "text": "because the first movies that I saw, I mean, not like commercial movies, like the ones that we saw were this kind of movies. And I became very like, even then, after the series got, the series that you see on the TV, the series are like, I mean, plano contraplano, no how to tell it in English, but it's like the scenes are like on talking, then the camera goes to...",
+  "avg_logprob": -0.23819218158468422,
+  "no_speech_prob": 2.5811919875801115e-11,
+  "wall_clock_seconds": 1.0013947910047136,
+  "n_segments": 6,
+  "wer": 0.37962962962962965,
+  "reference": "NO I KNOW AND I FEEL REALLY COMFORTABLE BECAUSE THE FIRST MOVIES THAT I I SAW ON M I MEAN NOT UH LIKE UM UH I DON'T KNOW LONG NOT NOT LIKE COMMERCIAL MOVIES LIKE THE ONES THAT WE SAW WERE THIS KIND OF MOVIES AND I I BE I BECAME VERY LIKE EVEN THEN WHEN AFTER THE SERIES GOT THE SERIES UH THAT YOU SEE IN THE TV THE SERIES ARE LIKE UH I I I MEAN <FOREIGN> I DON'T KNOW HOW TO TELL IT IN ENGLISH BUT IT'S LIKE THE SCENES ARE LIKE ONE TALKING THEN THE CAMERA GOES TO THE OTHER THE OTHER THEN THERE'S",
+  "utterance_id": "b4f591bb15b7",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C20-B"
+}

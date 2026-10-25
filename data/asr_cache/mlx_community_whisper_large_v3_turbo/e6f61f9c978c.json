@@ -1,0 +1,12 @@
+{
+  "text": "I know. I know.",
+  "avg_logprob": -0.9407931241122159,
+  "no_speech_prob": 5.305051883897072e-11,
+  "wall_clock_seconds": 0.3986299579992192,
+  "n_segments": 2,
+  "wer": 1.0,
+  "reference": "NO NONE OF THEM",
+  "utterance_id": "e6f61f9c978c",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-B"
+}

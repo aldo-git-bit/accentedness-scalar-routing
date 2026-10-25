@@ -1,0 +1,12 @@
+{
+  "text": "Mm-hmm.",
+  "avg_logprob": -0.7028575624738421,
+  "no_speech_prob": 6.440317029676734e-11,
+  "wall_clock_seconds": 0.3885802080039866,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "MM HMM",
+  "utterance_id": "5b0406ee7dcd",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-B"
+}

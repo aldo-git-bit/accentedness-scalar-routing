@@ -1,0 +1,12 @@
+{
+  "text": "Oh, good.",
+  "avg_logprob": -0.7364414760044643,
+  "no_speech_prob": 0.09264536201953888,
+  "wall_clock_seconds": 0.09610087500186637,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "HUH WHAT",
+  "utterance_id": "9c52d5391dcf",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-B"
+}

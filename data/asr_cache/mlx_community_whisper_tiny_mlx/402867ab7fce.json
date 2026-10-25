@@ -1,0 +1,12 @@
+{
+  "text": "Thank you. Thank you. Thank you.",
+  "avg_logprob": -0.9213824462890627,
+  "no_speech_prob": 0.0925486832857132,
+  "wall_clock_seconds": 0.5918663749907864,
+  "n_segments": 44,
+  "wer": 3.0,
+  "reference": "COCO COCO",
+  "utterance_id": "402867ab7fce",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C17-B"
+}

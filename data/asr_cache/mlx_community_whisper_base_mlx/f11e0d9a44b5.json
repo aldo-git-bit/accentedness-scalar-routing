@@ -1,0 +1,12 @@
+{
+  "text": "So I would be a big, big reader as such. Yeah, how about you?",
+  "avg_logprob": -0.3821257715639861,
+  "no_speech_prob": 0.02184196002781391,
+  "wall_clock_seconds": 0.06545462500071153,
+  "n_segments": 2,
+  "wer": 0.23076923076923078,
+  "reference": "SO I WOULD READ BIG BIG READER AS SUCH YEAH WHAT ABOUT YOU",
+  "utterance_id": "f11e0d9a44b5",
+  "accent": "Irish English",
+  "speaker": "EDACC-C47-B"
+}

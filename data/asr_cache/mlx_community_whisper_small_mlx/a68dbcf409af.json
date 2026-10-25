@@ -1,0 +1,12 @@
+{
+  "text": "UDH Los Los",
+  "avg_logprob": -4.56827449798584,
+  "no_speech_prob": 0.5536500215530396,
+  "wall_clock_seconds": 2.9827563329999975,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "OH YEAH PIPLUP",
+  "utterance_id": "a68dbcf409af",
+  "accent": "Irish English",
+  "speaker": "EDACC-C63-A"
+}

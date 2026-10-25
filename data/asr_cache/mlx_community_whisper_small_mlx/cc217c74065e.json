@@ -1,0 +1,12 @@
+{
+  "text": "in their many places.",
+  "avg_logprob": -0.7201467752456665,
+  "no_speech_prob": 0.011733832769095898,
+  "wall_clock_seconds": 0.10017883299951791,
+  "n_segments": 1,
+  "wer": 0.5,
+  "reference": "THERE ARE MANY PLACES",
+  "utterance_id": "cc217c74065e",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C44-A"
+}

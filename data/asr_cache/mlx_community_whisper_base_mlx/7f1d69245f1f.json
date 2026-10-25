@@ -1,0 +1,12 @@
+{
+  "text": "the bed.",
+  "avg_logprob": -0.22469285753038196,
+  "no_speech_prob": 0.38515400886535645,
+  "wall_clock_seconds": 0.8532615000003716,
+  "n_segments": 44,
+  "wer": 1.0,
+  "reference": "NUMBER ONE I WOULD LIKE TO GO TO DUBAI TOO",
+  "utterance_id": "7f1d69245f1f",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-B"
+}

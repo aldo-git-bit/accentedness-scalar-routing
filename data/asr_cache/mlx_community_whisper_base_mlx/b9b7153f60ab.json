@@ -1,0 +1,12 @@
+{
+  "text": "YouTube bye bye.",
+  "avg_logprob": -0.8606131417410714,
+  "no_speech_prob": 0.02240280620753765,
+  "wall_clock_seconds": 0.03467087500030175,
+  "n_segments": 1,
+  "wer": 0.5,
+  "reference": "YOU TOO BYE BYE",
+  "utterance_id": "b9b7153f60ab",
+  "accent": "Irish English",
+  "speaker": "EDACC-C61-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Bye.",
+  "avg_logprob": -0.8045913696289062,
+  "no_speech_prob": 0.21606838703155518,
+  "wall_clock_seconds": 0.01725120899209287,
+  "n_segments": 1,
+  "wer": 0.0,
+  "reference": "BYE",
+  "utterance_id": "13c435a2957d",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C44-A"
+}

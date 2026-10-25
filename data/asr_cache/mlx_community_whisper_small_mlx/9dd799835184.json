@@ -1,0 +1,12 @@
+{
+  "text": "I tried. Okay. I tried like, okay. So basically the thing what happened was, okay, I won't say I haven't read it, but basically what happened was I was in what 9th, 10th, I don't know, 9th, I think. And all these people were, you know, after maybe 11th, I don't even know.",
+  "avg_logprob": -0.22458605539231077,
+  "no_speech_prob": 0.1863386034965515,
+  "wall_clock_seconds": 0.33512970799711184,
+  "n_segments": 3,
+  "wer": 0.1694915254237288,
+  "reference": "I I TRIED OKAY I TRIED LIKE OKAY SO BASICALLY THE THING WHAT HAPPENED WAS OKAY I WON'T SAY I HAVEN'T READ IT BUT BASICALLY WHAT HAPPENED WAS I WAS IN WHAT NINTH TENTH I DON'T KNOW THE NINTH I THINK AND ALL THESE PEOPLE WERE YOU KNOW AFTER WELL MAYBE ELEVENTH I DON'T EVEN KNOW BUT I WAS",
+  "utterance_id": "9dd799835184",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-B"
+}

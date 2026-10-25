@@ -1,0 +1,12 @@
+{
+  "text": "I love that movie. I watched it eight times.",
+  "avg_logprob": -0.5537778735160828,
+  "no_speech_prob": 0.14124305546283722,
+  "wall_clock_seconds": 0.12458533300014096,
+  "n_segments": 2,
+  "wer": 0.2727272727272727,
+  "reference": "OH GOD I LOVED THAT MOVIE I WATCHED IT EIGHT TIMES",
+  "utterance_id": "8a493fa8dbe0",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-B"
+}

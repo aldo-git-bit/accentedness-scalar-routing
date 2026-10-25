@@ -1,0 +1,12 @@
+{
+  "text": "So I decided not to give them my 95. I decided to use that time to work on something for myself. Then the night's time, I decided to do their own tasks. I found out that at the end of the day, I produced results. You understand? So at the end of the day, I produced results. Nobody knows what time.",
+  "avg_logprob": -0.2704015490652501,
+  "no_speech_prob": 7.357097570048765e-12,
+  "wall_clock_seconds": 0.5808422499976587,
+  "n_segments": 7,
+  "wer": 0.3,
+  "reference": "SO I MIGHT DECIDE NOT TO GIVE THEM MY NINE TO FIVE I MIGHT DECIDE TO USE THAT TIME TO WORK ON SOMETHING ON MYSELF THEN THE NIGHT NIGHT TIME I WILL DECIDE TO DO THEIR OWN TASK FIND OUT THAT AT THE END OF THE DAY I PRODUCE RESULTS YOU UNDERSTAND SO BUT HAD IT BEEN AT THE END OF THE DAY I PRODUCE RESULTS NOBODY KNOWS WHAT TIME",
+  "utterance_id": "de3d0658a602",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-A"
+}

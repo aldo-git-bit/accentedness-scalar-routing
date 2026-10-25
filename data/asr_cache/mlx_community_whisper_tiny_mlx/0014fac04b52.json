@@ -1,0 +1,12 @@
+{
+  "text": "No, no, I didn't really love it. It's a great city. I can see myself living that forever. Or at least living that for a really long time. Like I like. So there's like, like my mental banster. I like, I don't think I can live here.",
+  "avg_logprob": -0.6886420127673026,
+  "no_speech_prob": 0.021527115255594254,
+  "wall_clock_seconds": 0.10368741600541398,
+  "n_segments": 7,
+  "wer": 0.35185185185185186,
+  "reference": "NO NO I DEFINITELY LOVE IT LIKE IT IT'S A GREAT CITY I I CAN SEE MYSELF LIVING THERE FOREVER YOU KNOW OR AT LEAST LIVING THERE FOR A REALLY LONG TIME LIKE HOW LIKE LIKE IN LIKE WHEN I WENT TO MANCHESTER AND I IT'S LIKE I DON'T THINK I CAN LIVE HERE",
+  "utterance_id": "0014fac04b52",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B"
+}

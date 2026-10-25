@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, I've been there for a bit lovely beaches over there. No one's got a good deal too.",
+  "avg_logprob": -0.5381717341286796,
+  "no_speech_prob": 0.08533234149217606,
+  "wall_clock_seconds": 0.07379654199758079,
+  "n_segments": 2,
+  "wer": 0.3888888888888889,
+  "reference": "YEAH I'VE BEEN BEFORE THERE ARE GOOD LOVELY BEACHES OVER THERE YOU ALWAYS GET A GOOD DEAL TOO",
+  "utterance_id": "1bea60133b3e",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

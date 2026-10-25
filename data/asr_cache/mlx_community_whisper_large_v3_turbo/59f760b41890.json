@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, it's a weird one.",
+  "avg_logprob": -0.305645379153165,
+  "no_speech_prob": 2.5513146283129284e-12,
+  "wall_clock_seconds": 0.40303649999259505,
+  "n_segments": 1,
+  "wer": 0.16666666666666666,
+  "reference": "YEAH AND IT'S A WEIRD ONE",
+  "utterance_id": "59f760b41890",
+  "accent": "Irish English",
+  "speaker": "EDACC-C50-B"
+}

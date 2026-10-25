@@ -1,0 +1,12 @@
+{
+  "text": "Not to hang.",
+  "avg_logprob": -0.22208621554904515,
+  "no_speech_prob": 7.408658408980529e-11,
+  "wall_clock_seconds": 3.500556792001589,
+  "n_segments": 1,
+  "wer": 3.0,
+  "reference": "NOTHING",
+  "utterance_id": "16d67136517b",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-A"
+}

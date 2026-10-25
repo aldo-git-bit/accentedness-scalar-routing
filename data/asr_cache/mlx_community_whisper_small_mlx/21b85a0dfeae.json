@@ -1,0 +1,12 @@
+{
+  "text": "Got count on the kids",
+  "avg_logprob": -2.3689076900482178,
+  "no_speech_prob": 0.4714258015155792,
+  "wall_clock_seconds": 2.9622077079984592,
+  "n_segments": 1,
+  "wer": 0.75,
+  "reference": "THE CAR ON THE GATE SO THAT WE",
+  "utterance_id": "21b85a0dfeae",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, exactly. Like all of that and then what is it called and then the fact that they just removed everything from the maze like I love the whole maze.",
+  "avg_logprob": -0.23956173344662315,
+  "no_speech_prob": 0.023170579224824905,
+  "wall_clock_seconds": 0.19093079200320062,
+  "n_segments": 2,
+  "wer": 0.09375,
+  "reference": "YEAH EXACTLY LIKE ALL OF THAT AND THEN UM WHAT IS IT CALLED AH AND THEN THE FACT THAT THEY JUST REMOVED EVERYTHING FROM THE MAZE LIKE I LOVED THE WHOLE MAZE",
+  "utterance_id": "02ebe5d0b443",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-B"
+}

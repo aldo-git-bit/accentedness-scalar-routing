@@ -1,0 +1,12 @@
+{
+  "text": "No, I think that was another time. We caught little fish and they were sort of a silver-y kind of brown color. They weren't much bigger than your pinky finger. I'm not sure if you remember that. It was quite a while ago.",
+  "avg_logprob": -0.27051414981965094,
+  "no_speech_prob": 0.005576363764703274,
+  "wall_clock_seconds": 0.08648166700731963,
+  "n_segments": 4,
+  "wer": 0.06666666666666667,
+  "reference": "NO I THINK THAT WAS AT ANOTHER TIME WE WE CAUGHT LITTLE FISH AND THEY WERE SORT OF A SILVERY KIND OF BROWN COLOR THEY WEREN'T MUCH BIGGER THAN YOUR PINKY FINGER I'M NOT SURE IF YOU REMEMBER THAT THAT WAS QUITE A WHILE AGO",
+  "utterance_id": "c0db3117dc5a",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-A"
+}

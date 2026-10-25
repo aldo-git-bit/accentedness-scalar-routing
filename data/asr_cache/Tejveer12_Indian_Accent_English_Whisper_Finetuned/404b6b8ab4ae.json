@@ -1,0 +1,11 @@
+{
+  "text": "Because, yeah. Here was thirty degrees, there was twenty-seven, twenty-eight, twenty-nine, thirty-ish.",
+  "wer": 0.6470588235294118,
+  "reference": "MM BECAUSE YEAH YOU'RE ALMOST THIRTY DEGREES THERE WAS TWENTY SEVEN TWENTY EIGHT TWENTY NINE THIRTY ISH",
+  "utterance_id": "404b6b8ab4ae",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B",
+  "wall_clock_seconds": 1.0227172919985605,
+  "avg_logprob": null,
+  "no_speech_prob": null
+}

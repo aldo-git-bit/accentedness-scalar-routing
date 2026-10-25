@@ -1,0 +1,12 @@
+{
+  "text": "the",
+  "avg_logprob": -2.5296627044677735,
+  "no_speech_prob": 0.46473854780197144,
+  "wall_clock_seconds": 0.7268098750064382,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "RIGHT YEAH",
+  "utterance_id": "335c369b9ba7",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-B"
+}

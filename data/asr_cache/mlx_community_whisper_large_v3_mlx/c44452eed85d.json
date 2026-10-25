@@ -1,0 +1,12 @@
+{
+  "text": "thank you",
+  "avg_logprob": -0.9092180718315974,
+  "no_speech_prob": 0.5179176926612854,
+  "wall_clock_seconds": 7.2669628750009,
+  "n_segments": 56,
+  "wer": 1.0,
+  "reference": "YEAH EDINBURGH YEAH",
+  "utterance_id": "c44452eed85d",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C54-B"
+}

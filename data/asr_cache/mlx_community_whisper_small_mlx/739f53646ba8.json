@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, yeah, yeah, sort of like a Scout Hanbok, I guess, but like further weird thing. Like the most culty thing I've ever seen is when I went to the initiation while in Portugal.",
+  "avg_logprob": -0.33823211825623806,
+  "no_speech_prob": 0.029855351895093918,
+  "wall_clock_seconds": 0.22471262500039302,
+  "n_segments": 2,
+  "wer": 0.25,
+  "reference": "YEAH YEAH YEAH SORT LIKE A SCOUT HANDBOOK I GUESS BUT LIKE FOR THEIR WEIRD THING I LIKE UH THE MOST CULTY THING I'VE EVER SEEN IS WHEN I WENT TO THE INITIATION WHILE IN PORTUGAL I THINK THAT WAS",
+  "utterance_id": "739f53646ba8",
+  "accent": "Irish English",
+  "speaker": "EDACC-C50-A"
+}

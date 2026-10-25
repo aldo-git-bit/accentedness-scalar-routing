@@ -1,0 +1,12 @@
+{
+  "text": "I don't think so. Are you talking about Game of Thrones or Blood Sisters?",
+  "avg_logprob": -0.20218417861244894,
+  "no_speech_prob": 0.04217720031738281,
+  "wall_clock_seconds": 0.6970886249982868,
+  "n_segments": 2,
+  "wer": 0.125,
+  "reference": "I DON'T THINK SO WHICH ARE YOU TALKING ABOUT UM GAME OF THRONES OR BLOOD SISTERS",
+  "utterance_id": "7fcef5dadd33",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C41-A"
+}

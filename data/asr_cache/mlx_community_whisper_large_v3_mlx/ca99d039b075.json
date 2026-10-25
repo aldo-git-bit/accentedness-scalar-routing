@@ -1,0 +1,12 @@
+{
+  "text": "Also, I think so.",
+  "avg_logprob": -0.3858343760172526,
+  "no_speech_prob": 0.43878740072250366,
+  "wall_clock_seconds": 0.5484357919995091,
+  "n_segments": 1,
+  "wer": 0.4,
+  "reference": "OR SO I THINK SO",
+  "utterance_id": "ca99d039b075",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-B"
+}

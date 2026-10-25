@@ -1,0 +1,12 @@
+{
+  "text": "And to me, I think it would be all the light pollution.",
+  "avg_logprob": -0.32097328410429116,
+  "no_speech_prob": 0.15686801075935364,
+  "wall_clock_seconds": 0.05358454199449625,
+  "n_segments": 1,
+  "wer": 0.2727272727272727,
+  "reference": "OH ACTUALLY I THINK IT WOULD BE ALL THE LIGHT POLLUTION",
+  "utterance_id": "c54481117d27",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-B"
+}

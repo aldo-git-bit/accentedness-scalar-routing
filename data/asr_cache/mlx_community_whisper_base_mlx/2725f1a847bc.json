@@ -1,0 +1,12 @@
+{
+  "text": "So do you think we got light more than 15 minutes?",
+  "avg_logprob": -0.4553023338317871,
+  "no_speech_prob": 0.08022158592939377,
+  "wall_clock_seconds": 0.050164915999630466,
+  "n_segments": 1,
+  "wer": 0.2727272727272727,
+  "reference": "SO DO YOU THINK WE'VE GOT LIKE MORE THAN FIFTEEN MINUTES",
+  "utterance_id": "2725f1a847bc",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "is bad or whatever but books are different like",
+  "avg_logprob": -0.3246757984161377,
+  "no_speech_prob": 0.41917136311531067,
+  "wall_clock_seconds": 0.6131545409989485,
+  "n_segments": 2,
+  "wer": 0.1111111111111111,
+  "reference": "IS BAD OR WHATEVER HER BOOKS ARE DIFFERENT LIKE",
+  "utterance_id": "1f4acfdf0dbe",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-A"
+}

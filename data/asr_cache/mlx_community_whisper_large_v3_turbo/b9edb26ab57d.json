@@ -1,0 +1,12 @@
+{
+  "text": "I mean, it's, they just end up, yeah. I mean, so there's this guy, Richie. He's the main character, of course. He's kind of, I don't know, the smart guy, I guess. And then there's the Fonz, Henry Winkler. He's like the cool guy, wears a leather jacket. And then there's like these, you know, like clumsy clowns, you know.",
+  "avg_logprob": -0.14216976865715936,
+  "no_speech_prob": 2.289316089129634e-12,
+  "wall_clock_seconds": 0.6468966670072405,
+  "n_segments": 7,
+  "wer": 0.125,
+  "reference": "I MEAN IT'S THEY JUST END UP YEAH HAVING I MEAN SO THERE'S IS THE GUY RICHIE HE'S THE MAIN MAIN CHARACTER OF COURSE HE'S KIND OF I DON'T KNOW THE SMART GUY I GUESS AND THEN THERE'S THE FONZIE HENRY WINKLER HE'S LIKE THE COOL GUY WEARS THE LEATHER JACKET AND THEN JUST LIKE THESE YOU KNOW LIKE LIKE CLUMSY CLOWNS YOU KNOW",
+  "utterance_id": "b9edb26ab57d",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C64-A"
+}

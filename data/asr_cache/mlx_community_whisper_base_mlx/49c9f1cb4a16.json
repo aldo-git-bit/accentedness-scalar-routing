@@ -1,0 +1,12 @@
+{
+  "text": "He can press his watch and then turn into any of these 10 euros. But I think it's random. At least he's random in the first series. Or he's random at some part. And they're all really cool ones. And they've lots of spin-off games based on it, which are all really fun at play. That's big Ben 10, son. I can't even watch Ben 10. Peppa Pig, or is that two-year-old P.T. Remember?",
+  "avg_logprob": -0.46356404016888325,
+  "no_speech_prob": 0.25614798069000244,
+  "wall_clock_seconds": 0.23983245900308248,
+  "n_segments": 11,
+  "wer": 0.3409090909090909,
+  "reference": "HE CAN HE CAN PRESS HIS WATCH AND THEN TURN INTO ANY OF THESE TEN HEROES BUT IT'S LIKE I THINK IT'S RANDOM AT LEAST IT'S RANDOM IN THE FIRST SERIES WELL IT'S RANDOM AT SOME PART AND THEY'RE ALL REALLY COOL ONES AND THEY HAD LOTS OF SPIN OFF GAMES BASED ON IT WHICH WERE ALL REALLY FUN TO PLAY I WAS A BIG BEN TEN FAN I CAN'T BELIEVE YOU DIDN'T WATCH BEN TEN PEPPA PIG OR IS THAT TOO YOUNG FOR YOU TO EVEN REMEMBER",
+  "utterance_id": "49c9f1cb4a16",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-A"
+}

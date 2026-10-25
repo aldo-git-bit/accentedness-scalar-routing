@@ -1,0 +1,12 @@
+{
+  "text": "Wow",
+  "avg_logprob": -0.266765832901001,
+  "no_speech_prob": 0.0401797778904438,
+  "wall_clock_seconds": 0.0878099170004134,
+  "n_segments": 1,
+  "wer": 0.5,
+  "reference": "OH WOW",
+  "utterance_id": "82ed4f617ba4",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-A"
+}

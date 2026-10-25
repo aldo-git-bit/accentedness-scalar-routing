@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, it's perfect. All you need. So good. And I do know how to make it. I do still like eating it. I make it every couple of weeks, I'd say, which is fairly often for a student lifestyle to have a roast every few weeks. I'm thinking of trying it with lambs. I think it'd be quite nice.",
+  "avg_logprob": -0.20069193840026855,
+  "no_speech_prob": 0.003473092569038272,
+  "wall_clock_seconds": 1.5850719169975491,
+  "n_segments": 10,
+  "wer": 0.078125,
+  "reference": "YEAH IT'S IT'S PERFECT ALL YOU NEED SO GOOD AND I CAN UH AND I DO KNOW HOW TO MAKE IT I DO STILL LIKE EATING IT I MAKE IT EVERY COUPLE OF WEEKS I'D SAY WHICH IS FAIRLY OFTEN FOR A STUDENT LIFESTYLE TO HAVE A ROAST EVERY FEW WEEKS I'M THINKING OF TRYING IT WITH LAMBS I THINK IT'D BE QUITE NICE",
+  "utterance_id": "d4f44fb34ee6",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-A"
+}

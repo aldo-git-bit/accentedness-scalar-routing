@@ -1,0 +1,12 @@
+{
+  "text": "Well, that's it. Exactly. On to happier things. Have you tried any new recipes recently?",
+  "avg_logprob": -0.3321394239153181,
+  "no_speech_prob": 0.006349398288875818,
+  "wall_clock_seconds": 0.7708007500004896,
+  "n_segments": 3,
+  "wer": 0.17647058823529413,
+  "reference": "WELL THAT'S SAD EXACTLY ON TO HAPPIER THINGS AND HAVE YOU TRIED ANY NEW RECIPES RECENTLY NOW",
+  "utterance_id": "26eeac7844d9",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

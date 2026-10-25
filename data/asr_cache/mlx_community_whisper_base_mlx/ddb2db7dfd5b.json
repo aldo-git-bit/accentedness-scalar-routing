@@ -1,0 +1,12 @@
+{
+  "text": "And then I started having a photo, then hunger games, then the diverging CD. Like, then Twilight.",
+  "avg_logprob": -0.7551112856183734,
+  "no_speech_prob": 0.028942139819264412,
+  "wall_clock_seconds": 0.07265279200510122,
+  "n_segments": 2,
+  "wer": 0.42105263157894735,
+  "reference": "AND THEN I THEN I STARTED HARRY POTTER THEN HUNGER GAMES THEN THE DIVERGENT SERIES AND LIKE THEN TWILIGHT",
+  "utterance_id": "ddb2db7dfd5b",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-A"
+}

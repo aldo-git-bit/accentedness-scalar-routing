@@ -1,0 +1,12 @@
+{
+  "text": "Okay.",
+  "avg_logprob": -0.5615538597106934,
+  "no_speech_prob": 0.17015384137630463,
+  "wall_clock_seconds": 0.09090458300124737,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "I DON'T KNOW",
+  "utterance_id": "512126bb98d7",
+  "accent": "Irish English",
+  "speaker": "EDACC-C63-A"
+}

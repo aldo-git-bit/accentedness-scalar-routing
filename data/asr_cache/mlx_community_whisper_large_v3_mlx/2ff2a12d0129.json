@@ -1,0 +1,12 @@
+{
+  "text": "If you fall into the trap of, you know, if you fall into the trap of working for someone that doesn't appreciate your time, your effort, it's actually a really, really, really bad thing. Because you end up with a dream.",
+  "avg_logprob": -0.18047566073281424,
+  "no_speech_prob": 0.04976150393486023,
+  "wall_clock_seconds": 1.0987448749983741,
+  "n_segments": 2,
+  "wer": 0.1951219512195122,
+  "reference": "IF YOU FALL INTO THE TRAP OF YOU KNOW UM UM IF YOU GO INTO THE TRAP OF UM WORKING FOR SOMEONE THAT DOESN'T APPRECIATE YOUR TIME YOUR EFFORT IT'S ACTUALLY REALLY REALLY REALLY BAD THING BECAUSE YOU END UP DRAINED",
+  "utterance_id": "2ff2a12d0129",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-A"
+}

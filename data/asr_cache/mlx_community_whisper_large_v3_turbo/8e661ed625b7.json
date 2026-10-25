@@ -1,0 +1,12 @@
+{
+  "text": "Um, no, I'm finished, thankfully.",
+  "avg_logprob": -0.5094076303335336,
+  "no_speech_prob": 6.538331074473769e-12,
+  "wall_clock_seconds": 0.405247207992943,
+  "n_segments": 1,
+  "wer": 0.0,
+  "reference": "UM NO I'M FINISHED THANKFULLY",
+  "utterance_id": "8e661ed625b7",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C03-B"
+}

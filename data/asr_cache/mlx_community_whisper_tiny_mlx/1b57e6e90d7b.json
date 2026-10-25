@@ -1,0 +1,12 @@
+{
+  "text": "Alright. Yeah. Yeah.",
+  "avg_logprob": -1.043202853732639,
+  "no_speech_prob": 0.17379647493362427,
+  "wall_clock_seconds": 0.5804872919979971,
+  "n_segments": 56,
+  "wer": 0.8,
+  "reference": "ALL RIGHT ALL RIGHT YEAH",
+  "utterance_id": "1b57e6e90d7b",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C33-A"
+}

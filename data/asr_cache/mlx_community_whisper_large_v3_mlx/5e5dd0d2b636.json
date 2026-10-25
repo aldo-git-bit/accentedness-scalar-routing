@@ -1,0 +1,12 @@
+{
+  "text": "Thank you.",
+  "avg_logprob": -0.6800993283589681,
+  "no_speech_prob": 0.9582878947257996,
+  "wall_clock_seconds": 0.5049205420000362,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "MM HMM",
+  "utterance_id": "5e5dd0d2b636",
+  "accent": "Irish English",
+  "speaker": "EDACC-C47-B"
+}

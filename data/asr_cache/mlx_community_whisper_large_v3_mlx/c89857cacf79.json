@@ -1,0 +1,12 @@
+{
+  "text": "Okay, that's fine. How about Chin Chin? Can you fly Chin Chin? Can you play Chin Chin?",
+  "avg_logprob": -0.35179537534713745,
+  "no_speech_prob": 0.014535672031342983,
+  "wall_clock_seconds": 0.8177096250001341,
+  "n_segments": 4,
+  "wer": 0.11764705882352941,
+  "reference": "OKAY THAT'S FINE HOW ABOUT CHIN CHIN CAN YOU FRY CHIN CHIN CAN YOU PREPARE CHIN CHIN",
+  "utterance_id": "c89857cacf79",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C41-A"
+}

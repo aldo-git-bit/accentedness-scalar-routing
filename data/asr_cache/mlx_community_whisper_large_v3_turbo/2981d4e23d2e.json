@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, I suppose. And exactly.",
+  "avg_logprob": -0.5234702183650091,
+  "no_speech_prob": 2.641667093405964e-11,
+  "wall_clock_seconds": 0.40375862500513904,
+  "n_segments": 2,
+  "wer": 1.0,
+  "reference": "YEAH IT'S <NO-SPEECH> <OVERLAP>",
+  "utterance_id": "2981d4e23d2e",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-B"
+}

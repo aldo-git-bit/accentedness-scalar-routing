@@ -1,0 +1,12 @@
+{
+  "text": "hoy el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el el",
+  "avg_logprob": -0.1339974890814887,
+  "no_speech_prob": 0.04743671789765358,
+  "wall_clock_seconds": 0.9070745000062743,
+  "n_segments": 1,
+  "wer": 22.3,
+  "reference": "OH YEAH I CANNOT REMEMBER HIS NAME <DTMF> HER NAME",
+  "utterance_id": "21a41436c6a5",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-A"
+}

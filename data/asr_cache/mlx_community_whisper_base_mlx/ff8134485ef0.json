@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, she makes them real forward.",
+  "avg_logprob": -0.5699570395729758,
+  "no_speech_prob": 0.06081773713231087,
+  "wall_clock_seconds": 0.04246266599511728,
+  "n_segments": 1,
+  "wer": 0.7142857142857143,
+  "reference": "YEAH WE SHOULD MAKE SOME REAL FOOD",
+  "utterance_id": "ff8134485ef0",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B"
+}

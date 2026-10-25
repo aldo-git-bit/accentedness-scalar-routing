@@ -1,0 +1,12 @@
+{
+  "text": "If you're.",
+  "avg_logprob": -0.5603364876338414,
+  "no_speech_prob": 0.6538300514221191,
+  "wall_clock_seconds": 0.5174469579978904,
+  "n_segments": 1,
+  "wer": 2.0,
+  "reference": "YEAH",
+  "utterance_id": "8f2518bf4fe2",
+  "accent": "Irish English",
+  "speaker": "EDACC-C47-A"
+}

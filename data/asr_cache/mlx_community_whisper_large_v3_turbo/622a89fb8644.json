@@ -1,0 +1,12 @@
+{
+  "text": "All right. Yeah. So.",
+  "avg_logprob": -0.6427665437970843,
+  "no_speech_prob": 1.4752537733087046e-11,
+  "wall_clock_seconds": 0.4085243330046069,
+  "n_segments": 3,
+  "wer": 0.3333333333333333,
+  "reference": "ALL RIGHT YEAH SO HAS THERE",
+  "utterance_id": "622a89fb8644",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-A"
+}

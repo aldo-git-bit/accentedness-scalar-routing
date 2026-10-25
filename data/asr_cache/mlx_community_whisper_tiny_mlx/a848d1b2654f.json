@@ -1,0 +1,12 @@
+{
+  "text": "And it's serious Pikachu and he's all fluffy and cute. He's an detective apparently, so.",
+  "avg_logprob": -0.7077017564039964,
+  "no_speech_prob": 0.023056283593177795,
+  "wall_clock_seconds": 0.04096095800923649,
+  "n_segments": 2,
+  "wer": 0.45,
+  "reference": "YEAH YEAH I DUNNO IT STARTED AS PIKACHU AND HE'S ALL FLUFFY AND CUTE AND HE'S A DETECTIVE APPARENTLY SO",
+  "utterance_id": "a848d1b2654f",
+  "accent": "Irish English",
+  "speaker": "EDACC-C63-A"
+}

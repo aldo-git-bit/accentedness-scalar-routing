@@ -1,0 +1,12 @@
+{
+  "text": "whatever it is that would be in me the hell out. I love to be.",
+  "avg_logprob": -0.6395403688604181,
+  "no_speech_prob": 0.14131763577461243,
+  "wall_clock_seconds": 0.03603520800243132,
+  "n_segments": 2,
+  "wer": 0.47058823529411764,
+  "reference": "UH WHATEVER IT IS THAT IT WOULD BE IN MEAT AND I'LL LOVE IT I LOVE TO",
+  "utterance_id": "ca78fa24cfad",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C31-A"
+}

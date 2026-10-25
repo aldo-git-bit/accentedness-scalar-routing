@@ -1,0 +1,12 @@
+{
+  "text": "Yes.",
+  "avg_logprob": -0.6634716033935547,
+  "no_speech_prob": 0.2578914165496826,
+  "wall_clock_seconds": 0.03156916600710247,
+  "n_segments": 1,
+  "wer": 0.0,
+  "reference": "YES",
+  "utterance_id": "a2fff13ffa3b",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C41-B"
+}

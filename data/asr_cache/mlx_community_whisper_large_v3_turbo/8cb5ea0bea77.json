@@ -1,0 +1,12 @@
+{
+  "text": "have microwaves. I see why they don't have microwaves but then the study room and the English block have a microwave and that's very useful because you can just go you know heat little thing up",
+  "avg_logprob": -0.28023377090993556,
+  "no_speech_prob": 1.3280233033055588e-12,
+  "wall_clock_seconds": 0.8719593339919811,
+  "n_segments": 3,
+  "wer": 0.13513513513513514,
+  "reference": "THEY HAVE MICROWAVES I SEE WHY THEY HAVE MICROWAVES BUT THEN THE STUDY ROOM IN THE ENGLISH BLOCK HAVE A MICROWAVE AND THAT'S VERY USEFUL BECAUSE YOU CAN JUST GO YOU KNOW HEAT THE WHOLE THING UP",
+  "utterance_id": "8cb5ea0bea77",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C11-B"
+}

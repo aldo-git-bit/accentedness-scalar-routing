@@ -1,0 +1,12 @@
+{
+  "text": "No, it's fully just tag. Tags we got.",
+  "avg_logprob": -0.3073584238688151,
+  "no_speech_prob": 2.2446066273024146e-12,
+  "wall_clock_seconds": 0.42384400000446476,
+  "n_segments": 2,
+  "wer": 0.4444444444444444,
+  "reference": "NO IT WAS FULLY JUST TAG TAGS WE'D CALL",
+  "utterance_id": "41b6bd6b4e3c",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-A"
+}

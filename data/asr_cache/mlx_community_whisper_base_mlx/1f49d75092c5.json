@@ -1,0 +1,12 @@
+{
+  "text": "because I think there's just such a different culture to what anything I've experienced before.",
+  "avg_logprob": -0.2677313486735026,
+  "no_speech_prob": 0.024878330528736115,
+  "wall_clock_seconds": 0.06220466599916108,
+  "n_segments": 1,
+  "wer": 0.0625,
+  "reference": "BECAUSE I THINK THERE'S JUST SUCH A A DIFFERENT CULTURE TO WHAT ANYTHING I'VE EXPERIENCED BEFORE",
+  "utterance_id": "1f49d75092c5",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-A"
+}

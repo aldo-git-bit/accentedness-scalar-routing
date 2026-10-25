@@ -1,0 +1,12 @@
+{
+  "text": "This guy should be fired by now.",
+  "avg_logprob": -0.33241987228393555,
+  "no_speech_prob": 0.04262416809797287,
+  "wall_clock_seconds": 0.5595361669984413,
+  "n_segments": 1,
+  "wer": 0.0,
+  "reference": "THIS GUY SHOULD BE FIRED BY NOW",
+  "utterance_id": "ed400a3d4175",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C17-A"
+}

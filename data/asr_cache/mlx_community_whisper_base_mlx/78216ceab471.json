@@ -1,0 +1,12 @@
+{
+  "text": "Thank you. So I hope that we already have read all the instructions and we basically are supposed to read out the script that is given to us at the outset. So allow me to read it out loud first and then when I'm done you can read it out loud. So the script is something like this. Please call Stella, ask her to bring these things with her from the store. 6 spoons of fresh snow peas, 5 thick slabs of new cheese and maybe a snack for her brother Bob. We also need a small plastic snake and a big twig frog for the kids. She can scoop these things into 3 red bags and we will go meet her Wednesday at the train station. So I'm done. Now it's your turn. FC26 P2.",
+  "avg_logprob": -0.25434776107156537,
+  "no_speech_prob": 0.18531183688901365,
+  "wall_clock_seconds": 12.578594334001536,
+  "n_segments": 8,
+  "wer": 136.0,
+  "reference": "IGNORE_TIME_SEGMENT_IN_SCORING",
+  "utterance_id": "78216ceab471",
+  "accent": "Indian English",
+  "speaker": "EDACC-C34-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "I have been in my first science exam and I've been having AIDS till my last science exam. The last science exam I had, it was B. I had been in my last science exam. I love science.",
+  "avg_logprob": -0.3963138035365513,
+  "no_speech_prob": 0.11794453114271164,
+  "wall_clock_seconds": 0.22917033300109324,
+  "n_segments": 2,
+  "wer": 0.1388888888888889,
+  "reference": "<NO-SPEECH> IN MY FIRST SCIENCE EXAM AND I'VE BEEN HAVING AS TILL MY LAST SCIENCE EXAM THE LAST SCIENCE EXAM I HAD IT WAS B I HAD B IN MY LAST SCIENCE EXAM I LOVE SCIENCE",
+  "utterance_id": "535ea494622e",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C41-A"
+}

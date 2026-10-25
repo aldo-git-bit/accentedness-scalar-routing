@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, no word was mentioned with the pronounced.",
+  "avg_logprob": -0.6624778600839468,
+  "no_speech_prob": 0.028744591400027275,
+  "wall_clock_seconds": 0.043638916991767474,
+  "n_segments": 1,
+  "wer": 0.4444444444444444,
+  "reference": "OF COURSE YEAH NO WORD WAS MENTIONED WAS PRONOUNCED",
+  "utterance_id": "d1dd12b106d1",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-A"
+}

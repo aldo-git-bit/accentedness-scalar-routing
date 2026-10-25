@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, so like growing up, growing up, even my adults who now, I've actually admired a lot of countries. It's in my bucket list, so actually traveled the world. I hope I get to try.",
+  "avg_logprob": -0.4100713348388672,
+  "no_speech_prob": 0.039020806550979614,
+  "wall_clock_seconds": 0.11589899999671616,
+  "n_segments": 2,
+  "wer": 0.2894736842105263,
+  "reference": "YEAH SO LIKE GROWING UP GROWING UP EVEN MY ADULTHOOD NOW UM I'VE ACTUALLY ADMIRED A LOT OF COUNTRIES IT'S IT'S IN MY BUCKET LIST TO ACTUALLY TRAVEL THE WORLD I HOPE I'M GOING TO DO IT <LAUGH>",
+  "utterance_id": "38ddcd967e40",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-A"
+}

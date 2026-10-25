@@ -1,0 +1,12 @@
+{
+  "text": "Ready.",
+  "avg_logprob": -0.48901824951171874,
+  "no_speech_prob": 1.3211919405731187e-11,
+  "wall_clock_seconds": 0.3844821660022717,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "WRITING",
+  "utterance_id": "3ca122f59d5c",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C34-B"
+}

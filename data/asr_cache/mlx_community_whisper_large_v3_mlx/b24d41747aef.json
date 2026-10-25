@@ -1,0 +1,12 @@
+{
+  "text": "Okay, reading and writing. Anything else you wish to add into it?",
+  "avg_logprob": -0.3783882141113281,
+  "no_speech_prob": 0.00351709290407598,
+  "wall_clock_seconds": 0.6685721249996277,
+  "n_segments": 2,
+  "wer": 0.14285714285714285,
+  "reference": "OKAY READING AND WRITING UH UH ANYTHING ELSE YOU WISH TO ADD INTO IT",
+  "utterance_id": "b24d41747aef",
+  "accent": "Indian English",
+  "speaker": "EDACC-C34-A"
+}

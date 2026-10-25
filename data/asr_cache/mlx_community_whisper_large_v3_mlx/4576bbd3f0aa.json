@@ -1,0 +1,12 @@
+{
+  "text": "Into the washing machine, he'd always go into the washing machine and the dryer and someone would press the button. He would go in as an animal, the pink panther. He'd go in as the panther and the drying machine, he'd come out as pink, kind of a ball of fluff, you know, and he'd float into the air. I can still remember that happening. It happened in a lot of the little programs he was in.",
+  "avg_logprob": -0.1026779934040551,
+  "no_speech_prob": 0.02346169762313366,
+  "wall_clock_seconds": 1.6717929580008786,
+  "n_segments": 4,
+  "wer": 0.06172839506172839,
+  "reference": "INTO THE WASHING MACHINE HE'D ALWAYS GO INTO THE WASHING MACHINE AND THE DRYER AND SOMEONE WOULD PRESS THE BUTTON HE WOULD GO IN AS AN ANIMAL THE PINK PANTHER HE'D GO IN AS THE PANTHER AND THE DRYING MACHINE HE'D COME OUT OF WAS <LAUGH> PINK KIND OF A BALL OF FLUFF YOU KNOW AND HE'D FLOAT INTO THE AIR I I CAN STILL REMEMBER THAT HAPPENING IT HAPPENED IN A LOT OF THE THE LITTLE PROGRAMS HE WAS IN",
+  "utterance_id": "4576bbd3f0aa",
+  "accent": "Irish English",
+  "speaker": "EDACC-C47-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "obviously there's no recording facilities then and",
+  "avg_logprob": -0.40242164785211737,
+  "no_speech_prob": 0.11635452508926392,
+  "wall_clock_seconds": 0.5597418329998618,
+  "n_segments": 1,
+  "wer": 0.125,
+  "reference": "AND OBVIOUSLY THERE'S NO RECORDING FACILITIES THEN AND",
+  "utterance_id": "80c6bc4b63b3",
+  "accent": "Irish English",
+  "speaker": "EDACC-C61-B"
+}

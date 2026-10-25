@@ -1,0 +1,12 @@
+{
+  "text": "the bed.",
+  "avg_logprob": -3.0628580365862166,
+  "no_speech_prob": 0.09124309569597244,
+  "wall_clock_seconds": 0.2053625840053428,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "IS BAD OR WHATEVER HER BOOKS ARE DIFFERENT LIKE",
+  "utterance_id": "1f4acfdf0dbe",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-A"
+}

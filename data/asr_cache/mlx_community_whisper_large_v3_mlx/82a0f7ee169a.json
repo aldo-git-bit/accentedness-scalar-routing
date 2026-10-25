@@ -1,0 +1,12 @@
+{
+  "text": "I think I can make meat pie, I can make chen chen, and I can make peanuts. So my next target is shawarma. I'll be making shawarma soon. So I'm just getting so ready for it.",
+  "avg_logprob": -0.20136023375947595,
+  "no_speech_prob": 0.01441582478582859,
+  "wall_clock_seconds": 1.1466646250009944,
+  "n_segments": 4,
+  "wer": 0.13157894736842105,
+  "reference": "I THINK I CAN MAKE MEAT PIE I CAN MAKE CHIN CHIN AND I CAN MAKE PEANUTS SO MY NEXT UM TARGET IS SHAWARMA I WILL BE MAKING SHAWARMA SOON SO I'M JUST GETTING SO READY FOR IT",
+  "utterance_id": "82a0f7ee169a",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C41-A"
+}

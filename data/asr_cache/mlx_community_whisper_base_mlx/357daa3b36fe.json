@@ -1,0 +1,12 @@
+{
+  "text": "And if I talk about hobbies, I have loads of hobbies. And I still do. I love reading. I love writing. And I love taking photographs. I love keeping a record of things. And I often like to pen my thoughts down in one way or another. Either on my phone, either in a diary. And one of the things that I really enjoy doing is thinking about things and making things connect with one another and just writing them down. So maybe one of my most favorite hobbies would be reading.",
+  "avg_logprob": -0.22228714428752303,
+  "no_speech_prob": 0.044354933934907116,
+  "wall_clock_seconds": 0.2830214590067044,
+  "n_segments": 12,
+  "wer": 0.07142857142857142,
+  "reference": "AND IF I TALK ABOUT HOBBIES I HAVE LOADS OF HOBBIES AND I STILL DO UM I LOVE READING UM I LOVE WRITING AND I LOVE TAKING PHOTOGRAPHS I LOVE KEEPING A RECORD OF THINGS AND I OFTEN LIKE TO PEN MY THOUGHTS DOWN IN ONE WAY OR ANOTHER EITHER ON MY PHONE EITHER IN A DIARY AND UM ONE OF THE THINGS THAT I REALLY ENJOY DOING IS THINKING ABOUT THINGS AND MAKING MAKING THINGS CONNECT WITH ONE ANOTHER AND JUST WRITING THEM DOWN SO MAYBE ONE OF MY MOST FAVORITE TOPICS WOULD BE READING AND <NO-SPEECH>",
+  "utterance_id": "357daa3b36fe",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C34-B"
+}

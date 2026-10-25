@@ -1,0 +1,12 @@
+{
+  "text": "I did that.",
+  "avg_logprob": -0.984079088483538,
+  "no_speech_prob": 0.49549123644828796,
+  "wall_clock_seconds": 0.034457750007277355,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "AND THEN THEY LOOK AT YOU LIKE WHAT DO YOU MEAN",
+  "utterance_id": "326b1abe3e19",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-A"
+}

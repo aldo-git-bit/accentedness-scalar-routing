@@ -1,0 +1,12 @@
+{
+  "text": "hold",
+  "avg_logprob": -0.5359340906143188,
+  "no_speech_prob": 2.5575744647121645e-11,
+  "wall_clock_seconds": 0.38520058400172275,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "COLD",
+  "utterance_id": "5c658de1e540",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-A"
+}

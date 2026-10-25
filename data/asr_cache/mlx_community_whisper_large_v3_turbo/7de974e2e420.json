@@ -1,0 +1,12 @@
+{
+  "text": "you know, it's on the board. It has two, three big, two big different color triangles, a white and a black triangle, and it has little circles and you need to kind of follow the circles. It's the opposite side of the chess board. Usually it's on the opposite side, or maybe that's giraffes, but yeah, I like to play chess. And I think when I was younger, when I was a kid, I really liked to play different games like hide and seek or scream. Scream was a really fun game we used to play when...",
+  "avg_logprob": -0.14712874036776594,
+  "no_speech_prob": 1.3457134350724116e-12,
+  "wall_clock_seconds": 1.0767953749891603,
+  "n_segments": 6,
+  "wer": 0.04040404040404041,
+  "reference": "NO YOU KNOW IT'S ON THE BOARD IT HAS TWO THREE BIG TWO BIG DIFFERENT COLOR TRIANGLES UH WHITE AND A BLACK TRIANGLE AND IT HAS LITTLE CIRCLES AND YOU NEED TO KIND OF FOLLOW THE CIRCLES IT'S THE OPPOSITE SIDE OF THE CHESS BOARD USUALLY IT'S ON THE OPPOSITE SIDE OR MAYBE THAT'S DRAFTS BUT YEAH I LIKE TO PLAY CHESS AND I THINK WHEN I WAS YOUNGER WHEN I WAS A KID I REALLY LIKED TO PLAY DIFFERENT GAMES LIKE UM HIDE AND SEEK OR SCREAM SCREAM WAS A REALLY FUN GAME WE USED TO PLAY WHEN",
+  "utterance_id": "7de974e2e420",
+  "accent": "Irish English",
+  "speaker": "EDACC-C47-A"
+}

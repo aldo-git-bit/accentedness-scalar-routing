@@ -1,0 +1,12 @@
+{
+  "text": "Now, she makes some real food.",
+  "avg_logprob": -0.8206762834028765,
+  "no_speech_prob": 0.03116271086037159,
+  "wall_clock_seconds": 0.024624625002616085,
+  "n_segments": 1,
+  "wer": 0.5714285714285714,
+  "reference": "YEAH WE SHOULD MAKE SOME REAL FOOD",
+  "utterance_id": "ff8134485ef0",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B"
+}

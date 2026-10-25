@@ -1,0 +1,12 @@
+{
+  "text": "I think it's such a cult thing. It's like Disney movies, people just rewatch them whenever, but in the play industry...",
+  "avg_logprob": -0.5464861469884073,
+  "no_speech_prob": 0.09256419539451599,
+  "wall_clock_seconds": 0.17156504200102063,
+  "n_segments": 1,
+  "wer": 0.3,
+  "reference": "BUT I THINK IT'S SUCH A CULT THING IT'S LIKE IT'S LIKE DISNEY MOVIES LIKE PEOPLE WILL JUST REWATCH THEM WHENEVER SO BUT LIKE IN THE IN THE PLAY INDUSTRY",
+  "utterance_id": "1161bed3dff1",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C06-B"
+}

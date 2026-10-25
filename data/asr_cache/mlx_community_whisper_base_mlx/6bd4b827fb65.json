@@ -1,0 +1,12 @@
+{
+  "text": "and they break the presents or not. I'll start.",
+  "avg_logprob": -0.9273812911089729,
+  "no_speech_prob": 0.24997666478157043,
+  "wall_clock_seconds": 0.052336667009512894,
+  "n_segments": 2,
+  "wer": 0.5,
+  "reference": "DID THEY BREAK THE PRISONS OR NOT AND HOW MUCH",
+  "utterance_id": "6bd4b827fb65",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C31-B"
+}

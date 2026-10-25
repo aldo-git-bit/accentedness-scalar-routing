@@ -1,0 +1,12 @@
+{
+  "text": "U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U U",
+  "avg_logprob": -0.14784881591796875,
+  "no_speech_prob": 0.36991772055625916,
+  "wall_clock_seconds": 2.953095291999489,
+  "n_segments": 1,
+  "wer": 74.33333333333333,
+  "reference": "IT'S TRUE YEAH",
+  "utterance_id": "b006b43fdca3",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C19-B"
+}

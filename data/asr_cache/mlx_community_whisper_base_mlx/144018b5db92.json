@@ -1,0 +1,12 @@
+{
+  "text": "And then there was like a tig style where you like chase the person with the ball and just throw it at them. Which like.",
+  "avg_logprob": -0.35766422387325403,
+  "no_speech_prob": 0.016858812421560287,
+  "wall_clock_seconds": 0.08302945899777114,
+  "n_segments": 2,
+  "wer": 0.04,
+  "reference": "AND THEN THERE WAS LIKE A PIG STYLE WHERE YOU LIKE CHASE THE PERSON WITH THE BALL AND JUST THROW IT AT THEM WHICH LIKE",
+  "utterance_id": "144018b5db92",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-A"
+}

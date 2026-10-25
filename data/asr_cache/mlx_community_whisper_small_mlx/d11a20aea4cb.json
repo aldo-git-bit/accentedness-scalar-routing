@@ -1,0 +1,12 @@
+{
+  "text": "movie so I can't judge now but I've only seen King of Boys have you seen the movie?",
+  "avg_logprob": -0.32365091641743976,
+  "no_speech_prob": 0.12902744114398956,
+  "wall_clock_seconds": 0.15737941699990188,
+  "n_segments": 1,
+  "wer": 0.18181818181818182,
+  "reference": "I HAVEN'T SEEN THE MOVIE SO I CAN'T JUDGE NOW BUT I'VE ONLY SEEN KING OF BOYS HAVE YOU SEEN THE MOVIE",
+  "utterance_id": "d11a20aea4cb",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C41-A"
+}

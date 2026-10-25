@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, he's on.",
+  "avg_logprob": -0.9946276346842448,
+  "no_speech_prob": 6.835284421802257e-11,
+  "wall_clock_seconds": 0.39683104200230446,
+  "n_segments": 1,
+  "wer": 1.5,
+  "reference": "ALL RIGHT",
+  "utterance_id": "c1b7c40c98dc",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C31-B"
+}

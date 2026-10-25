@@ -1,0 +1,12 @@
+{
+  "text": "I think my name is Motu Zikot Sharma. I've no had the opportunity to test it. But I'm at recipe. I got few recipes for my friends who can make it very well. So I got recipes from them. I think I'll make it in Sharma soon.",
+  "avg_logprob": -0.5893052590859903,
+  "no_speech_prob": 0.15660884976387024,
+  "wall_clock_seconds": 0.15959574999578763,
+  "n_segments": 6,
+  "wer": 0.36,
+  "reference": "OKAY I THINK MINE IS UM WHAT IS IT CALLED SHAWARMA I'VE NOT HAD THE OPPORTUNITY TO TASTE IT BUT UM UH RECIPE I GOT FEW RECIPES FROM MY FRIENDS WHO CAN MAKE IT VERY WELL SO I GOT RECIPES FROM THEM I THINK I WILL BE MAKING SHAWARMA SOON",
+  "utterance_id": "5974b407e6cc",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C41-A"
+}

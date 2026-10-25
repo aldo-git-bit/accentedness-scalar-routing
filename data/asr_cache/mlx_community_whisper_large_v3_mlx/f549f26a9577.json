@@ -1,0 +1,12 @@
+{
+  "text": "I know it's just some stupid grades but like when you're funding depends on your entire future depends on some stupid grades it's so frustrating",
+  "avg_logprob": -0.20610115744850852,
+  "no_speech_prob": 0.10000524669885635,
+  "wall_clock_seconds": 0.8259552909985359,
+  "n_segments": 2,
+  "wer": 0.04,
+  "reference": "I KNOW IT'S JUST SOME STUPID GRADES BUT I WHEN YOU'RE FUNDING DEPENDS ON YOUR ENTIRE FUTURE DEPENDS ON SOME STUPID GRADES IT'S SO FRUSTRATING",
+  "utterance_id": "f549f26a9577",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B"
+}

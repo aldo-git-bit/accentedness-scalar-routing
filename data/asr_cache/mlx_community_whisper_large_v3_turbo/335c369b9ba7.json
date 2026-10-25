@@ -1,0 +1,12 @@
+{
+  "text": "your sh**.",
+  "avg_logprob": -1.193175998263889,
+  "no_speech_prob": 3.123573621977016e-11,
+  "wall_clock_seconds": 3.4723554170050193,
+  "n_segments": 55,
+  "wer": 1.0,
+  "reference": "RIGHT YEAH",
+  "utterance_id": "335c369b9ba7",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-B"
+}

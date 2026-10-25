@@ -1,0 +1,12 @@
+{
+  "text": "No, absolutely. The last thing you want is a steak pie or something like that. You want to have something that's quite light and easy to eat. Especially with the rising temperature recently, it's not easy to have such an appetite, especially when it's more humid, you probably rather go for a well, I made it to be a Indian diet, finally, you know.",
+  "avg_logprob": -0.475504866220001,
+  "no_speech_prob": 0.11766227427870035,
+  "wall_clock_seconds": 0.20699087499815505,
+  "n_segments": 4,
+  "wer": 0.46835443037974683,
+  "reference": "I KNOW ABSOLUTELY IT'S THE LAST THING YOU WANT IS YOU KNOW A STEAK PIE OR SOMETHING LIKE THAT YOU WANNA HAVE SOMETHING THAT'S THAT'S UM QUITE LIGHT AND EVEN MORE EASY TO EAT AND YOU KNOW ESPECIALLY WITH THE RISING TEMPERATURES RECENTLY UH IT'S NOT IT'S NOT EASY TO TO HAVE SUCH AN APPETITE ESPECIALLY WHEN IT'S UM NOW MORE MORE MORE HUMID ET CETERA Y YOU'D PROBABLY RATHER GO FOR THAT WELL A MEDITERRANEAN DIET FUNNILY ENOUGH",
+  "utterance_id": "5a4d4bc9ecfd",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

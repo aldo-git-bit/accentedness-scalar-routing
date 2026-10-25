@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, right. So it's so realistic, right?",
+  "avg_logprob": -0.3152326976551729,
+  "no_speech_prob": 0.045333851128816605,
+  "wall_clock_seconds": 0.6460515830003715,
+  "n_segments": 2,
+  "wer": 0.0,
+  "reference": "YEAH RIGHT SO IT'S SO REALISTIC RIGHT",
+  "utterance_id": "137744954f74",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "the car and the gate so that we",
+  "avg_logprob": -0.7005352106961337,
+  "no_speech_prob": 1.1055772963786126e-10,
+  "wall_clock_seconds": 0.40066354199370835,
+  "n_segments": 1,
+  "wer": 0.125,
+  "reference": "THE CAR ON THE GATE SO THAT WE",
+  "utterance_id": "21b85a0dfeae",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-A"
+}

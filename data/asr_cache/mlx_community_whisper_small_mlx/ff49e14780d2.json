@@ -1,0 +1,12 @@
+{
+  "text": "Do you want to describe what Scooby-Doo was?",
+  "avg_logprob": -0.3144702613353729,
+  "no_speech_prob": 0.011346391402184963,
+  "wall_clock_seconds": 0.12454695799897308,
+  "n_segments": 1,
+  "wer": 0.5,
+  "reference": "DO YOU WANNA DESCRIBE WHAT SCOOBY DOO WAS",
+  "utterance_id": "ff49e14780d2",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-A"
+}

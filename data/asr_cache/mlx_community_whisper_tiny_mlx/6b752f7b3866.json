@@ -1,0 +1,12 @@
+{
+  "text": "I don't know if I gave all of the yeast milk.",
+  "avg_logprob": -0.48157429695129395,
+  "no_speech_prob": 0.003836427116766572,
+  "wall_clock_seconds": 0.030335791991092265,
+  "n_segments": 1,
+  "wer": 0.5454545454545454,
+  "reference": "I DON'T KNOW ABOUT YOU BUT I LOVE THE YEAST SMELL",
+  "utterance_id": "6b752f7b3866",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-B"
+}

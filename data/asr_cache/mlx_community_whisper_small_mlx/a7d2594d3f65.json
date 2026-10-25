@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, yeah, sort of like a way, maybe I shouldn't mention that.",
+  "avg_logprob": -0.43238239288330077,
+  "no_speech_prob": 0.023893704637885094,
+  "wall_clock_seconds": 0.1380188340008317,
+  "n_segments": 1,
+  "wer": 0.2857142857142857,
+  "reference": "YEAH YEAH SORT OF LIKE UH OH WAIT MAYBE I SHOULDN'T MENTION THAT <LAUGH>",
+  "utterance_id": "a7d2594d3f65",
+  "accent": "Irish English",
+  "speaker": "EDACC-C50-A"
+}

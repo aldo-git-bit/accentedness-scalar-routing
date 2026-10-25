@@ -1,0 +1,12 @@
+{
+  "text": "animation movie of course so it was interesting of course but um i obviously preferred the books i actually preferred the sequel to alice in wonderland through the looking glass much more than",
+  "avg_logprob": -0.11643532514572144,
+  "no_speech_prob": 1.8469173673069106e-12,
+  "wall_clock_seconds": 0.46934341700398363,
+  "n_segments": 2,
+  "wer": 0.21428571428571427,
+  "reference": "HEY IT WAS ALICE IN WONDERLAND WAS AN ANIMATION MOVIE OF COURSE SO IT WAS INTERESTING OF COURSE BUT UM I OBVIOUSLY PREFERRED THE BOOKS I ACTUALLY PREFERRED THE SEQUEL TO ALICE IN WONDERLAND CALLED THROUGH THE LOOKING GLASS MUCH MORE THAN",
+  "utterance_id": "36bd429ec78b",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-B"
+}

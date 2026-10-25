@@ -1,0 +1,12 @@
+{
+  "text": "Thank for the great efforts. Thank for the great efforts.",
+  "avg_logprob": -0.46880479600694447,
+  "no_speech_prob": 0.1310526430606842,
+  "wall_clock_seconds": 0.7589683330006665,
+  "n_segments": 28,
+  "wer": 5.0,
+  "reference": "ATE WORMS",
+  "utterance_id": "b30c620768b1",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-B"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Edinburgh really is a lovely place, especially at Christmas time. I always think it's such a lovely place to be.",
+  "avg_logprob": -0.14052711684128333,
+  "no_speech_prob": 0.0023539478424936533,
+  "wall_clock_seconds": 0.7765645409999706,
+  "n_segments": 2,
+  "wer": 0.05263157894736842,
+  "reference": "EDINBURGH REALLY IS A LOVELY PLACE ESPECIALLY AT CHRISTMAS TIME I ALWAYS THINK IT'S SUCH A LOVELY TO BE",
+  "utterance_id": "e69794ed3d55",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-A"
+}

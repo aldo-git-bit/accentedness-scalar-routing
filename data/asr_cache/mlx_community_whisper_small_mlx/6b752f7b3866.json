@@ -1,0 +1,12 @@
+{
+  "text": "I don't know if I gave a lot of the East now.",
+  "avg_logprob": -0.5993139603558708,
+  "no_speech_prob": 0.007775858510285616,
+  "wall_clock_seconds": 0.1268054159991152,
+  "n_segments": 1,
+  "wer": 0.7272727272727273,
+  "reference": "I DON'T KNOW ABOUT YOU BUT I LOVE THE YEAST SMELL",
+  "utterance_id": "6b752f7b3866",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-B"
+}

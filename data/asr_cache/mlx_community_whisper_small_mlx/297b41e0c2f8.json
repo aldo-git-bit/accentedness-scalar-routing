@@ -1,0 +1,12 @@
+{
+  "text": "I mean, I know a little about the Pancatinalis. I mean, it's like the big deal right now.",
+  "avg_logprob": -0.6121796369552612,
+  "no_speech_prob": 0.029139013960957527,
+  "wall_clock_seconds": 0.18822775000080583,
+  "n_segments": 2,
+  "wer": 0.30434782608695654,
+  "reference": "I MEAN I KNOW I KNOW LIKE A LITTLE ABOUT AFFILIATE MARKETING AND IT'S I MEAN IT'S LIKE THE BIG DEAL RIGHT NOW",
+  "utterance_id": "297b41e0c2f8",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-B"
+}

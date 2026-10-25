@@ -1,0 +1,12 @@
+{
+  "text": "I think British accent is cool. I don't hate it. It's cool. I like it. It's, I guess, just why I like it, it kind of distints you from others. It was, if you see a British person, you might not know once a person just make a sentence, you will definitely tell you where the person is from.",
+  "avg_logprob": -0.4443099650930851,
+  "no_speech_prob": 1.1651681355862031e-11,
+  "wall_clock_seconds": 0.6104317919962341,
+  "n_segments": 9,
+  "wer": 0.3291139240506329,
+  "reference": "I THINK UH I BRITISH ACCENT IS COOL I I I DON'T HATE IT IT'S COOL I LIKE I LIKE IT UH IT'S 'CAUSE I GUESS JUST JUST WHY I LIKE IT BUT IT KIND OF THIS UH DISTANCE YOU FROM OTHERS MAYBE UH ONCE IF IF BECAUSE IF YOU IF YOU SEE A BRITISH PERSON MIGHT NOT KNOW ONCE A PERSON JUST MM UM MAKE A SENTENCE YOU YOU WOULD DEFINITELY TELL YOU WHERE THE PERSON IS FROM",
+  "utterance_id": "4e94afa72bad",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-A"
+}

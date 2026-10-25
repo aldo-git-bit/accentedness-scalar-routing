@@ -1,0 +1,12 @@
+{
+  "text": "I don't know about you, but I love the yeast milk.",
+  "avg_logprob": -0.16315886553596048,
+  "no_speech_prob": 0.005705682095140219,
+  "wall_clock_seconds": 0.6350841670027876,
+  "n_segments": 1,
+  "wer": 0.09090909090909091,
+  "reference": "I DON'T KNOW ABOUT YOU BUT I LOVE THE YEAST SMELL",
+  "utterance_id": "6b752f7b3866",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-B"
+}

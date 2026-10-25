@@ -1,0 +1,12 @@
+{
+  "text": "Dunbar's a lovely place, a lovely part of the world. I love the East Coast, Berwick, etc. Berwick-upon-Tweed, North Berwick, all these places are lovely.",
+  "avg_logprob": -0.17816253736907361,
+  "no_speech_prob": 0.007171228528022766,
+  "wall_clock_seconds": 1.0415975420000905,
+  "n_segments": 3,
+  "wer": 0.17857142857142858,
+  "reference": "DUNBAR'S A LOVELY PLACE A LOVELY PART OF THE WORLD I LOVE THE EAST COAST BERWICK ET CETERA BERWICK UPON TWEED NORTH BERWICK ALL THESE PLACES ARE LOVELY",
+  "utterance_id": "0d95e67096e8",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C46-B"
+}

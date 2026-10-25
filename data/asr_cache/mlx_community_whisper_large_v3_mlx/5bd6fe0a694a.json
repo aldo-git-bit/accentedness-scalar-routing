@@ -1,0 +1,12 @@
+{
+  "text": "And I'm like, now is the time because in about two months, I'll go back to my old self and stare angrily at people not wearing their masks.",
+  "avg_logprob": -0.1553080677986145,
+  "no_speech_prob": 0.017269637435674667,
+  "wall_clock_seconds": 0.9134302919992479,
+  "n_segments": 2,
+  "wer": 0.0,
+  "reference": "AND I'M LIKE NOW IS THE TIME BECAUSE IN ABOUT TWO MONTHS I'LL GO BACK TO MY OLD SELF AND STARE ANGRILY AT PEOPLE NOT WEARING THEIR MASKS",
+  "utterance_id": "5bd6fe0a694a",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B"
+}

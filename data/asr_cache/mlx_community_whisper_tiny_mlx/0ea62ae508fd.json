@@ -1,0 +1,12 @@
+{
+  "text": "which is just a, uh, basically you have two ends of a pitch and you go through each the other end of the pitch without being tagged by someone in the middle. And no rules of play. People were beaten up, blood everywhere. Um, good time, please.",
+  "avg_logprob": -0.4716130770169772,
+  "no_speech_prob": 0.002652084454894066,
+  "wall_clock_seconds": 0.08763375000853557,
+  "n_segments": 4,
+  "wer": 0.2653061224489796,
+  "reference": "WHICH IS JUST THE WHICH IS JUST A UH BASICALLY YOU HAVE TWO ENDS OF A PITCH AND YOUR GOAL'S TO REACH THE OTHER END OF THE PITCH WITHOUT BEING TAGGED BY SOMEONE IN THE MIDDLE AND NO RULES APPLY PEOPLE WERE BEATEN UP BLOOD EVERYWHERE OH GOOD TIMES",
+  "utterance_id": "0ea62ae508fd",
+  "accent": "Scottish English",
+  "speaker": "EDACC-C08-B"
+}

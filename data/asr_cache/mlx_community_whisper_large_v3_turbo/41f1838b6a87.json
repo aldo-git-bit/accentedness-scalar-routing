@@ -1,0 +1,12 @@
+{
+  "text": "Mm-hmm.",
+  "avg_logprob": -0.7232089723859515,
+  "no_speech_prob": 5.029281505142258e-11,
+  "wall_clock_seconds": 0.38962887501111254,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "MM HMM MM HMM",
+  "utterance_id": "41f1838b6a87",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C02-B"
+}

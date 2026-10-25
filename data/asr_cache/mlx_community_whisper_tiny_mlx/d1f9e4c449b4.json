@@ -1,0 +1,12 @@
+{
+  "text": "I hate removing the freedom of text forever. I have it in the fridge because I'm dead par and run about stuff going off. But I think if it's only vegetables, it can be in the fridge for three or maybe three and a half four days and it will be okay. Like in this vegetable soup.",
+  "avg_logprob": -0.4793114481093008,
+  "no_speech_prob": 0.007727573160082102,
+  "wall_clock_seconds": 0.10315970800002106,
+  "n_segments": 7,
+  "wer": 0.3076923076923077,
+  "reference": "I I HATE REHEATING FOOD FROM THE FREEZER THOUGH IT TAKES FOREVER I JUST I HAVE IT IN THE FRIDGE BECAUSE LIKE I'M DEAD PARANOID ABOUT STUFF GOING OFF BUT I FIGURED THAT IF IT'S ONLY VEGETABLES IT CAN BE IN THE FRIDGE FOR THREE OR OR MAYBE LIKE THREE AND A HALF FOUR DAYS AND IT WILL BE OKAY LIKE IF IT'S VEGETABLE SOUP",
+  "utterance_id": "d1f9e4c449b4",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C11-B"
+}

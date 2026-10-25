@@ -1,0 +1,12 @@
+{
+  "text": "the best. the best.",
+  "avg_logprob": -0.8450381808810764,
+  "no_speech_prob": 0.07111283391714096,
+  "wall_clock_seconds": 0.6414151670032879,
+  "n_segments": 44,
+  "wer": 1.0,
+  "reference": "HAVE YOU GIVEN A THOUGHT TO AFFILIATE MARKETING",
+  "utterance_id": "a38921fd5dce",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C45-B"
+}

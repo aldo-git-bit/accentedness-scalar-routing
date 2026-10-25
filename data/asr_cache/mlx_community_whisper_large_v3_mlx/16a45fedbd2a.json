@@ -1,0 +1,12 @@
+{
+  "text": "Yeah, it hasn't been a problem, but I can imagine if we're having a conversation, it could become one. It's just me keeping them on task and the task is for them to read words.",
+  "avg_logprob": -0.15919804573059082,
+  "no_speech_prob": 0.03714584559202194,
+  "wall_clock_seconds": 0.994732582999859,
+  "n_segments": 2,
+  "wer": 0.08108108108108109,
+  "reference": "UM YEAH IT'S HASN'T BEEN A PROBLEM BUT I CAN IMAGINE IF WE'RE HAVING A CONVERSATION IT COULD BECOME ONE IT'S JUST ME KEEPING THEM ON TASK AND THE TASK IS FOR THEM TO READ WORDS SO",
+  "utterance_id": "16a45fedbd2a",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C22-A"
+}

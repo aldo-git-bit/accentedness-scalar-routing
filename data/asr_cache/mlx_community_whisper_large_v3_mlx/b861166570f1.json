@@ -1,0 +1,12 @@
+{
+  "text": "finding me right now. That's a weird movie. That's a movie I haven't watched since I was like a little kid and all I remember",
+  "avg_logprob": -0.24361000991449125,
+  "no_speech_prob": 0.17829188704490662,
+  "wall_clock_seconds": 0.9228597090004769,
+  "n_segments": 5,
+  "wer": 0.18181818181818182,
+  "reference": "FINDING NEMO THAT'S A WEIRD THAT'S A MOVIE I HAVEN'T WATCHED SINCE I WAS LIKE A LITTLE KID AND ALL I REMEMBER",
+  "utterance_id": "b861166570f1",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C06-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "hang on.",
+  "avg_logprob": -0.26833016289605033,
+  "no_speech_prob": 7.187463124669335e-11,
+  "wall_clock_seconds": 4.56958179200592,
+  "n_segments": 3,
+  "wer": 1.0,
+  "reference": "OKAY IN THE PAST",
+  "utterance_id": "b264ba2e9b5d",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C11-B"
+}

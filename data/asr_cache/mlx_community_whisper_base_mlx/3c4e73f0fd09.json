@@ -1,0 +1,12 @@
+{
+  "text": "Wait, I keep forgetting actually, it's a good one. What was the first big purchase that you've ever made?",
+  "avg_logprob": -0.4155817985534668,
+  "no_speech_prob": 0.022754058241844177,
+  "wall_clock_seconds": 0.07640954200178385,
+  "n_segments": 2,
+  "wer": 0.2608695652173913,
+  "reference": "WAIT I I KEEP FORGETTING ACTUALLY THIS IS A GOOD ONE WHAT WAS THE FIRST BIG PUSH PURCHASE THAT YOU HAVE EVER MADE",
+  "utterance_id": "3c4e73f0fd09",
+  "accent": "Southern British English",
+  "speaker": "EDACC-C32-B"
+}

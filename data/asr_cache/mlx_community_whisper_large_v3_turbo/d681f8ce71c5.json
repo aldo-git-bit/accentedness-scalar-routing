@@ -1,0 +1,12 @@
+{
+  "text": "Thank you.",
+  "avg_logprob": -0.48705077171325684,
+  "no_speech_prob": 3.509544391211428e-11,
+  "wall_clock_seconds": 0.38656499999342486,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "MM HMM",
+  "utterance_id": "d681f8ce71c5",
+  "accent": "Indian English",
+  "speaker": "EDACC-C09-A"
+}

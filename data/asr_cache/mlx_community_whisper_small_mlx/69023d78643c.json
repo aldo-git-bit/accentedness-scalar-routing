@@ -1,0 +1,12 @@
+{
+  "text": "But I think we're even because I promised to cook you something nice. Yeah, I promised to cook you one of my delicacies. And then I think you, come on, you should give me something too.",
+  "avg_logprob": -0.3959511775596469,
+  "no_speech_prob": 0.018150800839066505,
+  "wall_clock_seconds": 0.23078549999991083,
+  "n_segments": 3,
+  "wer": 0.08571428571428572,
+  "reference": "BUT I THINK WE'RE EVEN BECAUSE I PROMISED TO COOK YOU SOMETHING NICE YEAH I PROMISED TO COOK YOU ONE OF MY DELICACIES AND THEN I THINK IN RETURN YOU SHOULD GIVE ME SOMETHING TOO",
+  "utterance_id": "69023d78643c",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C29-A"
+}

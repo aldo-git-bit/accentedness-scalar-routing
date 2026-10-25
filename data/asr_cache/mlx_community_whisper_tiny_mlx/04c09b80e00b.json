@@ -1,0 +1,12 @@
+{
+  "text": "time to get a lot of West Life music.",
+  "avg_logprob": -0.753053225003756,
+  "no_speech_prob": 0.14531904458999634,
+  "wall_clock_seconds": 0.027199417003430426,
+  "n_segments": 1,
+  "wer": 0.8888888888888888,
+  "reference": "THAT'S FINE I THINK I I LOVE WESTLIFE MUSIC",
+  "utterance_id": "04c09b80e00b",
+  "accent": "Nigerian English",
+  "speaker": "EDACC-C41-A"
+}

@@ -1,0 +1,12 @@
+{
+  "text": "Also think it's like you mostly hang out in that royal melee area right?",
+  "avg_logprob": -0.5389539317080849,
+  "no_speech_prob": 0.07887601852416992,
+  "wall_clock_seconds": 0.05673791700974107,
+  "n_segments": 1,
+  "wer": 0.29411764705882354,
+  "reference": "AND I ALSO THINK IT'S LIKE YOU MOSTLY HANG OUT IN THE ROYAL MILE Y AREA RIGHT",
+  "utterance_id": "fd4667ad6b43",
+  "accent": "Indian English",
+  "speaker": "EDACC-C05-B"
+}

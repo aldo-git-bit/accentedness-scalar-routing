@@ -1,0 +1,12 @@
+{
+  "text": "And I picked Kenya because I also, I was told by some of my friends.",
+  "avg_logprob": -0.2733720064163208,
+  "no_speech_prob": 0.10225557535886765,
+  "wall_clock_seconds": 0.6717430419994344,
+  "n_segments": 1,
+  "wer": 0.1875,
+  "reference": "AND I'D PICK KENYA BECAUSE I ALSO UM I WAS TOLD BY SOME OF MY FRIENDS",
+  "utterance_id": "a04dd9472dd5",
+  "accent": "Indian English",
+  "speaker": "EDACC-C36-A"
+}

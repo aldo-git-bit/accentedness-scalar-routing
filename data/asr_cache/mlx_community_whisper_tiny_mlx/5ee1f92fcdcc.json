@@ -1,0 +1,12 @@
+{
+  "text": "the",
+  "avg_logprob": -2.7444496154785156,
+  "no_speech_prob": 0.2476024627685547,
+  "wall_clock_seconds": 0.15624679099710193,
+  "n_segments": 1,
+  "wer": 1.0,
+  "reference": "MAYBE IT WAS",
+  "utterance_id": "5ee1f92fcdcc",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C20-B"
+}

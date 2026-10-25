@@ -1,0 +1,12 @@
+{
+  "text": "I've heard of that. I've heard of that.",
+  "avg_logprob": -0.32210742726045494,
+  "no_speech_prob": 0.017515022307634354,
+  "wall_clock_seconds": 0.12790920800034655,
+  "n_segments": 2,
+  "wer": 0.0,
+  "reference": "I'VE HEARD OF THAT I'VE HEARD OF THAT",
+  "utterance_id": "678443db5c6f",
+  "accent": "Mainstream US English",
+  "speaker": "EDACC-C06-B"
+}

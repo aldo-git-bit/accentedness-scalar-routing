@@ -1,0 +1,12 @@
+{
+  "text": "Um, I'm certainly not. I didn't really pay much attention on doing some of those things because",
+  "avg_logprob": -0.8455708577082708,
+  "no_speech_prob": 0.22808220982551575,
+  "wall_clock_seconds": 0.07023250000202097,
+  "n_segments": 2,
+  "wer": 0.4,
+  "reference": "UM UNFORTUNATELY NO I DIDN'T REALLY PAY MUCH ATTENTION UH TO SOME OF THOSE THINGS",
+  "utterance_id": "e0ecd65781b1",
+  "accent": "Indian English",
+  "speaker": "EDACC-C36-A"
+}
