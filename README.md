@@ -97,6 +97,8 @@ The combiner's feature vector is [confidence, no_speech_prob, champion_score, du
 
 ## Quick Start
 
+Retired 2026-10-25 — to pick this up again, start with [`RESTORE.md`](RESTORE.md).
+
 ```bash
 # Install dependencies (requires uv)
 make setup
